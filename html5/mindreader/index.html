@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Mind Reader</title>
+    <style type="text/css">
+        BODY, HTML  {
+            margin: 0px auto;
+            padding: 0;
+            overflow: hidden;
+        }
+    </style>
+
+</head>
+<body onload="init()">
+
+<script src="libs/createjs-2013.12.12.min.js"></script>
+<script src="libs/fgl.js"></script>
+<script src="js/Resizer.js"></script>
+<script src="js/Game.js"></script>
+<script src="js/Button.js"></script>
+<script src="js/Background.js"></script>
+<script src="js/Sprite.js"></script>
+<script src="js/Card.js"></script>
+<script src="js/WelcomeState.js"></script>
+<script src="js/CreditsState.js"></script>
+<script src="js/RememberState.js"></script>
+<script src="js/BrainwashState.js"></script>
+<script src="js/SurpriseState.js"></script>
+
+<div id="fill">
+    <img id="brand" onClick="fgl.handleBrandingClick()"/>
+    <canvas id="content" width="320" height="480">
+        Alternate Content
+    </canvas>
+
+</div>
+
+
+<script>
+    function init() {
+        var element = document.getElementById("fill");
+        fgl.create(element, "com.flashgamelicense.mindreader");
+        fgl.onReady(function() {
+            console.log("fgl ready")
+            startup();
+        })
+    }
+</script>
+
+
+</body>
+</html>
