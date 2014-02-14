@@ -2,8 +2,6 @@
  * Created by postepenno on 13.02.14.
  */
 
-var games = [];
-
 
 function startup()
 {
@@ -99,15 +97,25 @@ function startup()
         "Guide your armed balloon through twenty challenging levels. Avoid accidents and shoot down any enemy balloons you encounter."
     );
 
-    games = [drawfender, nsp, wutb5, wutb4, wutb3, sp, sticks, wutb2, wtr, wutb, splitter2, gen, splitter, airbattle];
-    for (var i = 0; i < games.length; i++)
+    var flashGames = [drawfender, nsp, wutb5, wutb4, wutb3, sp, sticks, wutb2, wtr, wutb, splitter2, gen, splitter, airbattle];
+    for (var i = 0; i < flashGames.length; i++)
     {
-        addGame(games[i]);
+        addGame(flashGames[i], "#flash");
     }
+
+
+    var plusone = new Game(
+        "Plus One",
+        "assets/plusone.png",
+        "http://postepenno.com/html5/plusone/",
+        "Give your brain a workout. Counting is fun!"
+    );
+
+    addGame(plusone, "#html5");
 
 }
 
-function addGame(game)
+function addGame(game, elem)
 {
     var img = '<a href=' + game.link + ' target="_blank"><img class="thumb" src=' + game.imgSrc + ' /></a>';
     var divImg = '<div class="game-image">' + img + '</div>';
@@ -118,7 +126,8 @@ function addGame(game)
 
     var divGame = '<div class="game">' + divImg + divDesc + '</div>';
 
-    $(".content").append(divGame);
+    $(elem).append('<hr>');
+    $(elem).append(divGame);
 }
 
 function Game(title, imgSrc, link, desc)
