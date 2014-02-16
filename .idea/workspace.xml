@@ -26,27 +26,7 @@
       <file leaf-file-name="index.html" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="21" column="83" selection-start="664" selection-end="664" vertical-scroll-proportion="0.4972145" vertical-offset="0" max-vertical-offset="1088">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="zhopa.js" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/js/zhopa.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="129" column="0" selection-start="5009" selection-end="5009" vertical-scroll-proportion="0.0" vertical-offset="1516" max-vertical-offset="2414">
-              <folding>
-                <element signature="n#!!doc;n#startup#0" expanded="false" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="stylesheet.css" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/stylesheet.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="40" column="22" selection-start="1232" selection-end="1232" vertical-scroll-proportion="0.0" vertical-offset="204" max-vertical-offset="2006">
+            <state line="22" column="69" selection-start="740" selection-end="740" vertical-scroll-proportion="0.3091922" vertical-offset="152" max-vertical-offset="1088">
               <folding />
             </state>
           </provider>
@@ -68,6 +48,7 @@
         <option value="$PROJECT_DIR$/js/Game.js" />
         <option value="$PROJECT_DIR$/js/zhopa.js" />
         <option value="$PROJECT_DIR$/stylesheet.css" />
+        <option value="$PROJECT_DIR$/e/size/index.html" />
         <option value="$PROJECT_DIR$/index.html" />
       </list>
     </option>
@@ -123,41 +104,13 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="postepenno.github.io" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="postepenno.github.io" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="js" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="postepenno.github.io" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="postepenno.github.io" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="assets" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
         </subPane>
       </pane>
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="options.lastSelected" value="vcs.Git" />
+    <property name="options.lastSelected" value="preferences.sourceCode.Dart" />
     <property name="options.splitter.main.proportions" value="0.3" />
     <property name="options.splitter.details.proportions" value="0.2" />
     <property name="options.searchVisible" value="true" />
@@ -165,11 +118,20 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="restartRequiresConfirmation" value="true" />
     <property name="FullScreen" value="false" />
+    <property name="DefaultHtmlFileTemplate" value="Html5" />
   </component>
   <component name="RunManager" selected="JavaScript Debug.index.html">
     <configuration default="false" name="index.html" type="JavascriptDebugType" factoryName="JavaScript Debug" singleton="true" temporary="true" uri="http://localhost:63342/postepenno.github.io/index.html">
       <RunnerSettings RunnerId="JavascriptDebugRunner" />
       <ConfigurationWrapper RunnerId="JavascriptDebugRunner" />
+      <method />
+    </configuration>
+    <configuration default="true" type="DartUnitRunConfigurationType" factoryName="DartUnit">
+      <option name="VMOptions" />
+      <option name="arguments" />
+      <option name="filePath" />
+      <option name="scope" value="ALL" />
+      <option name="testName" />
       <method />
     </configuration>
     <configuration default="true" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
@@ -182,23 +144,15 @@
       <option name="showConsoleOnStdOut" value="false" />
       <method />
     </configuration>
-    <configuration default="true" type="DartUnitRunConfigurationType" factoryName="DartUnit">
-      <option name="VMOptions" />
-      <option name="arguments" />
-      <option name="filePath" />
-      <option name="scope" value="ALL" />
-      <option name="testName" />
-      <method />
-    </configuration>
-    <configuration default="true" type="JavaScriptTestRunnerKarma" factoryName="Karma" singleton="true" config-file="">
-      <envs />
-      <method />
-    </configuration>
     <configuration default="true" type="JSTestDriver:ConfigurationType" factoryName="JsTestDriver">
       <setting name="configLocationType" value="CONFIG_FILE" />
       <setting name="settingsFile" value="" />
       <setting name="serverType" value="INTERNAL" />
       <setting name="preferredDebugBrowser" value="CHROME" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerKarma" factoryName="Karma" singleton="true" config-file="">
+      <envs />
       <method />
     </configuration>
     <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug" singleton="true">
@@ -251,8 +205,8 @@
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.11302476" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Debug" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.1995842" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.15123789" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.1995842" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -285,53 +239,52 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="11" column="39" selection-start="358" selection-end="358" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="765">
-          <folding />
-        </state>
+        <state line="10" column="0" selection-start="323" selection-end="323" vertical-scroll-proportion="0.0" vertical-offset="170" max-vertical-offset="1088" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/js/zhopa.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="72" column="26" selection-start="2686" selection-end="2686" vertical-scroll-proportion="0.0" vertical-offset="1224" max-vertical-offset="2261">
-          <folding>
-            <element signature="n#!!doc;n#startup#0" expanded="false" />
-          </folding>
-        </state>
+        <state line="129" column="0" selection-start="5009" selection-end="5009" vertical-scroll-proportion="0.0" vertical-offset="2193" max-vertical-offset="2448" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/stylesheet.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="41" column="14" selection-start="1282" selection-end="1282" vertical-scroll-proportion="0.0" vertical-offset="408" max-vertical-offset="1581">
-          <folding />
-        </state>
+        <state line="40" column="22" selection-start="1232" selection-end="1232" vertical-scroll-proportion="0.0" vertical-offset="204" max-vertical-offset="2006" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="124" column="84" selection-start="5451" selection-end="5451" vertical-scroll-proportion="0.0" vertical-offset="1883" max-vertical-offset="3179">
-          <folding />
-        </state>
+        <state line="11" column="39" selection-start="358" selection-end="358" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="765" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/zhopa.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="72" column="26" selection-start="2686" selection-end="2686" vertical-scroll-proportion="0.0" vertical-offset="1224" max-vertical-offset="2261" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/stylesheet.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="12" column="0" selection-start="140" selection-end="140" vertical-scroll-proportion="0.0" vertical-offset="4" max-vertical-offset="1241">
-          <folding />
-        </state>
+        <state line="41" column="14" selection-start="1282" selection-end="1282" vertical-scroll-proportion="0.0" vertical-offset="408" max-vertical-offset="1581" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="18" column="0" selection-start="279" selection-end="279" vertical-scroll-proportion="0.0" vertical-offset="306" max-vertical-offset="629">
-          <folding />
-        </state>
+        <state line="124" column="84" selection-start="5451" selection-end="5451" vertical-scroll-proportion="0.0" vertical-offset="1883" max-vertical-offset="3179" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/stylesheet.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="9" column="19" selection-start="104" selection-end="104" vertical-scroll-proportion="0.0" vertical-offset="153" max-vertical-offset="306">
-          <folding />
-        </state>
+        <state line="12" column="0" selection-start="140" selection-end="140" vertical-scroll-proportion="0.0" vertical-offset="4" max-vertical-offset="1241" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="18" column="0" selection-start="279" selection-end="279" vertical-scroll-proportion="0.0" vertical-offset="306" max-vertical-offset="629" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/stylesheet.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="9" column="19" selection-start="104" selection-end="104" vertical-scroll-proportion="0.0" vertical-offset="153" max-vertical-offset="306" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/assets/wutb5.jpg">
@@ -341,23 +294,17 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/js/zhopa.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="129" column="0" selection-start="5009" selection-end="5009" vertical-scroll-proportion="0.0" vertical-offset="1176" max-vertical-offset="2414">
-          <folding>
-            <element signature="n#!!doc;n#startup#0" expanded="false" />
-          </folding>
-        </state>
+        <state line="129" column="0" selection-start="5009" selection-end="5009" vertical-scroll-proportion="0.0" vertical-offset="1176" max-vertical-offset="2414" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/stylesheet.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="40" column="22" selection-start="1232" selection-end="1232" vertical-scroll-proportion="0.0" vertical-offset="204" max-vertical-offset="2006">
-          <folding />
-        </state>
+        <state line="40" column="22" selection-start="1232" selection-end="1232" vertical-scroll-proportion="0.0" vertical-offset="204" max-vertical-offset="2006" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="21" column="83" selection-start="664" selection-end="664" vertical-scroll-proportion="0.4972145" vertical-offset="0" max-vertical-offset="1088">
+        <state line="22" column="69" selection-start="740" selection-end="740" vertical-scroll-proportion="0.3091922" vertical-offset="152" max-vertical-offset="1088">
           <folding />
         </state>
       </provider>
