@@ -1,0 +1,108 @@
+
+html body {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background-image:url('../assets/tetrad.png');
+}
+
+#block {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    /*opacity: 0.5;*/
+    background-color: #0088bb;
+    text-align: center;
+    font-size: 24px;
+    color: #ffffff;
+    display: none;
+    z-index: 100;
+}
+
+#container {
+    position: relative;
+    /*border: 2px solid red;*/
+    width: 320px;
+    height: 310px;
+    margin-left: auto;
+    margin-right: auto;
+    /*text-align: center;*/
+    /*background-color: lightgrey;*/
+}
+
+#title {
+    text-align: center;
+}
+
+#grid {
+    position: absolute;
+    z-index: 5;
+    padding-top: 0px;
+    padding-bottom: 0px;
+    /*border: 1px solid forestgreen;*/
+    width: 306px;
+    height: 306px;
+    padding-left: 0px;
+    background-color: black;
+    /*text-align: center;*/
+}
+
+#cells {
+    position: absolute;
+    z-index: 5;
+}
+
+.cell {
+    display: inline-block;
+    position: relative;
+    width: 100px;
+    height: 100px;
+    background-color: lightgrey;
+    /*border: 1px solid black;*/
+    text-align: center;
+    margin-left: 0px;
+    margin-right: 0px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    cursor: default;
+    margin: 1px;
+    /*opacity: 0.5;*/
+}
+
+.cellp {
+    font-size: 44px;
+    /*border: 1px solid #ffffff;*/
+    margin-top: 20px;
+}
+
+button {
+    width: 100px;
+    height: 40px;
+}
+
+.can_click {
+    cursor: pointer;
+}
+
+.cant_click {
+    /*cursor: not-allowed;*/
+    cursor: default;
+}
+
+#comment {
+    color: #0088bb;
+}
+
+#ui {
+    text-align: center;
+}
+
+#myCanvas {
+    position:absolute;
+    /*border: 2px solid green;*/
+    pointer-events: none;
+}
