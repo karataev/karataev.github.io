@@ -1,0 +1,25 @@
+<html>
+<head>
+<title>Drawfender</title>
+
+<link type="text/css" rel="stylesheet" href="game.css" />
+    <script type="text/javascript" src="../swfobject.js"></script>
+</head>
+<body>
+
+<p><a href="#" onclick="javascript:window.history.back(-1);return false;">Back</a></p>
+
+<div id="container" style="width: 700px; margin-left: auto; margin-right: auto">
+    <div id="flash"></div>
+    <div id="instructions">
+        <p>Press R to restart a level.</p>
+        <p>Press ESC to remove points when drawing.</p>
+    </div>
+</div>
+
+<script type="text/javascript">
+    swfobject.embedSWF("DrawDefender.swf", "flash", "700", "600", "9", "../expressInstall.swf");
+</script>
+
+</body>
+</html>
