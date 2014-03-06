@@ -57,7 +57,7 @@ function startup()
     var wutb2 = new Game(
         "Wake Up the Box 2",
         "assets/wutb2.png",
-        "http://www.kongregate.com/games/EvgenyKarataev/wake-up-the-box-2",
+        "flash/wutb2",
         "The boxes are back, and once again sleeping! Find ways to wake them up by placing objects on the playfield."
     );
     var wtr = new Game(
