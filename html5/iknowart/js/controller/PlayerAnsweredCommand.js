@@ -38,9 +38,6 @@ var PlayerAnsweredCommand = Class.extend({
 
     animationComplete: function()
     {
-        var correctButton = this.game.getCorrectButton();
-        correctButton.doCorrect();
-
         this.game.ui.nextBtn.show();
         this.game.ui.nextBtn.enableClick();
         this.game.ui.nextBtn.bmp.alpha = 0;
@@ -48,13 +45,17 @@ var PlayerAnsweredCommand = Class.extend({
             .to({alpha:1}, 500);
 
 
-        var correctAnswer = this.game.curLevel.answers[0];
+        var correctAnswer = this.game.curLevel.getAnswers()[0];
+        var correctButton = this.game.getCorrectButton();
         if (this.game.playerAnswer === correctAnswer) {
             this.game.curLevel.playerCorrect = true;
             Sounds.play("sndRight");
+            correctButton.doCorrect(true);
         } else {
             Sounds.play("sndWrong");
+            correctButton.doCorrect(false);
         }
+
 
         //console.log("Description", this.game.curLevel.description);
     },

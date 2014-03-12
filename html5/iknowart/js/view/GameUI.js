@@ -14,20 +14,21 @@ var GameUI = ComponentBox.extend({
         this.createBack();
 
         //this.addComponent( new SoundIconComp(this.parent, 180, 10) );
-        this.addComponent( new Button(this.parent, "homeButton", 20, 10, this.exitClick, this) );
+        this.addComponent( new Button(this.parent, "homeButton", 10, 10, this.exitClick, this) );
 
-        this.nextBtn = new Button(this.parent, "nextButton", 120, 10, this.nextClick, this);
+        this.nextBtn = new Button(this.parent, "nextButton", 320, 740, this.nextClick, this);
+        this.nextBtn.bmp.regX = this.nextBtn.bmp.regY = 52;
         this.nextBtn.hide();
         this.addComponent(this.nextBtn);
 
-        /*var x1 = this.nextBtn.bmp.x + 30;
-        var x2 = this.nextBtn.bmp.x;
+        //var x1 = this.nextBtn.bmp.x + 30;
+        //var x2 = this.nextBtn.bmp.x;
         createjs.Tween.get(this.nextBtn.bmp, {loop:true})
-            .to({x:x1}, 1000, createjs.Ease.sineInOut)
-            .to({x:x2}, 1000, createjs.Ease.sineInOut);
-        */
+            .to({scaleX:1.2, scaleY:1.2}, 1000, createjs.Ease.sineInOut)
+            .to({scaleX:1, scaleY:1}, 1000, createjs.Ease.sineInOut);
 
-        this.levelTf = new TextField(this.parent, "...", {x:350, y:30, font:"30px Hermes"});
+
+        this.levelTf = new TextField(this.parent, "...", {x:320, y:30, font:"30px Arial", align:"center"});
         this.addComponent(this.levelTf);
 
         this.desc = new Description(this.game, this.parent);
@@ -50,6 +51,11 @@ var GameUI = ComponentBox.extend({
 
     exitClick: function(bt, thisRef)
     {
+        Fader.fade(thisRef.gameOver, thisRef);
+    },
+
+    gameOver: function()
+    {
         //Main.removeViewByClass(Instructions);
         //Main.removeViewByClass(LevelComplete);
         Main.removeViewByClass(Game);
@@ -70,12 +76,16 @@ var GameUI = ComponentBox.extend({
     },
 
     levelStart: function() {
-        this.desc.setText(this.game.curLevel.description);
+        this.desc.setText(this.game.curLevel.getTitle());
         this.desc.hide();
 
         var p1 = this.game.curLevel.id + 1;
         var p2 = this.game.getTotalLevels();
-        this.levelTf.setText("Уровень " + p1 + "/" + p2);
+
+        var levelText = "";
+        if (Config.LANG == "RU") levelText = "Уровень " + p1 + "/" + p2;
+        else levelText = "Level " + p1 + "/" + p2;
+        this.levelTf.setText(levelText);
     },
 
     update: function() {

@@ -40,12 +40,17 @@ var Assets = Class.extend({
             {id:"homeButton", src:"assets/images/homeButton.png"},
             {id:"answerButton", src:"assets/images/answerButton.png"},
             {id:"correctButton", src:"assets/images/correctButton.png"},
+            {id:"correctCheckButton", src:"assets/images/correctCheckButton.png"},
             {id:"nextButton", src:"assets/images/nextButton.png"},
             {id:"selectedButton", src:"assets/images/selectedButton.png"},
             {id:"sticker", src:"assets/images/sticker.png"},
             {id:"stickerStar", src:"assets/images/stickerStar.png"},
             {id:"soundIconOn", src:"assets/images/soundIconOn.png"},
             {id:"soundIconOff", src:"assets/images/soundIconOff.png"},
+            {id:"fader", src:"assets/images/fader.png"},
+            {id:"resultGallery", src:"assets/images/resultGallery.png"},
+            {id:"itemGalka", src:"assets/images/itemGalka.png"},
+            {id:"itemKrest", src:"assets/images/itemKrest.png"},
 
             // pics
             {id:"alenushka", src:"assets/pics/alenushka.jpg"},

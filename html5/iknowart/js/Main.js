@@ -43,6 +43,7 @@ var Main = Class.extend({
         stage.addChild(Main.fpsContainer);
 
         //thisRef.initBranding();
+        Fader.init();
 
         Main.addView( new FPSView() );
         Main.addView( new MainMenu() );

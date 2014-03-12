@@ -14,21 +14,29 @@ var GameComplete = ComponentBox.extend({
 
         this.parent = Main.viewContainer;
 
-        this.titleTf = new TextField(this.parent, "Игра пройдена!", {x:Config.WIDTH / 2, y:100, font:"60px Hermes", align:"center"});
+        this.titleTf = new TextField(this.parent, "Игра пройдена!", {x:Config.WIDTH / 2, y:30, font:"60px Arial", align:"center"});
         this.addComponent(this.titleTf);
 
         var correct = this.game.getNumCorrectAnswers();
         var total = this.game.getTotalLevels();
         var txt = "Правильные ответы: " + correct + "/" + total;
-        this.answersTf = new TextField(this.parent, txt, {x:Config.WIDTH / 2, y:200, font:"30px Hermes", align:"center"});
+        this.answersTf = new TextField(this.parent, txt, {x:Config.WIDTH / 2, y:670, font:"30px Arial", align:"center"});
         this.addComponent(this.answersTf);
 
-        this.addComponent( new Button(this.parent, "homeButton", 280, 300, this.exitClick, this) );
+        this.resultGallery = new ResultGallery(this.parent, this.game, 80, 180);
+        this.addComponent(this.resultGallery);
+
+        this.addComponent( new Button(this.parent, "homeButton", 280, 820, this.exitClick, this) );
 
 
     },
 
     exitClick: function(bt, thisRef)
+    {
+        Fader.fade(thisRef.gameOver, thisRef);
+    },
+
+    gameOver: function()
     {
         Main.removeViewByClass(GameComplete);
         Main.addView( new MainMenu() );

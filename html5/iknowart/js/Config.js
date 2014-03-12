@@ -11,3 +11,5 @@ Config.version = "0.1";
 
 Config.TRANSPARENT = false;
 Config.ANIMATION = true;
+Config.START_LAST_LEVEL = false;
+Config.LANG = "RU"; // RU EN

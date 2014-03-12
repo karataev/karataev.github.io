@@ -40,7 +40,7 @@ var LevelHideCommand = Class.extend({
             this.game.levelStart(nextId);
         }
         else {
-            this.gameComplete();
+            Fader.fade(this.gameComplete, this);
         }
     },
 

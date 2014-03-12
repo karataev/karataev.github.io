@@ -31,7 +31,7 @@ var TextField = Component.extend({
         this.tf.x = this.x;
         this.tf.y = this.y;
         this.tf.textAlign = this.align;
-        this.tf.baseline = this.baseline;
+        this.tf.textBaseline = this.baseline;
 
         this.parent.addChild(this.tf);
     },

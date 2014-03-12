@@ -17,7 +17,8 @@ var Description = ComponentBox.extend({
         this.parent.addChild(this.container);
         this.createBack();
 
-        this.tf = new TextField(this.container, "", {x:10, y:10, font:"22px Hermes"});
+        this.tf = new TextField(this.container, "", {x:10, y:20, font:"22px Arial", baseline:"middle"});
+        this.tf.tf.lineWidth = 620;
         this.addComponent(this.tf);
 
     },

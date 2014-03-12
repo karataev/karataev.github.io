@@ -20,7 +20,7 @@ var AnswerButton = ComponentBox.extend({
 
         this.back = new Picture(this.container, "answerButton");
         this.addComponent(this.back);
-        this.tf = new TextField(this.container, this.text, {x:150, y:10, align:"center", font:"bold 25px Arial", color:"#FFFFFF"});
+        this.tf = new TextField(this.container, this.text, {x:50, y:15, align:"left", font:"bold 25px Arial", color:"#333333"});
         this.addComponent(this.tf);
 
         this.container.addEventListener("click", this);
@@ -70,9 +70,10 @@ var AnswerButton = ComponentBox.extend({
         this.addComponent(this.back);
     },
 
-    doCorrect: function() {
+    doCorrect: function(isChecked) {
         this.removeComponent(this.back);
-        this.back = new Picture(this.container, "correctButton", {childIndex:0});
+        var assetName = isChecked ? "correctCheckButton" : "correctButton";
+        this.back = new Picture(this.container, assetName, {childIndex:0});
         this.addComponent(this.back);
     },
 
