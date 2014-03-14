@@ -103,14 +103,21 @@ function startup()
         addGame(flashGames[i], "#flash");
     }
 
+    var iknowart = new Game(
+        "I Know Art",
+        "assets/iknowart.png",
+        "http://postepenno.com/html5/iknowart/",
+        "Art can be fun!"
+    );
 
     var plusone = new Game(
         "Plus One",
         "assets/plusone.png",
         "http://postepenno.com/html5/plusone/",
-        "Give your brain a workout. Counting is fun!"
+        "Give your brain a workout."
     );
 
+    addGame(iknowart, "#html5");
     addGame(plusone, "#html5");
 
 }
