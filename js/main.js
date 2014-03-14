@@ -107,14 +107,14 @@ function startup()
         "I Know Art",
         "assets/iknowart.png",
         "http://postepenno.com/html5/iknowart/",
-        "Art can be fun!"
+        "This game offers you a fun way to develop your knowledge and demonstrate what you know about art."
     );
 
     var plusone = new Game(
         "Plus One",
         "assets/plusone.png",
         "http://postepenno.com/html5/plusone/",
-        "Give your brain a workout."
+        "Give your brain a workout. Counting is fun!"
     );
 
     addGame(iknowart, "#html5");
