@@ -52,7 +52,7 @@ var Main = ComponentBox.extend({
         var game = new Game();
         Main.addView( new MainMenuView(game) );
 
-        this.addComponent( new Background() );
+        thisRef.addComponent( new Background() );
     },
 
     tick: function(event) {

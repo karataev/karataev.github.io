@@ -49,6 +49,8 @@ var Circle = ComponentBox.extend({
         this.pic = new Picture(this.holder, this.assetName, {x:0, y:0, center:true});
         this.addComponent(this.pic);
 
+        this.addComponent( new Eyes(this.holder, -Config.CIRCLE_RADIUS, -Config.CIRCLE_RADIUS, true) );
+
         this.pic.bitmap.addEventListener("click", this);
 
         if (this.wobble) this.doWobble();

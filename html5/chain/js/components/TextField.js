@@ -16,6 +16,7 @@ var TextField = Component.extend({
         this.font = TextField.defaultFont;
         this.align = TextField.defaultAlign;
         this.baseline = TextField.defaultBaseline;
+        this.shadow = false;
 
         if (params)
         {
@@ -25,6 +26,7 @@ var TextField = Component.extend({
             if (params.font) this.font = params.font;
             if (params.align) this.align = params.align;
             if (params.baseline) this.baseline = params.baseline;
+            if (params.shadow != undefined) this.shadow = params.shadow;
         }
 
         this.tf = new createjs.Text(txt, this.font, this.color);
@@ -32,6 +34,10 @@ var TextField = Component.extend({
         this.tf.y = this.y;
         this.tf.textAlign = this.align;
         this.tf.textBaseline = this.baseline;
+
+        if (this.shadow) this.tf.shadow = new createjs.Shadow("#000000", 3, 3, 2);
+        //this.tf.outline = 1;
+        //this.tf.outlineColor = "#FF0000"
 
         this.parent.addChild(this.tf);
     },

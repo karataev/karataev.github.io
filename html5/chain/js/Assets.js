@@ -40,6 +40,8 @@ var Assets = Class.extend({
             {id:"cloud2", src:"assets/images/cloud2.png"},
             {id:"cloud3", src:"assets/images/cloud3.png"},
             {id:"cloud4", src:"assets/images/cloud4.png"},
+            {id:"eyesAnim", src:"assets/images/eyesAnim.png"},
+            {id:"eyesStatic", src:"assets/images/eyesStatic.png"},
 
             // level select
             {id:"levelSelectTitle", src:"assets/images/levelSelectTitle.png"},

@@ -13,16 +13,17 @@ var LevelView = ComponentBox.extend({
         //this.back = new Background();
         //this.addComponent(this.back);
 
-        this.addComponent( new Picture(Main.viewContainer, "levelUIBack") );
+        //this.addComponent( new Picture(Main.viewContainer, "levelUIBack") );
         this.addComponent( new Button(Main.viewContainer, "restartButton", this.restartClick, this, {x:190, y:5}) );
         this.addComponent( new Button(Main.viewContainer, "pauseButton", this.pauseClick, this, {x:255, y:5}) );
         this.addComponent( new SoundIcon(Main.viewContainer, 125, 5) );
 
         var levelNum = "Level " + (this.game.curLevel.id + 1);
-        this.levelNumText = new TextField(Main.viewContainer, levelNum, {x:10, y:5, font:"bold 20px Arial", color:"#555555"});
+        this.levelNumText = new TextField(Main.viewContainer, levelNum, {x:10, y:5, font:"30px Ceviche One", color:"#FFFFFF", shadow:true});
         this.addComponent(this.levelNumText);
 
-        this.clicksText = new TextField(Main.viewContainer, "", {x:10, y:40, font:"bold 20px Arial", color:"#555555"});
+        this.clicksText = new TextField(Main.viewContainer, "", {x:10, y:35, font:"30px Ceviche One", color:"#FFFFFF", shadow:true});
+        //this.clicksText = new TextField(Main.viewContainer, "", {x:10, y:40, font:"bold 20px Arial", color:"#555555"});
         this.updateClicksText();
         this.addComponent(this.clicksText);
 

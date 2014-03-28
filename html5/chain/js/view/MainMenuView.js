@@ -20,6 +20,9 @@ var MainMenuView = ComponentBox.extend({
         this.addComponent(playButton);
 
         this.addComponent( new SoundIcon(Main.viewContainer, 130, 400) );
+
+        // null text font!
+        this.addComponent( new TextField(Main.viewContainer, "v 0.9", {color:"#FFFFFF", font:"10px Ceviche One"}) );
     },
 
     playClick: function(bt, thisRef)

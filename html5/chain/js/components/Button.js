@@ -48,6 +48,21 @@ var Button = Component.extend({
         this.bmp.visible = true;
     },
 
+    scaleHide: function()
+    {
+        this.bmp.scaleX = this.bmp.scaleY = 1;
+        createjs.Tween.get(this.bmp)
+            .to({scaleX:0, scaleY:0}, 200)
+    },
+
+    scaleShow: function()
+    {
+        this.bmp.visible = true;
+        this.bmp.scaleX = this.bmp.scaleY = 0;
+        createjs.Tween.get(this.bmp)
+            .to({scaleX:1, scaleY:1}, 200)
+    },
+
     enableClick: function() {
         this.bmp.addEventListener("click", this);
     },

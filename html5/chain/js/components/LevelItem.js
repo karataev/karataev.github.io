@@ -19,7 +19,7 @@ var LevelItem = ComponentBox.extend({
 
         this.addComponent( new Button(this.holder, "levelItemBack", this.click, this, {center:true}) );
         var txt = this.level.id + 1;
-        this.addComponent( new TextField(this.holder, txt, {align:"center", baseline:"middle", color:"#FFFFFF", font:"bold 40px Arial"}) );
+        this.addComponent( new TextField(this.holder, txt, {align:"center", baseline:"middle", color:"#3A140B", font:"30px Ceviche One"}) );
     },
 
     click: function(bt, thisRef)
