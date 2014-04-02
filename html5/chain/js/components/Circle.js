@@ -53,7 +53,19 @@ var Circle = ComponentBox.extend({
 
         this.pic.bitmap.addEventListener("click", this);
 
-        if (this.wobble) this.doWobble();
+        if (this.wobble)
+        {
+            Sounds.play("sndWobble");
+            this.doWobble();
+        }
+        else this.tweenBorn();
+    },
+
+    tweenBorn: function()
+    {
+        this.holder.scaleX = this.holder.scaleY = 0;
+        createjs.Tween.get(this.holder)
+            .to({scaleX:1, scaleY:1}, 500, createjs.Ease.backOut)
     },
 
     doWobble: function()
@@ -111,7 +123,6 @@ var Circle = ComponentBox.extend({
     {
 
         this.view.removeComponent(this);
-        this.view.addComponent( new CircleExplode(this.view, this.parent, this.assetName, this.x, this.y) );
 
         if (this.armor > 0)
         {
@@ -120,6 +131,8 @@ var Circle = ComponentBox.extend({
         }
         else
         {
+            this.view.addComponent( new CircleExplode(this.view, this.parent, this.assetName, this.x, this.y) );
+            Sounds.play("sndPop");
             for (var i = 0; i < this.shots; i++)
             {
                 this.view.addBullet(this.x, this.y, i * this.gap + this.angle);

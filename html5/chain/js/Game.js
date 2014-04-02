@@ -7,6 +7,15 @@ var Game = Class.extend({
     init: function()
     {
         this.createLevels();
+
+        this.progress = new GameProgress(this);
+    },
+
+    loadProgress: function()
+    {
+        console.log("first");
+        console.log(localStorage["game.version"]);
+        console.log("second");
     },
 
     createLevels: function()
@@ -14,16 +23,16 @@ var Game = Class.extend({
         this.levels = [];
 
         //this.addLevel( {name:'Test', clicks:7, circles:[ {x:210, y:113, shots:2, angle:0, gap:180, armor:0}, {x:196, y:333, shots:2, angle:0, gap:180, armor:0}, {x:214, y:186, shots:2, angle:0, gap:180, armor:0}, {x:102, y:281, shots:2, angle:-30, gap:180, armor:0}, {x:109, y:416, shots:2, angle:180, gap:90, armor:0}, {x:87, y:163, shots:0, angle:0, gap:90, armor:1}, {x:277, y:438, shots:1, angle:-168, gap:90, armor:0} ]} );
-        this.addLevel( {name:'First', clicks:4, circles:[ {x:227, y:315, shots:0, angle:0, gap:90, armor:0}, {x:95, y:315, shots:0, angle:0, gap:90, armor:0}, {x:227, y:192, shots:0, angle:0, gap:90, armor:0}, {x:95, y:192, shots:0, angle:0, gap:90, armor:0} ]} );
-        this.addLevel( {name:'Simple Quad', clicks:1, circles:[ {x:79, y:369, shots:1, angle:-90, armor:0}, {x:254, y:365, shots:1, angle:180, armor:0}, {x:256, y:174, shots:1, angle:90, armor:0}, {x:77, y:174, shots:1, angle:0, armor:0} ]} );
-        this.addLevel( {name:'One Quad Touch', clicks:1, circles:[ {x:160, y:317, shots:4, angle:0, armor:0}, {x:160, y:435, shots:0, angle:0, armor:0}, {x:282, y:320, shots:0, angle:0, armor:0}, {x:42, y:320, shots:0, angle:0, armor:0}, {x:159, y:114, shots:0, angle:0, armor:0} ]} );
-        this.addLevel( {name:'Shooting', clicks:4, circles:[ {x:266, y:399, shots:1, angle:180, armor:0}, {x:266, y:212, shots:1, angle:180, armor:0}, {x:60, y:402, shots:0, angle:0, armor:0}, {x:270, y:304, shots:0, angle:0, armor:0}, {x:57, y:303, shots:1, angle:0, armor:0}, {x:57, y:213, shots:0, angle:0, armor:0}, {x:55, y:128, shots:1, angle:0, armor:0}, {x:269, y:128, shots:0, angle:0, armor:0} ]} );
+        this.addLevel( {name:'First', clicks:4, circles:[ {x:224, y:320, shots:0, angle:0, gap:90, armor:0}, {x:96, y:320, shots:0, angle:0, gap:90, armor:0}, {x:224, y:195, shots:0, angle:0, gap:90, armor:0}, {x:96, y:195, shots:0, angle:0, gap:90, armor:0} ]} );
+        this.addLevel( {name:'Simple Quad', clicks:1, circles:[ {x:64, y:365, shots:1, angle:-90, gap:90, armor:0}, {x:255, y:365, shots:1, angle:180, gap:90, armor:0}, {x:257, y:174, shots:1, angle:90, gap:90, armor:0}, {x:65, y:171, shots:1, angle:0, gap:90, armor:0} ]} );
+        this.addLevel( {name:'One Quad Touch', clicks:1, circles:[ {x:160, y:269, shots:4, angle:0, gap:90, armor:0}, {x:160, y:416, shots:0, angle:0, gap:90, armor:0}, {x:282, y:272, shots:0, angle:0, gap:90, armor:0}, {x:42, y:272, shots:0, angle:0, gap:90, armor:0}, {x:160, y:126, shots:0, angle:0, gap:90, armor:0} ]} );
+        this.addLevel( {name:'Shooting', clicks:4, circles:[ {x:257, y:420, shots:1, angle:180, gap:90, armor:0}, {x:257, y:225, shots:1, angle:180, gap:90, armor:0}, {x:65, y:421, shots:0, angle:0, gap:90, armor:0}, {x:256, y:323, shots:0, angle:0, gap:90, armor:0}, {x:64, y:323, shots:1, angle:0, gap:90, armor:0}, {x:64, y:226, shots:0, angle:0, gap:90, armor:0}, {x:64, y:128, shots:1, angle:0, gap:90, armor:0}, {x:258, y:128, shots:0, angle:0, gap:90, armor:0} ]} );
         this.addLevel( {name:'Simple order', clicks:1, circles:[ {x:165, y:264, shots:1, angle:180, armor:0}, {x:275, y:264, shots:0, angle:0, armor:0}, {x:49, y:264, shots:1, angle:0, armor:0} ]} );
-        this.addLevel( {name:'Medium Quad', clicks:2, circles:[ {x:53, y:375, shots:1, angle:-90, gap:90, armor:0}, {x:268, y:375, shots:1, angle:180, gap:90, armor:0}, {x:268, y:170, shots:1, angle:90, gap:90, armor:0}, {x:159, y:271, shots:4, angle:0, gap:90, armor:0}, {x:50, y:174, shots:0, angle:0, gap:90, armor:0}, {x:160, y:375, shots:0, angle:0, gap:90, armor:0}, {x:267, y:269, shots:0, angle:0, gap:90, armor:0}, {x:52, y:268, shots:0, angle:0, gap:90, armor:0}, {x:163, y:170, shots:0, angle:0, gap:90, armor:0} ]} );
+        this.addLevel( {name:'Medium Quad', clicks:2, circles:[ {x:53, y:385, shots:1, angle:-90, gap:90, armor:0}, {x:268, y:385, shots:1, angle:180, gap:90, armor:0}, {x:268, y:158, shots:1, angle:90, gap:90, armor:0}, {x:159, y:267, shots:4, angle:0, gap:90, armor:0}, {x:50, y:159, shots:0, angle:0, gap:90, armor:0}, {x:161, y:385, shots:0, angle:0, gap:90, armor:0}, {x:266, y:269, shots:0, angle:0, gap:90, armor:0}, {x:52, y:268, shots:0, angle:0, gap:90, armor:0}, {x:163, y:158, shots:0, angle:0, gap:90, armor:0} ]} );
         this.addLevel( {name:'Quads 2 Touch', clicks:2, circles:[ {x:122, y:116, shots:0, angle:0, gap:90, armor:0}, {x:124, y:429, shots:0, angle:0, gap:90, armor:0}, {x:45, y:351, shots:0, angle:0, gap:90, armor:0}, {x:284, y:353, shots:0, angle:0, gap:90, armor:0}, {x:120, y:351, shots:4, angle:0, gap:90, armor:0}, {x:196, y:429, shots:0, angle:0, gap:90, armor:0}, {x:40, y:192, shots:0, angle:0, gap:90, armor:0}, {x:201, y:116, shots:0, angle:0, gap:90, armor:0}, {x:278, y:191, shots:0, angle:0, gap:90, armor:0}, {x:200, y:192, shots:4, angle:0, gap:90, armor:0} ]} );
         this.addLevel( {name:'Simple order2', clicks:1, circles:[ {x:153, y:359, shots:1, angle:-90, armor:0}, {x:153, y:278, shots:1, angle:-90, armor:0}, {x:153, y:189, shots:1, angle:90, armor:0}, {x:153, y:114, shots:1, angle:90, armor:0}, {x:154, y:435, shots:0, angle:0, armor:0} ]} );
         this.addLevel( {name:'Spiral', clicks:1, circles:[ {x:53, y:139, shots:0, angle:0, gap:90, armor:0}, {x:129, y:139, shots:1, angle:180, gap:90, armor:0}, {x:203, y:139, shots:1, angle:180, gap:90, armor:0}, {x:273, y:206, shots:1, angle:-90, gap:90, armor:0}, {x:273, y:269, shots:1, angle:-90, gap:90, armor:0}, {x:273, y:342, shots:1, angle:-90, gap:90, armor:0}, {x:205, y:410, shots:1, angle:0, gap:90, armor:0}, {x:134, y:410, shots:1, angle:0, gap:90, armor:0}, {x:62, y:344, shots:1, angle:90, gap:90, armor:0}, {x:62, y:273, shots:1, angle:90, gap:90, armor:0}, {x:129, y:205, shots:1, angle:180, gap:90, armor:0}, {x:202, y:273, shots:1, angle:-90, gap:90, armor:0}, {x:270, y:139, shots:1, angle:180, gap:90, armor:0}, {x:273, y:415, shots:1, angle:-90, gap:90, armor:0}, {x:62, y:410, shots:1, angle:0, gap:90, armor:0}, {x:57, y:205, shots:1, angle:90, gap:90, armor:0}, {x:202, y:346, shots:1, angle:-90, gap:90, armor:0}, {x:204, y:205, shots:1, angle:180, gap:90, armor:0}, {x:129, y:275, shots:1, angle:90, gap:90, armor:0}, {x:129, y:347, shots:1, angle:0, gap:90, armor:0} ]} );
-        this.addLevel( {name:'Triple Shoot', clicks:3, circles:[ {x:259, y:123, shots:0, angle:0, gap:90, armor:0}, {x:256, y:427, shots:0, angle:0, gap:90, armor:0}, {x:39, y:349, shots:0, angle:0, gap:90, armor:0}, {x:110, y:348, shots:0, angle:0, gap:90, armor:0}, {x:111, y:273, shots:0, angle:0, gap:90, armor:0}, {x:261, y:197, shots:0, angle:0, gap:90, armor:0}, {x:260, y:349, shots:4, angle:0, gap:90, armor:0}, {x:183, y:271, shots:4, angle:0, gap:90, armor:0}, {x:111, y:198, shots:4, angle:0, gap:90, armor:0}, {x:40, y:200, shots:0, angle:0, gap:90, armor:0}, {x:185, y:348, shots:0, angle:0, gap:90, armor:0}, {x:261, y:271, shots:0, angle:0, gap:90, armor:0}, {x:109, y:120, shots:0, angle:0, gap:90, armor:0}, {x:184, y:197, shots:0, angle:0, gap:90, armor:0} ]} );
+        this.addLevel( {name:'Triple Shoot', clicks:3, circles:[ {x:258, y:123, shots:0, angle:0, gap:90, armor:0}, {x:258, y:427, shots:0, angle:0, gap:90, armor:0}, {x:39, y:349, shots:0, angle:0, gap:90, armor:0}, {x:110, y:348, shots:0, angle:0, gap:90, armor:0}, {x:111, y:273, shots:0, angle:0, gap:90, armor:0}, {x:261, y:198, shots:0, angle:0, gap:90, armor:0}, {x:259, y:349, shots:4, angle:0, gap:90, armor:0}, {x:183, y:272, shots:4, angle:0, gap:90, armor:0}, {x:111, y:199, shots:4, angle:0, gap:90, armor:0}, {x:40, y:200, shots:0, angle:0, gap:90, armor:0}, {x:185, y:348, shots:0, angle:0, gap:90, armor:0}, {x:260, y:271, shots:0, angle:0, gap:90, armor:0}, {x:109, y:120, shots:0, angle:0, gap:90, armor:0}, {x:184, y:197, shots:0, angle:0, gap:90, armor:0} ]} );
         this.addLevel( {name:'Yellow Start', clicks:6, circles:[ {x:162, y:264, shots:4, angle:0, gap:90, armor:1}, {x:159, y:409, shots:0, angle:0, gap:90, armor:1}, {x:277, y:264, shots:0, angle:0, gap:90, armor:1}, {x:43, y:264, shots:0, angle:0, gap:90, armor:1}, {x:160, y:131, shots:0, angle:0, gap:90, armor:1} ]} );
         this.addLevel( {name:'Yellow Intro', clicks:4, circles:[ {x:197, y:264, shots:0, angle:0, gap:90, armor:1}, {x:127, y:264, shots:0, angle:0, gap:90, armor:1}, {x:125, y:412, shots:1, angle:-90, gap:90, armor:0}, {x:122, y:111, shots:1, angle:90, gap:90, armor:0}, {x:272, y:264, shots:1, angle:180, gap:90, armor:0}, {x:48, y:264, shots:1, angle:0, gap:90, armor:0} ]} );
         this.addLevel( {name:'Corners', clicks:1, circles:[ {x:78, y:121, shots:0, angle:0, gap:90, armor:0}, {x:82, y:420, shots:0, angle:0, gap:90, armor:0}, {x:82, y:347, shots:2, angle:-90, gap:90, armor:0}, {x:188, y:347, shots:2, angle:180, gap:90, armor:0}, {x:183, y:194, shots:2, angle:90, gap:90, armor:0}, {x:82, y:194, shots:2, angle:0, gap:90, armor:0}, {x:191, y:420, shots:0, angle:0, gap:90, armor:0}, {x:258, y:347, shots:0, angle:0, gap:90, armor:0}, {x:253, y:196, shots:0, angle:0, gap:90, armor:0} ]} );
@@ -69,6 +78,7 @@ var Game = Class.extend({
         Main.removeViewByClass(LevelCompleteView);
         Main.removeViewByClass(LevelFailView);
         Main.removeViewByClass(PauseView);
+        Main.removeViewByClass(GameCompleteView);
     },
 
     levelNext:function()
@@ -140,18 +150,22 @@ var Game = Class.extend({
     levelComplete: function()
     {
         this.isLevelCompleted = true;
+        this.curLevel.isCompleted = true;
+        this.progress.levelComplete();
         Main.addView( new LevelCompleteView(this) );
+        Sounds.play("sndLevelComplete");
     },
 
     levelFail: function()
     {
         this.isLevelFailed = true;
         Main.addView( new LevelFailView(this) );
+        Sounds.play("sndLevelFail");
     },
 
     gameComplete: function()
     {
-        console.log("GAME COMPLETE!");
+        Main.addView( new GameCompleteView(this) );
     },
 
     gameAbort:function()

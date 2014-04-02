@@ -51,7 +51,7 @@ Eyes.getSpriteSheet = function()
     if (Eyes.spriteSheet == undefined)
     {
         var data = {
-            framerate:10,
+            framerate:15,
             images: ["assets/images/eyesAnim.png"],
             frames: {width:60, height:60},
             animations: {

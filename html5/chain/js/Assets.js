@@ -42,11 +42,16 @@ var Assets = Class.extend({
             {id:"cloud4", src:"assets/images/cloud4.png"},
             {id:"eyesAnim", src:"assets/images/eyesAnim.png"},
             {id:"eyesStatic", src:"assets/images/eyesStatic.png"},
+            {id:"gameTitle", src:"assets/images/gameTitle.png"},
 
             // level select
             {id:"levelSelectTitle", src:"assets/images/levelSelectTitle.png"},
             {id:"homeButton", src:"assets/images/homeButton.png"},
+            {id:"upButton", src:"assets/images/upButton.png"},
+            {id:"downButton", src:"assets/images/downButton.png"},
             {id:"levelItemBack", src:"assets/images/levelItemBack.png"},
+            {id:"levelItemCompleteBack", src:"assets/images/levelItemCompleteBack.png"},
+            {id:"levelItemLockedBack", src:"assets/images/levelItemLockedBack.png"},
 
             // level view
             {id:"restartButton", src:"assets/images/restartButton.png"},
@@ -62,14 +67,32 @@ var Assets = Class.extend({
             {id:"levelFailInner", src:"assets/images/levelFailInner.png"},
 
             // pause
-            {id:"pauseBack", src:"assets/images/pauseBack.png"},
+            {id:"blackBack", src:"assets/images/blackBack.png"},
             {id:"pauseInner", src:"assets/images/pauseInner.png"},
             {id:"exit2Button", src:"assets/images/exit2Button.png"},
             {id:"resumeButton", src:"assets/images/resumeButton.png"},
 
+            // delete progress
+            {id:"deleteProgressInner", src:"assets/images/deleteProgressInner.png"},
+            {id:"yesButton", src:"assets/images/yesButton.png"},
+            {id:"noButton", src:"assets/images/noButton.png"},
+
+            // game complete
+            {id:"gameCompleteInner", src:"assets/images/gameCompleteInner.png"},
+
+            // credits
+            {id:"creditsInner", src:"assets/images/creditsInner.png"},
+            {id:"creditsButton", src:"assets/images/creditsButton.png"},
+            {id:"closeButton", src:"assets/images/closeButton.png"},
+            {id:"postepennoLogo", src:"assets/images/postepennoLogo.png"},
+            {id:"karataev", src:"assets/images/karataev.png"},
 
             // sounds
-            {id:"sndClick", src:"assets/sounds/click.ogg"}
+            {id:"sndClick", src:"assets/sounds/click.ogg"},
+            {id:"sndLevelComplete", src:"assets/sounds/levelComplete.ogg"},
+            {id:"sndLevelFail", src:"assets/sounds/levelFail.ogg"},
+            {id:"sndPop", src:"assets/sounds/pop.ogg"},
+            {id:"sndWobble", src:"assets/sounds/wobble.ogg"}
 
         ];
 

@@ -25,7 +25,9 @@ var Resizer = Class.extend({
         var newHeight = canvasHeight * scale;
         gameDiv.style.width = newWidth + "px";
         gameDiv.style.height = newHeight + "px";
-        gameDiv.style.left = (viewportWidth - newWidth) / 2 + "px";
+        //gameDiv.style.left = (viewportWidth - newWidth) / 2 + "px";
+        gameDiv.style.marginTop = (-newHeight / 2) + "px";
+        gameDiv.style.marginLeft = (-newWidth / 2) + "px";
 
         stage.scaleX = scale;
         stage.scaleY = scale;

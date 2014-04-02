@@ -4,9 +4,10 @@
 
 var SoundIcon = Component.extend({
 
-    init: function(parent, x, y) {
+    init: function(game, parent, x, y) {
 
         this.parent = parent;
+        this.game = game;
 
         this.holder = new createjs.Container();
         this.parent.addChild(this.holder);
@@ -38,6 +39,7 @@ var SoundIcon = Component.extend({
             case "click":
                 Sounds.toggle();
                 Sounds.play("sndClick");
+                this.game.progress.saveSound();
                 this.updateIcon();
                 break;
         }

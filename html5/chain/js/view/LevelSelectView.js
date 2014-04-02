@@ -23,52 +23,51 @@ var LevelSelectView = ComponentBox.extend({
             this.groups.push(group);
         }
 
-        this.curGroup = 0;
 
         this.addComponent( new Picture(Main.viewContainer, "levelSelectTitle", {x:0, y:10}) );
 
         var homeButton = new Button(Main.viewContainer, "homeButton", this.homeClick, this, {x:40, y:440, center:true});
         this.addComponent(homeButton);
 
-        this.scrollUp = new Button(Main.viewContainer, "homeButton", this.scrollUpClick, this, {x:280, y:440, center:true});
-        this.scrollUp.bmp.rotation = 90;
+        this.scrollUp = new Button(Main.viewContainer, "upButton", this.scrollUpClick, this, {x:280, y:440, center:true});
         this.addComponent(this.scrollUp);
 
-        this.scrollDown = new Button(Main.viewContainer, "homeButton", this.scrollDownClick, this, {x:205, y:440, center:true});
-        this.scrollDown.bmp.rotation = -90;
+        this.scrollDown = new Button(Main.viewContainer, "downButton", this.scrollDownClick, this, {x:205, y:440, center:true});
         this.addComponent(this.scrollDown);
 
-        this.scrollUp.hide();
+        this.itemsContainer.y = -Config.HEIGHT * LevelSelectView.CURRENT_GROUP_ID;
+        if (LevelSelectView.CURRENT_GROUP_ID == 0) this.scrollUp.hide();
+        else if (LevelSelectView.CURRENT_GROUP_ID == 2) this.scrollDown.hide();
     },
 
     scrollUpClick: function(bt, thisRef)
     {
-        if (thisRef.curGroup == 1) thisRef.scrollUp.scaleHide();
-        else if (thisRef.curGroup == 2) thisRef.scrollDown.scaleShow();
+        if (LevelSelectView.CURRENT_GROUP_ID == 1) thisRef.scrollUp.scaleHide();
+        else if (LevelSelectView.CURRENT_GROUP_ID == 2) thisRef.scrollDown.scaleShow();
 
-        thisRef.curGroup--;
+        LevelSelectView.CURRENT_GROUP_ID--;
 
         thisRef.scrollUp.disableClick();
         thisRef.scrollDown.disableClick();
 
         createjs.Tween.get(thisRef.itemsContainer)
-            .to({y:-Config.HEIGHT * thisRef.curGroup}, 500, createjs.Ease.quadInOut)
+            .to({y:-Config.HEIGHT * LevelSelectView.CURRENT_GROUP_ID}, 500, createjs.Ease.quadInOut)
             .call(thisRef.scrollComplete, [], thisRef)
     },
 
     scrollDownClick: function(bt, thisRef)
     {
-        if (thisRef.curGroup == 0) thisRef.scrollUp.scaleShow();
-        else if (thisRef.curGroup == 1) thisRef.scrollDown.scaleHide();
+        if (LevelSelectView.CURRENT_GROUP_ID == 0) thisRef.scrollUp.scaleShow();
+        else if (LevelSelectView.CURRENT_GROUP_ID == 1) thisRef.scrollDown.scaleHide();
 
-        thisRef.curGroup++;
+        LevelSelectView.CURRENT_GROUP_ID++;
 
         thisRef.scrollUp.disableClick();
         thisRef.scrollDown.disableClick();
 
 
         createjs.Tween.get(thisRef.itemsContainer)
-            .to({y:-Config.HEIGHT * thisRef.curGroup}, 500, createjs.Ease.quadInOut)
+            .to({y:-Config.HEIGHT * LevelSelectView.CURRENT_GROUP_ID}, 500, createjs.Ease.quadInOut)
             .call(thisRef.scrollComplete, [], thisRef)
     },
 
@@ -80,8 +79,13 @@ var LevelSelectView = ComponentBox.extend({
 
     homeClick: function(bt, thisRef)
     {
+        Fader.fade(thisRef.goHome, thisRef);
+    },
+
+    goHome:function()
+    {
         Main.removeViewByClass(LevelSelectView);
-        Main.addView( new MainMenuView(thisRef.game) );
+        Main.addView( new MainMenuView(this.game) );
     },
 
     gameStart: function()
@@ -99,3 +103,5 @@ var LevelSelectView = ComponentBox.extend({
 
 
 });
+
+LevelSelectView.CURRENT_GROUP_ID = 0;

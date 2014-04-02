@@ -23,7 +23,7 @@ var CircleExplode = ComponentBox.extend({
         //this.addComponent( new Eyes(this.holder, -Config.CIRCLE_RADIUS, -Config.CIRCLE_RADIUS, false) );
 
         createjs.Tween.get(this.holder)
-            .to({scaleX:0, scaleY:0, rotation:360}, 500)
+            .to({scaleX:2, scaleY:2, alpha:0}, 200)
             .call(this.complete, [], this);
     },
 

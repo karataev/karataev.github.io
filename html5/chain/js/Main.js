@@ -13,9 +13,9 @@ var Main = ComponentBox.extend({
 
         this._super();
 
-        gameDiv = document.getElementById("fill");
-        gameDiv.setAttribute("style","width: " + Config.WIDTH + "px; height: " + Config.HEIGHT + "px; position:absolute"); // border: 5px solid #ff0000;
-        canvas = document.getElementById("content");
+        gameDiv = document.getElementById("gameArea");
+        //gameDiv.setAttribute("style","width: " + Config.WIDTH + "px; height: " + Config.HEIGHT + "px; position:absolute"); // border: 5px solid #ff0000;
+        canvas = document.getElementById("gameCanvas");
         stage = new createjs.Stage(canvas);
 
         var resizer = new Resizer();

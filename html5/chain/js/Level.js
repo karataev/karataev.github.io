@@ -10,6 +10,9 @@ var Level = Class.extend({
         this.data = data;
 
         this.clicks = data.clicks;
+
+        this.isCompleted = false;
+        this.isOpen = false;
     }
 
 });

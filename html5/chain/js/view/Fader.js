@@ -20,9 +20,9 @@ Fader.fade = function(callback, scope)
     Fader.pic.bitmap.visible = true;
     Fader.pic.bitmap.alpha = 0;
     createjs.Tween.get(Fader.pic.bitmap)
-        .to({alpha:1}, 500)
+        .to({alpha:1}, 300)
         .call(callback, [], scope)
-        .to({alpha:0}, 500)
+        .to({alpha:0}, 300)
         .call(Fader.fadeComplete);
 
 };
