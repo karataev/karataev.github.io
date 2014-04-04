@@ -117,6 +117,14 @@ function startup()
         "Give your brain a workout. Counting is fun!"
     );
 
+    var poppingpals = new Game(
+        "Popping Pals",
+        "assets/poppingpals.png",
+        "http://postepenno.com/html5/poppingpals",
+        "Pop smileys and trigger chain reactions."
+    );
+
+    addGame(poppingpals, "#html5");
     addGame(iknowart, "#html5");
     addGame(plusone, "#html5");
 
