@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <title>Plus One</title>
+    <style type="text/css">
+        BODY, HTML  {
+            margin: 0px auto;
+            padding: 0;
+            overflow: hidden;
+        }
+    </style>
+
+    <script src="release/game.min.js"></script>
+
+    <script>
+        function startup() {
+            var element = document.getElementById("fill");
+            fgl.create(element);
+
+            fgl.onReady(function(){
+                var main = new Main();
+            });
+        }
+    </script>
+
+
+</head>
+<body onload="startup()">
+<div id="fill">
+    <img id="brand" onClick="fgl.handleBrandingClick()"/>
+    <canvas id="content" width="320" height="480">
+        This game is not available on your device.
+    </canvas>
+</div>
+
+</body>
+</html>
