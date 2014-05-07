@@ -1,0 +1,106 @@
+<!DOCTYPE HTML>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>Click Jogos API Integration HTML5 Example</title>
+        <link href="css/reset.css" rel="stylesheet" media="screen" />
+        <link href="css/api_integration.css" rel="stylesheet" media="screen" />
+        <link href='http://fonts.googleapis.com/css?family=Lato' rel='stylesheet' type='text/css'>
+
+        <!-- make require jQuery -->
+        <script type="text/javascript" src="//code.jquery.com/jquery-1.10.1.js"></script>
+
+        <!-- make require ClickJogos API -->
+        <script src="http://clickjogos.uol.com.br/assets/api.js"></script>
+
+        <!-- requires your js -->
+        <script src="js/api_integration/api_utils_example.js"></script>
+        <script src="js/api_integration/api_users_example.js"></script>
+        <script src="js/api_integration/api_services_example.js"></script>
+        <script src="js/api_integration/api_stats_example.js"></script>
+        <script src="js/init.js"></script>
+    </head>
+    <body>
+        <div class='error'>
+            <span class='display_name'> Error display </span>
+            <br>
+            <br>
+            <span class='display_name'> Method? </span>
+            <span class='method'></span>
+            <ul></ul>
+        </div>
+
+        <div class='keys'>
+            <div>
+                <label> Dev key </label>
+                <input type='text' class='dev' value='your dev key'>
+            </div>
+            <div>
+                <label> Game key </label>
+                <input type='text' class='game' value='your game key'>
+            </div>
+        </div>
+
+        <div class='content'>
+            <div>
+                <label> What is the username? </label>
+                <label class='get_username'></label>
+            </div>
+            <div>
+                <label> User logged in? </label>
+                <label class='is_signed_in'></label>
+            </div>
+
+            <div>
+                <input type='button' value='get username' class='get_username'>
+                <input type='button' value='is signed in' class='is_signed_in'>
+
+                <input type='button' value='login' class='login'>
+                <input type='button' value='subscribe' class='subscribe'>
+            </div>
+
+            <div>
+                <label> Value of achievements </label>
+                <input type='text' class='achievement_value' value='100'>
+            </div>
+
+            <div class='achievement'>
+                <label> Maximum stat </label>
+                <div>
+                    <input type='button' value='send' class='achievements' data-stat_name='maximum'>
+                    <input type='text' class='maximum' value='maximum'>
+                </div>
+            </div>
+
+            <div class='achievement'>
+                <label> Minimum stat </label>
+                <div>
+                    <input type='button' value='send' class='achievements' data-stat_name='minimum'>
+                    <input type='text' class='minimum' value='minimum'>
+                </div>
+            </div>
+
+            <div class='achievement'>
+                <label> Add stat </label>
+                <div>
+                    <input type='button' value='send' class='achievements' data-stat_name='add'>
+                    <input type='text' class='add' value='add'>
+                </div>
+            </div>
+
+            <div class='achievement'>
+                <label> Replace stat </label>
+                <div>
+                    <input type='button' value='send' class='achievements' data-stat_name='replace'>
+                    <input type='text' class='replace' value='replace'>
+                </div>
+            </div>
+        </div>
+
+        <div class='result_achievements_unlocked'>
+            <span> Stat results: </span>
+            <ul class='info'></ul>
+            <ul class='achievements'></ul>
+        </div>
+    </body>
+</html>
