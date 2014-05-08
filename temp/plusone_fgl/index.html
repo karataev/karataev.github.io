@@ -2,14 +2,7 @@
 <html>
 <head>
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-    <title>Plus One</title>
-    <style type="text/css">
-        BODY, HTML  {
-            margin: 0px auto;
-            padding: 0;
-            overflow: hidden;
-        }
-    </style>
+    <link type="text/css" rel="stylesheet" href="styles.css" />
 
     <script src="libs/createjs-2013.12.12.min.js"></script>
     <script src="libs/jquery-2.1.0.min.js"></script>
@@ -40,8 +33,7 @@
 </head>
 <body onload="startup()">
 <div id="fill">
-    <img id="brand" onClick="fgl.handleBrandingClick()"/>
-    <canvas id="content" width="320" height="480">
+    <canvas id="gameCanvas" width="320" height="480">
         This game is not available on your device.
     </canvas>
 </div>
