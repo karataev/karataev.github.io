@@ -5,6 +5,13 @@
 
 function startup()
 {
+    var drawfenderlp = new Game(
+        "Drawfender Level Pack",
+        "assets/drawlp.jpg",
+        "flash/drawlp",
+        "Draw shapes. Create constructions. Block attacks. Have fun!"
+    );
+
     var drawfender = new Game(
         "Drawfender",
         "assets/Drawfender.png",
@@ -97,7 +104,7 @@ function startup()
         "Guide your armed balloon through twenty challenging levels. Avoid accidents and shoot down any enemy balloons you encounter."
     );
 
-    var flashGames = [drawfender, nsp, wutb5, wutb4, wutb3, sp, sticks, wutb2, wtr, wutb, splitter2, gen, splitter, airbattle];
+    var flashGames = [drawfenderlp, drawfender, nsp, wutb5, wutb4, wutb3, sp, sticks, wutb2, wtr, wutb, splitter2, gen, splitter, airbattle];
     for (var i = 0; i < flashGames.length; i++)
     {
         addGame(flashGames[i], "#flash");
