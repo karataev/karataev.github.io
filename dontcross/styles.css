@@ -1,0 +1,25 @@
+
+body, html {
+    background: #ebe7da;
+}
+
+#central {
+    border: 3px solid #888888;
+    border-radius: 25px;
+    background: white;
+    padding: 10px;
+
+    max-width: 600px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 10px;
+/*
+    text-align: center;
+*/
+}
+
+.game-image {
+    -moz-border-radius: 25px;
+    border-radius: 25px;
+
+}
