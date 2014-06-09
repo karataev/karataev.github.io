@@ -131,9 +131,17 @@ function startup()
         "Pop smileys and trigger chain reactions."
     );
 
+    var dontcross = new Game(
+        "Don't Cross the Line",
+        "assets/dontcross.png",
+        "http://postepenno.com/html5/dontcross",
+        "Wreck your brain and untangle the lines in order to progress!"
+    );
+
     addGame(poppingpals, "#html5");
     addGame(iknowart, "#html5");
     addGame(plusone, "#html5");
+    addGame(dontcross, "#html5");
 
 }
 
