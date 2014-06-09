@@ -138,10 +138,10 @@ function startup()
         "Wreck your brain and untangle the lines in order to progress!"
     );
 
+    addGame(dontcross, "#html5");
     addGame(poppingpals, "#html5");
     addGame(iknowart, "#html5");
     addGame(plusone, "#html5");
-    addGame(dontcross, "#html5");
 
 }
 
