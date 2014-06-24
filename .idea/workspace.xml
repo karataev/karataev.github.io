@@ -1,11 +1,69 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="49936aeb-a0f4-4a42-8ee1-db97121b12c9" name="Default" comment="Art is Awesome&#10;Main Menu titles on all languages">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/artisawesome/assets/images/mainTitleFR.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/artisawesome/assets/images/mainTitleGE.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/artisawesome/assets/images/mainTitleIT.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/artisawesome/assets/images/mainTitleSP.png" />
+    <list default="true" id="49936aeb-a0f4-4a42-8ee1-db97121b12c9" name="Default" comment="Don't Cross the Line&#10;CJ APP">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/dctl_cjapp/assets/images/background.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/dctl_cjapp/assets/images/blackBack.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/dctl_cjapp/assets/images/cjsplash.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/dctl_cjapp/assets/images/clearProgressBox.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/dctl_cjapp/assets/images/closeButton.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/dctl_cjapp/assets/images/creditsBox.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/dctl_cjapp/assets/images/creditsButton.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/dctl_cjapp/assets/images/creditsTitle.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/dctl_cjapp/assets/images/deleteProgressTitle.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/dctl_cjapp/assets/images/dialogBig.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/dctl_cjapp/assets/images/dialogMedium.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/dctl_cjapp/assets/images/dialogSmall.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/dctl_cjapp/assets/images/downButton.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/dctl_cjapp/assets/images/dragItem.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/dctl_cjapp/assets/images/dragItem2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/dctl_cjapp/assets/images/dragItem3.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/dctl_cjapp/assets/images/dragItem4.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/dctl_cjapp/assets/images/dragItemFixed.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/dctl_cjapp/assets/images/dragItemSelection.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/dctl_cjapp/assets/images/editorButton.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/dctl_cjapp/assets/images/fader.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/dctl_cjapp/assets/images/focusLostBox.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/dctl_cjapp/assets/images/gameCompleteBox.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/dctl_cjapp/assets/images/gameTitle.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/dctl_cjapp/assets/images/homeButton.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/dctl_cjapp/assets/images/levelCompleteBack.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/dctl_cjapp/assets/images/levelCompleteTitle.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/dctl_cjapp/assets/images/levelItemBack.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/dctl_cjapp/assets/images/levelItemCompleteBack.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/dctl_cjapp/assets/images/levelItemLockedBack.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/dctl_cjapp/assets/images/levelSelectTitle.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/dctl_cjapp/assets/images/levelUIBack.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/dctl_cjapp/assets/images/levelsButton.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/dctl_cjapp/assets/sounds/music.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/dctl_cjapp/assets/sounds/music.ogg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/dctl_cjapp/assets/images/newRecord.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/dctl_cjapp/assets/images/nextButton.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/dctl_cjapp/assets/images/noButton.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/dctl_cjapp/assets/images/pauseBox.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/dctl_cjapp/assets/images/pauseButton.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/dctl_cjapp/assets/images/pauseTitle.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/dctl_cjapp/assets/images/playButton.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/dctl_cjapp/assets/images/playButton2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/dctl_cjapp/assets/images/postepennoLogo.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/dctl_cjapp/assets/images/restartButton.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/dctl_cjapp/assets/images/saveButton.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/dctl_cjapp/assets/images/shuffleButton.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/dctl_cjapp/assets/sounds/sndClick.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/dctl_cjapp/assets/sounds/sndClick.ogg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/dctl_cjapp/assets/sounds/sndLevelComplete.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/dctl_cjapp/assets/sounds/sndLevelComplete.ogg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/dctl_cjapp/assets/images/soundIconOff.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/dctl_cjapp/assets/images/soundIconOn.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/dctl_cjapp/assets/images/timerIcon.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/dctl_cjapp/assets/images/upButton.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/dctl_cjapp/assets/images/yesButton.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/dctl_cjapp/libs/Class.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/dctl_cjapp/libs/createjs-2013.12.12.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/dctl_cjapp/release/game.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/dctl_cjapp/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/dctl_cjapp/libs/jquery-2.1.0.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/dctl_cjapp/styles.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="postepenno.github.io.iws" />
@@ -16,7 +74,7 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="true" />
   <component name="CreatePatchCommitExecutor">
     <option name="PATCH_PATH" value="" />
   </component>
@@ -39,11 +97,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="main.js" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="main.js" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/js/main.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.5648734" vertical-offset="1734" max-vertical-offset="2958">
-              <caret line="123" column="53" selection-start-line="123" selection-start-column="53" selection-end-line="123" selection-end-column="53" />
+            <state vertical-scroll-proportion="0.0" vertical-offset="1530" max-vertical-offset="2958">
+              <caret line="107" column="47" selection-start-line="107" selection-start-column="47" selection-end-line="107" selection-end-column="47" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.html" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/dontcross/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.7046632" vertical-offset="0" max-vertical-offset="646">
+              <caret line="24" column="4" selection-start-line="24" selection-start-column="4" selection-end-line="24" selection-end-column="4" />
               <folding />
             </state>
           </provider>
@@ -90,6 +158,7 @@
         <option value="$PROJECT_DIR$/js/main.js" />
         <option value="$PROJECT_DIR$/html5/dontcross/index.html" />
         <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/dontcross/index.html" />
       </list>
     </option>
   </component>
@@ -125,7 +194,6 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -168,44 +236,13 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="html5" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="postepenno.github.io" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="postepenno.github.io" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="html5" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
               <option name="myItemId" value="dontcross" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="postepenno.github.io" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="postepenno.github.io" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="flash" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -302,31 +339,67 @@
       <created>1402458189997</created>
       <updated>1402458189997</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Art is Awesome&#10;Main Menu titles on all languages">
+      <created>1402458255745</created>
+      <updated>1402458255745</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Art is Awesome&#10;Main Menu titles on all languages">
+      <created>1402458354893</created>
+      <updated>1402458354893</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Don't Cross description change">
+      <created>1402555048809</created>
+      <updated>1402555048809</updated>
+    </task>
+    <task id="LOCAL-00008" summary="temp -&gt; html5">
+      <created>1402555226825</created>
+      <updated>1402555226825</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Drawfender Template">
+      <created>1402648156143</created>
+      <updated>1402648156143</updated>
+    </task>
+    <task id="LOCAL-00010" summary="DrawfenderTemplate">
+      <created>1402648434405</created>
+      <updated>1402648434405</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Don't Cross the Line. Android stock browser bug fix.">
+      <created>1402902653644</created>
+      <updated>1402902653644</updated>
+    </task>
+    <task id="LOCAL-00012" summary="SQUIRREL bug.&#10;MoreGames link update.">
+      <created>1402921762444</created>
+      <updated>1402921762444</updated>
+    </task>
+    <task id="LOCAL-00013" summary="Fixed bug with duplicating canvas in preloader.">
+      <created>1402990756971</created>
+      <updated>1402990756971</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="54" y="-8" width="1874" height="1096" extended-state="6" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Changes" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.29925454" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32943678" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.2986185" sideWeight="0.49972782" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.17310832" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.19914803" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.19808307" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.29925454" sideWeight="0.50027215" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.29499468" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
     </layout>
   </component>
   <component name="Vcs.Log.UiProperties">
@@ -348,20 +421,20 @@
     <MESSAGE value="Smile remove" />
     <MESSAGE value="DCTL 0.97" />
     <MESSAGE value="Art is Awesome&#10;Main Menu titles on all languages" />
-    <option name="LAST_COMMIT_MESSAGE" value="Art is Awesome&#10;Main Menu titles on all languages" />
+    <MESSAGE value="Don't Cross description change" />
+    <MESSAGE value="temp -&gt; html5" />
+    <MESSAGE value="Drawfender Template" />
+    <MESSAGE value="DrawfenderTemplate" />
+    <MESSAGE value="Don't Cross the Line. Android stock browser bug fix." />
+    <MESSAGE value="SQUIRREL bug.&#10;MoreGames link update." />
+    <MESSAGE value="Fixed bug with duplicating canvas in preloader." />
+    <MESSAGE value="Don't Cross the Line&#10;CJ APP" />
+    <option name="LAST_COMMIT_MESSAGE" value="Don't Cross the Line&#10;CJ APP" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="867">
-          <caret line="44" column="0" selection-start-line="44" selection-start-column="0" selection-end-line="44" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/js/main.js">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="1496" max-vertical-offset="2822">
@@ -701,13 +774,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/html5/dontcross/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-7.8461537" vertical-offset="0" max-vertical-offset="578">
-          <caret line="12" column="38" selection-start-line="12" selection-start-column="38" selection-end-line="12" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="238" max-vertical-offset="867">
@@ -716,10 +782,25 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/html5/dontcross/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.2905983" vertical-offset="0" max-vertical-offset="702">
+          <caret line="12" column="38" selection-start-line="12" selection-start-column="38" selection-end-line="12" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/js/main.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.5648734" vertical-offset="1734" max-vertical-offset="2958">
-          <caret line="123" column="53" selection-start-line="123" selection-start-column="53" selection-end-line="123" selection-end-column="53" />
+        <state vertical-scroll-proportion="0.0" vertical-offset="1530" max-vertical-offset="2958">
+          <caret line="107" column="47" selection-start-line="107" selection-start-column="47" selection-end-line="107" selection-end-column="47" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dontcross/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.7046632" vertical-offset="0" max-vertical-offset="646">
+          <caret line="24" column="4" selection-start-line="24" selection-start-column="4" selection-end-line="24" selection-end-column="4" />
           <folding />
         </state>
       </provider>
