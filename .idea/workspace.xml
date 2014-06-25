@@ -1,69 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="49936aeb-a0f4-4a42-8ee1-db97121b12c9" name="Default" comment="Don't Cross the Line&#10;CJ APP">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/dctl_cjapp/assets/images/background.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/dctl_cjapp/assets/images/blackBack.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/dctl_cjapp/assets/images/cjsplash.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/dctl_cjapp/assets/images/clearProgressBox.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/dctl_cjapp/assets/images/closeButton.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/dctl_cjapp/assets/images/creditsBox.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/dctl_cjapp/assets/images/creditsButton.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/dctl_cjapp/assets/images/creditsTitle.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/dctl_cjapp/assets/images/deleteProgressTitle.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/dctl_cjapp/assets/images/dialogBig.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/dctl_cjapp/assets/images/dialogMedium.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/dctl_cjapp/assets/images/dialogSmall.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/dctl_cjapp/assets/images/downButton.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/dctl_cjapp/assets/images/dragItem.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/dctl_cjapp/assets/images/dragItem2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/dctl_cjapp/assets/images/dragItem3.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/dctl_cjapp/assets/images/dragItem4.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/dctl_cjapp/assets/images/dragItemFixed.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/dctl_cjapp/assets/images/dragItemSelection.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/dctl_cjapp/assets/images/editorButton.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/dctl_cjapp/assets/images/fader.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/dctl_cjapp/assets/images/focusLostBox.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/dctl_cjapp/assets/images/gameCompleteBox.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/dctl_cjapp/assets/images/gameTitle.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/dctl_cjapp/assets/images/homeButton.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/dctl_cjapp/assets/images/levelCompleteBack.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/dctl_cjapp/assets/images/levelCompleteTitle.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/dctl_cjapp/assets/images/levelItemBack.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/dctl_cjapp/assets/images/levelItemCompleteBack.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/dctl_cjapp/assets/images/levelItemLockedBack.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/dctl_cjapp/assets/images/levelSelectTitle.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/dctl_cjapp/assets/images/levelUIBack.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/dctl_cjapp/assets/images/levelsButton.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/dctl_cjapp/assets/sounds/music.mp3" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/dctl_cjapp/assets/sounds/music.ogg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/dctl_cjapp/assets/images/newRecord.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/dctl_cjapp/assets/images/nextButton.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/dctl_cjapp/assets/images/noButton.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/dctl_cjapp/assets/images/pauseBox.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/dctl_cjapp/assets/images/pauseButton.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/dctl_cjapp/assets/images/pauseTitle.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/dctl_cjapp/assets/images/playButton.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/dctl_cjapp/assets/images/playButton2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/dctl_cjapp/assets/images/postepennoLogo.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/dctl_cjapp/assets/images/restartButton.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/dctl_cjapp/assets/images/saveButton.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/dctl_cjapp/assets/images/shuffleButton.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/dctl_cjapp/assets/sounds/sndClick.mp3" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/dctl_cjapp/assets/sounds/sndClick.ogg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/dctl_cjapp/assets/sounds/sndLevelComplete.mp3" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/dctl_cjapp/assets/sounds/sndLevelComplete.ogg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/dctl_cjapp/assets/images/soundIconOff.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/dctl_cjapp/assets/images/soundIconOn.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/dctl_cjapp/assets/images/timerIcon.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/dctl_cjapp/assets/images/upButton.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/dctl_cjapp/assets/images/yesButton.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/dctl_cjapp/libs/Class.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/dctl_cjapp/libs/createjs-2013.12.12.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/dctl_cjapp/release/game.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/dctl_cjapp/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/dctl_cjapp/libs/jquery-2.1.0.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/dctl_cjapp/styles.css" />
+    <list default="true" id="49936aeb-a0f4-4a42-8ee1-db97121b12c9" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/dctl_cjapp/assets/images/cjlogo.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/temp/dctl_cjapp/release/game.min.js" afterPath="$PROJECT_DIR$/temp/dctl_cjapp/release/game.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/temp/dctl_cjapp/index.html" afterPath="$PROJECT_DIR$/temp/dctl_cjapp/index.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="postepenno.github.io.iws" />
@@ -110,8 +51,8 @@
       <file leaf-file-name="index.html" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/dontcross/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.7046632" vertical-offset="0" max-vertical-offset="646">
-              <caret line="24" column="4" selection-start-line="24" selection-start-column="4" selection-end-line="24" selection-end-column="4" />
+            <state vertical-scroll-proportion="0.53125" vertical-offset="0" max-vertical-offset="646">
+              <caret line="19" column="44" selection-start-line="19" selection-start-column="44" selection-end-line="19" selection-end-column="44" />
               <folding />
             </state>
           </provider>
@@ -194,6 +135,7 @@
       <sortByType />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -242,7 +184,6 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -269,6 +210,14 @@
       <ConfigurationWrapper RunnerId="JavascriptDebugRunner" />
       <method />
     </configuration>
+    <configuration default="true" type="DartUnitRunConfigurationType" factoryName="DartUnit">
+      <option name="VMOptions" />
+      <option name="arguments" />
+      <option name="filePath" />
+      <option name="scope" value="ALL" />
+      <option name="testName" />
+      <method />
+    </configuration>
     <configuration default="true" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
       <option name="VMOptions" />
       <option name="arguments" />
@@ -279,23 +228,15 @@
       <option name="showConsoleOnStdOut" value="false" />
       <method />
     </configuration>
-    <configuration default="true" type="DartUnitRunConfigurationType" factoryName="DartUnit">
-      <option name="VMOptions" />
-      <option name="arguments" />
-      <option name="filePath" />
-      <option name="scope" value="ALL" />
-      <option name="testName" />
-      <method />
-    </configuration>
-    <configuration default="true" type="JavaScriptTestRunnerKarma" factoryName="Karma" config-file="">
-      <envs />
-      <method />
-    </configuration>
     <configuration default="true" type="JSTestDriver:ConfigurationType" factoryName="JsTestDriver">
       <setting name="configLocationType" value="CONFIG_FILE" />
       <setting name="settingsFile" value="" />
       <setting name="serverType" value="INTERNAL" />
       <setting name="preferredDebugBrowser" value="Chrome" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerKarma" factoryName="Karma" config-file="">
+      <envs />
       <method />
     </configuration>
     <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
@@ -375,15 +316,18 @@
       <created>1402990756971</created>
       <updated>1402990756971</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="Don't Cross the Line&#10;CJ APP">
+      <created>1403583886002</created>
+      <updated>1403583886002</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="54" y="-8" width="1874" height="1096" extended-state="6" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32943678" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.2986185" sideWeight="0.49972782" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Changes" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2986185" sideWeight="0.49972782" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -395,11 +339,12 @@
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.29499468" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.33013844" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="Vcs.Log.UiProperties">
@@ -799,8 +744,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/dontcross/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.7046632" vertical-offset="0" max-vertical-offset="646">
-          <caret line="24" column="4" selection-start-line="24" selection-start-column="4" selection-end-line="24" selection-end-column="4" />
+        <state vertical-scroll-proportion="0.53125" vertical-offset="0" max-vertical-offset="646">
+          <caret line="19" column="44" selection-start-line="19" selection-start-column="44" selection-end-line="19" selection-end-column="44" />
           <folding />
         </state>
       </provider>
