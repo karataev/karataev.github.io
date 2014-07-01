@@ -1,68 +1,80 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="49936aeb-a0f4-4a42-8ee1-db97121b12c9" name="Default" comment="Don't Cross the Line&#10;CJ APP">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/dontcross_wuki/assets/images/background.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/dontcross_wuki/assets/images/blackBack.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/dontcross_wuki/assets/images/clearProgressBox.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/dontcross_wuki/assets/images/closeButton.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/dontcross_wuki/assets/images/creditsBox.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/dontcross_wuki/assets/images/creditsButton.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/dontcross_wuki/assets/images/creditsTitle.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/dontcross_wuki/assets/images/deleteProgressTitle.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/dontcross_wuki/assets/images/dialogBig.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/dontcross_wuki/assets/images/dialogMedium.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/dontcross_wuki/assets/images/dialogSmall.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/dontcross_wuki/assets/images/downButton.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/dontcross_wuki/assets/images/dragItem.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/dontcross_wuki/assets/images/dragItem2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/dontcross_wuki/assets/images/dragItem3.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/dontcross_wuki/assets/images/dragItem4.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/dontcross_wuki/assets/images/dragItemFixed.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/dontcross_wuki/assets/images/dragItemSelection.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/dontcross_wuki/assets/images/editorButton.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/dontcross_wuki/assets/images/fader.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/dontcross_wuki/assets/images/focusLostBox.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/dontcross_wuki/assets/images/gameCompleteBox.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/dontcross_wuki/assets/images/gameTitle.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/dontcross_wuki/assets/images/homeButton.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/dontcross_wuki/assets/images/levelCompleteBack.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/dontcross_wuki/assets/images/levelCompleteTitle.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/dontcross_wuki/assets/images/levelItemBack.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/dontcross_wuki/assets/images/levelItemCompleteBack.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/dontcross_wuki/assets/images/levelItemLockedBack.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/dontcross_wuki/assets/images/levelSelectTitle.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/dontcross_wuki/assets/images/levelUIBack.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/dontcross_wuki/assets/images/levelsButton.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/dontcross_wuki/assets/sounds/music.mp3" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/dontcross_wuki/assets/sounds/music.ogg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/dontcross_wuki/assets/images/newRecord.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/dontcross_wuki/assets/images/nextButton.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/dontcross_wuki/assets/images/noButton.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/dontcross_wuki/assets/images/pauseBox.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/dontcross_wuki/assets/images/pauseButton.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/dontcross_wuki/assets/images/pauseTitle.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/dontcross_wuki/assets/images/playButton.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/dontcross_wuki/assets/images/playButton2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/dontcross_wuki/assets/images/postepennoLogo.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/dontcross_wuki/assets/images/restartButton.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/dontcross_wuki/assets/images/saveButton.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/dontcross_wuki/assets/images/shuffleButton.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/dontcross_wuki/assets/sounds/sndClick.mp3" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/dontcross_wuki/assets/sounds/sndClick.ogg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/dontcross_wuki/assets/sounds/sndLevelComplete.mp3" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/dontcross_wuki/assets/sounds/sndLevelComplete.ogg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/dontcross_wuki/assets/images/soundIconOff.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/dontcross_wuki/assets/images/soundIconOn.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/dontcross_wuki/assets/images/timerIcon.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/dontcross_wuki/assets/images/upButton.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/dontcross_wuki/assets/images/yesButton.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/dontcross_wuki/libs/Class.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/dontcross_wuki/libs/createjs-2013.12.12.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/dontcross_wuki/release/game.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/dontcross_wuki/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/dontcross_wuki/libs/jquery-2.1.0.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/dontcross_wuki/styles.css" />
+    <list default="true" id="49936aeb-a0f4-4a42-8ee1-db97121b12c9" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/poppingpals_kurplink/assets/images/background.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/poppingpals_kurplink/assets/images/blackBack.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/poppingpals_kurplink/assets/images/bullet.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/poppingpals_kurplink/assets/images/circle.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/poppingpals_kurplink/assets/images/circle2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/poppingpals_kurplink/assets/images/circle3.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/poppingpals_kurplink/assets/images/circle4.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/poppingpals_kurplink/assets/images/closeButton.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/poppingpals_kurplink/assets/images/cloud1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/poppingpals_kurplink/assets/images/cloud2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/poppingpals_kurplink/assets/images/cloud3.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/poppingpals_kurplink/assets/images/cloud4.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/poppingpals_kurplink/assets/images/creditsButton.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/poppingpals_kurplink/assets/images/creditsInner.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/poppingpals_kurplink/assets/images/creditsTitle.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/poppingpals_kurplink/assets/images/deleteProgressInner.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/poppingpals_kurplink/assets/images/deleteProgressTitle.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/poppingpals_kurplink/assets/images/dialogBig.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/poppingpals_kurplink/assets/images/dialogMedium.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/poppingpals_kurplink/assets/images/dialogSmall.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/poppingpals_kurplink/assets/images/downButton.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/poppingpals_kurplink/assets/images/exit2Button.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/poppingpals_kurplink/assets/images/exit2ButtonBig.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/poppingpals_kurplink/assets/images/eyesAnim.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/poppingpals_kurplink/assets/images/eyesStatic.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/poppingpals_kurplink/assets/images/fader.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/poppingpals_kurplink/assets/images/gameCompleteInner.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/poppingpals_kurplink/assets/images/gameCompleteTitle.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/poppingpals_kurplink/assets/images/gameTitle.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/poppingpals_kurplink/assets/images/homeButton.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/poppingpals_kurplink/assets/images/karataev.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/poppingpals_kurplink/assets/images/kurplink-logo.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/poppingpals_kurplink/assets/images/levelCompleteInner.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/poppingpals_kurplink/assets/images/levelCompleteTitle.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/poppingpals_kurplink/assets/images/levelFailInner.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/poppingpals_kurplink/assets/images/levelFailTitle.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/poppingpals_kurplink/assets/images/levelItemBack.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/poppingpals_kurplink/assets/images/levelItemCompleteBack.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/poppingpals_kurplink/assets/images/levelItemLockedBack.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/poppingpals_kurplink/assets/images/levelSelectTitle.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/poppingpals_kurplink/assets/images/levelUIBack.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/poppingpals_kurplink/assets/images/menuButton.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/poppingpals_kurplink/assets/sounds/music.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/poppingpals_kurplink/assets/sounds/music.ogg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/poppingpals_kurplink/assets/images/musicby.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/poppingpals_kurplink/assets/images/nextButton.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/poppingpals_kurplink/assets/images/noButton.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/poppingpals_kurplink/assets/images/pauseButton.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/poppingpals_kurplink/assets/images/pauseInner.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/poppingpals_kurplink/assets/images/pauseTitle.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/poppingpals_kurplink/assets/images/playButton.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/poppingpals_kurplink/assets/images/postepennoLogo.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/poppingpals_kurplink/assets/images/restartButton.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/poppingpals_kurplink/assets/images/resumeButton.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/poppingpals_kurplink/assets/sounds/sndClick.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/poppingpals_kurplink/assets/sounds/sndClick.ogg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/poppingpals_kurplink/assets/sounds/sndLevelComplete.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/poppingpals_kurplink/assets/sounds/sndLevelComplete.ogg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/poppingpals_kurplink/assets/sounds/sndLevelFail.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/poppingpals_kurplink/assets/sounds/sndLevelFail.ogg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/poppingpals_kurplink/assets/sounds/sndPop.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/poppingpals_kurplink/assets/sounds/sndPop.ogg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/poppingpals_kurplink/assets/sounds/sndWobble.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/poppingpals_kurplink/assets/sounds/sndWobble.ogg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/poppingpals_kurplink/assets/images/soundIconOff.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/poppingpals_kurplink/assets/images/soundIconOn.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/poppingpals_kurplink/assets/images/upButton.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/poppingpals_kurplink/assets/images/yesButton.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/poppingpals_kurplink/libs/Class.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/poppingpals_kurplink/libs/createjs-2013.12.12.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/poppingpals_kurplink/release/game.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/poppingpals_kurplink/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/poppingpals_kurplink/libs/jquery-2.1.0.min.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="postepenno.github.io.iws" />
@@ -99,7 +111,7 @@
       <file leaf-file-name="main.js" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/js/main.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.45583597" vertical-offset="1819" max-vertical-offset="2958">
+            <state vertical-scroll-proportion="0.4572785" vertical-offset="1819" max-vertical-offset="2958">
               <caret line="124" column="6" selection-start-line="124" selection-start-column="6" selection-end-line="124" selection-end-column="6" />
               <folding />
             </state>
@@ -193,6 +205,7 @@
       <sortByType />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -259,7 +272,6 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -286,14 +298,6 @@
       <ConfigurationWrapper RunnerId="JavascriptDebugRunner" />
       <method />
     </configuration>
-    <configuration default="true" type="DartUnitRunConfigurationType" factoryName="DartUnit">
-      <option name="VMOptions" />
-      <option name="arguments" />
-      <option name="filePath" />
-      <option name="scope" value="ALL" />
-      <option name="testName" />
-      <method />
-    </configuration>
     <configuration default="true" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
       <option name="VMOptions" />
       <option name="arguments" />
@@ -304,21 +308,29 @@
       <option name="showConsoleOnStdOut" value="false" />
       <method />
     </configuration>
-    <configuration default="true" type="JSTestDriver:ConfigurationType" factoryName="JsTestDriver">
-      <setting name="configLocationType" value="CONFIG_FILE" />
-      <setting name="settingsFile" value="" />
-      <setting name="serverType" value="INTERNAL" />
-      <setting name="preferredDebugBrowser" value="Chrome" />
-      <method />
-    </configuration>
-    <configuration default="true" type="JavaScriptTestRunnerKarma" factoryName="Karma" config-file="">
-      <envs />
+    <configuration default="true" type="DartUnitRunConfigurationType" factoryName="DartUnit">
+      <option name="VMOptions" />
+      <option name="arguments" />
+      <option name="filePath" />
+      <option name="scope" value="ALL" />
+      <option name="testName" />
       <method />
     </configuration>
     <configuration default="true" type="CucumberJavaScriptRunConfigurationType" factoryName="Cucumber.js">
       <option name="cucumberJsArguments" />
       <option name="executablePath" />
       <option name="filePath" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerKarma" factoryName="Karma" config-file="">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JSTestDriver:ConfigurationType" factoryName="JsTestDriver">
+      <setting name="configLocationType" value="CONFIG_FILE" />
+      <setting name="settingsFile" value="" />
+      <setting name="serverType" value="INTERNAL" />
+      <setting name="preferredDebugBrowser" value="Chrome" />
       <method />
     </configuration>
     <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
@@ -414,14 +426,22 @@
       <created>1403788648435</created>
       <updated>1403788648435</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="Dont Cross (WUKI)">
+      <created>1403938971073</created>
+      <updated>1403938971073</updated>
+    </task>
+    <task id="LOCAL-00019" summary="Dont Cross (WUKI)">
+      <created>1403940000674</created>
+      <updated>1403940000674</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="54" y="-8" width="1874" height="1096" extended-state="6" />
     <editor active="false" />
     <layout>
-      <window_info id="Changes" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2986185" sideWeight="0.49972782" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Changes" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.29925454" sideWeight="0.49972782" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -469,7 +489,8 @@
     <MESSAGE value="Fixed bug with duplicating canvas in preloader." />
     <MESSAGE value="Don't Cross the Line&#10;CJ APP" />
     <MESSAGE value="Phaser Scale Test" />
-    <option name="LAST_COMMIT_MESSAGE" value="Phaser Scale Test" />
+    <MESSAGE value="Dont Cross (WUKI)" />
+    <option name="LAST_COMMIT_MESSAGE" value="Dont Cross (WUKI)" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -839,7 +860,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/js/main.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.45583597" vertical-offset="1819" max-vertical-offset="2958">
+        <state vertical-scroll-proportion="0.4572785" vertical-offset="1819" max-vertical-offset="2958">
           <caret line="124" column="6" selection-start-line="124" selection-start-column="6" selection-end-line="124" selection-end-column="6" />
           <folding />
         </state>
