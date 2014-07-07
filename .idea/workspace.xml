@@ -2,79 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="49936aeb-a0f4-4a42-8ee1-db97121b12c9" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/poppingpals_kurplink/assets/images/background.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/poppingpals_kurplink/assets/images/blackBack.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/poppingpals_kurplink/assets/images/bullet.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/poppingpals_kurplink/assets/images/circle.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/poppingpals_kurplink/assets/images/circle2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/poppingpals_kurplink/assets/images/circle3.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/poppingpals_kurplink/assets/images/circle4.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/poppingpals_kurplink/assets/images/closeButton.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/poppingpals_kurplink/assets/images/cloud1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/poppingpals_kurplink/assets/images/cloud2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/poppingpals_kurplink/assets/images/cloud3.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/poppingpals_kurplink/assets/images/cloud4.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/poppingpals_kurplink/assets/images/creditsButton.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/poppingpals_kurplink/assets/images/creditsInner.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/poppingpals_kurplink/assets/images/creditsTitle.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/poppingpals_kurplink/assets/images/deleteProgressInner.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/poppingpals_kurplink/assets/images/deleteProgressTitle.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/poppingpals_kurplink/assets/images/dialogBig.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/poppingpals_kurplink/assets/images/dialogMedium.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/poppingpals_kurplink/assets/images/dialogSmall.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/poppingpals_kurplink/assets/images/downButton.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/poppingpals_kurplink/assets/images/exit2Button.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/poppingpals_kurplink/assets/images/exit2ButtonBig.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/poppingpals_kurplink/assets/images/eyesAnim.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/poppingpals_kurplink/assets/images/eyesStatic.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/poppingpals_kurplink/assets/images/fader.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/poppingpals_kurplink/assets/images/gameCompleteInner.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/poppingpals_kurplink/assets/images/gameCompleteTitle.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/poppingpals_kurplink/assets/images/gameTitle.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/poppingpals_kurplink/assets/images/homeButton.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/poppingpals_kurplink/assets/images/karataev.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/poppingpals_kurplink/assets/images/kurplink-logo.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/poppingpals_kurplink/assets/images/levelCompleteInner.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/poppingpals_kurplink/assets/images/levelCompleteTitle.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/poppingpals_kurplink/assets/images/levelFailInner.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/poppingpals_kurplink/assets/images/levelFailTitle.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/poppingpals_kurplink/assets/images/levelItemBack.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/poppingpals_kurplink/assets/images/levelItemCompleteBack.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/poppingpals_kurplink/assets/images/levelItemLockedBack.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/poppingpals_kurplink/assets/images/levelSelectTitle.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/poppingpals_kurplink/assets/images/levelUIBack.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/poppingpals_kurplink/assets/images/menuButton.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/poppingpals_kurplink/assets/sounds/music.mp3" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/poppingpals_kurplink/assets/sounds/music.ogg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/poppingpals_kurplink/assets/images/musicby.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/poppingpals_kurplink/assets/images/nextButton.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/poppingpals_kurplink/assets/images/noButton.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/poppingpals_kurplink/assets/images/pauseButton.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/poppingpals_kurplink/assets/images/pauseInner.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/poppingpals_kurplink/assets/images/pauseTitle.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/poppingpals_kurplink/assets/images/playButton.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/poppingpals_kurplink/assets/images/postepennoLogo.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/poppingpals_kurplink/assets/images/restartButton.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/poppingpals_kurplink/assets/images/resumeButton.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/poppingpals_kurplink/assets/sounds/sndClick.mp3" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/poppingpals_kurplink/assets/sounds/sndClick.ogg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/poppingpals_kurplink/assets/sounds/sndLevelComplete.mp3" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/poppingpals_kurplink/assets/sounds/sndLevelComplete.ogg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/poppingpals_kurplink/assets/sounds/sndLevelFail.mp3" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/poppingpals_kurplink/assets/sounds/sndLevelFail.ogg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/poppingpals_kurplink/assets/sounds/sndPop.mp3" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/poppingpals_kurplink/assets/sounds/sndPop.ogg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/poppingpals_kurplink/assets/sounds/sndWobble.mp3" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/poppingpals_kurplink/assets/sounds/sndWobble.ogg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/poppingpals_kurplink/assets/images/soundIconOff.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/poppingpals_kurplink/assets/images/soundIconOn.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/poppingpals_kurplink/assets/images/upButton.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/poppingpals_kurplink/assets/images/yesButton.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/poppingpals_kurplink/libs/Class.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/poppingpals_kurplink/libs/createjs-2013.12.12.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/poppingpals_kurplink/release/game.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/poppingpals_kurplink/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/poppingpals_kurplink/libs/jquery-2.1.0.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/html5/dontcross/assets/images/preloadBar.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/html5/dontcross/assets/images/preloadBarHolder.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/html5/dontcross/libs/phaser.min.js" />
+      <change type="DELETED" beforePath="D:\GitHub\postepenno.github.io\html5\dontcross\assets\images\background.jpg" afterPath="" />
+      <change type="DELETED" beforePath="D:\GitHub\postepenno.github.io\html5\dontcross\assets\images\jeansBack.jpg" afterPath="" />
+      <change type="DELETED" beforePath="D:\GitHub\postepenno.github.io\html5\dontcross\libs\createjs-2013.12.12.min.js" afterPath="" />
+      <change type="DELETED" beforePath="D:\GitHub\postepenno.github.io\html5\dontcross\libs\jquery-2.1.0.min.js" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/html5/dontcross/release/game.min.js" afterPath="$PROJECT_DIR$/html5/dontcross/release/game.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/html5/dontcross/index.html" afterPath="$PROJECT_DIR$/html5/dontcross/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/html5/dontcross/styles.css" afterPath="$PROJECT_DIR$/html5/dontcross/styles.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="postepenno.github.io.iws" />
@@ -98,21 +35,21 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="index.html" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="238" max-vertical-offset="867">
-              <caret line="14" column="4" selection-start-line="14" selection-start-column="4" selection-end-line="14" selection-end-column="4" />
+            <state vertical-scroll-proportion="0.25247526" vertical-offset="0" max-vertical-offset="867">
+              <caret line="9" column="11" selection-start-line="9" selection-start-column="11" selection-end-line="9" selection-end-column="11" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="main.js" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="main.js" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/js/main.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.4572785" vertical-offset="1819" max-vertical-offset="2958">
-              <caret line="124" column="6" selection-start-line="124" selection-start-column="6" selection-end-line="124" selection-end-column="6" />
+            <state vertical-scroll-proportion="0.0" vertical-offset="2193" max-vertical-offset="2958">
+              <caret line="129" column="50" selection-start-line="129" selection-start-column="50" selection-end-line="129" selection-end-column="50" />
               <folding />
             </state>
           </provider>
@@ -298,6 +235,14 @@
       <ConfigurationWrapper RunnerId="JavascriptDebugRunner" />
       <method />
     </configuration>
+    <configuration default="true" type="DartUnitRunConfigurationType" factoryName="DartUnit">
+      <option name="VMOptions" />
+      <option name="arguments" />
+      <option name="filePath" />
+      <option name="scope" value="ALL" />
+      <option name="testName" />
+      <method />
+    </configuration>
     <configuration default="true" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
       <option name="VMOptions" />
       <option name="arguments" />
@@ -308,29 +253,21 @@
       <option name="showConsoleOnStdOut" value="false" />
       <method />
     </configuration>
-    <configuration default="true" type="DartUnitRunConfigurationType" factoryName="DartUnit">
-      <option name="VMOptions" />
-      <option name="arguments" />
-      <option name="filePath" />
-      <option name="scope" value="ALL" />
-      <option name="testName" />
-      <method />
-    </configuration>
-    <configuration default="true" type="CucumberJavaScriptRunConfigurationType" factoryName="Cucumber.js">
-      <option name="cucumberJsArguments" />
-      <option name="executablePath" />
-      <option name="filePath" />
+    <configuration default="true" type="JSTestDriver:ConfigurationType" factoryName="JsTestDriver">
+      <setting name="configLocationType" value="CONFIG_FILE" />
+      <setting name="settingsFile" value="" />
+      <setting name="serverType" value="INTERNAL" />
+      <setting name="preferredDebugBrowser" value="Chrome" />
       <method />
     </configuration>
     <configuration default="true" type="JavaScriptTestRunnerKarma" factoryName="Karma" config-file="">
       <envs />
       <method />
     </configuration>
-    <configuration default="true" type="JSTestDriver:ConfigurationType" factoryName="JsTestDriver">
-      <setting name="configLocationType" value="CONFIG_FILE" />
-      <setting name="settingsFile" value="" />
-      <setting name="serverType" value="INTERNAL" />
-      <setting name="preferredDebugBrowser" value="Chrome" />
+    <configuration default="true" type="CucumberJavaScriptRunConfigurationType" factoryName="Cucumber.js">
+      <option name="cucumberJsArguments" />
+      <option name="executablePath" />
+      <option name="filePath" />
       <method />
     </configuration>
     <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
@@ -434,7 +371,23 @@
       <created>1403940000674</created>
       <updated>1403940000674</updated>
     </task>
-    <option name="localTasksCounter" value="20" />
+    <task id="LOCAL-00020" summary="Popping Pals Kurplink">
+      <created>1404185508150</created>
+      <updated>1404185508150</updated>
+    </task>
+    <task id="LOCAL-00021" summary="Popping Pals Kurplink">
+      <created>1404185591908</created>
+      <updated>1404185591908</updated>
+    </task>
+    <task id="LOCAL-00022" summary="Dont Cross Wuki">
+      <created>1404188292554</created>
+      <updated>1404188292554</updated>
+    </task>
+    <task id="LOCAL-00023" summary="Dont Cross Wuki">
+      <created>1404707937743</created>
+      <updated>1404707937743</updated>
+    </task>
+    <option name="localTasksCounter" value="24" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -453,12 +406,12 @@
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.29499468" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33013844" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
     </layout>
   </component>
   <component name="Vcs.Log.UiProperties">
@@ -490,7 +443,9 @@
     <MESSAGE value="Don't Cross the Line&#10;CJ APP" />
     <MESSAGE value="Phaser Scale Test" />
     <MESSAGE value="Dont Cross (WUKI)" />
-    <option name="LAST_COMMIT_MESSAGE" value="Dont Cross (WUKI)" />
+    <MESSAGE value="Popping Pals Kurplink" />
+    <MESSAGE value="Dont Cross Wuki" />
+    <option name="LAST_COMMIT_MESSAGE" value="Dont Cross Wuki" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -835,14 +790,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="238" max-vertical-offset="867">
-          <caret line="14" column="4" selection-start-line="14" selection-start-column="4" selection-end-line="14" selection-end-column="4" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/html5/dontcross/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.2905983" vertical-offset="0" max-vertical-offset="702">
@@ -860,8 +807,16 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/js/main.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.4572785" vertical-offset="1819" max-vertical-offset="2958">
-          <caret line="124" column="6" selection-start-line="124" selection-start-column="6" selection-end-line="124" selection-end-column="6" />
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="2958">
+          <caret line="129" column="50" selection-start-line="129" selection-start-column="50" selection-end-line="129" selection-end-column="50" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.25247526" vertical-offset="0" max-vertical-offset="867">
+          <caret line="9" column="11" selection-start-line="9" selection-start-column="11" selection-end-line="9" selection-end-column="11" />
           <folding />
         </state>
       </provider>
