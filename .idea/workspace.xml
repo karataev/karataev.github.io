@@ -2,7 +2,26 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="49936aeb-a0f4-4a42-8ee1-db97121b12c9" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/connect/assets/images/decorPic1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/connect/assets/images/decorPic2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/connect/assets/images/decorPic3.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/connect/assets/images/dotBase1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/connect/assets/images/dotBase2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/connect/assets/images/dotBase3.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/connect/assets/images/dotBase4.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/connect/assets/images/dotBase5.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/connect/assets/images/dotBase6.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/temp/connect/assets/images/background.png" afterPath="$PROJECT_DIR$/temp/connect/assets/images/background.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/temp/connect/assets/images/drawLine.png" afterPath="$PROJECT_DIR$/temp/connect/assets/images/drawLine.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/temp/connect/assets/images/paperBack.png" afterPath="$PROJECT_DIR$/temp/connect/assets/images/paperBack.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/temp/connect/assets/images/pauseButton.png" afterPath="$PROJECT_DIR$/temp/connect/assets/images/pauseButton.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/temp/connect/assets/images/restartButton.png" afterPath="$PROJECT_DIR$/temp/connect/assets/images/restartButton.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/temp/connect/assets/images/soundIconOff.png" afterPath="$PROJECT_DIR$/temp/connect/assets/images/soundIconOff.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/temp/connect/assets/images/soundIconOn.png" afterPath="$PROJECT_DIR$/temp/connect/assets/images/soundIconOn.png" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/temp/connect/assets/images/staticLink.png" afterPath="$PROJECT_DIR$/temp/connect/assets/images/staticLink.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/temp/connect/assets/images/undoButton.png" afterPath="$PROJECT_DIR$/temp/connect/assets/images/undoButton.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/temp/connect/assets/images/userLink.png" afterPath="$PROJECT_DIR$/temp/connect/assets/images/userLink.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/temp/connect/release/game.min.js" afterPath="$PROJECT_DIR$/temp/connect/release/game.min.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="postepenno.github.io.iws" />
@@ -365,14 +384,22 @@
       <created>1406876943787</created>
       <updated>1406876943787</updated>
     </task>
-    <option name="localTasksCounter" value="36" />
+    <task id="LOCAL-00036" summary="Connect Dots alpha">
+      <created>1406877382698</created>
+      <updated>1406877382698</updated>
+    </task>
+    <task id="LOCAL-00037" summary="Connect Dots alpha">
+      <created>1407163445996</created>
+      <updated>1407163445996</updated>
+    </task>
+    <option name="localTasksCounter" value="38" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="54" y="-8" width="1874" height="1096" extended-state="6" />
     <editor active="false" />
     <layout>
-      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2983368" sideWeight="0.49972782" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Changes" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2983368" sideWeight="0.49972782" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32952183" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -447,6 +474,22 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="255" max-vertical-offset="867">
+          <caret line="15" column="9" selection-start-line="15" selection-start-column="9" selection-end-line="15" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="255" max-vertical-offset="867">
+          <caret line="15" column="9" selection-start-line="15" selection-start-column="9" selection-end-line="15" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="425" max-vertical-offset="867">
           <caret line="25" column="10" selection-start-line="25" selection-start-column="10" selection-end-line="25" selection-end-column="10" />
           <folding />
@@ -508,7 +551,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.5767367" vertical-offset="0" max-vertical-offset="1122">
           <caret line="24" column="42" selection-start-line="24" selection-start-column="42" selection-end-line="24" selection-end-column="42" />
-          <folding />
         </state>
       </provider>
     </entry>
