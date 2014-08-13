@@ -2,95 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="49936aeb-a0f4-4a42-8ee1-db97121b12c9" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/connect/assets/fonts/eras.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/connect/assets/sounds/music.mp3" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/connect/assets/sounds/music.ogg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/connect/assets/sounds/sndCollect10.mp3" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/connect/assets/sounds/sndCollect11.mp3" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/connect/assets/sounds/sndCollect9.mp3" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/connect/assets/fonts/eras.fnt" />
-      <change type="DELETED" beforePath="D:\Github\postepenno.github.io\temp\connect\assets\images\arrow.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\Github\postepenno.github.io\temp\connect\assets\images\cheatButton.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\Github\postepenno.github.io\temp\connect\assets\images\closeButton.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\Github\postepenno.github.io\temp\connect\assets\images\creditsButton.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\Github\postepenno.github.io\temp\connect\assets\images\decorCupCoffee.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\Github\postepenno.github.io\temp\connect\assets\images\decorIpad.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\Github\postepenno.github.io\temp\connect\assets\images\decorPic1.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\Github\postepenno.github.io\temp\connect\assets\images\decorPic2.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\Github\postepenno.github.io\temp\connect\assets\images\decorPic3.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\Github\postepenno.github.io\temp\connect\assets\images\decorSnail.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\Github\postepenno.github.io\temp\connect\assets\images\decorSnail2.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\Github\postepenno.github.io\temp\connect\assets\images\dotActive.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\Github\postepenno.github.io\temp\connect\assets\images\dotBase.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\Github\postepenno.github.io\temp\connect\assets\images\dotBase1.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\Github\postepenno.github.io\temp\connect\assets\images\dotBase2.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\Github\postepenno.github.io\temp\connect\assets\images\dotBase3.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\Github\postepenno.github.io\temp\connect\assets\images\dotBase4.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\Github\postepenno.github.io\temp\connect\assets\images\dotBase5.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\Github\postepenno.github.io\temp\connect\assets\images\dotBase6.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\Github\postepenno.github.io\temp\connect\assets\images\dotLast.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\Github\postepenno.github.io\temp\connect\assets\images\dotVisited.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\Github\postepenno.github.io\temp\connect\assets\images\downButton.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\Github\postepenno.github.io\temp\connect\assets\images\drawLineEnd.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\Github\postepenno.github.io\temp\connect\assets\images\gameTitle.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\Github\postepenno.github.io\temp\connect\assets\images\homeButton.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\Github\postepenno.github.io\temp\connect\assets\images\levelCompleteBack.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\Github\postepenno.github.io\temp\connect\assets\images\levelItemBack.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\Github\postepenno.github.io\temp\connect\assets\images\levelItemCompleteBack.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\Github\postepenno.github.io\temp\connect\assets\images\levelItemLockedBack.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\Github\postepenno.github.io\temp\connect\assets\images\levelSelectTitle.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\Github\postepenno.github.io\temp\connect\assets\images\levelUIBack.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\Github\postepenno.github.io\temp\connect\assets\images\levelsButton.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\Github\postepenno.github.io\temp\connect\assets\images\nextButton.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\Github\postepenno.github.io\temp\connect\assets\images\noButton.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\Github\postepenno.github.io\temp\connect\assets\images\pauseButton.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\Github\postepenno.github.io\temp\connect\assets\images\pic1.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\Github\postepenno.github.io\temp\connect\assets\images\pic10.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\Github\postepenno.github.io\temp\connect\assets\images\pic11.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\Github\postepenno.github.io\temp\connect\assets\images\pic12.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\Github\postepenno.github.io\temp\connect\assets\images\pic13.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\Github\postepenno.github.io\temp\connect\assets\images\pic14.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\Github\postepenno.github.io\temp\connect\assets\images\pic15.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\Github\postepenno.github.io\temp\connect\assets\images\pic16.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\Github\postepenno.github.io\temp\connect\assets\images\pic17.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\Github\postepenno.github.io\temp\connect\assets\images\pic18.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\Github\postepenno.github.io\temp\connect\assets\images\pic19.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\Github\postepenno.github.io\temp\connect\assets\images\pic2.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\Github\postepenno.github.io\temp\connect\assets\images\pic20.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\Github\postepenno.github.io\temp\connect\assets\images\pic3.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\Github\postepenno.github.io\temp\connect\assets\images\pic4.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\Github\postepenno.github.io\temp\connect\assets\images\pic5.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\Github\postepenno.github.io\temp\connect\assets\images\pic6.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\Github\postepenno.github.io\temp\connect\assets\images\pic7.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\Github\postepenno.github.io\temp\connect\assets\images\pic8.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\Github\postepenno.github.io\temp\connect\assets\images\pic9.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\Github\postepenno.github.io\temp\connect\assets\images\pics2.json" afterPath="" />
-      <change type="DELETED" beforePath="D:\Github\postepenno.github.io\temp\connect\assets\images\pics2.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\Github\postepenno.github.io\temp\connect\assets\images\playButton2.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\Github\postepenno.github.io\temp\connect\assets\images\postepennoLogo.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\Github\postepenno.github.io\temp\connect\assets\images\restartButton.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\Github\postepenno.github.io\temp\connect\assets\images\soundIconOff.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\Github\postepenno.github.io\temp\connect\assets\images\soundIconOn.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\Github\postepenno.github.io\temp\connect\assets\images\starParticle1.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\Github\postepenno.github.io\temp\connect\assets\images\starParticle2.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\Github\postepenno.github.io\temp\connect\assets\images\starParticle3.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\Github\postepenno.github.io\temp\connect\assets\images\starParticle4.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\Github\postepenno.github.io\temp\connect\assets\images\undoButton.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\Github\postepenno.github.io\temp\connect\assets\images\upButton.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\Github\postepenno.github.io\temp\connect\assets\images\yesButton.png" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/temp/connect/assets/images/pics.png" afterPath="$PROJECT_DIR$/temp/connect/assets/images/pics.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/temp/connect/assets/images/preloadBar.png" afterPath="$PROJECT_DIR$/temp/connect/assets/images/preloadBar.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/temp/connect/assets/images/preloadBarHolder.png" afterPath="$PROJECT_DIR$/temp/connect/assets/images/preloadBarHolder.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/temp/connect/assets/sounds/sndCollect1.mp3" afterPath="$PROJECT_DIR$/temp/connect/assets/sounds/sndCollect1.mp3" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/temp/connect/assets/sounds/sndCollect2.mp3" afterPath="$PROJECT_DIR$/temp/connect/assets/sounds/sndCollect2.mp3" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/temp/connect/assets/sounds/sndCollect3.mp3" afterPath="$PROJECT_DIR$/temp/connect/assets/sounds/sndCollect3.mp3" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/temp/connect/assets/sounds/sndCollect4.mp3" afterPath="$PROJECT_DIR$/temp/connect/assets/sounds/sndCollect4.mp3" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/temp/connect/assets/sounds/sndCollect5.mp3" afterPath="$PROJECT_DIR$/temp/connect/assets/sounds/sndCollect5.mp3" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/temp/connect/assets/sounds/sndCollect6.mp3" afterPath="$PROJECT_DIR$/temp/connect/assets/sounds/sndCollect6.mp3" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/temp/connect/assets/sounds/sndCollect7.mp3" afterPath="$PROJECT_DIR$/temp/connect/assets/sounds/sndCollect7.mp3" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/temp/connect/assets/sounds/sndCollect8.mp3" afterPath="$PROJECT_DIR$/temp/connect/assets/sounds/sndCollect8.mp3" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/temp/connect/release/game.min.js" afterPath="$PROJECT_DIR$/temp/connect/release/game.min.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/temp/connect/index.html" afterPath="$PROJECT_DIR$/temp/connect/index.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/temp/connect/assets/images/pics.json" afterPath="$PROJECT_DIR$/temp/connect/assets/images/pics.json" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
@@ -118,8 +31,8 @@
       <file leaf-file-name="index.html" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.4365971" vertical-offset="0" max-vertical-offset="867">
-              <caret line="16" column="34" selection-start-line="16" selection-start-column="34" selection-end-line="16" selection-end-column="34" />
+            <state vertical-scroll-proportion="0.13492064" vertical-offset="0" max-vertical-offset="867">
+              <caret line="5" column="10" selection-start-line="5" selection-start-column="10" selection-end-line="5" selection-end-column="10" />
               <folding />
             </state>
           </provider>
@@ -254,14 +167,6 @@
       <ConfigurationWrapper RunnerId="JavascriptDebugRunner" />
       <method />
     </configuration>
-    <configuration default="true" type="DartUnitRunConfigurationType" factoryName="DartUnit">
-      <option name="VMOptions" />
-      <option name="arguments" />
-      <option name="filePath" />
-      <option name="scope" value="ALL" />
-      <option name="testName" />
-      <method />
-    </configuration>
     <configuration default="true" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
       <option name="VMOptions" />
       <option name="arguments" />
@@ -272,21 +177,29 @@
       <option name="showConsoleOnStdOut" value="false" />
       <method />
     </configuration>
-    <configuration default="true" type="JSTestDriver:ConfigurationType" factoryName="JsTestDriver">
-      <setting name="configLocationType" value="CONFIG_FILE" />
-      <setting name="settingsFile" value="" />
-      <setting name="serverType" value="INTERNAL" />
-      <setting name="preferredDebugBrowser" value="Chrome" />
-      <method />
-    </configuration>
-    <configuration default="true" type="JavaScriptTestRunnerKarma" factoryName="Karma" config-file="">
-      <envs />
+    <configuration default="true" type="DartUnitRunConfigurationType" factoryName="DartUnit">
+      <option name="VMOptions" />
+      <option name="arguments" />
+      <option name="filePath" />
+      <option name="scope" value="ALL" />
+      <option name="testName" />
       <method />
     </configuration>
     <configuration default="true" type="CucumberJavaScriptRunConfigurationType" factoryName="Cucumber.js">
       <option name="cucumberJsArguments" />
       <option name="executablePath" />
       <option name="filePath" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerKarma" factoryName="Karma" config-file="">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JSTestDriver:ConfigurationType" factoryName="JsTestDriver">
+      <setting name="configLocationType" value="CONFIG_FILE" />
+      <setting name="settingsFile" value="" />
+      <setting name="serverType" value="INTERNAL" />
+      <setting name="preferredDebugBrowser" value="Chrome" />
       <method />
     </configuration>
     <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
@@ -482,14 +395,18 @@
       <created>1407738467283</created>
       <updated>1407738467283</updated>
     </task>
-    <option name="localTasksCounter" value="43" />
+    <task id="LOCAL-00043" summary="Connect Dots alpha">
+      <created>1407837391777</created>
+      <updated>1407837391777</updated>
+    </task>
+    <option name="localTasksCounter" value="44" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="54" y="-8" width="1874" height="1096" extended-state="6" />
     <editor active="false" />
     <layout>
-      <window_info id="Changes" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2983368" sideWeight="0.49972782" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Changes" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2910603" sideWeight="0.49972782" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32952183" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -501,12 +418,12 @@
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.29417878" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32952183" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="Vcs.Log.UiProperties">
@@ -554,6 +471,14 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="85" max-vertical-offset="867">
+          <caret line="5" column="10" selection-start-line="5" selection-start-column="10" selection-end-line="5" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="323" max-vertical-offset="867">
@@ -693,8 +618,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.4365971" vertical-offset="0" max-vertical-offset="867">
-          <caret line="16" column="34" selection-start-line="16" selection-start-column="34" selection-end-line="16" selection-end-column="34" />
+        <state vertical-scroll-proportion="0.13492064" vertical-offset="0" max-vertical-offset="867">
+          <caret line="5" column="10" selection-start-line="5" selection-start-column="10" selection-end-line="5" selection-end-column="10" />
           <folding />
         </state>
       </provider>
