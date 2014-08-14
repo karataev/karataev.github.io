@@ -1,11 +1,81 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="49936aeb-a0f4-4a42-8ee1-db97121b12c9" name="Default" comment="Doodle Dot">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doodleconnect/assets/gameTitle.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doodleconnect/assets/sshots.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doodleconnect/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doodleconnect/styles.css" />
+    <list default="true" id="49936aeb-a0f4-4a42-8ee1-db97121b12c9" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/poppingpals_bounce/assets/images/background.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/poppingpals_bounce/assets/images/blackBack.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/poppingpals_bounce/assets/images/bounceLogo.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/poppingpals_bounce/assets/images/bullet.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/poppingpals_bounce/assets/images/circle.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/poppingpals_bounce/assets/images/circle2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/poppingpals_bounce/assets/images/circle3.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/poppingpals_bounce/assets/images/circle4.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/poppingpals_bounce/assets/images/closeButton.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/poppingpals_bounce/assets/images/cloud1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/poppingpals_bounce/assets/images/cloud2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/poppingpals_bounce/assets/images/cloud3.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/poppingpals_bounce/assets/images/cloud4.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/poppingpals_bounce/assets/images/creditsButton.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/poppingpals_bounce/assets/images/creditsInner.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/poppingpals_bounce/assets/images/creditsTitle.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/poppingpals_bounce/assets/images/deleteProgressInner.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/poppingpals_bounce/assets/images/deleteProgressTitle.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/poppingpals_bounce/assets/images/dialogBig.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/poppingpals_bounce/assets/images/dialogMedium.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/poppingpals_bounce/assets/images/dialogSmall.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/poppingpals_bounce/assets/images/downButton.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/poppingpals_bounce/assets/images/exit2Button.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/poppingpals_bounce/assets/images/exit2ButtonBig.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/poppingpals_bounce/assets/images/eyesAnim.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/poppingpals_bounce/assets/images/eyesStatic.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/poppingpals_bounce/assets/images/fader.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/poppingpals_bounce/assets/images/gameCompleteInner.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/poppingpals_bounce/assets/images/gameCompleteTitle.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/poppingpals_bounce/assets/images/gameTitle.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/poppingpals_bounce/assets/images/homeButton.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/poppingpals_bounce/assets/images/karataev.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/poppingpals_bounce/assets/images/levelCompleteInner.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/poppingpals_bounce/assets/images/levelCompleteTitle.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/poppingpals_bounce/assets/images/levelFailInner.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/poppingpals_bounce/assets/images/levelFailTitle.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/poppingpals_bounce/assets/images/levelItemBack.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/poppingpals_bounce/assets/images/levelItemCompleteBack.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/poppingpals_bounce/assets/images/levelItemLockedBack.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/poppingpals_bounce/assets/images/levelSelectTitle.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/poppingpals_bounce/assets/images/levelUIBack.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/poppingpals_bounce/assets/images/menuButton.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/poppingpals_bounce/assets/sounds/music.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/poppingpals_bounce/assets/sounds/music.ogg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/poppingpals_bounce/assets/images/musicby.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/poppingpals_bounce/assets/images/nextButton.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/poppingpals_bounce/assets/images/noButton.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/poppingpals_bounce/assets/images/pauseButton.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/poppingpals_bounce/assets/images/pauseInner.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/poppingpals_bounce/assets/images/pauseTitle.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/poppingpals_bounce/assets/images/playButton.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/poppingpals_bounce/assets/images/postepennoLogo.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/poppingpals_bounce/assets/images/restartButton.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/poppingpals_bounce/assets/images/resumeButton.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/poppingpals_bounce/assets/sounds/sndClick.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/poppingpals_bounce/assets/sounds/sndClick.ogg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/poppingpals_bounce/assets/sounds/sndLevelComplete.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/poppingpals_bounce/assets/sounds/sndLevelComplete.ogg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/poppingpals_bounce/assets/sounds/sndLevelFail.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/poppingpals_bounce/assets/sounds/sndLevelFail.ogg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/poppingpals_bounce/assets/sounds/sndPop.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/poppingpals_bounce/assets/sounds/sndPop.ogg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/poppingpals_bounce/assets/sounds/sndWobble.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/poppingpals_bounce/assets/sounds/sndWobble.ogg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/poppingpals_bounce/assets/images/soundIconOff.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/poppingpals_bounce/assets/images/soundIconOn.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/poppingpals_bounce/assets/images/upButton.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/poppingpals_bounce/assets/images/yesButton.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/poppingpals_bounce/libs/Class.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/poppingpals_bounce/libs/createjs-2013.12.12.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/poppingpals_bounce/release/game.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/poppingpals_bounce/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/poppingpals_bounce/libs/jquery-2.1.0.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/poppingpals_bounce/styles.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="postepenno.github.io.iws" />
@@ -32,7 +102,7 @@
       <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-11.769231" vertical-offset="255" max-vertical-offset="1071">
+            <state vertical-scroll-proportion="0.0" vertical-offset="255" max-vertical-offset="1071">
               <caret line="33" column="30" selection-start-line="33" selection-start-column="30" selection-end-line="33" selection-end-column="30" />
               <folding />
             </state>
@@ -42,8 +112,8 @@
       <file leaf-file-name="index.html" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/doodleconnect/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.64761907" vertical-offset="0" max-vertical-offset="630">
-              <caret line="24" column="0" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
+            <state vertical-scroll-proportion="0.37777779" vertical-offset="0" max-vertical-offset="630">
+              <caret line="14" column="78" selection-start-line="14" selection-start-column="36" selection-end-line="14" selection-end-column="78" />
               <folding>
                 <element signature="n#style#0;n#p#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
               </folding>
@@ -54,7 +124,7 @@
       <file leaf-file-name="styles.css" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/doodleconnect/styles.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="561">
+            <state vertical-scroll-proportion="0.0" vertical-offset="374" max-vertical-offset="561">
               <caret line="22" column="21" selection-start-line="22" selection-start-column="21" selection-end-line="22" selection-end-column="21" />
               <folding />
             </state>
@@ -64,7 +134,7 @@
       <file leaf-file-name="stylesheet.css" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/stylesheet.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="1495" max-vertical-offset="2159">
+            <state vertical-scroll-proportion="0.0" vertical-offset="1802" max-vertical-offset="2159">
               <caret line="106" column="19" selection-start-line="106" selection-start-column="19" selection-end-line="106" selection-end-column="19" />
               <folding />
             </state>
@@ -155,6 +225,7 @@
       <sortByType />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -207,7 +278,6 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -244,6 +314,14 @@
       <ConfigurationWrapper RunnerId="JavascriptDebugRunner" />
       <method />
     </configuration>
+    <configuration default="true" type="DartUnitRunConfigurationType" factoryName="DartUnit">
+      <option name="VMOptions" />
+      <option name="arguments" />
+      <option name="filePath" />
+      <option name="scope" value="ALL" />
+      <option name="testName" />
+      <method />
+    </configuration>
     <configuration default="true" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
       <option name="VMOptions" />
       <option name="arguments" />
@@ -254,29 +332,21 @@
       <option name="showConsoleOnStdOut" value="false" />
       <method />
     </configuration>
-    <configuration default="true" type="DartUnitRunConfigurationType" factoryName="DartUnit">
-      <option name="VMOptions" />
-      <option name="arguments" />
-      <option name="filePath" />
-      <option name="scope" value="ALL" />
-      <option name="testName" />
-      <method />
-    </configuration>
-    <configuration default="true" type="CucumberJavaScriptRunConfigurationType" factoryName="Cucumber.js">
-      <option name="cucumberJsArguments" />
-      <option name="executablePath" />
-      <option name="filePath" />
+    <configuration default="true" type="JSTestDriver:ConfigurationType" factoryName="JsTestDriver">
+      <setting name="configLocationType" value="CONFIG_FILE" />
+      <setting name="settingsFile" value="" />
+      <setting name="serverType" value="INTERNAL" />
+      <setting name="preferredDebugBrowser" value="Chrome" />
       <method />
     </configuration>
     <configuration default="true" type="JavaScriptTestRunnerKarma" factoryName="Karma" config-file="">
       <envs />
       <method />
     </configuration>
-    <configuration default="true" type="JSTestDriver:ConfigurationType" factoryName="JsTestDriver">
-      <setting name="configLocationType" value="CONFIG_FILE" />
-      <setting name="settingsFile" value="" />
-      <setting name="serverType" value="INTERNAL" />
-      <setting name="preferredDebugBrowser" value="Chrome" />
+    <configuration default="true" type="CucumberJavaScriptRunConfigurationType" factoryName="Cucumber.js">
+      <option name="cucumberJsArguments" />
+      <option name="executablePath" />
+      <option name="filePath" />
       <method />
     </configuration>
     <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
@@ -500,14 +570,17 @@
       <created>1407917900839</created>
       <updated>1407917900839</updated>
     </task>
-    <option name="localTasksCounter" value="49" />
+    <task id="LOCAL-00049" summary="Doodle Dot">
+      <created>1407929632438</created>
+      <updated>1407929632438</updated>
+    </task>
+    <option name="localTasksCounter" value="50" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="54" y="-8" width="1874" height="1096" extended-state="6" />
     <editor active="false" />
     <layout>
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32952183" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Changes" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2910603" sideWeight="0.49972782" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32952183" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -520,11 +593,12 @@
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.29417878" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32952183" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="Vcs.Log.UiProperties">
@@ -576,6 +650,40 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1071">
+          <caret line="33" column="30" selection-start-line="33" selection-start-column="30" selection-end-line="33" selection-end-column="30" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/doodleconnect/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="238" max-vertical-offset="544">
+          <caret line="14" column="78" selection-start-line="14" selection-start-column="36" selection-end-line="14" selection-end-column="78" />
+          <folding>
+            <element signature="n#style#0;n#p#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/doodleconnect/styles.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="374" max-vertical-offset="561">
+          <caret line="22" column="21" selection-start-line="22" selection-start-column="21" selection-end-line="22" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/stylesheet.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="1802" max-vertical-offset="2159">
+          <caret line="106" column="19" selection-start-line="106" selection-start-column="19" selection-end-line="106" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="255" max-vertical-offset="1071">
           <caret line="33" column="30" selection-start-line="33" selection-start-column="30" selection-end-line="33" selection-end-column="30" />
           <folding />
@@ -586,10 +694,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="136" max-vertical-offset="731">
           <caret line="8" column="101" selection-start-line="8" selection-start-column="101" selection-end-line="8" selection-end-column="101" />
-          <folding>
-            <element signature="n#style#0;n#ins#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#style#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -597,7 +701,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="85" max-vertical-offset="2958">
           <caret line="5" column="9" selection-start-line="5" selection-start-column="9" selection-end-line="5" selection-end-column="9" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -773,7 +876,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="389" max-vertical-offset="2958">
           <caret line="5" column="9" selection-start-line="5" selection-start-column="9" selection-end-line="5" selection-end-column="9" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -781,16 +883,12 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.21587302" vertical-offset="0" max-vertical-offset="731">
           <caret line="8" column="46" selection-start-line="8" selection-start-column="46" selection-end-line="8" selection-end-column="46" />
-          <folding>
-            <element signature="n#style#0;n#ins#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#style#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-11.769231" vertical-offset="255" max-vertical-offset="1071">
+        <state vertical-scroll-proportion="0.0" vertical-offset="255" max-vertical-offset="1071">
           <caret line="33" column="30" selection-start-line="33" selection-start-column="30" selection-end-line="33" selection-end-column="30" />
           <folding />
         </state>
@@ -814,8 +912,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/doodleconnect/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.64761907" vertical-offset="0" max-vertical-offset="630">
-          <caret line="24" column="0" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
+        <state vertical-scroll-proportion="0.37777779" vertical-offset="0" max-vertical-offset="630">
+          <caret line="14" column="78" selection-start-line="14" selection-start-column="36" selection-end-line="14" selection-end-column="78" />
           <folding>
             <element signature="n#style#0;n#p#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
