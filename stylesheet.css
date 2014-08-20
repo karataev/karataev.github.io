@@ -117,6 +117,10 @@ hr {
     margin-right: auto;
 }
 
+#clients {
+    text-align: center;
+}
+
 .footer {
     text-align: center;
 }
