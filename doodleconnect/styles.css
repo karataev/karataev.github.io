@@ -2,6 +2,8 @@
 body{
     background: #ebe7da;
     background-image: url(assets/paper.jpg);
+
+    font-family: "Helvetica Neue", Helvetica, "Hiragino Sans GB", Arial, sans-serif;
 }
 
 #central {
@@ -22,10 +24,12 @@ body{
 h2 {
     text-align: center;
     font-size: 30px;
+    color: #404040;
 }
 
 p, li {
     font-size: 18px;
+    color:#737373;
 }
 
 .game-image {
@@ -35,4 +39,12 @@ p, li {
     margin-left: auto;
     margin-right: auto;
 
+}
+
+a {
+    color: #0069d6;
+}
+a:hover {
+    color: #0050a3;
+    text-decoration: none;
 }
