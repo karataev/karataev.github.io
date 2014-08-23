@@ -1,28 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="49936aeb-a0f4-4a42-8ee1-db97121b12c9" name="Default" comment="Clients">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/sequencer_rikoshe/assets/images/atlas.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/sequencer_rikoshe/assets/images/background.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/sequencer_rikoshe/assets/images/fader.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/sequencer_rikoshe/assets/sounds/music.mp3" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/sequencer_rikoshe/assets/sounds/music.ogg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/sequencer_rikoshe/assets/images/preloadBar.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/sequencer_rikoshe/assets/images/preloadBarHolder.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/sequencer_rikoshe/assets/sounds/sndClick.mp3" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/sequencer_rikoshe/assets/sounds/sndClick.ogg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/sequencer_rikoshe/assets/sounds/sndLevelComplete.mp3" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/sequencer_rikoshe/assets/sounds/sndLevelComplete.ogg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/sequencer_rikoshe/assets/sounds/sndRight.mp3" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/sequencer_rikoshe/assets/sounds/sndRight.ogg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/sequencer_rikoshe/assets/sounds/sndWrong.mp3" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/sequencer_rikoshe/assets/sounds/sndWrong.ogg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/sequencer_rikoshe/libs/Class.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/sequencer_rikoshe/assets/images/atlas.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/sequencer_rikoshe/release/game.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/sequencer_rikoshe/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/sequencer_rikoshe/libs/phaser.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/sequencer_rikoshe/styles.css" />
+    <list default="true" id="49936aeb-a0f4-4a42-8ee1-db97121b12c9" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/dontcross_coolmath/assets/images/atlas.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/dontcross_coolmath/assets/images/atlas_compressed.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/dontcross_coolmath/assets/images/background.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/dontcross_coolmath/assets/images/blackBack.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/dontcross_coolmath/assets/images/coolmath.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/dontcross_coolmath/assets/images/fader.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/dontcross_coolmath/assets/sounds/music.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/dontcross_coolmath/assets/sounds/music.ogg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/dontcross_coolmath/assets/images/preloadBar.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/dontcross_coolmath/assets/images/preloadBarHolder.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/dontcross_coolmath/assets/sounds/sndClick.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/dontcross_coolmath/assets/sounds/sndClick.ogg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/dontcross_coolmath/assets/sounds/sndLevelComplete.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/dontcross_coolmath/assets/sounds/sndLevelComplete.ogg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/dontcross_coolmath/libs/Class.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/dontcross_coolmath/assets/images/atlas.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/dontcross_coolmath/release/game.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/dontcross_coolmath/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/dontcross_coolmath/libs/phaser.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/dontcross_coolmath/styles.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="postepenno.github.io.iws" />
@@ -49,8 +48,8 @@
       <file leaf-file-name="index.html" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.23015873" vertical-offset="263" max-vertical-offset="1173">
-              <caret line="24" column="19" selection-start-line="24" selection-start-column="19" selection-end-line="24" selection-end-column="19" />
+            <state vertical-scroll-proportion="0.6888889" vertical-offset="110" max-vertical-offset="1173">
+              <caret line="32" column="52" selection-start-line="32" selection-start-column="52" selection-end-line="32" selection-end-column="52" />
               <folding />
             </state>
           </provider>
@@ -150,7 +149,6 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -203,6 +201,7 @@
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -239,14 +238,6 @@
       <ConfigurationWrapper RunnerId="JavascriptDebugRunner" />
       <method />
     </configuration>
-    <configuration default="true" type="DartUnitRunConfigurationType" factoryName="DartUnit">
-      <option name="VMOptions" />
-      <option name="arguments" />
-      <option name="filePath" />
-      <option name="scope" value="ALL" />
-      <option name="testName" />
-      <method />
-    </configuration>
     <configuration default="true" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
       <option name="VMOptions" />
       <option name="arguments" />
@@ -257,21 +248,29 @@
       <option name="showConsoleOnStdOut" value="false" />
       <method />
     </configuration>
-    <configuration default="true" type="JSTestDriver:ConfigurationType" factoryName="JsTestDriver">
-      <setting name="configLocationType" value="CONFIG_FILE" />
-      <setting name="settingsFile" value="" />
-      <setting name="serverType" value="INTERNAL" />
-      <setting name="preferredDebugBrowser" value="Chrome" />
-      <method />
-    </configuration>
-    <configuration default="true" type="JavaScriptTestRunnerKarma" factoryName="Karma" config-file="">
-      <envs />
+    <configuration default="true" type="DartUnitRunConfigurationType" factoryName="DartUnit">
+      <option name="VMOptions" />
+      <option name="arguments" />
+      <option name="filePath" />
+      <option name="scope" value="ALL" />
+      <option name="testName" />
       <method />
     </configuration>
     <configuration default="true" type="CucumberJavaScriptRunConfigurationType" factoryName="Cucumber.js">
       <option name="cucumberJsArguments" />
       <option name="executablePath" />
       <option name="filePath" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerKarma" factoryName="Karma" config-file="">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JSTestDriver:ConfigurationType" factoryName="JsTestDriver">
+      <setting name="configLocationType" value="CONFIG_FILE" />
+      <setting name="settingsFile" value="" />
+      <setting name="serverType" value="INTERNAL" />
+      <setting name="preferredDebugBrowser" value="Chrome" />
       <method />
     </configuration>
     <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
@@ -539,7 +538,11 @@
       <created>1408516688984</created>
       <updated>1408516688984</updated>
     </task>
-    <option name="localTasksCounter" value="60" />
+    <task id="LOCAL-00060" summary="Sequencer Rikoshe">
+      <created>1408609868366</created>
+      <updated>1408609868366</updated>
+    </task>
+    <option name="localTasksCounter" value="61" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -582,7 +585,6 @@
       <TodoPanelSettings />
     </option>
     <option name="CHECK_COMMIT_MESSAGE_SPELLING" value="false" />
-    <MESSAGE value="Don't Cross the Line. Android stock browser bug fix." />
     <MESSAGE value="SQUIRREL bug.&#10;MoreGames link update." />
     <MESSAGE value="Fixed bug with duplicating canvas in preloader." />
     <MESSAGE value="Don't Cross the Line&#10;CJ APP" />
@@ -607,7 +609,8 @@
     <MESSAGE value="Doodle Connect update" />
     <MESSAGE value="Minor CSS Doodle Connect promo page update" />
     <MESSAGE value="Clients" />
-    <option name="LAST_COMMIT_MESSAGE" value="Clients" />
+    <MESSAGE value="Sequencer Rikoshe" />
+    <option name="LAST_COMMIT_MESSAGE" value="Sequencer Rikoshe" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -985,8 +988,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.23015873" vertical-offset="263" max-vertical-offset="1173">
-          <caret line="24" column="19" selection-start-line="24" selection-start-column="19" selection-end-line="24" selection-end-column="19" />
+        <state vertical-scroll-proportion="0.6888889" vertical-offset="110" max-vertical-offset="1173">
+          <caret line="32" column="52" selection-start-line="32" selection-start-column="52" selection-end-line="32" selection-end-column="52" />
           <folding />
         </state>
       </provider>
