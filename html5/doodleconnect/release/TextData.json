@@ -1,0 +1,28 @@
+{
+    "en":
+    {
+        "select_level": "SELECT LEVEL",
+        "clear_progress": "CLEAR\nPROGRESS?",
+        "credits": "CREDITS",
+        "credits_code": "Code: Eugene Karataev",
+        "credits_art": "Art: Artem Popov",
+        "pause": "PAUSE",
+        "tutorial1": "Connect all the dots\nwith a continuous path.",
+        "tutorial2a": "Restart\nLevel",
+        "tutorial2b": "Undo\nLast\nMove",
+        "tutorial3": "Some lines are one-directional."
+    },
+    "ru":
+    {
+        "select_level": "ВЫБЕРИ УРОВЕНЬ",
+        "clear_progress": "УДАЛИТЬ\nПРОГРЕСС?",
+        "credits": "АВТОРЫ",
+        "credits_code": "Код: Евгений Каратаев",
+        "credits_art": "Графика: Артем Попов",
+        "pause": "ПАУЗА",
+        "tutorial1": "Соедини все точки\nнепрерывной линией",
+        "tutorial2a": "Рестарт\nУровня",
+        "tutorial2b": "Отмена\nПоследнего\nХода",
+        "tutorial3": "У некоторых линий только одно направление."
+    }
+}
