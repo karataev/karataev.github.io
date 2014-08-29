@@ -3,11 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="49936aeb-a0f4-4a42-8ee1-db97121b12c9" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/temp/sequencer_rikoshe/assets/images/atlas.png" afterPath="$PROJECT_DIR$/temp/sequencer_rikoshe/assets/images/atlas.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/temp/sequencer_rikoshe/assets/images/background.jpg" afterPath="$PROJECT_DIR$/temp/sequencer_rikoshe/assets/images/background.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/temp/sequencer_rikoshe/assets/images/fader.png" afterPath="$PROJECT_DIR$/temp/sequencer_rikoshe/assets/images/fader.png" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/temp/sequencer_rikoshe/assets/images/atlas.json" afterPath="$PROJECT_DIR$/temp/sequencer_rikoshe/assets/images/atlas.json" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/temp/sequencer_rikoshe/release/game.min.js" afterPath="$PROJECT_DIR$/temp/sequencer_rikoshe/release/game.min.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/html5/doodleconnect/index.html" afterPath="$PROJECT_DIR$/html5/doodleconnect/index.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="postepenno.github.io.iws" />
@@ -34,8 +31,8 @@
       <file leaf-file-name="index.html" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="153" max-vertical-offset="1173">
-              <caret line="9" column="11" selection-start-line="9" selection-start-column="11" selection-end-line="9" selection-end-column="11" />
+            <state vertical-scroll-proportion="0.10793651" vertical-offset="153" max-vertical-offset="1173">
+              <caret line="13" column="0" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -135,6 +132,7 @@
       <sortByType />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -187,7 +185,6 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -536,7 +533,15 @@
       <created>1408950221949</created>
       <updated>1408950221949</updated>
     </task>
-    <option name="localTasksCounter" value="63" />
+    <task id="LOCAL-00063" summary="Doodle Connect SG">
+      <created>1409052773187</created>
+      <updated>1409052773187</updated>
+    </task>
+    <task id="LOCAL-00064" summary="Plus One for Rikoshe timer update">
+      <created>1409196818631</created>
+      <updated>1409196818631</updated>
+    </task>
+    <option name="localTasksCounter" value="65" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -555,12 +560,12 @@
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.29417878" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32952183" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="Vcs.Log.UiProperties">
@@ -579,7 +584,6 @@
       <TodoPanelSettings />
     </option>
     <option name="CHECK_COMMIT_MESSAGE_SPELLING" value="false" />
-    <MESSAGE value="Don't Cross the Line&#10;CJ APP" />
     <MESSAGE value="Phaser Scale Test" />
     <MESSAGE value="Dont Cross (WUKI)" />
     <MESSAGE value="Popping Pals Kurplink" />
@@ -604,7 +608,8 @@
     <MESSAGE value="Sequencer Rikoshe" />
     <MESSAGE value="Don't Cross for Coolmath" />
     <MESSAGE value="Doodle Connect SG" />
-    <option name="LAST_COMMIT_MESSAGE" value="Doodle Connect SG" />
+    <MESSAGE value="Plus One for Rikoshe timer update" />
+    <option name="LAST_COMMIT_MESSAGE" value="Plus One for Rikoshe timer update" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -982,8 +987,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="153" max-vertical-offset="1173">
-          <caret line="9" column="11" selection-start-line="9" selection-start-column="11" selection-end-line="9" selection-end-column="11" />
+        <state vertical-scroll-proportion="0.10793651" vertical-offset="153" max-vertical-offset="1173">
+          <caret line="13" column="0" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
           <folding />
         </state>
       </provider>
