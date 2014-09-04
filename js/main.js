@@ -138,6 +138,14 @@ function startup()
         "Wreck your brain and untangle the lines in order to progress!"
     );
 
+    var doodleconnect = new Game(
+        "Doodle Connect",
+        "assets/doodleconnect.png",
+        "http://games.softgames.de/doodle-connect/",
+        "Your brain is like a muscle, you need to train it to be smart. This little puzzle game is a good brain-builder!"
+    );
+
+    addGame(doodleconnect, "#html5");
     addGame(dontcross, "#html5");
     addGame(poppingpals, "#html5");
     addGame(iknowart, "#html5");
