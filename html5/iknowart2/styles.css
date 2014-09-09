@@ -1,0 +1,16 @@
+
+body, html {
+    margin: 0;
+    padding: 0;
+    /*text-align: center;*/
+    background: #ffffff;
+
+    -webkit-touch-callout: none;
+    -webkit-user-select: none; /* save from freezes while tap-and-hold on Android stock browser */
+
+}
+
+
+#gameArea {
+    position: absolute;
+}

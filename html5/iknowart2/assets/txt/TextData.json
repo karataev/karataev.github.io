@@ -1,0 +1,24 @@
+{
+    "en":
+    {
+        "credits": "CREDITS",
+        "totalMoves": "Total moves: ",
+        "moves": "Moves: ",
+        "level": "Level ",
+        "gameComplete": "GAME COMPLETE!",
+        "awesome": "Who's awesome?",
+        "share": "Share your success",
+        "iknowart1": "Play I Know Art 1"
+    },
+    "ru":
+    {
+        "credits": "АВТОРЫ",
+        "totalMoves": "Всего ходов: ",
+        "moves": "Ходы: ",
+        "level": "Уровень ",
+        "gameComplete": "ИГРА ПРОЙДЕНА!",
+        "awesome": "Кто крутышка?",
+        "share": "Поделиться успехом",
+        "iknowart1": "Первая часть игры"
+    }
+}
