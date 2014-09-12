@@ -145,6 +145,14 @@ function startup()
         "Your brain is like a muscle, you need to train it to be smart. This little puzzle game is a good brain-builder!"
     );
 
+    var iknowart2 = new Game(
+        "I Know Art 2",
+        "assets/iknowart2.png",
+        "http://postepenno.com/html5/iknowart2/",
+        "Puzzles + Art = perfect mix of fun and education."
+    );
+
+    addGame(iknowart2, "#html5");
     addGame(doodleconnect, "#html5");
     addGame(dontcross, "#html5");
     addGame(poppingpals, "#html5");
