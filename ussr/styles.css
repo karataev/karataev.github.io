@@ -11,9 +11,13 @@ body, html {
 
 }
 
+#container {
+    /*border: 1px solid #000000;*/
+}
 
 #gameArea {
     /*position: absolute;*/
+    /*display: inline;*/
     background: #ffffff;
     /*border: 2px solid black;*/
     margin: 0px auto;
@@ -24,9 +28,19 @@ body, html {
     box-shadow: 0px 4px 17px 0px rgba(0,0,0,0.77);
 }
 
+#vk_group {
+    text-align: center;
+    font-family: Russo One;
+}
+
 #footer {
-    padding-top: 20px;
+    padding-top: 0px;
     text-align: center;
     /*background: yellow;*/
     /*height: 100px;*/
+}
+
+#ads {
+    text-align: center;
+    /*border: 1px solid #000000;*/
 }
