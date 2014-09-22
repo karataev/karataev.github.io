@@ -2,36 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="49936aeb-a0f4-4a42-8ee1-db97121b12c9" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ussr/assets/images/atlas.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ussr/assets/images/background.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ussr/assets/images/blackBack.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ussr/assets/images/cuteBack1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ussr/assets/images/cuteBack2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ussr/assets/fonts/eras.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ussr/assets/images/fader.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ussr/assets/images/pageback.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ussr/assets/images/paintings.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ussr/assets/images/preloadBar.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ussr/assets/images/preloadBarHolder.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ussr/assets/sounds/sndClick.mp3" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ussr/assets/sounds/sndClick.ogg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ussr/assets/sounds/sndClick2.mp3" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ussr/assets/sounds/sndClick2.ogg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ussr/assets/sounds/sndGood.mp3" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ussr/assets/sounds/sndGood.ogg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ussr/assets/sounds/sndGood.wav" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ussr/assets/sounds/sndLevelComplete.mp3" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ussr/assets/sounds/sndLevelComplete.ogg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ussr/libs/Class.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ussr/assets/txt/TextData.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ussr/assets/images/atlas.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ussr/assets/fonts/eras.fnt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ussr/assets/fonts/erasProject.ltr" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ussr/release/game.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ussr/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ussr/assets/images/paintings.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ussr/libs/phaser.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ussr/styles.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ussr/assets/sounds/music.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ussr/assets/sounds/music.ogg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ussr/assets/sounds/sndWrong.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ussr/assets/sounds/sndWrong.ogg" />
+      <change type="DELETED" beforePath="D:\Github\postepenno.github.io\ussr\assets\sounds\sndClick2.mp3" afterPath="" />
+      <change type="DELETED" beforePath="D:\Github\postepenno.github.io\ussr\assets\sounds\sndClick2.ogg" afterPath="" />
+      <change type="DELETED" beforePath="D:\Github\postepenno.github.io\ussr\assets\sounds\sndGood.mp3" afterPath="" />
+      <change type="DELETED" beforePath="D:\Github\postepenno.github.io\ussr\assets\sounds\sndGood.ogg" afterPath="" />
+      <change type="DELETED" beforePath="D:\Github\postepenno.github.io\ussr\assets\sounds\sndGood.wav" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ussr/release/game.min.js" afterPath="$PROJECT_DIR$/ussr/release/game.min.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="postepenno.github.io.iws" />
@@ -78,8 +58,8 @@
       <file leaf-file-name="index.html" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/html5/iknowart2/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.37777779" vertical-offset="0" max-vertical-offset="630">
-              <caret line="14" column="37" selection-start-line="14" selection-start-column="37" selection-end-line="14" selection-end-column="37" />
+            <state vertical-scroll-proportion="0.32380953" vertical-offset="0" max-vertical-offset="630">
+              <caret line="12" column="30" selection-start-line="12" selection-start-column="30" selection-end-line="12" selection-end-column="30" />
               <folding />
             </state>
           </provider>
@@ -277,14 +257,6 @@
       <ConfigurationWrapper RunnerId="JavascriptDebugRunner" />
       <method />
     </configuration>
-    <configuration default="true" type="DartUnitRunConfigurationType" factoryName="DartUnit">
-      <option name="VMOptions" />
-      <option name="arguments" />
-      <option name="filePath" />
-      <option name="scope" value="ALL" />
-      <option name="testName" />
-      <method />
-    </configuration>
     <configuration default="true" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
       <option name="VMOptions" />
       <option name="arguments" />
@@ -295,21 +267,29 @@
       <option name="showConsoleOnStdOut" value="false" />
       <method />
     </configuration>
-    <configuration default="true" type="JSTestDriver:ConfigurationType" factoryName="JsTestDriver">
-      <setting name="configLocationType" value="CONFIG_FILE" />
-      <setting name="settingsFile" value="" />
-      <setting name="serverType" value="INTERNAL" />
-      <setting name="preferredDebugBrowser" value="Chrome" />
-      <method />
-    </configuration>
-    <configuration default="true" type="JavaScriptTestRunnerKarma" factoryName="Karma" config-file="">
-      <envs />
+    <configuration default="true" type="DartUnitRunConfigurationType" factoryName="DartUnit">
+      <option name="VMOptions" />
+      <option name="arguments" />
+      <option name="filePath" />
+      <option name="scope" value="ALL" />
+      <option name="testName" />
       <method />
     </configuration>
     <configuration default="true" type="CucumberJavaScriptRunConfigurationType" factoryName="Cucumber.js">
       <option name="cucumberJsArguments" />
       <option name="executablePath" />
       <option name="filePath" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerKarma" factoryName="Karma" config-file="">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JSTestDriver:ConfigurationType" factoryName="JsTestDriver">
+      <setting name="configLocationType" value="CONFIG_FILE" />
+      <setting name="settingsFile" value="" />
+      <setting name="serverType" value="INTERNAL" />
+      <setting name="preferredDebugBrowser" value="Chrome" />
       <method />
     </configuration>
     <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
@@ -657,7 +637,11 @@
       <created>1411009988795</created>
       <updated>1411009988795</updated>
     </task>
-    <option name="localTasksCounter" value="80" />
+    <task id="LOCAL-00080" summary="USSR posters">
+      <created>1411368831160</created>
+      <updated>1411368831160</updated>
+    </task>
+    <option name="localTasksCounter" value="81" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -700,7 +684,6 @@
       <TodoPanelSettings />
     </option>
     <option name="CHECK_COMMIT_MESSAGE_SPELLING" value="false" />
-    <MESSAGE value="No smileys" />
     <MESSAGE value="Connect Dots initial commit" />
     <MESSAGE value="Connect Dots alpha" />
     <MESSAGE value="AdSense integration" />
@@ -725,7 +708,8 @@
     <MESSAGE value="I Know Art 2 level 12 bug fix" />
     <MESSAGE value="I Know Art 2 language detection" />
     <MESSAGE value="Favicon :)" />
-    <option name="LAST_COMMIT_MESSAGE" value="Favicon :)" />
+    <MESSAGE value="USSR posters" />
+    <option name="LAST_COMMIT_MESSAGE" value="USSR posters" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -1104,8 +1088,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/html5/iknowart2/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.37777779" vertical-offset="0" max-vertical-offset="630">
-          <caret line="14" column="37" selection-start-line="14" selection-start-column="37" selection-end-line="14" selection-end-column="37" />
+        <state vertical-scroll-proportion="0.32380953" vertical-offset="0" max-vertical-offset="630">
+          <caret line="12" column="30" selection-start-line="12" selection-start-column="30" selection-end-line="12" selection-end-column="30" />
           <folding />
         </state>
       </provider>
