@@ -1,0 +1,32 @@
+
+body, html {
+    margin: 0;
+    padding: 0;
+    /*text-align: center;*/
+    background: #e2d4af;
+    background-image: url("assets/images/pageback.jpg");
+
+    -webkit-touch-callout: none;
+    -webkit-user-select: none; /* save from freezes while tap-and-hold on Android stock browser */
+
+}
+
+
+#gameArea {
+    /*position: absolute;*/
+    background: #ffffff;
+    /*border: 2px solid black;*/
+    margin: 0px auto;
+    width: 800px;
+    height: 600px;
+    -webkit-box-shadow: 0px 4px 17px 0px rgba(0,0,0,0.77);
+    -moz-box-shadow: 0px 4px 17px 0px rgba(0,0,0,0.77);
+    box-shadow: 0px 4px 17px 0px rgba(0,0,0,0.77);
+}
+
+#footer {
+    padding-top: 20px;
+    text-align: center;
+    /*background: yellow;*/
+    /*height: 100px;*/
+}

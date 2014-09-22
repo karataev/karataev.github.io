@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta name="viewport" content="initial-scale=1.0, maximum-scale=1.0" />
+    <link type="text/css" rel="stylesheet" href="styles.css" />
+
+    <script type="text/javascript">
+        WebFontConfig = {
+            google: { families: [ 'Russo+One::latin,cyrillic' ] }
+        };
+        (function() {
+            var wf = document.createElement('script');
+            wf.src = ('https:' == document.location.protocol ? 'https' : 'http') +
+                    '://ajax.googleapis.com/ajax/libs/webfont/1/webfont.js';
+            wf.type = 'text/javascript';
+            wf.async = 'true';
+            var s = document.getElementsByTagName('script')[0];
+            s.parentNode.insertBefore(wf, s);
+        })(); </script>
+
+    <title>Плакаты СССР</title>
+
+</head>
+<body onload="startup();">
+
+<div id="gameArea"></div>
+
+<div id="footer">
+
+    <script type="text/javascript">(function() {
+        if (window.pluso)if (typeof window.pluso.start == "function") return;
+        if (window.ifpluso==undefined) { window.ifpluso = 1;
+            var d = document, s = d.createElement('script'), g = 'getElementsByTagName';
+            s.type = 'text/javascript'; s.charset='UTF-8'; s.async = true;
+            s.src = ('https:' == window.location.protocol ? 'https' : 'http')  + '://share.pluso.ru/pluso-like.js';
+            var h=d[g]('body')[0];
+            h.appendChild(s);
+        }})();</script>
+    <div class="pluso" data-background="#ebebeb" data-options="big,square,line,horizontal,counter,theme=01" data-services="vkontakte,twitter,facebook,odnoklassniki" data-title="Советские плакаты" data-description="Играй, угадывай, побеждай!"></div>
+
+</div>
+
+<script>var App = {};</script>
+<script src="libs/phaser.min.js"></script>
+<script src="libs/Class.js"></script>
+
+<script src="release/game.min.js"></script>
+
+
+</body>
+</html>
