@@ -2,16 +2,24 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="49936aeb-a0f4-4a42-8ee1-db97121b12c9" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ussr/assets/sounds/music.mp3" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ussr/assets/sounds/music.ogg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ussr/assets/sounds/sndWrong.mp3" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ussr/assets/sounds/sndWrong.ogg" />
-      <change type="DELETED" beforePath="D:\Github\postepenno.github.io\ussr\assets\sounds\sndClick2.mp3" afterPath="" />
-      <change type="DELETED" beforePath="D:\Github\postepenno.github.io\ussr\assets\sounds\sndClick2.ogg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Github\postepenno.github.io\ussr\assets\sounds\sndGood.mp3" afterPath="" />
-      <change type="DELETED" beforePath="D:\Github\postepenno.github.io\ussr\assets\sounds\sndGood.ogg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Github\postepenno.github.io\ussr\assets\sounds\sndGood.wav" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ussr/release/game.min.js" afterPath="$PROJECT_DIR$/ussr/release/game.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/dontcross2/assets/images/atlas.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/dontcross2/assets/images/background.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/dontcross2/assets/images/blackBack.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/dontcross2/assets/images/cuteBack1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/dontcross2/assets/images/fader.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/dontcross2/assets/images/preloadBar.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/dontcross2/assets/images/preloadBarHolder.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/dontcross2/assets/sounds/sndClick.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/dontcross2/assets/sounds/sndClick.ogg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/dontcross2/assets/sounds/sndLevelComplete.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/dontcross2/assets/sounds/sndLevelComplete.ogg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/dontcross2/libs/Class.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/dontcross2/assets/data/TestLevel.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/dontcross2/assets/images/atlas.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/dontcross2/release/game.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/dontcross2/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/dontcross2/libs/phaser.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/dontcross2/styles.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="postepenno.github.io.iws" />
@@ -45,21 +53,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="main.js" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="main.js" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/js/main.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="2499" max-vertical-offset="3230">
-              <caret line="147" column="29" selection-start-line="147" selection-start-column="29" selection-end-line="147" selection-end-column="29" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="index.html" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/html5/iknowart2/index.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.32380953" vertical-offset="0" max-vertical-offset="630">
-              <caret line="12" column="30" selection-start-line="12" selection-start-column="30" selection-end-line="12" selection-end-column="30" />
+            <state vertical-scroll-proportion="0.80487806" vertical-offset="1988" max-vertical-offset="3230">
+              <caret line="148" column="23" selection-start-line="148" selection-start-column="23" selection-end-line="148" selection-end-column="23" />
               <folding />
             </state>
           </provider>
@@ -150,6 +148,7 @@
       <sortByType />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -220,7 +219,6 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -641,7 +639,35 @@
       <created>1411368831160</created>
       <updated>1411368831160</updated>
     </task>
-    <option name="localTasksCounter" value="81" />
+    <task id="LOCAL-00081" summary="USSR posters">
+      <created>1411381594621</created>
+      <updated>1411381594621</updated>
+    </task>
+    <task id="LOCAL-00082" summary="USSR posters">
+      <created>1411385304165</created>
+      <updated>1411385304165</updated>
+    </task>
+    <task id="LOCAL-00083" summary="USSR posters">
+      <created>1411385860495</created>
+      <updated>1411385860495</updated>
+    </task>
+    <task id="LOCAL-00084" summary="USSR posters">
+      <created>1411395442000</created>
+      <updated>1411395442000</updated>
+    </task>
+    <task id="LOCAL-00085" summary="USSR posters">
+      <created>1411395494711</created>
+      <updated>1411395494711</updated>
+    </task>
+    <task id="LOCAL-00086" summary="USSR posters">
+      <created>1411404801797</created>
+      <updated>1411404801797</updated>
+    </task>
+    <task id="LOCAL-00087" summary="USSR posters">
+      <created>1411406325574</created>
+      <updated>1411406325575</updated>
+    </task>
+    <option name="localTasksCounter" value="88" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -1071,14 +1097,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/js/main.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="2074" max-vertical-offset="3230">
-          <caret line="147" column="29" selection-start-line="147" selection-start-column="29" selection-end-line="147" selection-end-column="29" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/html5/iknowart/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-20.846153" vertical-offset="36" max-vertical-offset="714">
@@ -1088,8 +1106,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/html5/iknowart2/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.32380953" vertical-offset="0" max-vertical-offset="630">
-          <caret line="12" column="30" selection-start-line="12" selection-start-column="30" selection-end-line="12" selection-end-column="30" />
+        <state vertical-scroll-proportion="0.37777779" vertical-offset="0" max-vertical-offset="630">
+          <caret line="14" column="37" selection-start-line="14" selection-start-column="37" selection-end-line="14" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/main.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.80487806" vertical-offset="1988" max-vertical-offset="3230">
+          <caret line="148" column="23" selection-start-line="148" selection-start-column="23" selection-end-line="148" selection-end-column="23" />
           <folding />
         </state>
       </provider>
