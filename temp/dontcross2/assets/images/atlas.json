@@ -42,7 +42,7 @@
 },
 "atlas/downButton_0000":
 {
-	"frame": {"x":1714,"y":644,"w":90,"h":94},
+	"frame": {"x":1828,"y":620,"w":90,"h":94},
 	"rotated": false,
 	"trimmed": false,
 	"spriteSourceSize": {"x":0,"y":0,"w":90,"h":94},
@@ -50,7 +50,7 @@
 },
 "atlas/dragItemFixed_0000":
 {
-	"frame": {"x":1786,"y":370,"w":30,"h":30},
+	"frame": {"x":1712,"y":402,"w":30,"h":30},
 	"rotated": false,
 	"trimmed": false,
 	"spriteSourceSize": {"x":0,"y":0,"w":30,"h":30},
@@ -66,7 +66,7 @@
 },
 "atlas/dragItemHappy_0000":
 {
-	"frame": {"x":1818,"y":394,"w":66,"h":66},
+	"frame": {"x":1836,"y":456,"w":66,"h":66},
 	"rotated": false,
 	"trimmed": false,
 	"spriteSourceSize": {"x":0,"y":0,"w":66,"h":66},
@@ -82,7 +82,7 @@
 },
 "atlas/dragItemMeh_0000":
 {
-	"frame": {"x":1818,"y":326,"w":66,"h":66},
+	"frame": {"x":1836,"y":388,"w":66,"h":66},
 	"rotated": false,
 	"trimmed": false,
 	"spriteSourceSize": {"x":0,"y":0,"w":66,"h":66},
@@ -98,7 +98,7 @@
 },
 "atlas/dragItemSad_0000":
 {
-	"frame": {"x":136,"y":698,"w":68,"h":70},
+	"frame": {"x":1446,"y":524,"w":68,"h":70},
 	"rotated": false,
 	"trimmed": false,
 	"spriteSourceSize": {"x":0,"y":0,"w":68,"h":70},
@@ -130,7 +130,7 @@
 },
 "atlas/homeButton_0000":
 {
-	"frame": {"x":1818,"y":258,"w":66,"h":66},
+	"frame": {"x":340,"y":698,"w":66,"h":66},
 	"rotated": false,
 	"trimmed": false,
 	"spriteSourceSize": {"x":0,"y":0,"w":66,"h":66},
@@ -146,7 +146,7 @@
 },
 "atlas/levelItemBack_0000":
 {
-	"frame": {"x":418,"y":608,"w":102,"h":100},
+	"frame": {"x":1538,"y":444,"w":102,"h":100},
 	"rotated": false,
 	"trimmed": false,
 	"spriteSourceSize": {"x":0,"y":0,"w":102,"h":100},
@@ -154,7 +154,7 @@
 },
 "atlas/levelItemCompleteBack_0000":
 {
-	"frame": {"x":1716,"y":444,"w":100,"h":102},
+	"frame": {"x":1818,"y":284,"w":100,"h":102},
 	"rotated": false,
 	"trimmed": false,
 	"spriteSourceSize": {"x":0,"y":0,"w":100,"h":102},
@@ -162,7 +162,7 @@
 },
 "atlas/levelItemLockedBack_0000":
 {
-	"frame": {"x":1612,"y":662,"w":100,"h":100},
+	"frame": {"x":1642,"y":444,"w":100,"h":100},
 	"rotated": false,
 	"trimmed": false,
 	"spriteSourceSize": {"x":0,"y":0,"w":100,"h":100},
@@ -186,7 +186,7 @@
 },
 "atlas/levelsButton_0000":
 {
-	"frame": {"x":1610,"y":444,"w":104,"h":110},
+	"frame": {"x":418,"y":608,"w":104,"h":110},
 	"rotated": false,
 	"trimmed": false,
 	"spriteSourceSize": {"x":0,"y":0,"w":104,"h":110},
@@ -194,7 +194,7 @@
 },
 "atlas/movesUnderlay_0000":
 {
-	"frame": {"x":1712,"y":178,"w":164,"h":78},
+	"frame": {"x":1372,"y":444,"w":164,"h":78},
 	"rotated": false,
 	"trimmed": false,
 	"spriteSourceSize": {"x":0,"y":0,"w":164,"h":78},
@@ -210,7 +210,7 @@
 },
 "atlas/nextButton_0000":
 {
-	"frame": {"x":1612,"y":556,"w":100,"h":104},
+	"frame": {"x":1818,"y":178,"w":100,"h":104},
 	"rotated": false,
 	"trimmed": false,
 	"spriteSourceSize": {"x":0,"y":0,"w":100,"h":104},
@@ -218,7 +218,7 @@
 },
 "atlas/noButton_0000":
 {
-	"frame": {"x":1712,"y":258,"w":104,"h":110},
+	"frame": {"x":1712,"y":290,"w":104,"h":110},
 	"rotated": false,
 	"trimmed": false,
 	"spriteSourceSize": {"x":0,"y":0,"w":104,"h":110},
@@ -234,7 +234,7 @@
 },
 "atlas/pauseButton_0000":
 {
-	"frame": {"x":1806,"y":644,"w":88,"h":94},
+	"frame": {"x":1828,"y":524,"w":88,"h":94},
 	"rotated": false,
 	"trimmed": false,
 	"spriteSourceSize": {"x":0,"y":0,"w":88,"h":94},
@@ -242,11 +242,11 @@
 },
 "atlas/playButton_0000":
 {
-	"frame": {"x":1372,"y":444,"w":130,"h":136},
+	"frame": {"x":1612,"y":546,"w":214,"h":172},
 	"rotated": false,
 	"trimmed": false,
-	"spriteSourceSize": {"x":0,"y":0,"w":130,"h":136},
-	"sourceSize": {"w":130,"h":136}
+	"spriteSourceSize": {"x":0,"y":0,"w":214,"h":172},
+	"sourceSize": {"w":214,"h":172}
 },
 "atlas/postepennoLogo_0000":
 {
@@ -258,7 +258,7 @@
 },
 "atlas/restartButton_0000":
 {
-	"frame": {"x":342,"y":698,"w":66,"h":66},
+	"frame": {"x":272,"y":698,"w":66,"h":66},
 	"rotated": false,
 	"trimmed": false,
 	"spriteSourceSize": {"x":0,"y":0,"w":66,"h":66},
@@ -282,7 +282,7 @@
 },
 "atlas/soundIconOff_0000":
 {
-	"frame": {"x":274,"y":698,"w":66,"h":66},
+	"frame": {"x":204,"y":698,"w":66,"h":66},
 	"rotated": false,
 	"trimmed": false,
 	"spriteSourceSize": {"x":0,"y":0,"w":66,"h":66},
@@ -290,7 +290,7 @@
 },
 "atlas/soundIconOn_0000":
 {
-	"frame": {"x":206,"y":698,"w":66,"h":66},
+	"frame": {"x":136,"y":698,"w":66,"h":66},
 	"rotated": false,
 	"trimmed": false,
 	"spriteSourceSize": {"x":0,"y":0,"w":66,"h":66},
@@ -298,7 +298,7 @@
 },
 "atlas/timerIcon_0000":
 {
-	"frame": {"x":1712,"y":370,"w":72,"h":72},
+	"frame": {"x":1372,"y":524,"w":72,"h":72},
 	"rotated": false,
 	"trimmed": false,
 	"spriteSourceSize": {"x":0,"y":0,"w":72,"h":72},
@@ -306,7 +306,7 @@
 },
 "atlas/upButton_0000":
 {
-	"frame": {"x":1716,"y":548,"w":90,"h":94},
+	"frame": {"x":1744,"y":402,"w":90,"h":94},
 	"rotated": false,
 	"trimmed": false,
 	"spriteSourceSize": {"x":0,"y":0,"w":90,"h":94},
@@ -314,7 +314,7 @@
 },
 "atlas/yesButton_0000":
 {
-	"frame": {"x":1504,"y":444,"w":104,"h":110},
+	"frame": {"x":1712,"y":178,"w":104,"h":110},
 	"rotated": false,
 	"trimmed": false,
 	"spriteSourceSize": {"x":0,"y":0,"w":104,"h":110},
@@ -325,8 +325,8 @@
 	"version": "1.0",
 	"image": "atlas.png",
 	"format": "RGBA8888",
-	"size": {"w":1896,"h":774},
+	"size": {"w":1923,"h":774},
 	"scale": "1",
-	"smartupdate": "$TexturePacker:SmartUpdate:33f4add132f6655dcb2ea206ba27a65d:945417d0c34e6fbd667f4fecf0498109:cbce6b53f0f49e0bf15173c25c41f876$"
+	"smartupdate": "$TexturePacker:SmartUpdate:82bf76a735fe7e840f7f2b07b3a571cc:f8c0f2ab1985322045e36cac940ba447:cbce6b53f0f49e0bf15173c25c41f876$"
 }
 }
