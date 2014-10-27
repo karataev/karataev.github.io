@@ -2,7 +2,7 @@
 
 "atlas/backButton_0000":
 {
-	"frame": {"x":1524,"y":424,"w":62,"h":64},
+	"frame": {"x":1328,"y":646,"w":62,"h":64},
 	"rotated": false,
 	"trimmed": false,
 	"spriteSourceSize": {"x":0,"y":0,"w":62,"h":64},
@@ -10,7 +10,7 @@
 },
 "atlas/cheatButton_0000":
 {
-	"frame": {"x":1782,"y":306,"w":42,"h":42},
+	"frame": {"x":1356,"y":392,"w":42,"h":42},
 	"rotated": false,
 	"trimmed": false,
 	"spriteSourceSize": {"x":0,"y":0,"w":42,"h":42},
@@ -18,7 +18,7 @@
 },
 "atlas/closeButton_0000":
 {
-	"frame": {"x":1616,"y":318,"w":82,"h":86},
+	"frame": {"x":1320,"y":92,"w":82,"h":86},
 	"rotated": false,
 	"trimmed": false,
 	"spriteSourceSize": {"x":0,"y":0,"w":82,"h":86},
@@ -26,7 +26,7 @@
 },
 "atlas/coin10kop_0000":
 {
-	"frame": {"x":746,"y":414,"w":88,"h":88},
+	"frame": {"x":1320,"y":2,"w":88,"h":88},
 	"rotated": false,
 	"trimmed": false,
 	"spriteSourceSize": {"x":0,"y":0,"w":88,"h":88},
@@ -34,7 +34,7 @@
 },
 "atlas/coin1Rouble_0000":
 {
-	"frame": {"x":1452,"y":292,"w":98,"h":98},
+	"frame": {"x":1022,"y":924,"w":98,"h":98},
 	"rotated": false,
 	"trimmed": false,
 	"spriteSourceSize": {"x":0,"y":0,"w":98,"h":98},
@@ -42,7 +42,7 @@
 },
 "atlas/coin2Roubles_0000":
 {
-	"frame": {"x":1618,"y":204,"w":112,"h":112},
+	"frame": {"x":1228,"y":514,"w":112,"h":112},
 	"rotated": false,
 	"trimmed": false,
 	"spriteSourceSize": {"x":0,"y":0,"w":112,"h":112},
@@ -50,7 +50,7 @@
 },
 "atlas/coin50kop_0000":
 {
-	"frame": {"x":1732,"y":204,"w":98,"h":100},
+	"frame": {"x":1228,"y":628,"w":98,"h":100},
 	"rotated": false,
 	"trimmed": false,
 	"spriteSourceSize": {"x":0,"y":0,"w":98,"h":100},
@@ -58,11 +58,19 @@
 },
 "atlas/coin5Roubles_0000":
 {
-	"frame": {"x":1320,"y":360,"w":118,"h":120},
+	"frame": {"x":1236,"y":392,"w":118,"h":120},
 	"rotated": false,
 	"trimmed": false,
 	"spriteSourceSize": {"x":0,"y":0,"w":118,"h":120},
 	"sourceSize": {"w":118,"h":120}
+},
+"atlas/coinsIcon_0000":
+{
+	"frame": {"x":404,"y":504,"w":30,"h":34},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":30,"h":34},
+	"sourceSize": {"w":30,"h":34}
 },
 "atlas/creditsBox_0000":
 {
@@ -74,15 +82,87 @@
 },
 "atlas/creditsButton_0000":
 {
-	"frame": {"x":1440,"y":392,"w":82,"h":86},
+	"frame": {"x":1228,"y":730,"w":82,"h":86},
 	"rotated": false,
 	"trimmed": false,
 	"spriteSourceSize": {"x":0,"y":0,"w":82,"h":86},
 	"sourceSize": {"w":82,"h":86}
 },
+"atlas/heroAkakii_0000":
+{
+	"frame": {"x":1022,"y":666,"w":204,"h":204},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":204,"h":204},
+	"sourceSize": {"w":204,"h":204}
+},
+"atlas/heroEinstein_0000":
+{
+	"frame": {"x":1022,"y":460,"w":204,"h":204},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":204,"h":204},
+	"sourceSize": {"w":204,"h":204}
+},
+"atlas/heroFortran_0000":
+{
+	"frame": {"x":816,"y":746,"w":204,"h":204},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":204,"h":204},
+	"sourceSize": {"w":204,"h":204}
+},
+"atlas/heroGovorun_0000":
+{
+	"frame": {"x":816,"y":540,"w":204,"h":204},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":204,"h":204},
+	"sourceSize": {"w":204,"h":204}
+},
+"atlas/heroGrumpy_0000":
+{
+	"frame": {"x":610,"y":746,"w":204,"h":204},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":204,"h":204},
+	"sourceSize": {"w":204,"h":204}
+},
+"atlas/heroKlichko_0000":
+{
+	"frame": {"x":610,"y":540,"w":204,"h":204},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":204,"h":204},
+	"sourceSize": {"w":204,"h":204}
+},
+"atlas/heroKrot_0000":
+{
+	"frame": {"x":404,"y":746,"w":204,"h":204},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":204,"h":204},
+	"sourceSize": {"w":204,"h":204}
+},
+"atlas/heroMatroskin_0000":
+{
+	"frame": {"x":404,"y":540,"w":204,"h":204},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":204,"h":204},
+	"sourceSize": {"w":204,"h":204}
+},
+"atlas/heroPatrick_0000":
+{
+	"frame": {"x":1030,"y":254,"w":204,"h":204},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":204,"h":204},
+	"sourceSize": {"w":204,"h":204}
+},
 "atlas/homeButton_0000":
 {
-	"frame": {"x":1698,"y":406,"w":62,"h":64},
+	"frame": {"x":1342,"y":580,"w":62,"h":64},
 	"rotated": false,
 	"trimmed": false,
 	"spriteSourceSize": {"x":0,"y":0,"w":62,"h":64},
@@ -90,15 +170,15 @@
 },
 "atlas/levelCompleteBox_0000":
 {
-	"frame": {"x":1434,"y":2,"w":400,"h":200},
+	"frame": {"x":2,"y":504,"w":400,"h":500},
 	"rotated": false,
 	"trimmed": false,
-	"spriteSourceSize": {"x":0,"y":0,"w":400,"h":200},
-	"sourceSize": {"w":400,"h":200}
+	"spriteSourceSize": {"x":0,"y":0,"w":400,"h":500},
+	"sourceSize": {"w":400,"h":500}
 },
 "atlas/levelItemBack_0000":
 {
-	"frame": {"x":1616,"y":406,"w":80,"h":86},
+	"frame": {"x":1288,"y":906,"w":80,"h":86},
 	"rotated": false,
 	"trimmed": false,
 	"spriteSourceSize": {"x":0,"y":0,"w":80,"h":86},
@@ -106,7 +186,7 @@
 },
 "atlas/levelItemCompleteBack_0000":
 {
-	"frame": {"x":1700,"y":318,"w":80,"h":86},
+	"frame": {"x":1264,"y":818,"w":80,"h":86},
 	"rotated": false,
 	"trimmed": false,
 	"spriteSourceSize": {"x":0,"y":0,"w":80,"h":86},
@@ -114,7 +194,7 @@
 },
 "atlas/levelItemLockedBack_0000":
 {
-	"frame": {"x":920,"y":414,"w":80,"h":86},
+	"frame": {"x":1312,"y":730,"w":80,"h":86},
 	"rotated": false,
 	"trimmed": false,
 	"spriteSourceSize": {"x":0,"y":0,"w":80,"h":86},
@@ -122,15 +202,15 @@
 },
 "atlas/nextButton_0000":
 {
-	"frame": {"x":1452,"y":204,"w":164,"h":86},
+	"frame": {"x":888,"y":952,"w":110,"h":58},
 	"rotated": false,
 	"trimmed": false,
-	"spriteSourceSize": {"x":0,"y":0,"w":164,"h":86},
-	"sourceSize": {"w":164,"h":86}
+	"spriteSourceSize": {"x":0,"y":0,"w":110,"h":58},
+	"sourceSize": {"w":110,"h":58}
 },
 "atlas/playButton_0000":
 {
-	"frame": {"x":1320,"y":222,"w":130,"h":136},
+	"frame": {"x":1236,"y":254,"w":130,"h":136},
 	"rotated": false,
 	"trimmed": false,
 	"spriteSourceSize": {"x":0,"y":0,"w":130,"h":136},
@@ -138,7 +218,7 @@
 },
 "atlas/postepennoLogo_0000":
 {
-	"frame": {"x":1030,"y":222,"w":288,"h":250},
+	"frame": {"x":1030,"y":2,"w":288,"h":250},
 	"rotated": false,
 	"trimmed": false,
 	"spriteSourceSize": {"x":0,"y":0,"w":288,"h":250},
@@ -146,15 +226,15 @@
 },
 "atlas/restartButton_0000":
 {
-	"frame": {"x":836,"y":414,"w":82,"h":86},
+	"frame": {"x":1342,"y":514,"w":62,"h":64},
 	"rotated": false,
 	"trimmed": false,
-	"spriteSourceSize": {"x":0,"y":0,"w":82,"h":86},
-	"sourceSize": {"w":82,"h":86}
+	"spriteSourceSize": {"x":0,"y":0,"w":62,"h":64},
+	"sourceSize": {"w":62,"h":64}
 },
 "atlas/soundIconOff_0000":
 {
-	"frame": {"x":1552,"y":358,"w":62,"h":64},
+	"frame": {"x":1346,"y":818,"w":62,"h":64},
 	"rotated": false,
 	"trimmed": false,
 	"spriteSourceSize": {"x":0,"y":0,"w":62,"h":64},
@@ -162,7 +242,7 @@
 },
 "atlas/soundIconOn_0000":
 {
-	"frame": {"x":1552,"y":292,"w":62,"h":64},
+	"frame": {"x":1320,"y":180,"w":62,"h":64},
 	"rotated": false,
 	"trimmed": false,
 	"spriteSourceSize": {"x":0,"y":0,"w":62,"h":64},
@@ -178,7 +258,7 @@
 },
 "atlas/taskItemActive_0000":
 {
-	"frame": {"x":746,"y":362,"w":240,"h":50},
+	"frame": {"x":1022,"y":872,"w":240,"h":50},
 	"rotated": false,
 	"trimmed": false,
 	"spriteSourceSize": {"x":0,"y":0,"w":240,"h":50},
@@ -186,7 +266,7 @@
 },
 "atlas/taskItemComplete_0000":
 {
-	"frame": {"x":504,"y":414,"w":240,"h":50},
+	"frame": {"x":646,"y":952,"w":240,"h":50},
 	"rotated": false,
 	"trimmed": false,
 	"spriteSourceSize": {"x":0,"y":0,"w":240,"h":50},
@@ -194,27 +274,35 @@
 },
 "atlas/taskItemNormal_0000":
 {
-	"frame": {"x":504,"y":362,"w":240,"h":50},
+	"frame": {"x":404,"y":952,"w":240,"h":50},
 	"rotated": false,
 	"trimmed": false,
 	"spriteSourceSize": {"x":0,"y":0,"w":240,"h":50},
 	"sourceSize": {"w":240,"h":50}
 },
-"atlas/walletBack_0000":
+"atlas/timerBack_0000":
 {
-	"frame": {"x":1030,"y":2,"w":402,"h":218},
+	"frame": {"x":1122,"y":924,"w":164,"h":64},
 	"rotated": false,
 	"trimmed": false,
-	"spriteSourceSize": {"x":0,"y":0,"w":402,"h":218},
-	"sourceSize": {"w":402,"h":218}
+	"spriteSourceSize": {"x":0,"y":0,"w":164,"h":64},
+	"sourceSize": {"w":164,"h":64}
+},
+"atlas/walletBack_0000":
+{
+	"frame": {"x":504,"y":362,"w":512,"h":176},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":512,"h":176},
+	"sourceSize": {"w":512,"h":176}
 }},
 "meta": {
 	"app": "http://www.codeandweb.com/texturepacker ",
 	"version": "1.0",
 	"image": "atlas.png",
 	"format": "RGBA8888",
-	"size": {"w":1836,"h":504},
+	"size": {"w":1411,"h":1024},
 	"scale": "1",
-	"smartupdate": "$TexturePacker:SmartUpdate:500866c2a7e6e3209bf0eb624a59dcc6:36a27b51d6637cd6dfc3549fc34dd1f6:cbce6b53f0f49e0bf15173c25c41f876$"
+	"smartupdate": "$TexturePacker:SmartUpdate:5a8ed4734f43e2433c6420f81ff742aa:da052c9c8c50984e3afe5c1a7f2ebefb:cbce6b53f0f49e0bf15173c25c41f876$"
 }
 }
