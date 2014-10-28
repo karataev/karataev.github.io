@@ -18,54 +18,38 @@
         },
         {
             "type": "random",
-            "time": 60,
+            "time": 120,
             "start": 2
         },
         {
             "type": "random",
-            "time": 60,
+            "time": 120,
             "start": 3
         },
         {
             "type": "random",
-            "time": 60,
+            "time": 120,
             "start": 4
         },
         {
             "type": "random",
-            "time": 60,
+            "time": 120,
             "start": 5
         },
         {
             "type": "random",
-            "time": 60,
+            "time": 120,
             "start": 6
         },
         {
             "type": "random",
-            "time": 60,
+            "time": 120,
             "start": 7
         },
         {
             "type": "random",
-            "time": 60,
+            "time": 120,
             "start": 8
-        },
-        {
-            "type": "static",
-            "time": 60,
-            "tasks": [
-                {"coins":[1]},
-                {"coins":[0.1, 0.1]}
-            ]
-        },
-        {
-            "type": "static",
-            "time": 30,
-            "tasks": [
-                {"coins":[5, 5, 5]},
-                {"coins":[2, 2, 2]}
-            ]
         }
     ],
 
@@ -88,7 +72,7 @@
         {
             "name": "Крот",
             "asset": "heroKrot",
-            "quote": "В год получается не так-то уж и мало. Нет, не женюсь."
+            "quote": "182.5 зерна в год. В год получается не так-то уж и мало. Нет, не женюсь."
         },
         {
             "name": "Птица Говорун",
