@@ -1,0 +1,24 @@
+
+body, html {
+    margin: 0;
+    padding: 0;
+    /*text-align: center;*/
+    background: #ffffff;
+}
+
+
+#container {
+    /*border: 1px solid #000000;*/
+}
+
+#gameArea {
+    width: 960px;
+    height: 640px;
+    margin: 0 auto;
+}
+
+#vk_group {
+    text-align: center;
+    font-family: Arial;
+    font-size: 20px;
+}
