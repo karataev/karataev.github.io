@@ -1,0 +1,97 @@
+{
+
+  "levels": [
+    {
+      "country": "РОССИЯ",
+      "assets": ["rus1", "rus2", "rus3", "rus4", "rus5", "rus6"]
+    },
+    {
+      "country": "США",
+      "assets": ["usa1", "usa2", "usa3", "usa4", "usa5", "usa6"]
+    },
+    {
+      "country": "ЯПОНИЯ",
+      "assets": ["jap1", "jap2", "jap3", "jap4", "jap5", "jap6"]
+    },
+    {
+      "country": "САУДОВСКАЯ АРАВИЯ",
+      "assets": ["sau1", "sau2", "sau3", "sau4", "sau5", "sau6"]
+    },
+    {
+      "country": "ТУРЦИЯ",
+      "assets": ["tur1", "tur2", "tur3", "tur4", "tur5", "tur6"]
+    },
+    {
+      "country": "МЕКСИКА",
+      "assets": ["mex1", "mex2", "mex3", "mex4", "mex5", "mex6"]
+    },
+    {
+      "country": "ГЕРМАНИЯ",
+      "assets": ["ger1", "ger2", "ger3", "ger4", "ger5", "ger6"]
+    },
+    {
+      "country": "ИНДИЯ",
+      "assets": ["ind1", "ind2", "ind3", "ind4", "ind5", "ind6"]
+    },
+    {
+      "country": "ИНДОНЕЗИЯ",
+      "assets": ["indo1", "indo2", "indo3", "indo4", "indo5", "indo6"]
+    },
+    {
+      "country": "ФРАНЦИЯ",
+      "assets": ["fra1", "fra2", "fra3", "fra4", "fra5", "fra6"]
+    },
+    {
+      "country": "ВЕЛИКОБРИТАНИЯ",
+      "assets": ["uk1", "uk2", "uk3", "uk4", "uk5", "uk6"]
+    },
+    {
+      "country": "КИТАЙ",
+      "assets": ["chi1", "chi2", "chi3", "chi4", "chi5", "rus4"]
+    },
+    {
+      "country": "КАНАДА",
+      "assets": ["can1", "can2", "can3", "can4", "can5", "can6"]
+    },
+    {
+      "country": "АВСТРАЛИЯ",
+      "assets": ["aus1", "aus2", "aus3", "aus4", "aus5", "uk1"]
+    },
+    {
+      "country": "АРГЕНТИНА",
+      "assets": ["arg1", "arg2", "arg3", "arg4", "arg5", "arg6"]
+    },
+    {
+      "country": "БРАЗИЛИЯ",
+      "assets": ["bra1", "bra2", "bra3", "bra4", "bra5", "bra6"]
+    },
+    {
+      "country": "ИТАЛИЯ",
+      "assets": ["ita1", "ita2", "ita3", "ita4", "ita5", "ita6"]
+    },
+    {
+      "country": "ЮЖНАЯ АФРИКА",
+      "assets": ["afr1", "afr2", "afr3", "afr4", "afr5", "afr6"]
+    },
+    {
+      "country": "ЮЖНАЯ КОРЕЯ",
+      "assets": ["kor1", "kor2", "kor3", "kor4", "kor5", "kor6"]
+    },
+    {
+      "country": "ЕВРОПЕЙСКИЙ СОЮЗ",
+      "assets": ["es1", "es2", "es3", "es4", "es5", "es6"]
+    }
+  ],
+
+  "commentsCorrect": ["Верно!", "Правильно!", "Четко!", "Молодцом!", "Да!", "В точку!"],
+  "commentsWrong": ["Увы", "Ошибочка", ":("],
+
+  "result10": "Школьные уроки географии были напрасны ",
+  "result15": "Я уверен, что результат улучшится, если пройти тест еще раз ;)",
+  "result16": "Хорошие знания. Среднестатистические.",
+  "result18": "Две небольших ошибочки. Тест пройден! :)",
+  "result19": "Всего одна ошибка. Наверняка ты много путешествуешь, не так ли?",
+  "result20": "Идеально! У тебя отменная эрудиция. Есть чем гордиться!"
+
+
+}
