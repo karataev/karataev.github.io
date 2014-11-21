@@ -2,69 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="49936aeb-a0f4-4a42-8ee1-db97121b12c9" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/dontcross_jes/assets/images/background.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/dontcross_jes/assets/images/blackBack.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/dontcross_jes/assets/images/bounceLogo.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/dontcross_jes/assets/images/clearProgressBox.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/dontcross_jes/assets/images/closeButton.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/dontcross_jes/assets/images/creditsBox.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/dontcross_jes/assets/images/creditsButton.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/dontcross_jes/assets/images/creditsTitle.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/dontcross_jes/assets/images/deleteProgressTitle.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/dontcross_jes/assets/images/dialogBig.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/dontcross_jes/assets/images/dialogMedium.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/dontcross_jes/assets/images/dialogSmall.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/dontcross_jes/assets/images/downButton.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/dontcross_jes/assets/images/dragItem.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/dontcross_jes/assets/images/dragItem2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/dontcross_jes/assets/images/dragItem3.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/dontcross_jes/assets/images/dragItem4.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/dontcross_jes/assets/images/dragItemFixed.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/dontcross_jes/assets/images/dragItemSelection.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/dontcross_jes/assets/images/editorButton.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/dontcross_jes/assets/images/fader.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/dontcross_jes/assets/images/focusLostBox.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/dontcross_jes/assets/images/gameCompleteBox.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/dontcross_jes/assets/images/gameTitle.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/dontcross_jes/assets/images/homeButton.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/dontcross_jes/assets/images/levelCompleteBack.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/dontcross_jes/assets/images/levelCompleteTitle.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/dontcross_jes/assets/images/levelItemBack.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/dontcross_jes/assets/images/levelItemCompleteBack.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/dontcross_jes/assets/images/levelItemLockedBack.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/dontcross_jes/assets/images/levelSelectTitle.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/dontcross_jes/assets/images/levelUIBack.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/dontcross_jes/assets/images/levelsButton.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/dontcross_jes/assets/sounds/music.mp3" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/dontcross_jes/assets/sounds/music.ogg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/dontcross_jes/assets/images/newRecord.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/dontcross_jes/assets/images/nextButton.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/dontcross_jes/assets/images/noButton.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/dontcross_jes/assets/images/pauseBox.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/dontcross_jes/assets/images/pauseButton.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/dontcross_jes/assets/images/pauseTitle.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/dontcross_jes/assets/images/playButton.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/dontcross_jes/assets/images/playButton2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/dontcross_jes/assets/images/postepennoLogo.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/dontcross_jes/assets/images/preloadBar.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/dontcross_jes/assets/images/preloadBarHolder.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/dontcross_jes/assets/images/restartButton.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/dontcross_jes/assets/images/saveButton.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/dontcross_jes/assets/images/shuffleButton.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/dontcross_jes/assets/sounds/sndClick.mp3" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/dontcross_jes/assets/sounds/sndClick.ogg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/dontcross_jes/assets/sounds/sndLevelComplete.mp3" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/dontcross_jes/assets/sounds/sndLevelComplete.ogg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/dontcross_jes/assets/images/soundIconOff.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/dontcross_jes/assets/images/soundIconOn.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/dontcross_jes/assets/images/timerIcon.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/dontcross_jes/assets/images/upButton.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/dontcross_jes/assets/images/yesButton.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/dontcross_jes/libs/Class.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/dontcross_jes/release/game.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/dontcross_jes/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/dontcross_jes/libs/phaser.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/dontcross_jes/styles.css" />
+      <change type="DELETED" beforePath="D:\Github\postepenno.github.io\temp\dontcross_jes\assets\images\bounceLogo.png" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/temp/dontcross_jes/release/game.min.js" afterPath="$PROJECT_DIR$/temp/dontcross_jes/release/game.min.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="postepenno.github.io.iws" />
@@ -1216,13 +1155,20 @@
       <option name="project" value="LOCAL" />
       <updated>1416549049489</updated>
     </task>
-    <option name="localTasksCounter" value="144" />
+    <task id="LOCAL-00144" summary="Popping Pals jes">
+      <created>1416549997096</created>
+      <option name="number" value="00144" />
+      <option name="project" value="LOCAL" />
+      <updated>1416549997096</updated>
+    </task>
+    <option name="localTasksCounter" value="145" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="54" y="-8" width="1874" height="1096" extended-state="6" />
     <editor active="false" />
     <layout>
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32952183" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Changes" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2910603" sideWeight="0.49972782" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32952183" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -1237,7 +1183,6 @@
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.2827443" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32952183" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
