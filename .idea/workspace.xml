@@ -2,8 +2,28 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="49936aeb-a0f4-4a42-8ee1-db97121b12c9" name="Default" comment="">
-      <change type="DELETED" beforePath="D:\Github\postepenno.github.io\temp\dontcross_jes\assets\images\bounceLogo.png" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/temp/dontcross_jes/release/game.min.js" afterPath="$PROJECT_DIR$/temp/dontcross_jes/release/game.min.js" />
+      <change type="DELETED" beforePath="D:\Github\postepenno.github.io\html5\happy\assets\fonts\Barthowheel.fnt" afterPath="" />
+      <change type="DELETED" beforePath="D:\Github\postepenno.github.io\html5\happy\assets\fonts\Barthowheel.png" afterPath="" />
+      <change type="DELETED" beforePath="D:\Github\postepenno.github.io\html5\happy\assets\fonts\ChunkFive.fnt" afterPath="" />
+      <change type="DELETED" beforePath="D:\Github\postepenno.github.io\html5\happy\assets\fonts\ChunkFive.ltr" afterPath="" />
+      <change type="DELETED" beforePath="D:\Github\postepenno.github.io\html5\happy\assets\fonts\ChunkFive.png" afterPath="" />
+      <change type="DELETED" beforePath="D:\Github\postepenno.github.io\html5\happy\assets\fonts\SFArchRival.fnt" afterPath="" />
+      <change type="DELETED" beforePath="D:\Github\postepenno.github.io\html5\happy\assets\fonts\SFArchRival.ltr" afterPath="" />
+      <change type="DELETED" beforePath="D:\Github\postepenno.github.io\html5\happy\assets\fonts\SFArchRival.png" afterPath="" />
+      <change type="DELETED" beforePath="D:\Github\postepenno.github.io\html5\happy\assets\fonts\SF_Arch_Rival.ttf" afterPath="" />
+      <change type="DELETED" beforePath="D:\Github\postepenno.github.io\html5\happy\assets\fonts\SansitaOne.fnt" afterPath="" />
+      <change type="DELETED" beforePath="D:\Github\postepenno.github.io\html5\happy\assets\fonts\SansitaOne.ltr" afterPath="" />
+      <change type="DELETED" beforePath="D:\Github\postepenno.github.io\html5\happy\assets\fonts\SansitaOne.png" afterPath="" />
+      <change type="DELETED" beforePath="D:\Github\postepenno.github.io\html5\happy\assets\fonts\SansitaOne.ttf" afterPath="" />
+      <change type="DELETED" beforePath="D:\Github\postepenno.github.io\html5\happy\assets\images\gameCompleteBack.jpg" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/html5/happy/assets/images/animations.png" afterPath="$PROJECT_DIR$/html5/happy/assets/images/animations.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/html5/happy/assets/images/atlas.png" afterPath="$PROJECT_DIR$/html5/happy/assets/images/atlas.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/html5/happy/assets/images/preloadBar.png" afterPath="$PROJECT_DIR$/html5/happy/assets/images/preloadBar.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/html5/happy/assets/images/preloadBarHolder.png" afterPath="$PROJECT_DIR$/html5/happy/assets/images/preloadBarHolder.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/html5/happy/release/TextData.json" afterPath="$PROJECT_DIR$/html5/happy/release/TextData.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/html5/happy/assets/images/animations.json" afterPath="$PROJECT_DIR$/html5/happy/assets/images/animations.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/html5/happy/assets/images/atlas.json" afterPath="$PROJECT_DIR$/html5/happy/assets/images/atlas.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/html5/happy/release/game.min.js" afterPath="$PROJECT_DIR$/html5/happy/release/game.min.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="postepenno.github.io.iws" />
@@ -61,8 +81,8 @@
       <file leaf-file-name="styles.css" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/meloch/styles.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.7515244" vertical-offset="0" max-vertical-offset="748">
-              <caret line="29" column="0" selection-start-line="29" selection-start-column="0" selection-end-line="29" selection-end-column="0" />
+            <state vertical-scroll-proportion="0.3628049" vertical-offset="0" max-vertical-offset="748">
+              <caret line="14" column="27" selection-start-line="14" selection-start-column="27" selection-end-line="14" selection-end-column="27" />
               <folding />
             </state>
           </provider>
@@ -1161,14 +1181,43 @@
       <option name="project" value="LOCAL" />
       <updated>1416549997096</updated>
     </task>
-    <option name="localTasksCounter" value="145" />
+    <task id="LOCAL-00145" summary="Dont Cross jes">
+      <created>1416550108974</created>
+      <option name="number" value="00145" />
+      <option name="project" value="LOCAL" />
+      <updated>1416550108974</updated>
+    </task>
+    <task id="LOCAL-00146" summary="Moustache time">
+      <created>1416569384843</created>
+      <option name="number" value="00146" />
+      <option name="project" value="LOCAL" />
+      <updated>1416569384844</updated>
+    </task>
+    <task id="LOCAL-00147" summary="Moustache time">
+      <created>1416634608472</created>
+      <option name="number" value="00147" />
+      <option name="project" value="LOCAL" />
+      <updated>1416634608472</updated>
+    </task>
+    <task id="LOCAL-00148" summary="Moustache time">
+      <created>1416803273213</created>
+      <option name="number" value="00148" />
+      <option name="project" value="LOCAL" />
+      <updated>1416803273213</updated>
+    </task>
+    <task id="LOCAL-00149" summary="Moustache time">
+      <created>1416803765532</created>
+      <option name="number" value="00149" />
+      <option name="project" value="LOCAL" />
+      <updated>1416803765532</updated>
+    </task>
+    <option name="localTasksCounter" value="150" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="54" y="-8" width="1874" height="1096" extended-state="6" />
     <editor active="false" />
     <layout>
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32952183" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Changes" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2910603" sideWeight="0.49972782" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32952183" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -1180,13 +1229,14 @@
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.29417878" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.2827443" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32952183" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
     </layout>
   </component>
   <component name="Vcs.Log.UiProperties">
@@ -1205,8 +1255,6 @@
       <TodoPanelSettings />
     </option>
     <option name="CHECK_COMMIT_MESSAGE_SPELLING" value="false" />
-    <MESSAGE value="Sequencer Rikoshe" />
-    <MESSAGE value="Don't Cross for Coolmath" />
     <MESSAGE value="Doodle Connect SG" />
     <MESSAGE value="Plus One for Rikoshe timer update" />
     <MESSAGE value="Sequencer for Rikoshe update&#10;3 Levels&#10;TutorialState" />
@@ -1230,7 +1278,9 @@
     <MESSAGE value="symmetry" />
     <MESSAGE value="be happy" />
     <MESSAGE value="Popping Pals jes" />
-    <option name="LAST_COMMIT_MESSAGE" value="Popping Pals jes" />
+    <MESSAGE value="Dont Cross jes" />
+    <MESSAGE value="Moustache time" />
+    <option name="LAST_COMMIT_MESSAGE" value="Moustache time" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -1607,8 +1657,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/meloch/styles.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.7515244" vertical-offset="0" max-vertical-offset="748">
-          <caret line="29" column="0" selection-start-line="29" selection-start-column="0" selection-end-line="29" selection-end-column="0" />
+        <state vertical-scroll-proportion="0.3628049" vertical-offset="0" max-vertical-offset="748">
+          <caret line="14" column="27" selection-start-line="14" selection-start-column="27" selection-end-line="14" selection-end-column="27" />
           <folding />
         </state>
       </provider>

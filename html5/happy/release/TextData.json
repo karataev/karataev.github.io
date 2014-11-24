@@ -1,11 +1,19 @@
 {
     "en":
     {
-        "tutorial1a": "Welcome bacteria connected with each other.\nThey're unhappy when links are crossed.",
-        "tutorial1b": "Help them, please.\nUncross the lines and make everybody happy!",
-        "tutorial3": "This vaccine will make everyone\nHAPPY!",
+        "credits": "Credits",
+        "level_select": "Level Select",
+        "level_complete": "Level\nComplete",
+        "level": "Level",
+        "moves": "Moves",
+        "score": "Score",
+        "game_complete": "Game complete",
+        "thanks": "Thanks for playing!",
+
+        "tutorial1a": "Smileys are connected with each other.\nSometimes links are crossed.",
+        "tutorial1b": "Drag smileys to uncross the lines\nand make everyone happy!",
         "tutorial8": "It's getting harder and harder",
-        "tutorial11": "Sometimes bacteria are tied to a circle",
+        "tutorial11": "Sometimes smileys are tied to a circle",
         "tutorial15": "Look! Some elements are fixed."
 
     },
@@ -14,6 +22,19 @@
 
     "ru":
     {
-        "tutorial1": "Сделай так, чтобы\nлинии не пересекались!"
+        "credits": "Авторы",
+        "level_select": "Выбор уровня",
+        "level_complete": "Уровень\nпройден!",
+        "level": "Уровень",
+        "moves": "Ходы",
+        "score": "Очки",
+        "game_complete": "Ура!",
+        "thanks": "Игра пройдена!",
+
+        "tutorial1a": "Кругляши связаны между собой.\nИногда линии пересекаются",
+        "tutorial1b": "Двигай кругляшей, чтобы распутать связи\nи сделать всех счастливыми!",
+        "tutorial8": "Становится все сложней и сложней",
+        "tutorial11": "Иногда кругляши привязаны к окружности",
+        "tutorial15": "Смотри! Некоторые элементы зафиксированы."
     }
 }
