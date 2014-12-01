@@ -6,6 +6,10 @@ body, html {
     /*background: white;*/
 }
 
+@font-face {
+    font-family: "Comic";
+    src: url(assets/fonts/comic.ttf) format("truetype");
+}
 
 #gameArea {
     position: absolute;
