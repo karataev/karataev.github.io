@@ -2,28 +2,24 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="49936aeb-a0f4-4a42-8ee1-db97121b12c9" name="Default" comment="">
-      <change type="DELETED" beforePath="D:\Github\postepenno.github.io\html5\happy\assets\fonts\Barthowheel.fnt" afterPath="" />
-      <change type="DELETED" beforePath="D:\Github\postepenno.github.io\html5\happy\assets\fonts\Barthowheel.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\Github\postepenno.github.io\html5\happy\assets\fonts\ChunkFive.fnt" afterPath="" />
-      <change type="DELETED" beforePath="D:\Github\postepenno.github.io\html5\happy\assets\fonts\ChunkFive.ltr" afterPath="" />
-      <change type="DELETED" beforePath="D:\Github\postepenno.github.io\html5\happy\assets\fonts\ChunkFive.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\Github\postepenno.github.io\html5\happy\assets\fonts\SFArchRival.fnt" afterPath="" />
-      <change type="DELETED" beforePath="D:\Github\postepenno.github.io\html5\happy\assets\fonts\SFArchRival.ltr" afterPath="" />
-      <change type="DELETED" beforePath="D:\Github\postepenno.github.io\html5\happy\assets\fonts\SFArchRival.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\Github\postepenno.github.io\html5\happy\assets\fonts\SF_Arch_Rival.ttf" afterPath="" />
-      <change type="DELETED" beforePath="D:\Github\postepenno.github.io\html5\happy\assets\fonts\SansitaOne.fnt" afterPath="" />
-      <change type="DELETED" beforePath="D:\Github\postepenno.github.io\html5\happy\assets\fonts\SansitaOne.ltr" afterPath="" />
-      <change type="DELETED" beforePath="D:\Github\postepenno.github.io\html5\happy\assets\fonts\SansitaOne.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\Github\postepenno.github.io\html5\happy\assets\fonts\SansitaOne.ttf" afterPath="" />
-      <change type="DELETED" beforePath="D:\Github\postepenno.github.io\html5\happy\assets\images\gameCompleteBack.jpg" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/html5/happy/assets/images/animations.png" afterPath="$PROJECT_DIR$/html5/happy/assets/images/animations.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/html5/happy/assets/images/atlas.png" afterPath="$PROJECT_DIR$/html5/happy/assets/images/atlas.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/html5/happy/assets/images/preloadBar.png" afterPath="$PROJECT_DIR$/html5/happy/assets/images/preloadBar.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/html5/happy/assets/images/preloadBarHolder.png" afterPath="$PROJECT_DIR$/html5/happy/assets/images/preloadBarHolder.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/html5/happy/release/TextData.json" afterPath="$PROJECT_DIR$/html5/happy/release/TextData.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/html5/happy/assets/images/animations.json" afterPath="$PROJECT_DIR$/html5/happy/assets/images/animations.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/html5/happy/assets/images/atlas.json" afterPath="$PROJECT_DIR$/html5/happy/assets/images/atlas.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/html5/happy/release/game.min.js" afterPath="$PROJECT_DIR$/html5/happy/release/game.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/dontcross_famobi/assets/images/atlas.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/dontcross_famobi/assets/images/background.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/dontcross_famobi/assets/images/blackBack.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/dontcross_famobi/assets/images/fader.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/dontcross_famobi/assets/sounds/music.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/dontcross_famobi/assets/sounds/music.ogg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/dontcross_famobi/assets/images/preloadBar.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/dontcross_famobi/assets/images/preloadBarHolder.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/dontcross_famobi/assets/sounds/sndClick.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/dontcross_famobi/assets/sounds/sndClick.ogg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/dontcross_famobi/assets/sounds/sndLevelComplete.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/dontcross_famobi/assets/sounds/sndLevelComplete.ogg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/dontcross_famobi/libs/Class.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/dontcross_famobi/assets/images/atlas.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/dontcross_famobi/release/game.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/dontcross_famobi/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/dontcross_famobi/libs/phaser.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/dontcross_famobi/styles.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="postepenno.github.io.iws" />
@@ -48,11 +44,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="85" max-vertical-offset="1173">
-              <caret line="5" column="10" selection-start-line="5" selection-start-column="10" selection-end-line="5" selection-end-column="10" />
+            <state vertical-scroll-proportion="0.12222222" vertical-offset="263" max-vertical-offset="1173">
+              <caret line="20" column="34" selection-start-line="20" selection-start-column="34" selection-end-line="20" selection-end-column="34" />
               <folding />
             </state>
           </provider>
@@ -78,10 +74,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="styles.css" pinned="false" current-in-tab="true">
+      <file leaf-file-name="styles.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/meloch/styles.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.3628049" vertical-offset="0" max-vertical-offset="748">
+            <state vertical-scroll-proportion="0.0" vertical-offset="238" max-vertical-offset="748">
               <caret line="14" column="27" selection-start-line="14" selection-start-column="27" selection-end-line="14" selection-end-column="27" />
               <folding />
             </state>
@@ -138,6 +134,7 @@
       <sortByType />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -166,7 +163,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="temp" />
+              <option name="myItemId" value="html5" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -180,7 +177,11 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="meloch" />
+              <option name="myItemId" value="html5" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="happy" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -194,21 +195,11 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="g20" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="postepenno.github.io" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="postepenno.github.io" />
+              <option name="myItemId" value="html5" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="g20" />
+              <option name="myItemId" value="happy" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -216,9 +207,34 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="postepenno.github.io" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="postepenno.github.io" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="html5" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="happy" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="assets" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="fonts" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -228,7 +244,7 @@
     <property name="options.splitter.details.proportions" value="0.2" />
     <property name="options.searchVisible" value="true" />
     <property name="recentsLimit" value="5" />
-    <property name="last_opened_file_path" value="$USER_HOME$/AppData/Local/GitHub/PortableGit_054f2e797ebafd44a30203088cd3d58663c627ef/bin/git.exe" />
+    <property name="last_opened_file_path" value="D:/Dropbox/development/html5/DontCrossTheLineStuff/DontCrossPhaser" />
     <property name="restartRequiresConfirmation" value="true" />
     <property name="FullScreen" value="false" />
     <property name="DefaultHtmlFileTemplate" value="Html5" />
@@ -256,14 +272,10 @@
       <ConfigurationWrapper RunnerId="JavascriptDebugRunner" />
       <method />
     </configuration>
-    <configuration default="true" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
-      <method />
-    </configuration>
     <configuration default="true" type="DartUnitRunConfigurationType" factoryName="DartUnit">
       <method />
     </configuration>
-    <configuration default="true" type="JavaScriptTestRunnerKarma" factoryName="Karma" config-file="">
-      <envs />
+    <configuration default="true" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
       <method />
     </configuration>
     <configuration default="true" type="JSTestDriver:ConfigurationType" factoryName="JsTestDriver">
@@ -271,6 +283,10 @@
       <setting name="settingsFile" value="" />
       <setting name="serverType" value="INTERNAL" />
       <setting name="preferredDebugBrowser" value="Chrome" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerKarma" factoryName="Karma" config-file="">
+      <envs />
       <method />
     </configuration>
     <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
@@ -1211,7 +1227,73 @@
       <option name="project" value="LOCAL" />
       <updated>1416803765532</updated>
     </task>
-    <option name="localTasksCounter" value="150" />
+    <task id="LOCAL-00150" summary="be happy">
+      <created>1416822825736</created>
+      <option name="number" value="00150" />
+      <option name="project" value="LOCAL" />
+      <updated>1416822825736</updated>
+    </task>
+    <task id="LOCAL-00151" summary="be happy">
+      <created>1416823026144</created>
+      <option name="number" value="00151" />
+      <option name="project" value="LOCAL" />
+      <updated>1416823026144</updated>
+    </task>
+    <task id="LOCAL-00152" summary="be happy">
+      <created>1416823118609</created>
+      <option name="number" value="00152" />
+      <option name="project" value="LOCAL" />
+      <updated>1416823118609</updated>
+    </task>
+    <task id="LOCAL-00153" summary="be happy">
+      <created>1416823295936</created>
+      <option name="number" value="00153" />
+      <option name="project" value="LOCAL" />
+      <updated>1416823295936</updated>
+    </task>
+    <task id="LOCAL-00154" summary="mouctache time">
+      <created>1416830590063</created>
+      <option name="number" value="00154" />
+      <option name="project" value="LOCAL" />
+      <updated>1416830590063</updated>
+    </task>
+    <task id="LOCAL-00155" summary="mouctache time">
+      <created>1416908357905</created>
+      <option name="number" value="00155" />
+      <option name="project" value="LOCAL" />
+      <updated>1416908357905</updated>
+    </task>
+    <task id="LOCAL-00156" summary="mouctache time">
+      <created>1417066347339</created>
+      <option name="number" value="00156" />
+      <option name="project" value="LOCAL" />
+      <updated>1417066347340</updated>
+    </task>
+    <task id="LOCAL-00157" summary="mouctache time">
+      <created>1417067609636</created>
+      <option name="number" value="00157" />
+      <option name="project" value="LOCAL" />
+      <updated>1417067609636</updated>
+    </task>
+    <task id="LOCAL-00158" summary="Don't Cross&#10;maximum-scale=1.01">
+      <created>1417160406210</created>
+      <option name="number" value="00158" />
+      <option name="project" value="LOCAL" />
+      <updated>1417160406210</updated>
+    </task>
+    <task id="LOCAL-00159" summary="be happy">
+      <created>1417435405447</created>
+      <option name="number" value="00159" />
+      <option name="project" value="LOCAL" />
+      <updated>1417435405447</updated>
+    </task>
+    <task id="LOCAL-00160" summary="mustache time">
+      <created>1417437090187</created>
+      <option name="number" value="00160" />
+      <option name="project" value="LOCAL" />
+      <updated>1417437090187</updated>
+    </task>
+    <option name="localTasksCounter" value="161" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -1255,9 +1337,6 @@
       <TodoPanelSettings />
     </option>
     <option name="CHECK_COMMIT_MESSAGE_SPELLING" value="false" />
-    <MESSAGE value="Doodle Connect SG" />
-    <MESSAGE value="Plus One for Rikoshe timer update" />
-    <MESSAGE value="Sequencer for Rikoshe update&#10;3 Levels&#10;TutorialState" />
     <MESSAGE value="Doodle Connect" />
     <MESSAGE value="Doodle Connect added to portfolio." />
     <MESSAGE value="Sequencer" />
@@ -1276,17 +1355,28 @@
     <MESSAGE value="happy" />
     <MESSAGE value="g20" />
     <MESSAGE value="symmetry" />
-    <MESSAGE value="be happy" />
     <MESSAGE value="Popping Pals jes" />
     <MESSAGE value="Dont Cross jes" />
     <MESSAGE value="Moustache time" />
-    <option name="LAST_COMMIT_MESSAGE" value="Moustache time" />
+    <MESSAGE value="mouctache time" />
+    <MESSAGE value="Don't Cross&#10;maximum-scale=1.01" />
+    <MESSAGE value="be happy" />
+    <MESSAGE value="mustache time" />
+    <option name="LAST_COMMIT_MESSAGE" value="mustache time" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/meloch/styles.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="238" max-vertical-offset="748">
+          <caret line="14" column="27" selection-start-line="14" selection-start-column="27" selection-end-line="14" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/ussr/styles.css">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="765" max-vertical-offset="867">
@@ -1598,14 +1688,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="85" max-vertical-offset="1173">
-          <caret line="5" column="10" selection-start-line="5" selection-start-column="10" selection-end-line="5" selection-end-column="10" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/html5/iknowart/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-20.846153" vertical-offset="36" max-vertical-offset="714">
@@ -1634,11 +1716,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/html5/happy/assets/images/gameCompleteBack.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/js/main.js">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="2091" max-vertical-offset="3230">
@@ -1657,8 +1734,16 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/meloch/styles.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.3628049" vertical-offset="0" max-vertical-offset="748">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="748">
           <caret line="14" column="27" selection-start-line="14" selection-start-column="27" selection-end-line="14" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.12222222" vertical-offset="263" max-vertical-offset="1173">
+          <caret line="20" column="34" selection-start-line="20" selection-start-column="34" selection-end-line="20" selection-end-column="34" />
           <folding />
         </state>
       </provider>
