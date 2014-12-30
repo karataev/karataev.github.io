@@ -5,6 +5,13 @@
 
 function startup()
 {
+    var mustache_time = new Game(
+        "Mustache Time",
+        "assets/mustache_time.jpg",
+        "flash/mustache_time",
+        "Save mustache balls from falling outside the screen by drawing platforms. But it's not that simple. You're allowed to draw only inside specific zones, but your actions are copied outside."
+    );
+
     var drawfenderlp = new Game(
         "Drawfender Level Pack",
         "assets/drawlp.jpg",
@@ -104,7 +111,7 @@ function startup()
         "Guide your armed balloon through twenty challenging levels. Avoid accidents and shoot down any enemy balloons you encounter."
     );
 
-    var flashGames = [drawfenderlp, drawfender, nsp, wutb5, wutb4, wutb3, sp, sticks, wutb2, wtr, wutb, splitter2, gen, splitter, airbattle];
+    var flashGames = [mustache_time, drawfenderlp, drawfender, nsp, wutb5, wutb4, wutb3, sp, sticks, wutb2, wtr, wutb, splitter2, gen, splitter, airbattle];
     for (var i = 0; i < flashGames.length; i++)
     {
         addGame(flashGames[i], "#flash");
