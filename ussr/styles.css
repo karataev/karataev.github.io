@@ -33,6 +33,10 @@ body, html {
     font-family: Russo One;
 }
 
+#googleplay {
+    text-align: center;
+}
+
 #footer {
     padding-top: 0px;
     text-align: center;
