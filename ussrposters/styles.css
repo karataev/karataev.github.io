@@ -1,0 +1,50 @@
+
+body, html {
+    margin: 0;
+    padding: 0;
+    /*text-align: center;*/
+    background: #e2d4af;
+
+    -webkit-touch-callout: none;
+    -webkit-user-select: none; /* save from freezes while tap-and-hold on Android stock browser */
+
+}
+
+#game {
+    text-align: center;
+}
+
+#gameArea {
+    /*position: absolute;*/
+    /*display: inline;*/
+    background: #ffffff;
+    /*border: 2px solid black;*/
+    margin: 0px auto;
+    width: 800px;
+    height: 600px;
+    -webkit-box-shadow: 0px 4px 17px 0px rgba(0,0,0,0.77);
+    -moz-box-shadow: 0px 4px 17px 0px rgba(0,0,0,0.77);
+    box-shadow: 0px 4px 17px 0px rgba(0,0,0,0.77);
+}
+
+#vk_group {
+    text-align: center;
+    font-size: 20px;
+}
+
+#googleplay {
+    text-align: center;
+}
+
+#footer {
+    padding-top: 0px;
+    text-align: center;
+    /*background: yellow;*/
+    /*height: 100px;*/
+}
+
+#ads {
+    text-align: center;
+    margin-top: 10px;
+    /*border: 1px solid #000000;*/
+}
