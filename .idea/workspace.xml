@@ -2,24 +2,19 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="49936aeb-a0f4-4a42-8ee1-db97121b12c9" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/dontcross_famobi/assets/images/atlas.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/dontcross_famobi/assets/images/background.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/dontcross_famobi/assets/images/blackBack.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/dontcross_famobi/assets/images/fader.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/dontcross_famobi/assets/sounds/music.mp3" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/dontcross_famobi/assets/sounds/music.ogg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/dontcross_famobi/assets/images/preloadBar.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/dontcross_famobi/assets/images/preloadBarHolder.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/dontcross_famobi/assets/sounds/sndClick.mp3" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/dontcross_famobi/assets/sounds/sndClick.ogg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/dontcross_famobi/assets/sounds/sndLevelComplete.mp3" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/dontcross_famobi/assets/sounds/sndLevelComplete.ogg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/dontcross_famobi/libs/Class.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/dontcross_famobi/assets/images/atlas.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/dontcross_famobi/release/game.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/dontcross_famobi/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/dontcross_famobi/libs/phaser.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/dontcross_famobi/styles.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bgo/test/libs/Class.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bgo/test/js/Main.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bgo/test/libs/boomerango/ajaxRequest.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bgo/test/libs/boomerango/analyticsWrapper.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bgo/test/libs/boomerango/apiService.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bgo/test/libs/boomerango/boomerango.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bgo/test/libs/boomerango/boomerangoApi.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bgo/test/libs/boomerango/boomerangoApi.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bgo/test/libs/boomerango/googleAnalytics.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bgo/test/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bgo/test/styles.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bgo/test/libs/boomerango/url.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/encodings.xml" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="postepenno.github.io.iws" />
@@ -44,41 +39,63 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/index.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.12222222" vertical-offset="263" max-vertical-offset="1173">
-              <caret line="20" column="34" selection-start-line="20" selection-start-column="34" selection-end-line="20" selection-end-column="34" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="main.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/js/main.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="2091" max-vertical-offset="3230">
-              <caret line="151" column="59" selection-start-line="151" selection-start-column="59" selection-end-line="151" selection-end-column="59" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/meloch/index.html">
+        <entry file="file://$PROJECT_DIR$/nu/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="203" max-vertical-offset="833">
-              <caret line="24" column="28" selection-start-line="24" selection-start-column="28" selection-end-line="24" selection-end-column="28" />
+            <state vertical-scroll-proportion="0.0" vertical-offset="85" max-vertical-offset="1190">
+              <caret line="5" column="63" selection-start-line="5" selection-start-column="63" selection-end-line="5" selection-end-column="63" />
+              <folding>
+                <element signature="n#style#0;n#ins#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="slider.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/nu/slider.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="2074" max-vertical-offset="3570">
+              <caret line="122" column="20" selection-start-line="122" selection-start-column="20" selection-end-line="122" selection-end-column="20" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
       <file leaf-file-name="styles.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/meloch/styles.css">
+        <entry file="file://$PROJECT_DIR$/nu/styles.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="238" max-vertical-offset="748">
-              <caret line="14" column="27" selection-start-line="14" selection-start-column="27" selection-end-line="14" selection-end-column="27" />
+            <state vertical-scroll-proportion="0.0" vertical-offset="109" max-vertical-offset="765">
+              <caret line="39" column="0" selection-start-line="39" selection-start-column="0" selection-end-line="39" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ussrposters/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="357" max-vertical-offset="1207">
+              <caret line="8" column="0" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/g20/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="560" max-vertical-offset="1190">
+              <caret line="43" column="14" selection-start-line="43" selection-start-column="14" selection-end-line="43" selection-end-column="14" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/meloch/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.76984125" vertical-offset="280" max-vertical-offset="1190">
+              <caret line="45" column="36" selection-start-line="45" selection-start-column="36" selection-end-line="45" selection-end-column="36" />
               <folding />
             </state>
           </provider>
@@ -99,6 +116,26 @@
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/temp/symmetry/index.html" />
+        <option value="$PROJECT_DIR$/js/main.js" />
+        <option value="$PROJECT_DIR$/flash/mustache_time/index.html" />
+        <option value="$PROJECT_DIR$/yapometr/index.html" />
+        <option value="$PROJECT_DIR$/ussr/styles.css" />
+        <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/ussrposters/styles.css" />
+        <option value="$PROJECT_DIR$/nu/styles.css" />
+        <option value="$PROJECT_DIR$/nu/slider.css" />
+        <option value="$PROJECT_DIR$/nu/index.html" />
+        <option value="$PROJECT_DIR$/ussrposters/index.html" />
+        <option value="$PROJECT_DIR$/g20/index.html" />
+        <option value="$PROJECT_DIR$/meloch/index.html" />
+        <option value="$PROJECT_DIR$/ussr/index.html" />
+      </list>
+    </option>
+  </component>
   <component name="JsGulpfileManager">
     <detection-done>true</detection-done>
   </component>
@@ -107,6 +144,25 @@
     <option name="y" value="-8" />
     <option name="width" value="1874" />
     <option name="height" value="1096" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+          <State>
+            <id>Internationalization issues</id>
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>CoffeeScript</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
@@ -134,7 +190,6 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -163,7 +218,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="html5" />
+              <option name="myItemId" value="ussrposters" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -177,11 +232,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="html5" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="happy" />
+              <option name="myItemId" value="ussr" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -195,15 +246,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="html5" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="happy" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="assets" />
+              <option name="myItemId" value="nu" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -217,34 +260,37 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="html5" />
+              <option name="myItemId" value="meloch" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="postepenno.github.io" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="postepenno.github.io" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="happy" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="assets" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="fonts" />
+              <option name="myItemId" value="g20" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="options.lastSelected" value="settings.github" />
+    <property name="options.lastSelected" value="configurable.group.tools" />
     <property name="options.splitter.main.proportions" value="0.3" />
     <property name="options.splitter.details.proportions" value="0.2" />
     <property name="options.searchVisible" value="true" />
     <property name="recentsLimit" value="5" />
-    <property name="last_opened_file_path" value="D:/Dropbox/development/html5/DontCrossTheLineStuff/DontCrossPhaser" />
+    <property name="last_opened_file_path" value="D:/Dropbox/development/html5/IKnowArtStuff/IKnowArtBoomerango" />
     <property name="restartRequiresConfirmation" value="true" />
     <property name="FullScreen" value="false" />
     <property name="DefaultHtmlFileTemplate" value="Html5" />
@@ -256,7 +302,7 @@
       <recent name="D:\GitHub\postepenno.github.io\flash" />
     </key>
   </component>
-  <component name="RunManager" selected="JavaScript Debug.index.html">
+  <component name="RunManager" selected="JavaScript Debug.index.html (1)">
     <configuration default="false" name="index.html" type="JavascriptDebugType" factoryName="JavaScript Debug" singleton="true" temporary="true" uri="http://localhost:63342/postepenno.github.io/index.html">
       <RunnerSettings RunnerId="JavascriptDebugRunner" />
       <ConfigurationWrapper RunnerId="JavascriptDebugRunner" />
@@ -272,10 +318,19 @@
       <ConfigurationWrapper RunnerId="JavascriptDebugRunner" />
       <method />
     </configuration>
-    <configuration default="true" type="DartUnitRunConfigurationType" factoryName="DartUnit">
+    <configuration default="false" name="index.html (1)" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/postepenno.github.io/ussrposters/index.html">
+      <RunnerSettings RunnerId="JavascriptDebugRunner" />
+      <ConfigurationWrapper RunnerId="JavascriptDebugRunner" />
       <method />
     </configuration>
     <configuration default="true" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
+      <method />
+    </configuration>
+    <configuration default="true" type="DartUnitRunConfigurationType" factoryName="DartUnit">
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerKarma" factoryName="Karma" config-file="">
+      <envs />
       <method />
     </configuration>
     <configuration default="true" type="JSTestDriver:ConfigurationType" factoryName="JsTestDriver">
@@ -283,10 +338,6 @@
       <setting name="settingsFile" value="" />
       <setting name="serverType" value="INTERNAL" />
       <setting name="preferredDebugBrowser" value="Chrome" />
-      <method />
-    </configuration>
-    <configuration default="true" type="JavaScriptTestRunnerKarma" factoryName="Karma" config-file="">
-      <envs />
       <method />
     </configuration>
     <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
@@ -305,20 +356,23 @@
       <node-options />
       <gulpfile />
       <tasks />
+      <arguments />
       <pass-parent-envs>true</pass-parent-envs>
       <envs />
       <method />
     </configuration>
-    <list size="3">
+    <list size="4">
       <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.index.html" />
       <item index="1" class="java.lang.String" itemvalue="JavaScript Debug.Drawfender Level Pack" />
       <item index="2" class="java.lang.String" itemvalue="JavaScript Debug.Doodle Connect" />
+      <item index="3" class="java.lang.String" itemvalue="JavaScript Debug.index.html (1)" />
     </list>
     <recent_temporary>
-      <list size="3">
-        <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.index.html" />
-        <item index="1" class="java.lang.String" itemvalue="JavaScript Debug.Doodle Connect" />
-        <item index="2" class="java.lang.String" itemvalue="JavaScript Debug.Drawfender Level Pack" />
+      <list size="4">
+        <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.index.html (1)" />
+        <item index="1" class="java.lang.String" itemvalue="JavaScript Debug.index.html" />
+        <item index="2" class="java.lang.String" itemvalue="JavaScript Debug.Doodle Connect" />
+        <item index="3" class="java.lang.String" itemvalue="JavaScript Debug.Drawfender Level Pack" />
       </list>
     </recent_temporary>
   </component>
@@ -332,864 +386,6 @@
       <created>1391591777661</created>
       <option name="number" value="Default" />
       <updated>1391591777661</updated>
-    </task>
-    <task id="LOCAL-00001" summary="Test commit from WebStorm">
-      <created>1402396682105</created>
-      <option name="number" value="00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1402396682105</updated>
-    </task>
-    <task id="LOCAL-00002" summary="Smile remove">
-      <created>1402397100810</created>
-      <option name="number" value="00002" />
-      <option name="project" value="LOCAL" />
-      <updated>1402397100810</updated>
-    </task>
-    <task id="LOCAL-00003" summary="DCTL 0.97">
-      <created>1402400835645</created>
-      <option name="number" value="00003" />
-      <option name="project" value="LOCAL" />
-      <updated>1402400835645</updated>
-    </task>
-    <task id="LOCAL-00004" summary="Art is Awesome&#10;Main Menu titles on all languages">
-      <created>1402458189997</created>
-      <option name="number" value="00004" />
-      <option name="project" value="LOCAL" />
-      <updated>1402458189997</updated>
-    </task>
-    <task id="LOCAL-00005" summary="Art is Awesome&#10;Main Menu titles on all languages">
-      <created>1402458255745</created>
-      <option name="number" value="00005" />
-      <option name="project" value="LOCAL" />
-      <updated>1402458255745</updated>
-    </task>
-    <task id="LOCAL-00006" summary="Art is Awesome&#10;Main Menu titles on all languages">
-      <created>1402458354893</created>
-      <option name="number" value="00006" />
-      <option name="project" value="LOCAL" />
-      <updated>1402458354893</updated>
-    </task>
-    <task id="LOCAL-00007" summary="Don't Cross description change">
-      <created>1402555048809</created>
-      <option name="number" value="00007" />
-      <option name="project" value="LOCAL" />
-      <updated>1402555048809</updated>
-    </task>
-    <task id="LOCAL-00008" summary="temp -&gt; html5">
-      <created>1402555226825</created>
-      <option name="number" value="00008" />
-      <option name="project" value="LOCAL" />
-      <updated>1402555226825</updated>
-    </task>
-    <task id="LOCAL-00009" summary="Drawfender Template">
-      <created>1402648156143</created>
-      <option name="number" value="00009" />
-      <option name="project" value="LOCAL" />
-      <updated>1402648156143</updated>
-    </task>
-    <task id="LOCAL-00010" summary="DrawfenderTemplate">
-      <created>1402648434405</created>
-      <option name="number" value="00010" />
-      <option name="project" value="LOCAL" />
-      <updated>1402648434405</updated>
-    </task>
-    <task id="LOCAL-00011" summary="Don't Cross the Line. Android stock browser bug fix.">
-      <created>1402902653644</created>
-      <option name="number" value="00011" />
-      <option name="project" value="LOCAL" />
-      <updated>1402902653644</updated>
-    </task>
-    <task id="LOCAL-00012" summary="SQUIRREL bug.&#10;MoreGames link update.">
-      <created>1402921762444</created>
-      <option name="number" value="00012" />
-      <option name="project" value="LOCAL" />
-      <updated>1402921762444</updated>
-    </task>
-    <task id="LOCAL-00013" summary="Fixed bug with duplicating canvas in preloader.">
-      <created>1402990756971</created>
-      <option name="number" value="00013" />
-      <option name="project" value="LOCAL" />
-      <updated>1402990756971</updated>
-    </task>
-    <task id="LOCAL-00014" summary="Don't Cross the Line&#10;CJ APP">
-      <created>1403583886002</created>
-      <option name="number" value="00014" />
-      <option name="project" value="LOCAL" />
-      <updated>1403583886002</updated>
-    </task>
-    <task id="LOCAL-00015" summary="Don't Cross the Line&#10;CJ APP">
-      <created>1403667986068</created>
-      <option name="number" value="00015" />
-      <option name="project" value="LOCAL" />
-      <updated>1403667986068</updated>
-    </task>
-    <task id="LOCAL-00016" summary="Phaser Scale Test">
-      <created>1403788570206</created>
-      <option name="number" value="00016" />
-      <option name="project" value="LOCAL" />
-      <updated>1403788570206</updated>
-    </task>
-    <task id="LOCAL-00017" summary="Phaser Scale Test">
-      <created>1403788648435</created>
-      <option name="number" value="00017" />
-      <option name="project" value="LOCAL" />
-      <updated>1403788648435</updated>
-    </task>
-    <task id="LOCAL-00018" summary="Dont Cross (WUKI)">
-      <created>1403938971073</created>
-      <option name="number" value="00018" />
-      <option name="project" value="LOCAL" />
-      <updated>1403938971073</updated>
-    </task>
-    <task id="LOCAL-00019" summary="Dont Cross (WUKI)">
-      <created>1403940000674</created>
-      <option name="number" value="00019" />
-      <option name="project" value="LOCAL" />
-      <updated>1403940000674</updated>
-    </task>
-    <task id="LOCAL-00020" summary="Popping Pals Kurplink">
-      <created>1404185508150</created>
-      <option name="number" value="00020" />
-      <option name="project" value="LOCAL" />
-      <updated>1404185508150</updated>
-    </task>
-    <task id="LOCAL-00021" summary="Popping Pals Kurplink">
-      <created>1404185591908</created>
-      <option name="number" value="00021" />
-      <option name="project" value="LOCAL" />
-      <updated>1404185591908</updated>
-    </task>
-    <task id="LOCAL-00022" summary="Dont Cross Wuki">
-      <created>1404188292554</created>
-      <option name="number" value="00022" />
-      <option name="project" value="LOCAL" />
-      <updated>1404188292554</updated>
-    </task>
-    <task id="LOCAL-00023" summary="Dont Cross Wuki">
-      <created>1404707937743</created>
-      <option name="number" value="00023" />
-      <option name="project" value="LOCAL" />
-      <updated>1404707937743</updated>
-    </task>
-    <task id="LOCAL-00024" summary="Git test">
-      <created>1406867557972</created>
-      <option name="number" value="00024" />
-      <option name="project" value="LOCAL" />
-      <updated>1406867557972</updated>
-    </task>
-    <task id="LOCAL-00025" summary="Git test">
-      <created>1406867612704</created>
-      <option name="number" value="00025" />
-      <option name="project" value="LOCAL" />
-      <updated>1406867612704</updated>
-    </task>
-    <task id="LOCAL-00026" summary="Git test">
-      <created>1406870424524</created>
-      <option name="number" value="00026" />
-      <option name="project" value="LOCAL" />
-      <updated>1406870424524</updated>
-    </task>
-    <task id="LOCAL-00027" summary="Git test">
-      <created>1406873187785</created>
-      <option name="number" value="00027" />
-      <option name="project" value="LOCAL" />
-      <updated>1406873187785</updated>
-    </task>
-    <task id="LOCAL-00028" summary="Git test">
-      <created>1406873346659</created>
-      <option name="number" value="00028" />
-      <option name="project" value="LOCAL" />
-      <updated>1406873346659</updated>
-    </task>
-    <task id="LOCAL-00029" summary=":)">
-      <created>1406873566482</created>
-      <option name="number" value="00029" />
-      <option name="project" value="LOCAL" />
-      <updated>1406873566482</updated>
-    </task>
-    <task id="LOCAL-00030" summary=":]">
-      <created>1406873596153</created>
-      <option name="number" value="00030" />
-      <option name="project" value="LOCAL" />
-      <updated>1406873596153</updated>
-    </task>
-    <task id="LOCAL-00031" summary=":]">
-      <created>1406873631126</created>
-      <option name="number" value="00031" />
-      <option name="project" value="LOCAL" />
-      <updated>1406873631126</updated>
-    </task>
-    <task id="LOCAL-00032" summary=":}">
-      <created>1406873717683</created>
-      <option name="number" value="00032" />
-      <option name="project" value="LOCAL" />
-      <updated>1406873717683</updated>
-    </task>
-    <task id="LOCAL-00033" summary="No smileys">
-      <created>1406873749322</created>
-      <option name="number" value="00033" />
-      <option name="project" value="LOCAL" />
-      <updated>1406873749322</updated>
-    </task>
-    <task id="LOCAL-00034" summary="Connect Dots initial commit">
-      <created>1406875027060</created>
-      <option name="number" value="00034" />
-      <option name="project" value="LOCAL" />
-      <updated>1406875027060</updated>
-    </task>
-    <task id="LOCAL-00035" summary="Connect Dots alpha">
-      <created>1406876943787</created>
-      <option name="number" value="00035" />
-      <option name="project" value="LOCAL" />
-      <updated>1406876943787</updated>
-    </task>
-    <task id="LOCAL-00036" summary="Connect Dots alpha">
-      <created>1406877382698</created>
-      <option name="number" value="00036" />
-      <option name="project" value="LOCAL" />
-      <updated>1406877382698</updated>
-    </task>
-    <task id="LOCAL-00037" summary="Connect Dots alpha">
-      <created>1407163445996</created>
-      <option name="number" value="00037" />
-      <option name="project" value="LOCAL" />
-      <updated>1407163445996</updated>
-    </task>
-    <task id="LOCAL-00038" summary="Connect Dots alpha">
-      <created>1407325356302</created>
-      <option name="number" value="00038" />
-      <option name="project" value="LOCAL" />
-      <updated>1407325356302</updated>
-    </task>
-    <task id="LOCAL-00039" summary="Connect Dots alpha">
-      <created>1407401207950</created>
-      <option name="number" value="00039" />
-      <option name="project" value="LOCAL" />
-      <updated>1407401207950</updated>
-    </task>
-    <task id="LOCAL-00040" summary="Connect Dots alpha">
-      <created>1407471989663</created>
-      <option name="number" value="00040" />
-      <option name="project" value="LOCAL" />
-      <updated>1407471989663</updated>
-    </task>
-    <task id="LOCAL-00041" summary="Connect Dots alpha">
-      <created>1407609123445</created>
-      <option name="number" value="00041" />
-      <option name="project" value="LOCAL" />
-      <updated>1407609123445</updated>
-    </task>
-    <task id="LOCAL-00042" summary="Connect Dots alpha">
-      <created>1407738467283</created>
-      <option name="number" value="00042" />
-      <option name="project" value="LOCAL" />
-      <updated>1407738467283</updated>
-    </task>
-    <task id="LOCAL-00043" summary="Connect Dots alpha">
-      <created>1407837391777</created>
-      <option name="number" value="00043" />
-      <option name="project" value="LOCAL" />
-      <updated>1407837391777</updated>
-    </task>
-    <task id="LOCAL-00044" summary="Connect Dots alpha">
-      <created>1407910230392</created>
-      <option name="number" value="00044" />
-      <option name="project" value="LOCAL" />
-      <updated>1407910230392</updated>
-    </task>
-    <task id="LOCAL-00045" summary="AdSense integration">
-      <created>1407914015104</created>
-      <option name="number" value="00045" />
-      <option name="project" value="LOCAL" />
-      <updated>1407914015104</updated>
-    </task>
-    <task id="LOCAL-00046" summary="Wide banner on Drawfender Level Pack page">
-      <created>1407915579021</created>
-      <option name="number" value="00046" />
-      <option name="project" value="LOCAL" />
-      <updated>1407915579021</updated>
-    </task>
-    <task id="LOCAL-00047" summary="Wide banner on Drawfender Level Pack page">
-      <created>1407915752357</created>
-      <option name="number" value="00047" />
-      <option name="project" value="LOCAL" />
-      <updated>1407915752357</updated>
-    </task>
-    <task id="LOCAL-00048" summary="Doodle Dot">
-      <created>1407917900839</created>
-      <option name="number" value="00048" />
-      <option name="project" value="LOCAL" />
-      <updated>1407917900839</updated>
-    </task>
-    <task id="LOCAL-00049" summary="Doodle Dot">
-      <created>1407929632438</created>
-      <option name="number" value="00049" />
-      <option name="project" value="LOCAL" />
-      <updated>1407929632438</updated>
-    </task>
-    <task id="LOCAL-00050" summary="Popping Pals for BounceMobi">
-      <created>1407992143266</created>
-      <option name="number" value="00050" />
-      <option name="project" value="LOCAL" />
-      <updated>1407992143266</updated>
-    </task>
-    <task id="LOCAL-00051" summary="Don't Cross the Line for BounceMobi">
-      <created>1407993436845</created>
-      <option name="number" value="00051" />
-      <option name="project" value="LOCAL" />
-      <updated>1407993436845</updated>
-    </task>
-    <task id="LOCAL-00052" summary="Doodle Connect promopage update">
-      <created>1408006791117</created>
-      <option name="number" value="00052" />
-      <option name="project" value="LOCAL" />
-      <updated>1408006791117</updated>
-    </task>
-    <task id="LOCAL-00053" summary="Doodle Connect update">
-      <created>1408104022308</created>
-      <option name="number" value="00053" />
-      <option name="project" value="LOCAL" />
-      <updated>1408104022308</updated>
-    </task>
-    <task id="LOCAL-00054" summary="Don't Cross with atlas">
-      <created>1408343452534</created>
-      <option name="number" value="00054" />
-      <option name="project" value="LOCAL" />
-      <updated>1408343452534</updated>
-    </task>
-    <task id="LOCAL-00055" summary="Doodle Connect update">
-      <created>1408451194079</created>
-      <option name="number" value="00055" />
-      <option name="project" value="LOCAL" />
-      <updated>1408451194079</updated>
-    </task>
-    <task id="LOCAL-00056" summary="Doodle Connect update">
-      <created>1408451572935</created>
-      <option name="number" value="00056" />
-      <option name="project" value="LOCAL" />
-      <updated>1408451572935</updated>
-    </task>
-    <task id="LOCAL-00057" summary="Minor CSS Doodle Connect promo page update">
-      <created>1408506224569</created>
-      <option name="number" value="00057" />
-      <option name="project" value="LOCAL" />
-      <updated>1408506224570</updated>
-    </task>
-    <task id="LOCAL-00058" summary="Clients">
-      <created>1408516624189</created>
-      <option name="number" value="00058" />
-      <option name="project" value="LOCAL" />
-      <updated>1408516624189</updated>
-    </task>
-    <task id="LOCAL-00059" summary="Clients">
-      <created>1408516688984</created>
-      <option name="number" value="00059" />
-      <option name="project" value="LOCAL" />
-      <updated>1408516688984</updated>
-    </task>
-    <task id="LOCAL-00060" summary="Sequencer Rikoshe">
-      <created>1408609868366</created>
-      <option name="number" value="00060" />
-      <option name="project" value="LOCAL" />
-      <updated>1408609868366</updated>
-    </task>
-    <task id="LOCAL-00061" summary="Don't Cross for Coolmath">
-      <created>1408769156918</created>
-      <option name="number" value="00061" />
-      <option name="project" value="LOCAL" />
-      <updated>1408769156918</updated>
-    </task>
-    <task id="LOCAL-00062" summary="Doodle Connect SG">
-      <created>1408950221949</created>
-      <option name="number" value="00062" />
-      <option name="project" value="LOCAL" />
-      <updated>1408950221949</updated>
-    </task>
-    <task id="LOCAL-00063" summary="Doodle Connect SG">
-      <created>1409052773187</created>
-      <option name="number" value="00063" />
-      <option name="project" value="LOCAL" />
-      <updated>1409052773187</updated>
-    </task>
-    <task id="LOCAL-00064" summary="Plus One for Rikoshe timer update">
-      <created>1409196818631</created>
-      <option name="number" value="00064" />
-      <option name="project" value="LOCAL" />
-      <updated>1409196818631</updated>
-    </task>
-    <task id="LOCAL-00065" summary="Sequencer for Rikoshe update&#10;3 Levels&#10;TutorialState">
-      <created>1409300111108</created>
-      <option name="number" value="00065" />
-      <option name="project" value="LOCAL" />
-      <updated>1409300111108</updated>
-    </task>
-    <task id="LOCAL-00066" summary="Doodle Connect">
-      <created>1409583504313</created>
-      <option name="number" value="00066" />
-      <option name="project" value="LOCAL" />
-      <updated>1409583504313</updated>
-    </task>
-    <task id="LOCAL-00067" summary="Doodle Connect">
-      <created>1409583628804</created>
-      <option name="number" value="00067" />
-      <option name="project" value="LOCAL" />
-      <updated>1409583628805</updated>
-    </task>
-    <task id="LOCAL-00068" summary="Doodle Connect">
-      <created>1409584083655</created>
-      <option name="number" value="00068" />
-      <option name="project" value="LOCAL" />
-      <updated>1409584083655</updated>
-    </task>
-    <task id="LOCAL-00069" summary="Doodle Connect">
-      <created>1409587648838</created>
-      <option name="number" value="00069" />
-      <option name="project" value="LOCAL" />
-      <updated>1409587648838</updated>
-    </task>
-    <task id="LOCAL-00070" summary="Doodle Connect added to portfolio.">
-      <created>1409850713604</created>
-      <option name="number" value="00070" />
-      <option name="project" value="LOCAL" />
-      <updated>1409850713604</updated>
-    </task>
-    <task id="LOCAL-00071" summary="I Know Art 2">
-      <created>1410259372099</created>
-      <option name="number" value="00071" />
-      <option name="project" value="LOCAL" />
-      <updated>1410259372099</updated>
-    </task>
-    <task id="LOCAL-00072" summary="I Know Art 2">
-      <created>1410326424247</created>
-      <option name="number" value="00072" />
-      <option name="project" value="LOCAL" />
-      <updated>1410326424248</updated>
-    </task>
-    <task id="LOCAL-00073" summary="I Know Art 2">
-      <created>1410326530415</created>
-      <option name="number" value="00073" />
-      <option name="project" value="LOCAL" />
-      <updated>1410326530415</updated>
-    </task>
-    <task id="LOCAL-00074" summary="Sequencer">
-      <created>1410331904504</created>
-      <option name="number" value="00074" />
-      <option name="project" value="LOCAL" />
-      <updated>1410331904504</updated>
-    </task>
-    <task id="LOCAL-00075" summary="I Know Art 2">
-      <created>1410524470119</created>
-      <option name="number" value="00075" />
-      <option name="project" value="LOCAL" />
-      <updated>1410524470119</updated>
-    </task>
-    <task id="LOCAL-00076" summary="I Know Art 2">
-      <created>1410527222917</created>
-      <option name="number" value="00076" />
-      <option name="project" value="LOCAL" />
-      <updated>1410527222917</updated>
-    </task>
-    <task id="LOCAL-00077" summary="I Know Art 2 level 12 bug fix">
-      <created>1410582117325</created>
-      <option name="number" value="00077" />
-      <option name="project" value="LOCAL" />
-      <updated>1410582117325</updated>
-    </task>
-    <task id="LOCAL-00078" summary="I Know Art 2 language detection">
-      <created>1410926461138</created>
-      <option name="number" value="00078" />
-      <option name="project" value="LOCAL" />
-      <updated>1410926461138</updated>
-    </task>
-    <task id="LOCAL-00079" summary="Favicon :)">
-      <created>1411009988795</created>
-      <option name="number" value="00079" />
-      <option name="project" value="LOCAL" />
-      <updated>1411009988795</updated>
-    </task>
-    <task id="LOCAL-00080" summary="USSR posters">
-      <created>1411368831160</created>
-      <option name="number" value="00080" />
-      <option name="project" value="LOCAL" />
-      <updated>1411368831160</updated>
-    </task>
-    <task id="LOCAL-00081" summary="USSR posters">
-      <created>1411381594621</created>
-      <option name="number" value="00081" />
-      <option name="project" value="LOCAL" />
-      <updated>1411381594621</updated>
-    </task>
-    <task id="LOCAL-00082" summary="USSR posters">
-      <created>1411385304165</created>
-      <option name="number" value="00082" />
-      <option name="project" value="LOCAL" />
-      <updated>1411385304165</updated>
-    </task>
-    <task id="LOCAL-00083" summary="USSR posters">
-      <created>1411385860495</created>
-      <option name="number" value="00083" />
-      <option name="project" value="LOCAL" />
-      <updated>1411385860495</updated>
-    </task>
-    <task id="LOCAL-00084" summary="USSR posters">
-      <created>1411395442000</created>
-      <option name="number" value="00084" />
-      <option name="project" value="LOCAL" />
-      <updated>1411395442000</updated>
-    </task>
-    <task id="LOCAL-00085" summary="USSR posters">
-      <created>1411395494711</created>
-      <option name="number" value="00085" />
-      <option name="project" value="LOCAL" />
-      <updated>1411395494711</updated>
-    </task>
-    <task id="LOCAL-00086" summary="USSR posters">
-      <created>1411404801797</created>
-      <option name="number" value="00086" />
-      <option name="project" value="LOCAL" />
-      <updated>1411404801797</updated>
-    </task>
-    <task id="LOCAL-00087" summary="USSR posters">
-      <created>1411406325574</created>
-      <option name="number" value="00087" />
-      <option name="project" value="LOCAL" />
-      <updated>1411406325575</updated>
-    </task>
-    <task id="LOCAL-00088" summary="Don't Cross 2">
-      <created>1412054881158</created>
-      <option name="number" value="00088" />
-      <option name="project" value="LOCAL" />
-      <updated>1412054881159</updated>
-    </task>
-    <task id="LOCAL-00089" summary="Don't Cross 2">
-      <created>1412582602407</created>
-      <option name="number" value="00089" />
-      <option name="project" value="LOCAL" />
-      <updated>1412582602407</updated>
-    </task>
-    <task id="LOCAL-00090" summary="Don't Cross 2">
-      <created>1412662561134</created>
-      <option name="number" value="00090" />
-      <option name="project" value="LOCAL" />
-      <updated>1412662561134</updated>
-    </task>
-    <task id="LOCAL-00091" summary="Don't Cross 2">
-      <created>1412662653496</created>
-      <option name="number" value="00091" />
-      <option name="project" value="LOCAL" />
-      <updated>1412662653496</updated>
-    </task>
-    <task id="LOCAL-00092" summary="Don't Cross 2">
-      <created>1412748180225</created>
-      <option name="number" value="00092" />
-      <option name="project" value="LOCAL" />
-      <updated>1412748180225</updated>
-    </task>
-    <task id="LOCAL-00093" summary="Don't Cross 2">
-      <created>1412748429820</created>
-      <option name="number" value="00093" />
-      <option name="project" value="LOCAL" />
-      <updated>1412748429820</updated>
-    </task>
-    <task id="LOCAL-00094" summary="Don't Cross 2">
-      <created>1413016136437</created>
-      <option name="number" value="00094" />
-      <option name="project" value="LOCAL" />
-      <updated>1413016136437</updated>
-    </task>
-    <task id="LOCAL-00095" summary="Don't Cross 2">
-      <created>1413296583174</created>
-      <option name="number" value="00095" />
-      <option name="project" value="LOCAL" />
-      <updated>1413296583174</updated>
-    </task>
-    <task id="LOCAL-00096" summary="Don't Cross 2">
-      <created>1413552971170</created>
-      <option name="number" value="00096" />
-      <option name="project" value="LOCAL" />
-      <updated>1413552971170</updated>
-    </task>
-    <task id="LOCAL-00097" summary="Don't Cross 2">
-      <created>1413553060178</created>
-      <option name="number" value="00097" />
-      <option name="project" value="LOCAL" />
-      <updated>1413553060178</updated>
-    </task>
-    <task id="LOCAL-00098" summary="Meloch">
-      <created>1413718503465</created>
-      <option name="number" value="00098" />
-      <option name="project" value="LOCAL" />
-      <updated>1413718503465</updated>
-    </task>
-    <task id="LOCAL-00099" summary="lemonade">
-      <created>1413787863602</created>
-      <option name="number" value="00099" />
-      <option name="project" value="LOCAL" />
-      <updated>1413787863602</updated>
-    </task>
-    <task id="LOCAL-00100" summary="Don't cross 2">
-      <created>1413807199027</created>
-      <option name="number" value="00100" />
-      <option name="project" value="LOCAL" />
-      <updated>1413807199027</updated>
-    </task>
-    <task id="LOCAL-00101" summary="lemonade">
-      <created>1413862822716</created>
-      <option name="number" value="00101" />
-      <option name="project" value="LOCAL" />
-      <updated>1413862822717</updated>
-    </task>
-    <task id="LOCAL-00102" summary="Everyone Should Be Happy!!!">
-      <created>1413882389582</created>
-      <option name="number" value="00102" />
-      <option name="project" value="LOCAL" />
-      <updated>1413882389582</updated>
-    </task>
-    <task id="LOCAL-00103" summary="Everyone Should Be Happy!!!">
-      <created>1413882510859</created>
-      <option name="number" value="00103" />
-      <option name="project" value="LOCAL" />
-      <updated>1413882510859</updated>
-    </task>
-    <task id="LOCAL-00104" summary="lemonade">
-      <created>1413978167605</created>
-      <option name="number" value="00104" />
-      <option name="project" value="LOCAL" />
-      <updated>1413978167605</updated>
-    </task>
-    <task id="LOCAL-00105" summary="lemonade">
-      <created>1414157174107</created>
-      <option name="number" value="00105" />
-      <option name="project" value="LOCAL" />
-      <updated>1414157174108</updated>
-    </task>
-    <task id="LOCAL-00106" summary="lemonade">
-      <created>1414157269459</created>
-      <option name="number" value="00106" />
-      <option name="project" value="LOCAL" />
-      <updated>1414157269459</updated>
-    </task>
-    <task id="LOCAL-00107" summary="lemonade">
-      <created>1414299620361</created>
-      <option name="number" value="00107" />
-      <option name="project" value="LOCAL" />
-      <updated>1414299620361</updated>
-    </task>
-    <task id="LOCAL-00108" summary="meloch">
-      <created>1414413461201</created>
-      <option name="number" value="00108" />
-      <option name="project" value="LOCAL" />
-      <updated>1414413461201</updated>
-    </task>
-    <task id="LOCAL-00109" summary="meloch">
-      <created>1414495517972</created>
-      <option name="number" value="00109" />
-      <option name="project" value="LOCAL" />
-      <updated>1414495517972</updated>
-    </task>
-    <task id="LOCAL-00110" summary="meloch">
-      <created>1414567588963</created>
-      <option name="number" value="00110" />
-      <option name="project" value="LOCAL" />
-      <updated>1414567588963</updated>
-    </task>
-    <task id="LOCAL-00111" summary="meloch">
-      <created>1414567636288</created>
-      <option name="number" value="00111" />
-      <option name="project" value="LOCAL" />
-      <updated>1414567636288</updated>
-    </task>
-    <task id="LOCAL-00112" summary="meloch">
-      <created>1414570371054</created>
-      <option name="number" value="00112" />
-      <option name="project" value="LOCAL" />
-      <updated>1414570371054</updated>
-    </task>
-    <task id="LOCAL-00113" summary="meloch">
-      <created>1414584451758</created>
-      <option name="number" value="00113" />
-      <option name="project" value="LOCAL" />
-      <updated>1414584451758</updated>
-    </task>
-    <task id="LOCAL-00114" summary="meloch">
-      <created>1414584519684</created>
-      <option name="number" value="00114" />
-      <option name="project" value="LOCAL" />
-      <updated>1414584519684</updated>
-    </task>
-    <task id="LOCAL-00115" summary="lemonade">
-      <created>1414647640318</created>
-      <option name="number" value="00115" />
-      <option name="project" value="LOCAL" />
-      <updated>1414647640318</updated>
-    </task>
-    <task id="LOCAL-00116" summary="happy">
-      <created>1414671470937</created>
-      <option name="number" value="00116" />
-      <option name="project" value="LOCAL" />
-      <updated>1414671470937</updated>
-    </task>
-    <task id="LOCAL-00117" summary="happy">
-      <created>1414671601851</created>
-      <option name="number" value="00117" />
-      <option name="project" value="LOCAL" />
-      <updated>1414671601851</updated>
-    </task>
-    <task id="LOCAL-00118" summary="dctl coolmath">
-      <created>1414761928552</created>
-      <option name="number" value="00118" />
-      <option name="project" value="LOCAL" />
-      <updated>1414761928553</updated>
-    </task>
-    <task id="LOCAL-00119" summary="lemonade">
-      <created>1414762877537</created>
-      <option name="number" value="00119" />
-      <option name="project" value="LOCAL" />
-      <updated>1414762877537</updated>
-    </task>
-    <task id="LOCAL-00120" summary="lemonade">
-      <created>1415003821473</created>
-      <option name="number" value="00120" />
-      <option name="project" value="LOCAL" />
-      <updated>1415003821474</updated>
-    </task>
-    <task id="LOCAL-00121" summary="happy">
-      <created>1415080311605</created>
-      <option name="number" value="00121" />
-      <option name="project" value="LOCAL" />
-      <updated>1415080311605</updated>
-    </task>
-    <task id="LOCAL-00122" summary="happy">
-      <created>1415606267962</created>
-      <option name="number" value="00122" />
-      <option name="project" value="LOCAL" />
-      <updated>1415606267962</updated>
-    </task>
-    <task id="LOCAL-00123" summary="happy">
-      <created>1415682030965</created>
-      <option name="number" value="00123" />
-      <option name="project" value="LOCAL" />
-      <updated>1415682030965</updated>
-    </task>
-    <task id="LOCAL-00124" summary="happy">
-      <created>1415777325098</created>
-      <option name="number" value="00124" />
-      <option name="project" value="LOCAL" />
-      <updated>1415777325098</updated>
-    </task>
-    <task id="LOCAL-00125" summary="happy">
-      <created>1415777375807</created>
-      <option name="number" value="00125" />
-      <option name="project" value="LOCAL" />
-      <updated>1415777375807</updated>
-    </task>
-    <task id="LOCAL-00126" summary="happy">
-      <created>1415779937181</created>
-      <option name="number" value="00126" />
-      <option name="project" value="LOCAL" />
-      <updated>1415779937181</updated>
-    </task>
-    <task id="LOCAL-00127" summary="happy">
-      <created>1415780082231</created>
-      <option name="number" value="00127" />
-      <option name="project" value="LOCAL" />
-      <updated>1415780082231</updated>
-    </task>
-    <task id="LOCAL-00128" summary="happy">
-      <created>1415786999244</created>
-      <option name="number" value="00128" />
-      <option name="project" value="LOCAL" />
-      <updated>1415786999244</updated>
-    </task>
-    <task id="LOCAL-00129" summary="happy">
-      <created>1415787705019</created>
-      <option name="number" value="00129" />
-      <option name="project" value="LOCAL" />
-      <updated>1415787705019</updated>
-    </task>
-    <task id="LOCAL-00130" summary="happy">
-      <created>1415788512477</created>
-      <option name="number" value="00130" />
-      <option name="project" value="LOCAL" />
-      <updated>1415788512477</updated>
-    </task>
-    <task id="LOCAL-00131" summary="g20">
-      <created>1415962869961</created>
-      <option name="number" value="00131" />
-      <option name="project" value="LOCAL" />
-      <updated>1415962869961</updated>
-    </task>
-    <task id="LOCAL-00132" summary="g20">
-      <created>1415964101346</created>
-      <option name="number" value="00132" />
-      <option name="project" value="LOCAL" />
-      <updated>1415964101346</updated>
-    </task>
-    <task id="LOCAL-00133" summary="g20">
-      <created>1415964185774</created>
-      <option name="number" value="00133" />
-      <option name="project" value="LOCAL" />
-      <updated>1415964185774</updated>
-    </task>
-    <task id="LOCAL-00134" summary="g20">
-      <created>1415964220832</created>
-      <option name="number" value="00134" />
-      <option name="project" value="LOCAL" />
-      <updated>1415964220832</updated>
-    </task>
-    <task id="LOCAL-00135" summary="g20">
-      <created>1415969252079</created>
-      <option name="number" value="00135" />
-      <option name="project" value="LOCAL" />
-      <updated>1415969252079</updated>
-    </task>
-    <task id="LOCAL-00136" summary="g20">
-      <created>1415969750674</created>
-      <option name="number" value="00136" />
-      <option name="project" value="LOCAL" />
-      <updated>1415969750674</updated>
-    </task>
-    <task id="LOCAL-00137" summary="symmetry">
-      <created>1416374099609</created>
-      <option name="number" value="00137" />
-      <option name="project" value="LOCAL" />
-      <updated>1416374099609</updated>
-    </task>
-    <task id="LOCAL-00138" summary="symmetry">
-      <created>1416386078106</created>
-      <option name="number" value="00138" />
-      <option name="project" value="LOCAL" />
-      <updated>1416386078106</updated>
-    </task>
-    <task id="LOCAL-00139" summary="symmetry">
-      <created>1416399367176</created>
-      <option name="number" value="00139" />
-      <option name="project" value="LOCAL" />
-      <updated>1416399367177</updated>
-    </task>
-    <task id="LOCAL-00140" summary="symmetry">
-      <created>1416474428891</created>
-      <option name="number" value="00140" />
-      <option name="project" value="LOCAL" />
-      <updated>1416474428891</updated>
-    </task>
-    <task id="LOCAL-00141" summary="be happy">
-      <created>1416481645551</created>
-      <option name="number" value="00141" />
-      <option name="project" value="LOCAL" />
-      <updated>1416481645551</updated>
-    </task>
-    <task id="LOCAL-00142" summary="be happy">
-      <created>1416481731426</created>
-      <option name="number" value="00142" />
-      <option name="project" value="LOCAL" />
-      <updated>1416481731426</updated>
-    </task>
-    <task id="LOCAL-00143" summary="Popping Pals jes">
-      <created>1416549049489</created>
-      <option name="number" value="00143" />
-      <option name="project" value="LOCAL" />
-      <updated>1416549049489</updated>
     </task>
     <task id="LOCAL-00144" summary="Popping Pals jes">
       <created>1416549997096</created>
@@ -1293,7 +489,199 @@
       <option name="project" value="LOCAL" />
       <updated>1417437090187</updated>
     </task>
-    <option name="localTasksCounter" value="161" />
+    <task id="LOCAL-00161" summary="dont cross famobi">
+      <created>1417498268879</created>
+      <option name="number" value="00161" />
+      <option name="project" value="LOCAL" />
+      <updated>1417498268879</updated>
+    </task>
+    <task id="LOCAL-00162" summary="moustache time">
+      <created>1417671540228</created>
+      <option name="number" value="00162" />
+      <option name="project" value="LOCAL" />
+      <updated>1417671540228</updated>
+    </task>
+    <task id="LOCAL-00163" summary="moustache time">
+      <created>1417672108682</created>
+      <option name="number" value="00163" />
+      <option name="project" value="LOCAL" />
+      <updated>1417672108682</updated>
+    </task>
+    <task id="LOCAL-00164" summary="moustache time">
+      <created>1417749316130</created>
+      <option name="number" value="00164" />
+      <option name="project" value="LOCAL" />
+      <updated>1417749316130</updated>
+    </task>
+    <task id="LOCAL-00165" summary="moustache time">
+      <created>1417749481577</created>
+      <option name="number" value="00165" />
+      <option name="project" value="LOCAL" />
+      <updated>1417749481577</updated>
+    </task>
+    <task id="LOCAL-00166" summary="moustache time">
+      <created>1417750609312</created>
+      <option name="number" value="00166" />
+      <option name="project" value="LOCAL" />
+      <updated>1417750609312</updated>
+    </task>
+    <task id="LOCAL-00167" summary="moustache time">
+      <created>1417751556768</created>
+      <option name="number" value="00167" />
+      <option name="project" value="LOCAL" />
+      <updated>1417751556768</updated>
+    </task>
+    <task id="LOCAL-00168" summary="moustache time">
+      <created>1418028081645</created>
+      <option name="number" value="00168" />
+      <option name="project" value="LOCAL" />
+      <updated>1418028081645</updated>
+    </task>
+    <task id="LOCAL-00169" summary="moustache time">
+      <created>1418029476818</created>
+      <option name="number" value="00169" />
+      <option name="project" value="LOCAL" />
+      <updated>1418029476818</updated>
+    </task>
+    <task id="LOCAL-00170" summary="moustache time">
+      <created>1418034728417</created>
+      <option name="number" value="00170" />
+      <option name="project" value="LOCAL" />
+      <updated>1418034728417</updated>
+    </task>
+    <task id="LOCAL-00171" summary="moustache time">
+      <created>1418102010132</created>
+      <option name="number" value="00171" />
+      <option name="project" value="LOCAL" />
+      <updated>1418102010133</updated>
+    </task>
+    <task id="LOCAL-00172" summary="moustache time">
+      <created>1418102144981</created>
+      <option name="number" value="00172" />
+      <option name="project" value="LOCAL" />
+      <updated>1418102144981</updated>
+    </task>
+    <task id="LOCAL-00173" summary="moustache time">
+      <created>1418106262461</created>
+      <option name="number" value="00173" />
+      <option name="project" value="LOCAL" />
+      <updated>1418106262461</updated>
+    </task>
+    <task id="LOCAL-00174" summary="moustache time">
+      <created>1418120951729</created>
+      <option name="number" value="00174" />
+      <option name="project" value="LOCAL" />
+      <updated>1418120951729</updated>
+    </task>
+    <task id="LOCAL-00175" summary="moustache time">
+      <created>1418122923086</created>
+      <option name="number" value="00175" />
+      <option name="project" value="LOCAL" />
+      <updated>1418122923086</updated>
+    </task>
+    <task id="LOCAL-00176" summary="mustache time">
+      <created>1419919758113</created>
+      <option name="number" value="00176" />
+      <option name="project" value="LOCAL" />
+      <updated>1419919758113</updated>
+    </task>
+    <task id="LOCAL-00177" summary="yapometr">
+      <created>1421399250135</created>
+      <option name="number" value="00177" />
+      <option name="project" value="LOCAL" />
+      <updated>1421399250135</updated>
+    </task>
+    <task id="LOCAL-00178" summary="yapometr">
+      <created>1421399502712</created>
+      <option name="number" value="00178" />
+      <option name="project" value="LOCAL" />
+      <updated>1421399502712</updated>
+    </task>
+    <task id="LOCAL-00179" summary="yapometr">
+      <created>1421400506924</created>
+      <option name="number" value="00179" />
+      <option name="project" value="LOCAL" />
+      <updated>1421400506924</updated>
+    </task>
+    <task id="LOCAL-00180" summary="USSR Posters google play">
+      <created>1421903606120</created>
+      <option name="number" value="00180" />
+      <option name="project" value="LOCAL" />
+      <updated>1421903606120</updated>
+    </task>
+    <task id="LOCAL-00181" summary="Rectangle ads banner">
+      <created>1422333097763</created>
+      <option name="number" value="00181" />
+      <option name="project" value="LOCAL" />
+      <updated>1422333097763</updated>
+    </task>
+    <task id="LOCAL-00182" summary="&lt;meta&gt; update">
+      <created>1422522107579</created>
+      <option name="number" value="00182" />
+      <option name="project" value="LOCAL" />
+      <updated>1422522107580</updated>
+    </task>
+    <task id="LOCAL-00183" summary="&lt;meta&gt; update">
+      <created>1422522253562</created>
+      <option name="number" value="00183" />
+      <option name="project" value="LOCAL" />
+      <updated>1422522253562</updated>
+    </task>
+    <task id="LOCAL-00184" summary="math money">
+      <created>1422865475598</created>
+      <option name="number" value="00184" />
+      <option name="project" value="LOCAL" />
+      <updated>1422865475599</updated>
+    </task>
+    <task id="LOCAL-00185" summary="math money">
+      <created>1422879016882</created>
+      <option name="number" value="00185" />
+      <option name="project" value="LOCAL" />
+      <updated>1422879016883</updated>
+    </task>
+    <task id="LOCAL-00186" summary="ussr2">
+      <created>1423648907008</created>
+      <option name="number" value="00186" />
+      <option name="project" value="LOCAL" />
+      <updated>1423648907008</updated>
+    </task>
+    <task id="LOCAL-00187" summary="ussr2">
+      <created>1423654505876</created>
+      <option name="number" value="00187" />
+      <option name="project" value="LOCAL" />
+      <updated>1423654505876</updated>
+    </task>
+    <task id="LOCAL-00188" summary="ussr2">
+      <created>1423655208937</created>
+      <option name="number" value="00188" />
+      <option name="project" value="LOCAL" />
+      <updated>1423655208938</updated>
+    </task>
+    <task id="LOCAL-00189" summary="nu">
+      <created>1424422854356</created>
+      <option name="number" value="00189" />
+      <option name="project" value="LOCAL" />
+      <updated>1424422854357</updated>
+    </task>
+    <task id="LOCAL-00190" summary="nu">
+      <created>1424431354987</created>
+      <option name="number" value="00190" />
+      <option name="project" value="LOCAL" />
+      <updated>1424431354987</updated>
+    </task>
+    <task id="LOCAL-00191" summary="nu">
+      <created>1424770462210</created>
+      <option name="number" value="00191" />
+      <option name="project" value="LOCAL" />
+      <updated>1424770462211</updated>
+    </task>
+    <task id="LOCAL-00192" summary="nu">
+      <created>1424772109971</created>
+      <option name="number" value="00192" />
+      <option name="project" value="LOCAL" />
+      <updated>1424772109971</updated>
+    </task>
+    <option name="localTasksCounter" value="193" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -1311,14 +699,14 @@
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.29417878" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.2827443" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32952183" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="Vcs.Log.UiProperties">
@@ -1337,16 +725,6 @@
       <TodoPanelSettings />
     </option>
     <option name="CHECK_COMMIT_MESSAGE_SPELLING" value="false" />
-    <MESSAGE value="Doodle Connect" />
-    <MESSAGE value="Doodle Connect added to portfolio." />
-    <MESSAGE value="Sequencer" />
-    <MESSAGE value="I Know Art 2" />
-    <MESSAGE value="I Know Art 2 level 12 bug fix" />
-    <MESSAGE value="I Know Art 2 language detection" />
-    <MESSAGE value="Favicon :)" />
-    <MESSAGE value="USSR posters" />
-    <MESSAGE value="Don't Cross 2" />
-    <MESSAGE value="Meloch" />
     <MESSAGE value="Don't cross 2" />
     <MESSAGE value="Everyone Should Be Happy!!!" />
     <MESSAGE value="meloch" />
@@ -1361,80 +739,24 @@
     <MESSAGE value="mouctache time" />
     <MESSAGE value="Don't Cross&#10;maximum-scale=1.01" />
     <MESSAGE value="be happy" />
+    <MESSAGE value="dont cross famobi" />
+    <MESSAGE value="moustache time" />
     <MESSAGE value="mustache time" />
-    <option name="LAST_COMMIT_MESSAGE" value="mustache time" />
+    <MESSAGE value="yapometr" />
+    <MESSAGE value="USSR Posters google play" />
+    <MESSAGE value="Rectangle banner" />
+    <MESSAGE value="Rectangle ads banner" />
+    <MESSAGE value="&lt;meta&gt; update" />
+    <MESSAGE value="math money" />
+    <MESSAGE value="ussr2" />
+    <MESSAGE value="nu" />
+    <option name="LAST_COMMIT_MESSAGE" value="nu" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/meloch/styles.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="238" max-vertical-offset="748">
-          <caret line="14" column="27" selection-start-line="14" selection-start-column="27" selection-end-line="14" selection-end-column="27" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ussr/styles.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="765" max-vertical-offset="867">
-          <caret line="45" column="1" selection-start-line="42" selection-start-column="0" selection-end-line="45" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/doodleconnect/styles.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="170" max-vertical-offset="731">
-          <caret line="10" column="18" selection-start-line="10" selection-start-column="18" selection-end-line="10" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1071">
-          <caret line="33" column="30" selection-start-line="33" selection-start-column="30" selection-end-line="33" selection-end-column="30" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/doodleconnect/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="136" max-vertical-offset="544">
-          <caret line="8" column="6" selection-start-line="8" selection-start-column="6" selection-end-line="8" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/doodleconnect/styles.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="374" max-vertical-offset="561">
-          <caret line="22" column="21" selection-start-line="22" selection-start-column="21" selection-end-line="22" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/stylesheet.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="1802" max-vertical-offset="2159">
-          <caret line="106" column="19" selection-start-line="106" selection-start-column="19" selection-end-line="106" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="255" max-vertical-offset="1071">
-          <caret line="33" column="30" selection-start-line="33" selection-start-column="30" selection-end-line="33" selection-end-column="30" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/doodleconnect/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="119" max-vertical-offset="544">
-          <caret line="7" column="7" selection-start-line="7" selection-start-column="7" selection-end-line="7" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/doodleconnect/styles.css">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="374" max-vertical-offset="561">
@@ -1453,7 +775,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1071">
           <caret line="33" column="30" selection-start-line="33" selection-start-column="30" selection-end-line="33" selection-end-column="30" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1482,7 +803,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="255" max-vertical-offset="1071">
           <caret line="33" column="30" selection-start-line="33" selection-start-column="30" selection-end-line="33" selection-end-column="30" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1511,7 +831,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="867">
           <caret line="5" column="10" selection-start-line="5" selection-start-column="10" selection-end-line="5" selection-end-column="10" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1519,7 +838,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="85" max-vertical-offset="867">
           <caret line="5" column="10" selection-start-line="5" selection-start-column="10" selection-end-line="5" selection-end-column="10" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1527,7 +845,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="323" max-vertical-offset="867">
           <caret line="19" column="25" selection-start-line="19" selection-start-column="25" selection-end-line="19" selection-end-column="25" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1535,7 +852,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="136" max-vertical-offset="867">
           <caret line="8" column="33" selection-start-line="8" selection-start-column="33" selection-end-line="8" selection-end-column="33" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1543,7 +859,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="170" max-vertical-offset="867">
           <caret line="10" column="0" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1551,7 +866,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="374" max-vertical-offset="867">
           <caret line="22" column="69" selection-start-line="22" selection-start-column="69" selection-end-line="22" selection-end-column="69" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1559,7 +873,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="374" max-vertical-offset="867">
           <caret line="22" column="69" selection-start-line="22" selection-start-column="69" selection-end-line="22" selection-end-column="69" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1567,7 +880,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="255" max-vertical-offset="867">
           <caret line="15" column="9" selection-start-line="15" selection-start-column="9" selection-end-line="15" selection-end-column="9" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1575,7 +887,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="255" max-vertical-offset="867">
           <caret line="15" column="9" selection-start-line="15" selection-start-column="9" selection-end-line="15" selection-end-column="9" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1583,7 +894,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="255" max-vertical-offset="867">
           <caret line="15" column="9" selection-start-line="15" selection-start-column="9" selection-end-line="15" selection-end-column="9" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1591,7 +901,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="425" max-vertical-offset="867">
           <caret line="25" column="10" selection-start-line="25" selection-start-column="10" selection-end-line="25" selection-end-column="10" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1599,7 +908,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="102" max-vertical-offset="867">
           <caret line="29" column="10" selection-start-line="29" selection-start-column="10" selection-end-line="29" selection-end-column="10" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1607,7 +915,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="244" max-vertical-offset="867">
           <caret line="34" column="10" selection-start-line="34" selection-start-column="10" selection-end-line="34" selection-end-column="10" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1702,48 +1009,115 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ussr/index.html">
+    <entry file="file://$PROJECT_DIR$/meloch/styles.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="833" max-vertical-offset="1292">
-          <caret line="49" column="14" selection-start-line="49" selection-start-column="14" selection-end-line="49" selection-end-column="14" />
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="748">
+          <caret line="14" column="27" selection-start-line="14" selection-start-column="27" selection-end-line="14" selection-end-column="27" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ussr/styles.css">
+    <entry file="file://$PROJECT_DIR$/temp/symmetry/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="153" max-vertical-offset="867">
-          <caret line="45" column="1" selection-start-line="42" selection-start-column="0" selection-end-line="45" selection-end-column="1" />
+        <state vertical-scroll-proportion="0.053968254" vertical-offset="0" max-vertical-offset="630">
+          <caret line="2" column="20" selection-start-line="2" selection-start-column="20" selection-end-line="2" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/yapometr/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.08095238" vertical-offset="0" max-vertical-offset="697">
+          <caret line="3" column="0" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/flash/mustache_time/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.4857143" vertical-offset="0" max-vertical-offset="630">
+          <caret line="18" column="7" selection-start-line="18" selection-start-column="7" selection-end-line="18" selection-end-column="7" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/js/main.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="2091" max-vertical-offset="3230">
-          <caret line="151" column="59" selection-start-line="151" selection-start-column="59" selection-end-line="151" selection-end-column="59" />
-          <folding />
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="3349">
+          <caret line="11" column="113" selection-start-line="11" selection-start-column="113" selection-end-line="11" selection-end-column="113" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/meloch/index.html">
+    <entry file="file://$PROJECT_DIR$/ussr/styles.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="203" max-vertical-offset="833">
-          <caret line="24" column="28" selection-start-line="24" selection-start-column="28" selection-end-line="24" selection-end-column="28" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/meloch/styles.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="748">
-          <caret line="14" column="27" selection-start-line="14" selection-start-column="27" selection-end-line="14" selection-end-column="27" />
-          <folding />
+        <state vertical-scroll-proportion="0.0" vertical-offset="211" max-vertical-offset="935">
+          <caret line="36" column="23" selection-start-line="36" selection-start-column="23" selection-end-line="36" selection-end-column="23" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.12222222" vertical-offset="263" max-vertical-offset="1173">
-          <caret line="20" column="34" selection-start-line="20" selection-start-column="34" selection-end-line="20" selection-end-column="34" />
+        <state vertical-scroll-proportion="-11.461538" vertical-offset="331" max-vertical-offset="1241">
+          <caret line="37" column="26" selection-start-line="37" selection-start-column="26" selection-end-line="37" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ussrposters/styles.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.80335367" vertical-offset="0" max-vertical-offset="935">
+          <caret line="31" column="20" selection-start-line="31" selection-start-column="20" selection-end-line="31" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/nu/styles.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="109" max-vertical-offset="765">
+          <caret line="39" column="0" selection-start-line="39" selection-start-column="0" selection-end-line="39" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/nu/slider.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="3570">
+          <caret line="122" column="20" selection-start-line="122" selection-start-column="20" selection-end-line="122" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/nu/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="85" max-vertical-offset="1190">
+          <caret line="5" column="63" selection-start-line="5" selection-start-column="63" selection-end-line="5" selection-end-column="63" />
+          <folding>
+            <element signature="n#style#0;n#ins#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ussrposters/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="357" max-vertical-offset="1207">
+          <caret line="8" column="0" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/g20/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="560" max-vertical-offset="1190">
+          <caret line="43" column="14" selection-start-line="43" selection-start-column="14" selection-end-line="43" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ussr/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.19286872" vertical-offset="0" max-vertical-offset="1734">
+          <caret line="7" column="0" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/meloch/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.76984125" vertical-offset="280" max-vertical-offset="1190">
+          <caret line="45" column="36" selection-start-line="45" selection-start-column="36" selection-end-line="45" selection-end-column="36" />
           <folding />
         </state>
       </provider>
