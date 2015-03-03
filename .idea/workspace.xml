@@ -2,19 +2,97 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="49936aeb-a0f4-4a42-8ee1-db97121b12c9" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bgo/test/libs/Class.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bgo/test/js/Main.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bgo/test/libs/boomerango/ajaxRequest.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bgo/test/libs/boomerango/analyticsWrapper.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bgo/test/libs/boomerango/apiService.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bgo/test/libs/boomerango/boomerango.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bgo/test/libs/boomerango/boomerangoApi.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bgo/test/libs/boomerango/boomerangoApi.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bgo/test/libs/boomerango/googleAnalytics.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bgo/test/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bgo/test/styles.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bgo/test/libs/boomerango/url.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/encodings.xml" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bgo/iknowart/assets/pics/9val.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bgo/iknowart/assets/pics/alenushka.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bgo/iknowart/assets/images/answerButton.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bgo/iknowart/assets/pics/arnolfini.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bgo/iknowart/assets/images/background.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bgo/iknowart/assets/sounds/click.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bgo/iknowart/assets/images/closeButton.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bgo/iknowart/assets/images/correctButton.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bgo/iknowart/assets/images/correctCheckButton.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bgo/iknowart/assets/images/creditsBack.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bgo/iknowart/assets/images/creditsButton.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bgo/iknowart/assets/images/creditsWindow.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bgo/iknowart/assets/pics/dog.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bgo/iknowart/assets/images/fader.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bgo/iknowart/assets/pics/garden.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bgo/iknowart/assets/pics/girlWithPeaches.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bgo/iknowart/assets/pics/gornostai.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bgo/iknowart/assets/pics/grachi.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bgo/iknowart/assets/images/homeButton.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bgo/iknowart/assets/pics/hunters.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bgo/iknowart/assets/pics/italianPolden.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bgo/iknowart/assets/images/itemGalka.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bgo/iknowart/assets/images/itemKrest.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bgo/iknowart/assets/images/karataev.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bgo/iknowart/assets/pics/madonna.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bgo/iknowart/assets/images/mainTitle.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bgo/iknowart/assets/pics/mart.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bgo/iknowart/assets/images/mona.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bgo/iknowart/assets/images/moreGamesButton.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bgo/iknowart/assets/images/nextButton.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bgo/iknowart/assets/images/playButton.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bgo/iknowart/assets/pics/players.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bgo/iknowart/assets/images/postepennoLogo.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bgo/iknowart/assets/pics/redtower.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bgo/iknowart/assets/sounds/right.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bgo/iknowart/assets/images/selectedButton.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bgo/iknowart/assets/pics/serezhka.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bgo/iknowart/assets/images/shadow.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bgo/iknowart/assets/pics/skelet.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bgo/iknowart/assets/images/soundIconOff.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bgo/iknowart/assets/images/soundIconOn.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bgo/iknowart/assets/images/sticker.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bgo/iknowart/assets/images/stickerStar.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bgo/iknowart/assets/pics/sunday.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bgo/iknowart/assets/pics/sunrise.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bgo/iknowart/assets/pics/suprem.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bgo/iknowart/assets/pics/vangog.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bgo/iknowart/assets/sounds/wrong.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bgo/iknowart/js/components/AnswerButton.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bgo/iknowart/js/Assets.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bgo/iknowart/js/components/Background.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bgo/iknowart/js/components/Button.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bgo/iknowart/libs/Class.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bgo/iknowart/js/Component.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bgo/iknowart/js/ComponentBox.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bgo/iknowart/js/Config.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bgo/iknowart/js/view/Credits.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bgo/iknowart/js/components/Description.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bgo/iknowart/js/view/FPSView.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bgo/iknowart/js/view/Fader.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bgo/iknowart/js/components/GalleryItem.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bgo/iknowart/js/view/Game.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bgo/iknowart/js/view/GameComplete.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bgo/iknowart/js/view/GameUI.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bgo/iknowart/js/Level.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bgo/iknowart/js/controller/LevelHideCommand.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bgo/iknowart/js/controller/LevelShowCommand.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bgo/iknowart/js/Main.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bgo/iknowart/js/view/MainMenu.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bgo/iknowart/js/components/Painting.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bgo/iknowart/js/components/Picture.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bgo/iknowart/js/controller/PlayerAnsweredCommand.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bgo/iknowart/js/Preloader.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bgo/iknowart/js/Resizer.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bgo/iknowart/js/components/ResultGallery.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bgo/iknowart/js/components/SoundIcon.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bgo/iknowart/js/Sounds.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bgo/iknowart/js/components/Sticker.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bgo/iknowart/js/components/TextField.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bgo/iknowart/js/Util.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bgo/iknowart/libs/boomerango/ajaxRequest.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bgo/iknowart/libs/boomerango/analyticsWrapper.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bgo/iknowart/libs/boomerango/apiService.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bgo/iknowart/libs/boomerango/boomerango.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bgo/iknowart/libs/boomerango/boomerangoApi.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bgo/iknowart/libs/boomerango/boomerangoApi.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bgo/iknowart/libs/createjs-2013.12.12.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bgo/iknowart/libs/boomerango/googleAnalytics.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bgo/iknowart/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bgo/iknowart/styles.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bgo/iknowart/libs/boomerango/url.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="postepenno.github.io.iws" />
@@ -94,8 +172,8 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/meloch/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.76984125" vertical-offset="280" max-vertical-offset="1190">
-              <caret line="45" column="36" selection-start-line="45" selection-start-column="36" selection-end-line="45" selection-end-column="36" />
+            <state vertical-scroll-proportion="0.25714287" vertical-offset="280" max-vertical-offset="1190">
+              <caret line="26" column="9" selection-start-line="26" selection-start-column="9" selection-end-line="26" selection-end-column="9" />
               <folding />
             </state>
           </provider>
@@ -190,6 +268,7 @@
       <sortByType />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -278,9 +357,22 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="postepenno.github.io" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="postepenno.github.io" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="bgo" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -323,14 +415,10 @@
       <ConfigurationWrapper RunnerId="JavascriptDebugRunner" />
       <method />
     </configuration>
-    <configuration default="true" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
-      <method />
-    </configuration>
     <configuration default="true" type="DartUnitRunConfigurationType" factoryName="DartUnit">
       <method />
     </configuration>
-    <configuration default="true" type="JavaScriptTestRunnerKarma" factoryName="Karma" config-file="">
-      <envs />
+    <configuration default="true" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
       <method />
     </configuration>
     <configuration default="true" type="JSTestDriver:ConfigurationType" factoryName="JsTestDriver">
@@ -338,6 +426,10 @@
       <setting name="settingsFile" value="" />
       <setting name="serverType" value="INTERNAL" />
       <setting name="preferredDebugBrowser" value="Chrome" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerKarma" factoryName="Karma" config-file="">
+      <envs />
       <method />
     </configuration>
     <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
@@ -386,12 +478,6 @@
       <created>1391591777661</created>
       <option name="number" value="Default" />
       <updated>1391591777661</updated>
-    </task>
-    <task id="LOCAL-00144" summary="Popping Pals jes">
-      <created>1416549997096</created>
-      <option name="number" value="00144" />
-      <option name="project" value="LOCAL" />
-      <updated>1416549997096</updated>
     </task>
     <task id="LOCAL-00145" summary="Dont Cross jes">
       <created>1416550108974</created>
@@ -681,7 +767,13 @@
       <option name="project" value="LOCAL" />
       <updated>1424772109971</updated>
     </task>
-    <option name="localTasksCounter" value="193" />
+    <task id="LOCAL-00193" summary="boomerango test">
+      <created>1425360429585</created>
+      <option name="number" value="00193" />
+      <option name="project" value="LOCAL" />
+      <updated>1425360429603</updated>
+    </task>
+    <option name="localTasksCounter" value="194" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -725,7 +817,6 @@
       <TodoPanelSettings />
     </option>
     <option name="CHECK_COMMIT_MESSAGE_SPELLING" value="false" />
-    <MESSAGE value="Don't cross 2" />
     <MESSAGE value="Everyone Should Be Happy!!!" />
     <MESSAGE value="meloch" />
     <MESSAGE value="dctl coolmath" />
@@ -750,7 +841,8 @@
     <MESSAGE value="math money" />
     <MESSAGE value="ussr2" />
     <MESSAGE value="nu" />
-    <option name="LAST_COMMIT_MESSAGE" value="nu" />
+    <MESSAGE value="boomerango test" />
+    <option name="LAST_COMMIT_MESSAGE" value="boomerango test" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -1116,8 +1208,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/meloch/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.76984125" vertical-offset="280" max-vertical-offset="1190">
-          <caret line="45" column="36" selection-start-line="45" selection-start-column="36" selection-end-line="45" selection-end-column="36" />
+        <state vertical-scroll-proportion="0.25714287" vertical-offset="280" max-vertical-offset="1190">
+          <caret line="26" column="9" selection-start-line="26" selection-start-column="9" selection-end-line="26" selection-end-column="9" />
           <folding />
         </state>
       </provider>
