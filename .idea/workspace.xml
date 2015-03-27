@@ -2,79 +2,34 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="49936aeb-a0f4-4a42-8ee1-db97121b12c9" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/medals/assets/background.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/medals/assets/images2/bogdan_pencil.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/medals/assets/images2/empty_pencil.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/medals/assets/images2/glory_pencil.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/medals/assets/images/golden_star.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/medals/assets/images2/kutuzov_pencil.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/medals/assets/images/medal_belgrad.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/medals/assets/images/medal_berlin.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/medals/assets/images/medal_budapesht.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/medals/assets/images/medal_germany.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/medals/assets/images/medal_japan.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/medals/assets/images/medal_kavkaz.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/medals/assets/images/medal_kenigsberg.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/medals/assets/images/medal_kiev.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/medals/assets/images/medal_leningrad.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/medals/assets/images/medal_moscow.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/medals/assets/images/medal_nahimov.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/medals/assets/images/medal_odessa.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/medals/assets/images/medal_partisan.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/medals/assets/images/medal_praga.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/medals/assets/images/medal_sevastopol.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/medals/assets/images/medal_stalingrad.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/medals/assets/images/medal_trud.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/medals/assets/images/medal_ushakov.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/medals/assets/images/medal_vena.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/medals/assets/images/medal_warshaw.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/medals/assets/images/medal_za_otvagu.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/medals/assets/images/medal_za_zaslugi.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/medals/assets/images2/nahimov_pencil.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/medals/assets/images2/nevsky_pencil.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/medals/assets/images/orden_bogdan.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/medals/assets/images2/orden_bogdan.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/medals/assets/images2/orden_glory1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/medals/assets/images/orden_glory1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/medals/assets/images/orden_glory2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/medals/assets/images/orden_glory3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/medals/assets/images/orden_kutuzov1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/medals/assets/images/orden_kutuzov2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/medals/assets/images/orden_kutuzov3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/medals/assets/images2/orden_kutuzova1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/medals/assets/images/orden_lenina.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/medals/assets/images2/orden_lenina.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/medals/assets/images/orden_nahimov1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/medals/assets/images/orden_nahimov2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/medals/assets/images2/orden_nahimova1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/medals/assets/images2/orden_nevskogo.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/medals/assets/images/orden_nevskogo.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/medals/assets/images/orden_pobeda.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/medals/assets/images2/orden_pobeda.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/medals/assets/images/orden_red_banner.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/medals/assets/images/orden_red_star.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/medals/assets/images2/orden_red_star.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/medals/assets/images2/orden_red_znamya.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/medals/assets/images/orden_suvorov1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/medals/assets/images/orden_suvorov2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/medals/assets/images/orden_suvorov3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/medals/assets/images2/orden_suvorova1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/medals/assets/images/orden_ushakov1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/medals/assets/images/orden_ushakov2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/medals/assets/images2/orden_ushakova.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/medals/assets/images/orden_war.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/medals/assets/images2/orden_war.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/medals/assets/images2/pobeda_pencil.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/medals/assets/images/serp_i_molot.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/medals/assets/images2/suvorov_pencil.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/medals/assets/images2/ushakov_pencil.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/medals/styles/clearlist.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/medals/js/clearlist.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/medals/libs/jquery-2.1.3.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/medals/styles/relax.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/medals/relax.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/medals/js/relax.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/medals/js/relax.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/orden/assets/background.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/orden/assets/images2/bogdan_pencil.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/orden/assets/images2/empty_pencil.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/orden/assets/images2/glory_pencil.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/orden/assets/images2/kutuzov_pencil.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/orden/assets/images2/lenin_pencil.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/orden/assets/images2/nahimov_pencil.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/orden/assets/images2/nevsky_pencil.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/orden/assets/images2/orden_bogdan.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/orden/assets/images2/orden_glory1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/orden/assets/images2/orden_kutuzova1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/orden/assets/images2/orden_lenina.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/orden/assets/images2/orden_nahimova1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/orden/assets/images2/orden_nevskogo.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/orden/assets/images2/orden_pobeda.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/orden/assets/images2/orden_red_star.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/orden/assets/images2/orden_red_znamya.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/orden/assets/images2/orden_suvorova1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/orden/assets/images2/orden_ushakova.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/orden/assets/images2/orden_war.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/orden/assets/images2/pobeda_pencil.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/orden/assets/images2/suvorov_pencil.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/orden/assets/images2/ushakov_pencil.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/orden/js/data.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/orden/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/orden/libs/jquery-2.1.3.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/orden/styles/orden.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/orden/js/orden.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="postepenno.github.io.iws" />
@@ -262,6 +217,7 @@
       <sortByType />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -314,7 +270,6 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -357,14 +312,10 @@
       <ConfigurationWrapper RunnerId="JavascriptDebugRunner" />
       <method />
     </configuration>
-    <configuration default="true" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
-      <method />
-    </configuration>
     <configuration default="true" type="DartUnitRunConfigurationType" factoryName="DartUnit">
       <method />
     </configuration>
-    <configuration default="true" type="JavaScriptTestRunnerKarma" factoryName="Karma" config-file="">
-      <envs />
+    <configuration default="true" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
       <method />
     </configuration>
     <configuration default="true" type="JSTestDriver:ConfigurationType" factoryName="JsTestDriver">
@@ -372,6 +323,10 @@
       <setting name="settingsFile" value="" />
       <setting name="serverType" value="INTERNAL" />
       <setting name="preferredDebugBrowser" value="Chrome" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerKarma" factoryName="Karma" config-file="">
+      <envs />
       <method />
     </configuration>
     <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
@@ -420,12 +375,6 @@
       <created>1391591777661</created>
       <option name="number" value="Default" />
       <updated>1391591777661</updated>
-    </task>
-    <task id="LOCAL-00150" summary="be happy">
-      <created>1416822825736</created>
-      <option name="number" value="00150" />
-      <option name="project" value="LOCAL" />
-      <updated>1416822825736</updated>
     </task>
     <task id="LOCAL-00151" summary="be happy">
       <created>1416823026144</created>
@@ -715,11 +664,17 @@
       <option name="project" value="LOCAL" />
       <updated>1427092821410</updated>
     </task>
-    <option name="localTasksCounter" value="199" />
+    <task id="LOCAL-00199" summary="medals initial commit">
+      <created>1427285443373</created>
+      <option name="number" value="00199" />
+      <option name="project" value="LOCAL" />
+      <updated>1427285443401</updated>
+    </task>
+    <option name="localTasksCounter" value="200" />
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="54" y="-8" width="1874" height="1096" extended-state="6" />
+    <frame x="54" y="-8" width="1874" height="1096" extended-state="0" />
     <editor active="false" />
     <layout>
       <window_info id="Changes" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.23492724" sideWeight="0.49972782" order="7" side_tool="false" content_ui="tabs" />
@@ -761,7 +716,6 @@
       <TodoPanelSettings />
     </option>
     <option name="CHECK_COMMIT_MESSAGE_SPELLING" value="false" />
-    <MESSAGE value="g20" />
     <MESSAGE value="symmetry" />
     <MESSAGE value="Popping Pals jes" />
     <MESSAGE value="Dont Cross jes" />
@@ -786,7 +740,8 @@
     <MESSAGE value="Nu update" />
     <MESSAGE value="jquery buttons" />
     <MESSAGE value="wutb walkthrough" />
-    <option name="LAST_COMMIT_MESSAGE" value="wutb walkthrough" />
+    <MESSAGE value="medals initial commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="medals initial commit" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
