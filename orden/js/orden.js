@@ -157,9 +157,9 @@ function gameComplete()
     var errors = items.length - correctAnswers;
     if (errors == 0) comment = "Поздравляю! Ни одной ошибки! Орден этому господину!";
     else if (errors == 1) comment = "Всего одна ошибочка. Так скажу: зачем мне орден? Я согласен на медаль.";
-    else if (errors == 2) comment = "Две ошибки. По статистике лишь небольшой процент пользователей проходит этот тест без ошибок с первого раза.";
+    else if (errors == 2) comment = "Две ошибки. Хороший результат, поздравляю!";
     else if (errors == 3) comment = "Три ошибки. Это норма (с)";
-    else if (errors == 4) comment = "Четыре ошибки. Сложный тест, да.";
+    else if (errors == 4) comment = "Четыре ошибки. По статистике лишь небольшой процент пользователей проходит этот тест без ошибок с первого раза.";
     else if (errors >= 5) comment = "Увы, пять ошибок или больше. Попробуй еще раз.";
 
     $gameComplete = $("<div class='game-complete'></div>");
