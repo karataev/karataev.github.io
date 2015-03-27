@@ -1,35 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="49936aeb-a0f4-4a42-8ee1-db97121b12c9" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/orden/assets/background.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/orden/assets/images2/bogdan_pencil.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/orden/assets/images2/empty_pencil.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/orden/assets/images2/glory_pencil.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/orden/assets/images2/kutuzov_pencil.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/orden/assets/images2/lenin_pencil.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/orden/assets/images2/nahimov_pencil.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/orden/assets/images2/nevsky_pencil.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/orden/assets/images2/orden_bogdan.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/orden/assets/images2/orden_glory1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/orden/assets/images2/orden_kutuzova1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/orden/assets/images2/orden_lenina.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/orden/assets/images2/orden_nahimova1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/orden/assets/images2/orden_nevskogo.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/orden/assets/images2/orden_pobeda.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/orden/assets/images2/orden_red_star.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/orden/assets/images2/orden_red_znamya.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/orden/assets/images2/orden_suvorova1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/orden/assets/images2/orden_ushakova.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/orden/assets/images2/orden_war.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/orden/assets/images2/pobeda_pencil.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/orden/assets/images2/suvorov_pencil.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/orden/assets/images2/ushakov_pencil.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/orden/js/data.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/orden/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/orden/libs/jquery-2.1.3.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/orden/styles/orden.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/orden/js/orden.js" />
+    <list default="true" id="49936aeb-a0f4-4a42-8ee1-db97121b12c9" name="Default" comment="ordens">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="postepenno.github.io.iws" />
@@ -104,11 +76,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/flash/wutb/walkthrough/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.049707603" vertical-offset="0" max-vertical-offset="684">
-              <caret line="2" column="16" selection-start-line="2" selection-start-column="16" selection-end-line="2" selection-end-column="16" />
+            <state vertical-scroll-proportion="-3.2692308" vertical-offset="0" max-vertical-offset="595">
+              <caret line="5" column="37" selection-start-line="5" selection-start-column="37" selection-end-line="5" selection-end-column="37" />
               <folding>
                 <element signature="n#style#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#ins#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -117,11 +89,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/index.html">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/orden/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="506" max-vertical-offset="1241">
-              <caret line="37" column="26" selection-start-line="37" selection-start-column="26" selection-end-line="37" selection-end-column="26" />
+            <state vertical-scroll-proportion="0.20268257" vertical-offset="0" max-vertical-offset="671">
+              <caret line="8" column="37" selection-start-line="8" selection-start-column="37" selection-end-line="8" selection-end-column="37" />
               <folding />
             </state>
           </provider>
@@ -160,6 +132,7 @@
         <option value="$PROJECT_DIR$/meloch/index.html" />
         <option value="$PROJECT_DIR$/ussr/index.html" />
         <option value="$PROJECT_DIR$/flash/wutb/walkthrough/index.html" />
+        <option value="$PROJECT_DIR$/orden/index.html" />
       </list>
     </option>
   </component>
@@ -233,6 +206,20 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="postepenno.github.io" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="postepenno.github.io" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="postepenno.github.io" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="orden" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -375,18 +362,6 @@
       <created>1391591777661</created>
       <option name="number" value="Default" />
       <updated>1391591777661</updated>
-    </task>
-    <task id="LOCAL-00151" summary="be happy">
-      <created>1416823026144</created>
-      <option name="number" value="00151" />
-      <option name="project" value="LOCAL" />
-      <updated>1416823026144</updated>
-    </task>
-    <task id="LOCAL-00152" summary="be happy">
-      <created>1416823118609</created>
-      <option name="number" value="00152" />
-      <option name="project" value="LOCAL" />
-      <updated>1416823118609</updated>
     </task>
     <task id="LOCAL-00153" summary="be happy">
       <created>1416823295936</created>
@@ -670,14 +645,27 @@
       <option name="project" value="LOCAL" />
       <updated>1427285443401</updated>
     </task>
-    <option name="localTasksCounter" value="200" />
+    <task id="LOCAL-00200" summary="ordens">
+      <created>1427437349770</created>
+      <option name="number" value="00200" />
+      <option name="project" value="LOCAL" />
+      <updated>1427437349770</updated>
+    </task>
+    <task id="LOCAL-00201" summary="ordens">
+      <created>1427437507604</created>
+      <option name="number" value="00201" />
+      <option name="project" value="LOCAL" />
+      <updated>1427437507604</updated>
+    </task>
+    <option name="localTasksCounter" value="202" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="54" y="-8" width="1874" height="1096" extended-state="0" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
-      <window_info id="Changes" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.23492724" sideWeight="0.49972782" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32952183" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.23492724" sideWeight="0.49972782" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32952183" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -691,7 +679,6 @@
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.2827443" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32952183" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
@@ -716,7 +703,6 @@
       <TodoPanelSettings />
     </option>
     <option name="CHECK_COMMIT_MESSAGE_SPELLING" value="false" />
-    <MESSAGE value="symmetry" />
     <MESSAGE value="Popping Pals jes" />
     <MESSAGE value="Dont Cross jes" />
     <MESSAGE value="Moustache time" />
@@ -741,20 +727,14 @@
     <MESSAGE value="jquery buttons" />
     <MESSAGE value="wutb walkthrough" />
     <MESSAGE value="medals initial commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="medals initial commit" />
+    <MESSAGE value="ordens" />
+    <option name="LAST_COMMIT_MESSAGE" value="ordens" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/stylesheet.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="1802" max-vertical-offset="2159">
-          <caret line="106" column="19" selection-start-line="106" selection-start-column="19" selection-end-line="106" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1071">
@@ -1098,7 +1078,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="506" max-vertical-offset="1241">
+        <state vertical-scroll-proportion="0.91959065" vertical-offset="0" max-vertical-offset="1241">
           <caret line="37" column="26" selection-start-line="37" selection-start-column="26" selection-end-line="37" selection-end-column="26" />
           <folding />
         </state>
@@ -1106,12 +1086,20 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/flash/wutb/walkthrough/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.049707603" vertical-offset="0" max-vertical-offset="684">
-          <caret line="2" column="16" selection-start-line="2" selection-start-column="16" selection-end-line="2" selection-end-column="16" />
+        <state vertical-scroll-proportion="-3.2692308" vertical-offset="0" max-vertical-offset="595">
+          <caret line="5" column="37" selection-start-line="5" selection-start-column="37" selection-end-line="5" selection-end-column="37" />
           <folding>
             <element signature="n#style#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#ins#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/orden/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.20268257" vertical-offset="0" max-vertical-offset="671">
+          <caret line="8" column="37" selection-start-line="8" selection-start-column="37" selection-end-line="8" selection-end-column="37" />
+          <folding />
         </state>
       </provider>
     </entry>
