@@ -1,0 +1,36 @@
+
+body {
+    font-family: Tahoma, Arial, sans-serif;
+    background-image: url("assets/background.png");
+    background-attachment: fixed;
+}
+
+.container {
+    text-align: center;
+    width: 800px;
+    background: #ffffff;
+    margin: 20px auto;
+    /*margin-top: 100px;*/
+    padding: 10px 10px 30px 10px;
+    /*border: 1px solid #eeeeee;*/
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.3);
+    /*height: 2000px;*/
+}
+
+.more-games {
+    font-size: 20px;
+    padding: 10px;
+    border-radius: 5px;
+    background-color: #73CC6D;
+    color:#ffffff;
+    box-shadow: 0 2px 0 #51a151;
+    border: 1px solid #51a151;
+    cursor: pointer;
+    display: inline-block;
+    text-decoration: none;
+    transition: all 0.3s ease;
+}
+
+.more-games:hover {
+    background-color: #63b85d;
+}
