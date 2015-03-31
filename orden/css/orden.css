@@ -126,7 +126,7 @@ li {
     margin-left: 5px;
 }
 
-li:not(:first-of-type) {
+.answers li:not(:first-of-type) {
     margin-top:-1px;
 }
 
