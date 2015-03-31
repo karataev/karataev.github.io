@@ -4,7 +4,10 @@
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
     <meta name="viewport" content="initial-scale=1.0, maximum-scale=1.0" />
     <link type="text/css" rel="stylesheet" href="styles.css" />
-    <link type="text/css" rel="stylesheet" href="slider.css" />
+    <link rel="stylesheet" href="../css/menu.css">
+    <script src="../js/jquery-2.1.0.min.js"></script>
+    <script src="../js/handlebars-v3.0.0.js"></script>
+    <script src="../js/menu.js"></script>
 
     <script type="text/javascript">
         WebFontConfig = {
@@ -24,6 +27,8 @@
 
 </head>
 <body onload="startup();">
+
+<div class="menu-container"></div>
 
 <div id="container">
     <div id="gameArea"></div>
@@ -71,26 +76,6 @@
 <script src="release/game.min.js"></script>
 
 <script src="../js/ga.js"></script>
-
-<!-- nav menu -->
-<div id="nav">
-    <input type="checkbox" name="nav-switch" id="nav-switch">
-    <label class="label" for="nav-switch">
-        <div class="container">
-            <div class="nav-on">
-                <ul class="menu">
-                    <li class="arrow back"><a href="../nu">Назад</a></li>
-                    <li class="arrow"><a href="../meloch">Вперед</a></li>
-                </ul>
-            </div>
-            <div class="nav-off">
-                <div id="icon"><div></div><div></div></div>
-                <h1 class="title">Меню</h1>
-            </div>
-        </div>
-    </label>
-</div>
-<!-- end of nav menu -->
 
 
 </body>
