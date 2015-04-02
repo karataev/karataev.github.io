@@ -1,8 +1,10 @@
 /**
- * Created by postepenno on 13.02.14.
+ * Created by postepenno on 02.04.2015.
  */
 
+
 $(document).ready(function() {
+
     var html5Games = [
         {
             title:"I Know Art 2",
@@ -145,6 +147,6 @@ $(document).ready(function() {
     var theTemplate = Handlebars.compile(theTemplateScript);
     //console.log(theTemplate);
 
-    $(".html5").append (theTemplate(html5Games));
-    $(".flash").append (theTemplate(flashGames));
+    $(".html5-games").append (theTemplate(html5Games));
+    $(".flash-games").append (theTemplate(flashGames));
 });

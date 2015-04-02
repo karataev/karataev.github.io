@@ -1,0 +1,69 @@
+
+body {
+    background-image: url("../assets/background.png");
+    background-attachment: fixed;
+}
+
+.logo-container {
+    text-align: center;
+}
+
+h1, h2 {
+    text-align: center;
+}
+
+h2 img {
+    width:50px;
+}
+
+.container {
+    margin:20px auto;
+    max-width: 600px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.3);
+    background-color: #ffffff;
+}
+
+.between-sections {
+    border: 2px solid #999999;
+    margin-top:40px;
+    margin-bottom: 40px;
+}
+
+.game {
+    min-height: 100px;
+    margin-top: 15px;
+}
+
+.game-image {
+    border-radius: 10px;
+    float: left;
+    margin-right: 5px;
+    height: 100px;
+}
+
+.thumb {
+    border-radius: 10px;
+}
+
+.game-title {
+    /*border: 2px solid olivedrab;*/
+    font-size: 25px;
+    margin-top: 0;
+    font-weight: bold;
+}
+
+.ads {
+    text-align: center;
+}
+
+/*
+section hr {
+    width:90%;
+    border: 1px dashed #6AC5AC;
+}
+*/
+
+
+.footer {
+    text-align: center;
+}
