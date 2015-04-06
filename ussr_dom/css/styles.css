@@ -1,0 +1,167 @@
+
+.wrapper {
+    position:relative;
+    width: 800px;
+    height:600px;
+    /*border:1px solid red;*/
+    box-shadow: 0 4px 17px 0 rgba(0,0,0,0.77);
+    margin: 20px auto;
+}
+
+.content {
+    display: table;
+    position: relative;
+    width:100%;
+    height:100%;
+    background: #eeeeee url("../assets/cuteBack1.jpg");
+}
+
+.table-row {
+    display:table-row;
+}
+
+.poster-container {
+    /*border:1px solid black;*/
+    width:450px;
+    height:600px;
+    position: relative;
+    display: table-cell;
+}
+
+.poster {
+    background-repeat: no-repeat;
+    width:450px;
+    height:600px;
+    position: absolute;
+}
+
+.sticker {
+    width:100px;
+    height:100px;
+    position: absolute;
+    /*border:1px solid black;*/
+    background-repeat: no-repeat;
+    /*opacity: 0.5;*/
+    /*transition: opacity 1s ease;*/
+}
+
+.lights {
+    background:url("../assets/lights.png") no-repeat;
+    width:318px;
+    height:318px;
+    /*border:2px solid red;*/
+    position: absolute;
+}
+
+.task {
+    display: table-cell;
+    font-family: 'Russo One', sans-serif;
+    font-size:20px;
+}
+
+.question {
+    margin:10px;
+    margin-bottom:30px;
+    padding:20px;
+    background: #EF1B27;
+    color: white;
+    border-radius:10px;
+    font-size:22px;
+    text-align: center;
+}
+
+.answers {
+}
+
+.answers ul {
+    padding:0 10px;
+}
+
+.answer-item {
+    list-style: none;
+    margin-bottom: 15px;
+    background: white;
+    /*border:1px solid black;*/
+    cursor: pointer;
+    padding:10px;
+    border-radius: 5px;
+    box-shadow: 0 4px 0 0 #999999;
+    transition:transform 2.5s ease;
+    position: relative;
+}
+
+.selected {
+    /*border:3px solid black;*/
+    text-decoration: underline;
+}
+
+.correct {
+    background-color: #3FB749;
+    box-shadow:0 4px 0 0 #308B36;
+}
+
+.level-number {
+    color:white;
+    text-align: center;
+    margin:40px;
+}
+
+.mybtn {
+    display: inline-block;
+    padding:10px 20px;
+    color: white;
+    cursor: pointer;
+    border-radius: 5px;
+    text-align: center;
+    font-family: 'Russo One', sans-serif;
+    font-size:20px;
+    background-color: #929091;
+    box-shadow:0 4px 0 0 #4f4e4e;
+}
+
+.mybtn-next {
+    box-sizing:border-box;
+    width:80%;
+    margin:0 20px;
+    background-color: #01A0E1;
+    box-shadow:0 4px 0 0 #006F9C;
+}
+
+.mybtn-sound {
+    /*
+    position: absolute;
+    bottom:10px;
+    right:10px;
+    */
+    background-color: #A4CE38;
+    box-shadow:0 4px 0 0 #738E27;
+    margin-left:10px;
+}
+
+.mybtn-sound-off {
+    color:red;
+    text-decoration: line-through;
+}
+
+.fader {
+    position: absolute;
+    width:100%;
+    height:100%;
+    background-color:rgba(0, 0, 0, 1);
+    left:0;
+    top:0;
+}
+
+.modal-body img {
+    display:block;
+    /*border:2px solid red;*/
+    margin:5px auto 20px auto;
+}
+
+.music-holder {
+    text-align: center;
+}
+
+#gameCompleteModal .modal-body {
+    text-align: center;
+}

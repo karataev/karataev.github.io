@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html>
+<head lang="en">
+    <meta charset="UTF-8">
+    <title>Плакаты СССР</title>
+    <link rel="stylesheet" href="css/styles.css">
+    <link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap.min.css">
+    <link rel="stylesheet" href="libs/bbplayer/css/bbplayer.css">
+    <link href='http://fonts.googleapis.com/css?family=Russo+One' rel='stylesheet' type='text/css'>
+    <script src="libs/jquery-2.1.0.min.js"></script>
+    <script src="http://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/js/bootstrap.min.js"></script>
+    <script src="libs/howler.min.js"></script>
+    <script src="libs/bbplayer/js/bbplayer.js"></script>
+    <script src="js/main.js"></script>
+</head>
+<body>
+<div class="wrapper">
+    <div class="content">
+        <div class="table-row">
+            <div class="poster-container">
+                <div class="poster"></div>
+                <div class="lights"></div>
+                <div class="sticker"></div>
+            </div>
+            <div class="task">
+                <div class="question"></div>
+                <div class="answers"></div>
+                <div class="level-number"></div>
+                <div class="mybtn mybtn-next">Далее</div>
+            </div>
+        </div>
+    </div>
+    <div class="fader"></div>
+</div>
+
+<div class="music-holder">
+    <div class="bbplayer">
+        <span class="bb-play"></span>
+        <span class="bb-trackTime"></span>
+        <span class="bb-trackLength"></span>
+        <span class="bb-trackTitle"></span>
+        <audio loop autoplay>
+            <source src="assets/sounds/music.mp3"/>
+        </audio>
+    </div>
+    <div class="mybtn mybtn-sound"><span class="glyphicon glyphicon-music" aria-hidden="true"></span> Звук</div>
+</div>
+
+<div id="introModal" class="modal fade">
+    <div class="modal-dialog">
+        <div class="modal-content">
+            <div class="modal-header">
+                <button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
+                <h4 class="modal-title">Мини-игра</h4>
+            </div>
+            <div class="modal-body">
+                <img src="assets/introImg.png">
+                <p>Товарищ, проходи, присаживайся.</p>
+                <p>В Советском Союзе не было секса и колбасы, зато были потрясающие плакаты.</p>
+                <p>Давай сыграем в игру. Правила просты. Часть плаката закрыта стикером. Подумай что там спрятано и выбери один из предложенных вариантов.</p>
+            </div>
+            <div class="modal-footer">
+                <button type="button" class="btn btn-default" data-dismiss="modal">Поехали</button>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div id="gameCompleteModal" class="modal fade" data-backdrop="static">
+    <div class="modal-dialog">
+        <div class="modal-content">
+            <div class="modal-header">
+                <button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
+                <h4 class="modal-title">Ура! Игра пройдена!</h4>
+            </div>
+            <div class="modal-body">
+                <img src="assets/gameCompleteImg.png">
+                <div class="result"></div>
+                <hr>
+                <p>У нас есть и другие игры</p>
+                <a href="http://postepenno.com/orden" class="btn btn-primary">Ордена ВОВ</a>
+                <a href="http://postepenno.com/g20" class="btn btn-primary">Большая двадцатка</a>
+            </div>
+<!--
+            <div class="modal-footer">
+                <button type="button" class="btn btn-default" data-dismiss="modal">Ок</button>
+            </div>
+-->
+        </div>
+    </div>
+</div>
+
+
+</body>
+</html>
