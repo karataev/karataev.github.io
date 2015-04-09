@@ -38,8 +38,10 @@ function cellClick()
 
 function checkCells()
 {
-    var content1 = activeCell1.find(".back").html();
-    var content2 = activeCell2.find(".back").html();
+    //var content1 = activeCell1.find(".back").html();
+    //var content2 = activeCell2.find(".back").html();
+    var content1 = activeCell1.find(".back").attr("data-value");
+    var content2 = activeCell2.find(".back").attr("data-value");
     if (content1 === content2)
     {
         activeCell1 = undefined;
@@ -78,7 +80,7 @@ function createGrid()
     for (i = 0; i < cellsNum; i++)
     {
         var $front = $("<div class='front'>?</div>");
-        var $back = $("<div class='back'>" + data[i].value + "</div>");
+        var $back = $("<div class='back' data-value='" + data[i].value + "'></div>");
         $back.css("background-image", "url(" + data[i].img + ")");
         var $card = $("<li class='card'></li>");
         $card.append($front);

@@ -18,6 +18,10 @@ body {
 
 .grid {
     /*color:white;*/
+    /*perspective: 900px;*/
+    -webkit-perspective: 900px;
+    -moz-perspective: 900px;
+    -ms-perspective: 900px;
     perspective: 900px;
 }
 
@@ -32,8 +36,16 @@ body {
     cursor: pointer;
     margin-right:10px;
     margin-bottom:10px;
+    /*transform-style: preserve-3d;*/
+    -webkit-transform-style: preserve-3d;
+    -moz-transform-style: preserve-3d;
+    -ms-transform-style: preserve-3d;
     transform-style: preserve-3d;
-    backface-visibility:hidden;
+    /*backface-visibility:hidden;*/
+    -webkit-backface-visibility: hidden;
+    -moz-backface-visibility: hidden;
+    -ms-backface-visibility: hidden;
+    backface-visibility: hidden;
 }
 
 .card .front, .card .back {
@@ -42,6 +54,9 @@ body {
     height: 100%;
     border:5px solid white;
     border-radius: 10px;
+    /*box-shadow: 0 4px 0 0 rgba(0, 0, 0, 0.3);*/
+    -webkit-box-shadow: 0 4px 0 0 rgba(0, 0, 0, 0.3);
+    -moz-box-shadow: 0 4px 0 0 rgba(0, 0, 0, 0.3);
     box-shadow: 0 4px 0 0 rgba(0, 0, 0, 0.3);
 }
 
@@ -52,7 +67,18 @@ body {
 
 .card .back {
     background:#fff;
-    background-size:90px 90px;
-    transform:translateZ(-1px) rotateY(180deg);
-    color:rgba(0, 0, 0, 0); /*transparent color!*/
+    /*background-size:90px 90px;*/
+    -webkit-background-size: 90px 90px;
+    background-size: 90px 90px;
+    /*transform:translateZ(-1px) rotateY(180deg);*/
+    -webkit-transform: translateZ(-1px) rotateY(180deg);
+    -moz-transform: translateZ(-1px) rotateY(180deg);
+    -ms-transform: translateZ(-1px) rotateY(180deg);
+    -o-transform: translateZ(-1px) rotateY(180deg);
+    transform: translateZ(-1px) rotateY(180deg);
+}
+
+.comment {
+    text-align: center;
+    color:#999;
 }
