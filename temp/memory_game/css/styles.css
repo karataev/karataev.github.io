@@ -36,16 +36,6 @@ body {
     cursor: pointer;
     margin-right:10px;
     margin-bottom:10px;
-    /*transform-style: preserve-3d;*/
-    -webkit-transform-style: preserve-3d;
-    -moz-transform-style: preserve-3d;
-    -ms-transform-style: preserve-3d;
-    transform-style: preserve-3d;
-    /*backface-visibility:hidden;*/
-    -webkit-backface-visibility: hidden;
-    -moz-backface-visibility: hidden;
-    -ms-backface-visibility: hidden;
-    backface-visibility: hidden;
 }
 
 .card .front, .card .back {
@@ -58,6 +48,11 @@ body {
     -webkit-box-shadow: 0 4px 0 0 rgba(0, 0, 0, 0.3);
     -moz-box-shadow: 0 4px 0 0 rgba(0, 0, 0, 0.3);
     box-shadow: 0 4px 0 0 rgba(0, 0, 0, 0.3);
+
+    -webkit-backface-visibility: hidden;
+    -moz-backface-visibility: hidden;
+    -ms-backface-visibility: hidden;
+    backface-visibility: hidden;
 }
 
 .card .front {
@@ -70,12 +65,6 @@ body {
     /*background-size:90px 90px;*/
     -webkit-background-size: 90px 90px;
     background-size: 90px 90px;
-    /*transform:translateZ(-1px) rotateY(180deg);*/
-    -webkit-transform: translateZ(-1px) rotateY(180deg);
-    -moz-transform: translateZ(-1px) rotateY(180deg);
-    -ms-transform: translateZ(-1px) rotateY(180deg);
-    -o-transform: translateZ(-1px) rotateY(180deg);
-    transform: translateZ(-1px) rotateY(180deg);
 }
 
 .comment {

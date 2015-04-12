@@ -25,21 +25,35 @@ function cellClick()
         activeCell2 = $(this);
         activeCell2.off();
         clickEnabled = false;
-        $(this).transition({rotateY:"180deg"}, time, checkCells);
+        rotateToBack($(this), true);
+
     }
     else
     {
         activeCell1 = $(this);
         activeCell1.off();
-        $(this).transition({rotateY:"180deg"}, time);
+        rotateToBack($(this));
     }
 
 }
 
+function rotateToBack(cell, shouldCheck)
+{
+    var $front = cell.find(".front");
+    var $back = cell.find(".back");
+    TweenMax.to($front, 0.5, {rotationY:"-180deg"});
+    if (shouldCheck) TweenMax.to($back, 0.5, {rotationY:"0deg", onComplete:checkCells});
+    else TweenMax.to($back, 0.5, {rotationY:"0deg"});
+}
+
+function rotateToFront(cell)
+{
+    TweenMax.to(cell.find(".front"), 0.5, {rotationY:"0deg"});
+    TweenMax.to(cell.find(".back"), 0.5, {rotationY:"180deg"});
+}
+
 function checkCells()
 {
-    //var content1 = activeCell1.find(".back").html();
-    //var content2 = activeCell2.find(".back").html();
     var content1 = activeCell1.find(".back").attr("data-value");
     var content2 = activeCell2.find(".back").attr("data-value");
     if (content1 === content2)
@@ -50,8 +64,8 @@ function checkCells()
     }
     else
     {
-        activeCell1.transition({rotateY:"0deg"}, time);
-        activeCell2.transition({rotateY:"0deg"}, time);
+        rotateToFront(activeCell1);
+        rotateToFront(activeCell2);
         activeCell1.on("click", cellClick);
         activeCell2.on("click", cellClick);
         activeCell1 = undefined;
@@ -82,15 +96,10 @@ function createGrid()
         var $front = $("<div class='front'>?</div>");
         var $back = $("<div class='back' data-value='" + data[i].value + "'></div>");
         $back.css("background-image", "url(" + data[i].img + ")");
+        TweenMax.set($back, {rotationY:180});
         var $card = $("<li class='card'></li>");
         $card.append($front);
         $card.append($back);
-/*
-        var $card = $("<li class='card'>" +
-        "<div class='front'>?</div>" +
-        "<div class='back'>" + title + "</div>" +
-        "</li>");
-*/
         $grid.append($card);
     }
 }
