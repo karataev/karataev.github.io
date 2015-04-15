@@ -15,7 +15,7 @@ $(document).ready(function() {
         {
             title:"Doodle Connect",
             thumb:"assets/doodleconnect.png",
-            url:"http://games.softgames.de/doodle-connect/",
+            url:"http://postepenno.com/html5/doodleconnect",
             desc:"Your brain is like a muscle, you need to train it to be smart. This little puzzle game is a good brain-builder!"
         },
         {
