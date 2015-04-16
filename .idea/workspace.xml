@@ -2,11 +2,31 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="49936aeb-a0f4-4a42-8ee1-db97121b12c9" name="Default" comment="">
-      <change type="DELETED" beforePath="D:\Github\postepenno.github.io\html5\doodleconnect\libs\sg.hooks.js" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/html5/doodleconnect/assets/images/pics.png" afterPath="$PROJECT_DIR$/html5/doodleconnect/assets/images/pics.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/html5/doodleconnect/release/game.min.js" afterPath="$PROJECT_DIR$/html5/doodleconnect/release/game.min.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/html5/doodleconnect/index.html" afterPath="$PROJECT_DIR$/html5/doodleconnect/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/main.js" afterPath="$PROJECT_DIR$/js/main.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/layout/goldenone/img/about-item1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/layout/goldenone/img/about-item2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/layout/goldenone/img/about-item3.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/layout/goldenone/img/about-item4.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/layout/goldenone/img/about-item5.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/layout/goldenone/img/aetuts.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/layout/goldenone/img/commerce.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/layout/goldenone/img/envato.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/layout/goldenone/img/home_bg.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/layout/goldenone/img/logo.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/layout/goldenone/img/maps-bg.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/layout/goldenone/img/microlancer.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/layout/goldenone/img/p-item1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/layout/goldenone/img/p-item2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/layout/goldenone/img/p-item3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/layout/goldenone/img/p-item4.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/layout/goldenone/img/p-item5.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/layout/goldenone/img/p-item6.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/layout/goldenone/img/responsive.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/layout/goldenone/img/security.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/layout/goldenone/img/social-sprite.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/layout/goldenone/img/team-img.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/layout/goldenone/img/wordpress.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/layout/goldenone/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/layout/goldenone/css/style.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="postepenno.github.io.iws" />
@@ -28,21 +48,23 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="17.615385">
-              <caret line="32" column="68" selection-start-line="32" selection-start-column="68" selection-end-line="32" selection-end-column="68" />
-              <folding />
+            <state vertical-scroll-proportion="0.0">
+              <caret line="37" column="71" selection-start-line="37" selection-start-column="71" selection-end-line="37" selection-end-column="71" />
+              <folding>
+                <element signature="n#style#0;n#ins#0;n#section#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="main.js" pinned="false" current-in-tab="true">
+      <file leaf-file-name="main.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/js/main.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.30312034">
-              <caret line="18" column="61" selection-start-line="18" selection-start-column="61" selection-end-line="18" selection-end-column="61" />
+            <state vertical-scroll-proportion="0.0">
+              <caret line="27" column="33" selection-start-line="27" selection-start-column="33" selection-end-line="27" selection-end-column="33" />
               <folding />
             </state>
           </provider>
@@ -94,8 +116,8 @@
         <option value="$PROJECT_DIR$/flash/wutb/walkthrough/styles.css" />
         <option value="$PROJECT_DIR$/flash/wutb/walkthrough/index.html" />
         <option value="$PROJECT_DIR$/stylesheet.css" />
-        <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/js/main.js" />
+        <option value="$PROJECT_DIR$/index.html" />
       </list>
     </option>
   </component>
@@ -157,8 +179,8 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="Scratches" />
       <pane id="Scope" />
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -299,18 +321,6 @@
       <created>1391591777661</created>
       <option name="number" value="Default" />
       <updated>1391591777661</updated>
-    </task>
-    <task id="LOCAL-00179" summary="yapometr">
-      <created>1421400506924</created>
-      <option name="number" value="00179" />
-      <option name="project" value="LOCAL" />
-      <updated>1421400506924</updated>
-    </task>
-    <task id="LOCAL-00180" summary="USSR Posters google play">
-      <created>1421903606120</created>
-      <option name="number" value="00180" />
-      <option name="project" value="LOCAL" />
-      <updated>1421903606120</updated>
     </task>
     <task id="LOCAL-00181" summary="Rectangle ads banner">
       <created>1422333097763</created>
@@ -594,11 +604,23 @@
       <option name="project" value="LOCAL" />
       <updated>1428848554056</updated>
     </task>
-    <option name="localTasksCounter" value="228" />
+    <task id="LOCAL-00228" summary="Doodle Connect no ads">
+      <created>1429076734317</created>
+      <option name="number" value="00228" />
+      <option name="project" value="LOCAL" />
+      <updated>1429076734318</updated>
+    </task>
+    <task id="LOCAL-00229" summary="Doodle Connect no ads">
+      <created>1429089755559</created>
+      <option name="number" value="00229" />
+      <option name="project" value="LOCAL" />
+      <updated>1429089755561</updated>
+    </task>
+    <option name="localTasksCounter" value="230" />
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="54" y="-8" width="1874" height="1096" extended-state="0" />
+    <frame x="54" y="-8" width="1874" height="1096" extended-state="6" />
     <editor active="false" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.15231432" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -637,7 +659,6 @@
     <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_NEW_TODO" value="false" />
     <option name="CHECK_COMMIT_MESSAGE_SPELLING" value="false" />
-    <MESSAGE value="nu" />
     <MESSAGE value="boomerango test" />
     <MESSAGE value="boomerango i know art" />
     <MESSAGE value="boomerango i know art 2" />
@@ -662,7 +683,8 @@
     <MESSAGE value="ussr posters dom" />
     <MESSAGE value="ussr posters dom bug fix" />
     <MESSAGE value="memory game!" />
-    <option name="LAST_COMMIT_MESSAGE" value="memory game!" />
+    <MESSAGE value="Doodle Connect no ads" />
+    <option name="LAST_COMMIT_MESSAGE" value="Doodle Connect no ads" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -1013,19 +1035,21 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
+    <entry file="file://$PROJECT_DIR$/js/main.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="17.615385">
-          <caret line="32" column="68" selection-start-line="32" selection-start-column="68" selection-end-line="32" selection-end-column="68" />
+        <state vertical-scroll-proportion="0.0">
+          <caret line="27" column="33" selection-start-line="27" selection-start-column="33" selection-end-line="27" selection-end-column="33" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/js/main.js">
+    <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.30312034">
-          <caret line="18" column="61" selection-start-line="18" selection-start-column="61" selection-end-line="18" selection-end-column="61" />
-          <folding />
+        <state vertical-scroll-proportion="0.0">
+          <caret line="37" column="71" selection-start-line="37" selection-start-column="71" selection-end-line="37" selection-end-column="71" />
+          <folding>
+            <element signature="n#style#0;n#ins#0;n#section#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
