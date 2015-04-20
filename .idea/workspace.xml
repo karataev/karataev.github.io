@@ -2,31 +2,39 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="49936aeb-a0f4-4a42-8ee1-db97121b12c9" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/layout/goldenone/img/about-item1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/layout/goldenone/img/about-item2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/layout/goldenone/img/about-item3.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/layout/goldenone/img/about-item4.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/layout/goldenone/img/about-item5.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/layout/goldenone/img/aetuts.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/layout/goldenone/img/commerce.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/layout/goldenone/img/envato.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/layout/goldenone/img/home_bg.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/layout/goldenone/img/logo.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/layout/goldenone/img/maps-bg.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/layout/goldenone/img/microlancer.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/layout/goldenone/img/p-item1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/layout/goldenone/img/p-item2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/layout/goldenone/img/p-item3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/layout/goldenone/img/p-item4.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/layout/goldenone/img/p-item5.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/layout/goldenone/img/p-item6.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/layout/goldenone/img/responsive.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/layout/goldenone/img/security.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/layout/goldenone/img/social-sprite.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/layout/goldenone/img/team-img.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/layout/goldenone/img/wordpress.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/layout/goldenone/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/layout/goldenone/css/style.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/layout/elegantica/img/ads1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/layout/elegantica/img/ads2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/layout/elegantica/img/ads3.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/layout/elegantica/img/ads4.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/layout/elegantica/img/ads5.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/layout/elegantica/img/ads6.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/layout/elegantica/img/backward.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/layout/elegantica/img/bg_dash.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/layout/elegantica/img/contact-mail.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/layout/elegantica/img/contact-mobile.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/layout/elegantica/img/contact-phone.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/layout/elegantica/img/dribble.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/layout/elegantica/img/facebook.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/layout/elegantica/img/forward.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/layout/elegantica/img/logo.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/layout/elegantica/img/mobile.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/layout/elegantica/img/msn.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/layout/elegantica/img/port1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/layout/elegantica/img/port2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/layout/elegantica/img/port3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/layout/elegantica/img/port4.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/layout/elegantica/img/rss.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/layout/elegantica/img/settings.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/layout/elegantica/img/slide.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/layout/elegantica/img/support.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/layout/elegantica/img/telephone.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/layout/elegantica/img/twitter.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/layout/elegantica/img/vimeo.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/layout/elegantica/css/base.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/layout/elegantica/css/index.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/layout/elegantica/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/layout/elegantica/js/jquery.rotator.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/layout/elegantica/css/reset.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="postepenno.github.io.iws" />
@@ -51,8 +59,8 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="37" column="71" selection-start-line="37" selection-start-column="71" selection-end-line="37" selection-end-column="71" />
+            <state vertical-scroll-proportion="0.26275116">
+              <caret line="25" column="32" selection-start-line="25" selection-start-column="32" selection-end-line="25" selection-end-column="32" />
               <folding>
                 <element signature="n#style#0;n#ins#0;n#section#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
               </folding>
@@ -179,8 +187,8 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="Scratches" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -321,18 +329,6 @@
       <created>1391591777661</created>
       <option name="number" value="Default" />
       <updated>1391591777661</updated>
-    </task>
-    <task id="LOCAL-00181" summary="Rectangle ads banner">
-      <created>1422333097763</created>
-      <option name="number" value="00181" />
-      <option name="project" value="LOCAL" />
-      <updated>1422333097763</updated>
-    </task>
-    <task id="LOCAL-00182" summary="&lt;meta&gt; update">
-      <created>1422522107579</created>
-      <option name="number" value="00182" />
-      <option name="project" value="LOCAL" />
-      <updated>1422522107580</updated>
     </task>
     <task id="LOCAL-00183" summary="&lt;meta&gt; update">
       <created>1422522253562</created>
@@ -616,11 +612,23 @@
       <option name="project" value="LOCAL" />
       <updated>1429089755561</updated>
     </task>
-    <option name="localTasksCounter" value="230" />
+    <task id="LOCAL-00230" summary="Golden One Layout">
+      <created>1429176395594</created>
+      <option name="number" value="00230" />
+      <option name="project" value="LOCAL" />
+      <updated>1429176395604</updated>
+    </task>
+    <task id="LOCAL-00231" summary="Golden One Layout">
+      <created>1429177841197</created>
+      <option name="number" value="00231" />
+      <option name="project" value="LOCAL" />
+      <updated>1429177841197</updated>
+    </task>
+    <option name="localTasksCounter" value="232" />
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="54" y="-8" width="1874" height="1096" extended-state="6" />
+    <frame x="54" y="-8" width="1874" height="1096" extended-state="0" />
     <editor active="false" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.15231432" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -659,7 +667,6 @@
     <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_NEW_TODO" value="false" />
     <option name="CHECK_COMMIT_MESSAGE_SPELLING" value="false" />
-    <MESSAGE value="boomerango test" />
     <MESSAGE value="boomerango i know art" />
     <MESSAGE value="boomerango i know art 2" />
     <MESSAGE value="Nu update" />
@@ -684,7 +691,8 @@
     <MESSAGE value="ussr posters dom bug fix" />
     <MESSAGE value="memory game!" />
     <MESSAGE value="Doodle Connect no ads" />
-    <option name="LAST_COMMIT_MESSAGE" value="Doodle Connect no ads" />
+    <MESSAGE value="Golden One Layout" />
+    <option name="LAST_COMMIT_MESSAGE" value="Golden One Layout" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -1045,8 +1053,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="37" column="71" selection-start-line="37" selection-start-column="71" selection-end-line="37" selection-end-column="71" />
+        <state vertical-scroll-proportion="0.26275116">
+          <caret line="25" column="32" selection-start-line="25" selection-start-column="32" selection-end-line="25" selection-end-column="32" />
           <folding>
             <element signature="n#style#0;n#ins#0;n#section#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
