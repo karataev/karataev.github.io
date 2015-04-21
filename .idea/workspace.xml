@@ -2,39 +2,36 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="49936aeb-a0f4-4a42-8ee1-db97121b12c9" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/layout/elegantica/img/ads1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/layout/elegantica/img/ads2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/layout/elegantica/img/ads3.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/layout/elegantica/img/ads4.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/layout/elegantica/img/ads5.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/layout/elegantica/img/ads6.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/layout/elegantica/img/backward.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/layout/elegantica/img/bg_dash.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/layout/elegantica/img/contact-mail.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/layout/elegantica/img/contact-mobile.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/layout/elegantica/img/contact-phone.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/layout/elegantica/img/dribble.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/layout/elegantica/img/facebook.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/layout/elegantica/img/forward.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/layout/elegantica/img/logo.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/layout/elegantica/img/mobile.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/layout/elegantica/img/msn.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/layout/elegantica/img/port1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/layout/elegantica/img/port2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/layout/elegantica/img/port3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/layout/elegantica/img/port4.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/layout/elegantica/img/rss.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/layout/elegantica/img/settings.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/layout/elegantica/img/slide.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/layout/elegantica/img/support.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/layout/elegantica/img/telephone.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/layout/elegantica/img/twitter.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/layout/elegantica/img/vimeo.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/layout/elegantica/css/base.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/layout/elegantica/css/index.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/layout/elegantica/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/layout/elegantica/js/jquery.rotator.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/layout/elegantica/css/reset.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/layout/bootstrap3/images/badge_bootstrap.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/layout/bootstrap3/images/badge_css3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/layout/bootstrap3/images/badge_html5.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/layout/bootstrap3/images/carousel_large_01.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/layout/bootstrap3/images/carousel_large_02.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/layout/bootstrap3/images/carousel_large_03.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/layout/bootstrap3/images/carousel_medium_01.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/layout/bootstrap3/images/carousel_medium_02.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/layout/bootstrap3/images/carousel_medium_03.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/layout/bootstrap3/images/carousel_small_01.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/layout/bootstrap3/images/carousel_small_02.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/layout/bootstrap3/images/carousel_small_03.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/layout/bootstrap3/includes/fonts/glyphiconshalflings-regular.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/layout/bootstrap3/includes/fonts/glyphiconshalflings-regular.otf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/layout/bootstrap3/includes/fonts/glyphiconshalflings-regular.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/layout/bootstrap3/includes/fonts/glyphiconshalflings-regular.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/layout/bootstrap3/images/item_psd2html5.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/layout/bootstrap3/images/item_webhosting101.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/layout/bootstrap3/images/logo.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/layout/bootstrap3/includes/css/bootstrap-glyphicons.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/layout/bootstrap3/bootstrap/css/bootstrap.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/layout/bootstrap3/bootstrap/js/bootstrap.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/layout/bootstrap3/bootstrap/css/bootstrap.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/layout/bootstrap3/bootstrap/js/bootstrap.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/layout/bootstrap3/includes/fonts/glyphiconshalflings-regular.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/layout/bootstrap3/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/layout/bootstrap3/includes/js/jquery-1.8.2.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/layout/bootstrap3/includes/js/modernizr-2.6.2.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/layout/bootstrap3/includes/js/script.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/layout/bootstrap3/includes/css/styles.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="postepenno.github.io.iws" />
@@ -59,8 +56,8 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.26275116">
-              <caret line="25" column="32" selection-start-line="25" selection-start-column="32" selection-end-line="25" selection-end-column="32" />
+            <state vertical-scroll-proportion="0.68315303">
+              <caret line="55" column="30" selection-start-line="55" selection-start-column="30" selection-end-line="55" selection-end-column="30" />
               <folding>
                 <element signature="n#style#0;n#ins#0;n#section#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
               </folding>
@@ -187,7 +184,6 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="Scratches" />
       <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
@@ -217,12 +213,13 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="js" />
+              <option name="myItemId" value="layout" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -329,18 +326,6 @@
       <created>1391591777661</created>
       <option name="number" value="Default" />
       <updated>1391591777661</updated>
-    </task>
-    <task id="LOCAL-00183" summary="&lt;meta&gt; update">
-      <created>1422522253562</created>
-      <option name="number" value="00183" />
-      <option name="project" value="LOCAL" />
-      <updated>1422522253562</updated>
-    </task>
-    <task id="LOCAL-00184" summary="math money">
-      <created>1422865475598</created>
-      <option name="number" value="00184" />
-      <option name="project" value="LOCAL" />
-      <updated>1422865475599</updated>
     </task>
     <task id="LOCAL-00185" summary="math money">
       <created>1422879016882</created>
@@ -624,7 +609,19 @@
       <option name="project" value="LOCAL" />
       <updated>1429177841197</updated>
     </task>
-    <option name="localTasksCounter" value="232" />
+    <task id="LOCAL-00232" summary="Elegantica Layout">
+      <created>1429519249976</created>
+      <option name="number" value="00232" />
+      <option name="project" value="LOCAL" />
+      <updated>1429519249995</updated>
+    </task>
+    <task id="LOCAL-00233" summary="Elegantica Layout">
+      <created>1429520198359</created>
+      <option name="number" value="00233" />
+      <option name="project" value="LOCAL" />
+      <updated>1429520198359</updated>
+    </task>
+    <option name="localTasksCounter" value="234" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -667,7 +664,6 @@
     <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_NEW_TODO" value="false" />
     <option name="CHECK_COMMIT_MESSAGE_SPELLING" value="false" />
-    <MESSAGE value="boomerango i know art" />
     <MESSAGE value="boomerango i know art 2" />
     <MESSAGE value="Nu update" />
     <MESSAGE value="jquery buttons" />
@@ -692,7 +688,8 @@
     <MESSAGE value="memory game!" />
     <MESSAGE value="Doodle Connect no ads" />
     <MESSAGE value="Golden One Layout" />
-    <option name="LAST_COMMIT_MESSAGE" value="Golden One Layout" />
+    <MESSAGE value="Elegantica Layout" />
+    <option name="LAST_COMMIT_MESSAGE" value="Elegantica Layout" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -1053,8 +1050,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.26275116">
-          <caret line="25" column="32" selection-start-line="25" selection-start-column="32" selection-end-line="25" selection-end-column="32" />
+        <state vertical-scroll-proportion="0.68315303">
+          <caret line="55" column="30" selection-start-line="55" selection-start-column="30" selection-end-line="55" selection-end-column="30" />
           <folding>
             <element signature="n#style#0;n#ins#0;n#section#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
