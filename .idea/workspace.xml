@@ -2,36 +2,46 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="49936aeb-a0f4-4a42-8ee1-db97121b12c9" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/layout/bootstrap3/images/badge_bootstrap.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/layout/bootstrap3/images/badge_css3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/layout/bootstrap3/images/badge_html5.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/layout/bootstrap3/images/carousel_large_01.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/layout/bootstrap3/images/carousel_large_02.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/layout/bootstrap3/images/carousel_large_03.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/layout/bootstrap3/images/carousel_medium_01.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/layout/bootstrap3/images/carousel_medium_02.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/layout/bootstrap3/images/carousel_medium_03.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/layout/bootstrap3/images/carousel_small_01.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/layout/bootstrap3/images/carousel_small_02.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/layout/bootstrap3/images/carousel_small_03.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/layout/bootstrap3/includes/fonts/glyphiconshalflings-regular.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/layout/bootstrap3/includes/fonts/glyphiconshalflings-regular.otf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/layout/bootstrap3/includes/fonts/glyphiconshalflings-regular.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/layout/bootstrap3/includes/fonts/glyphiconshalflings-regular.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/layout/bootstrap3/images/item_psd2html5.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/layout/bootstrap3/images/item_webhosting101.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/layout/bootstrap3/images/logo.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/layout/bootstrap3/includes/css/bootstrap-glyphicons.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/layout/bootstrap3/bootstrap/css/bootstrap.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/layout/bootstrap3/bootstrap/js/bootstrap.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/layout/bootstrap3/bootstrap/css/bootstrap.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/layout/bootstrap3/bootstrap/js/bootstrap.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/layout/bootstrap3/includes/fonts/glyphiconshalflings-regular.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/layout/bootstrap3/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/layout/bootstrap3/includes/js/jquery-1.8.2.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/layout/bootstrap3/includes/js/modernizr-2.6.2.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/layout/bootstrap3/includes/js/script.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/layout/bootstrap3/includes/css/styles.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/money_art/img/105.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/money_art/img/118.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/money_art/img/211.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/money_art/img/312.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/money_art/img/412.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/money_art/img/511.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/money_art/img/69.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/money_art/img/79.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/money_art/img/85.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/money_art/img/96.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/money_art/img/bg.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/money_art/img/boeing.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/money_art/img/camry.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/money_art/img/crash.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/money_art/img/enzo.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/money_art/img/gold.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/money_art/img/hubble.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/money_art/img/instagram.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/money_art/img/matrix.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/money_art/img/merilin.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/money_art/img/mistral.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/money_art/img/nomer5.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/money_art/img/onement_vi.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/money_art/img/ostrov.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/money_art/img/putin.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/money_art/img/rhein2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/money_art/img/s300.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/money_art/img/su34.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/money_art/img/usa.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/money_art/img/uzor.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/money_art/img/venera.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/money_art/img/village.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/money_art/img/white_center.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/money_art/js/data.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/money_art/js/data2.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/money_art/libs/handlebars-v3.0.0.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/money_art/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/money_art/libs/jquery-2.1.3.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/money_art/js/main.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/money_art/css/styles.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="postepenno.github.io.iws" />
@@ -56,8 +66,8 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.68315303">
-              <caret line="55" column="30" selection-start-line="55" selection-start-column="30" selection-end-line="55" selection-end-column="30" />
+            <state vertical-scroll-proportion="0.64752793">
+              <caret line="67" column="0" selection-start-line="67" selection-start-column="0" selection-end-line="67" selection-end-column="0" />
               <folding>
                 <element signature="n#style#0;n#ins#0;n#section#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
               </folding>
@@ -134,10 +144,10 @@
     <order />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="54" />
-    <option name="y" value="-8" />
-    <option name="width" value="1874" />
-    <option name="height" value="1096" />
+    <option name="x" value="102" />
+    <option name="y" value="19" />
+    <option name="width" value="977" />
+    <option name="height" value="1068" />
   </component>
   <component name="ProjectInspectionProfilesVisibleTreeState">
     <entry key="Project Default">
@@ -184,7 +194,6 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -203,22 +212,9 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="postepenno.github.io" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="postepenno.github.io" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="layout" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
         </subPane>
       </pane>
+      <pane id="Scope" />
       <pane id="Scratches" />
     </panes>
   </component>
@@ -326,12 +322,6 @@
       <created>1391591777661</created>
       <option name="number" value="Default" />
       <updated>1391591777661</updated>
-    </task>
-    <task id="LOCAL-00185" summary="math money">
-      <created>1422879016882</created>
-      <option name="number" value="00185" />
-      <option name="project" value="LOCAL" />
-      <updated>1422879016883</updated>
     </task>
     <task id="LOCAL-00186" summary="ussr2">
       <created>1423648907008</created>
@@ -621,18 +611,24 @@
       <option name="project" value="LOCAL" />
       <updated>1429520198359</updated>
     </task>
-    <option name="localTasksCounter" value="234" />
+    <task id="LOCAL-00234" summary="Bootstrap 3 layout">
+      <created>1429614747128</created>
+      <option name="number" value="00234" />
+      <option name="project" value="LOCAL" />
+      <updated>1429614747138</updated>
+    </task>
+    <option name="localTasksCounter" value="235" />
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="54" y="-8" width="1874" height="1096" extended-state="0" />
+    <frame x="102" y="19" width="977" height="1068" extended-state="0" />
     <editor active="false" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.15231432" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.15192507" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.29925454" sideWeight="0.50027215" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.27338877" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.27301928" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32952183" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
@@ -664,7 +660,6 @@
     <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_NEW_TODO" value="false" />
     <option name="CHECK_COMMIT_MESSAGE_SPELLING" value="false" />
-    <MESSAGE value="boomerango i know art 2" />
     <MESSAGE value="Nu update" />
     <MESSAGE value="jquery buttons" />
     <MESSAGE value="wutb walkthrough" />
@@ -689,7 +684,8 @@
     <MESSAGE value="Doodle Connect no ads" />
     <MESSAGE value="Golden One Layout" />
     <MESSAGE value="Elegantica Layout" />
-    <option name="LAST_COMMIT_MESSAGE" value="Elegantica Layout" />
+    <MESSAGE value="Bootstrap 3 layout" />
+    <option name="LAST_COMMIT_MESSAGE" value="Bootstrap 3 layout" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -1050,8 +1046,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.68315303">
-          <caret line="55" column="30" selection-start-line="55" selection-start-column="30" selection-end-line="55" selection-end-column="30" />
+        <state vertical-scroll-proportion="0.64752793">
+          <caret line="67" column="0" selection-start-line="67" selection-start-column="0" selection-end-line="67" selection-end-column="0" />
           <folding>
             <element signature="n#style#0;n#ins#0;n#section#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
