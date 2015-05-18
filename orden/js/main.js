@@ -30,7 +30,7 @@ $(document).ready(function() {
 
 function showNextItem()
 {
-    var $row = $(".row:nth-of-type(" + (count + 1) + ")");
+    var $row = $(".game-row:nth-of-type(" + (count + 1) + ")");
     //var $row = $(".row");
     $row.fadeIn(1000);
 
@@ -61,7 +61,7 @@ function createTable()
     var theTemplateScript = $("#header").html();
     var theTemplate = Handlebars.compile(theTemplateScript);
 
-    $(".table").append (theTemplate (gameData));
+    $(".game-table").append (theTemplate (gameData));
 
     $(".next").click(function()
     {
@@ -115,7 +115,7 @@ function createTable()
     if (!SHOW_ALL)
     {
         $(".next-holder").css("display", "none");
-        $(".row").css("display", "none");
+        $(".game-row").css("display", "none");
     }
 }
 

@@ -1,19 +1,31 @@
 <!DOCTYPE html>
-<html>
+<html ng-app="app">
 <head lang="en">
     <meta charset="UTF-8">
     <title>Ордена Великой Отечественной войны 1941-1945 гг.</title>
     <link rel="stylesheet" href="css/orden.css">
     <script src="libs/handlebars-v3.0.0.js"></script>
-    <script src="libs/jquery-2.1.3.min.js"></script>
-    <script src="/js/ga.js"></script>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/css/bootstrap.min.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/js/bootstrap.min.js"></script>
+    <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.3.15/angular.min.js"></script>
+
     <script src="js/main.js"></script>
+
 </head>
 <body>
 
+<script>
+    var app = angular.module("app", []);
+</script>
+<script src="../shared/directives.js"></script>
+
+<nav-menu></nav-menu>
+
+
 <script id="header" type="text/x-handlebars-template">
     {{#each this}}
-    <div class="row">
+    <div class="game-row">
         <div class="cell for-img">
             <img src="assets/images2/{{url}}">
             <img class="pencil" src="assets/images2/{{pencil}}" style="top:{{top}}px; right:{{right}}px">
@@ -41,18 +53,19 @@
 
 </script>
 
-<div class="container">
+<div class="game-container">
     <h1>Ордена Великой Отечественной войны 1941-1945 гг.</h1>
     <div class="intro">
         <p class="intro-text">70 лет назад советские войска вместе с союзниками одержали победу над фашисткой Германией. Генералы, маршалы, офицеры, солдаты и партизаны - все внесли свой вклад в общее дело. Особо выдающиеся бойцы и командиры были награждены орденами и медалями. Всего во время войны вручалось 12 типов орденов. Взгляни на каждый орден и выбери правильный вариант его названия.</p>
         <div class="button start">Хорошо, я попробую</div>
     </div>
     <div class="content">
-        <div class="table">
+        <div class="game-table">
         </div>
     </div>
 </div>
 
+<google-analytics></google-analytics>
 
 </body>
 </html>
