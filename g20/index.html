@@ -1,65 +1,40 @@
 <!DOCTYPE html>
-<html>
+<html ng-app="app">
 <head>
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
     <meta name="viewport" content="initial-scale=1.0, maximum-scale=1.0" />
     <link type="text/css" rel="stylesheet" href="styles.css" />
-    <link type="text/css" rel="stylesheet" href="slider.css" />
+
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/css/bootstrap.min.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/js/bootstrap.min.js"></script>
+    <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.3.15/angular.min.js"></script>
 
     <title>Большая двадцатка</title>
 
 </head>
 <body onload="startup();">
 
+<script>
+    var app = angular.module("app", []);
+</script>
+<script src="../shared/directives.js"></script>
+
+<nav-menu></nav-menu>
+
 <div id="container">
     <div id="gameArea"></div>
 </div>
 
-<div id="vk_group">
-    <p>Больше игр в нашей <a href="http://vk.com/postepennogames" target="_blank">группе</a>!</p>
-</div>
-
-<div id="ads">
-    <script async src="http://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-    <ins class="adsbygoogle"
-         style="display:inline-block;width:728px;height:90px"
-         data-ad-client="ca-pub-1435819777621907"
-         data-ad-slot="9979789634"></ins>
-    <script>
-        (adsbygoogle = window.adsbygoogle || []).push({});
-    </script>
-</div>
+<vk-group></vk-group>
+<google-ads></google-ads>
+<google-analytics></google-analytics>
 
 
 <script>var App = {};</script>
 <script src="libs/phaser.min.js"></script>
 <script src="libs/Class.js"></script>
-
 <script src="release/game.min.js"></script>
-
-
-<script src="../js/ga.js"></script>
-
-<!-- nav menu -->
-<div id="nav">
-    <input type="checkbox" name="nav-switch" id="nav-switch">
-    <label class="label" for="nav-switch">
-        <div class="container">
-            <div class="nav-on">
-                <ul class="menu">
-                    <li class="arrow back"><a href="../meloch">Назад</a></li>
-                    <li class="arrow"><a href="../ussrposters">Вперед</a></li>
-                </ul>
-            </div>
-            <div class="nav-off">
-                <div id="icon"><div></div><div></div></div>
-                <h1 class="title">Меню</h1>
-            </div>
-        </div>
-    </label>
-</div>
-<!-- end of nav menu -->
-
 
 </body>
 </html>

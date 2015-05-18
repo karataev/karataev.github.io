@@ -42,3 +42,18 @@ app.directive("navMenu", function() {
         templateUrl:"../shared/nav-menu.html"
     }
 });
+
+app.directive("vkGroup", function() {
+    return {
+        replace:true,
+        link: function(scope, el, attrs) {
+            el.css({
+                "margin-top": 20 + "px",
+                "margin-bottom": 20 + "px",
+                "font-size": 24 + "px",
+                "text-align":"center"
+            })
+        },
+        template:"<p>Больше игр в нашей <a href='http://vk.com/postepennogames' target='_blank'>группе</a>!</p>"
+    }
+});
