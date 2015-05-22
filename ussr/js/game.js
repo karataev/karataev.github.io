@@ -50,8 +50,15 @@ app.controller("MainCtrl", function($scope, $http) {
             });
             //$scope.items = items;
             //$scope.update();
-            $scope.startLevel();
+            //$scope.startLevel();
+            $scope.main.showIntro = true;
         });
+
+    $scope.startGame = function() {
+        $scope.main.showIntro = false;
+        $scope.main.levelIndex = 0;
+        $scope.startLevel();
+    }
 
     $scope.startLevel = function() {
         $scope.items.push(allItems[$scope.main.levelIndex]);

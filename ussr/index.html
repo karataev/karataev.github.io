@@ -28,6 +28,15 @@
 
     <h1 class="game-title"><img src="assets/title.png" alt="Советские плакаты"/></h1>
 
+    <div class="intro panel panel-default" ng-if="main.showIntro">
+        <p>Советские плакаты - настоящие произведения искусства. Во времена СССР они вдохновляли, предупреждали, мотивировали, запрещали. Сейчас же они помогают окунуться в эпоху того времени, проникнуться атмосферой Советского Союза.</p>
+        <p>Давай сыграем с тобой в игру. Проверь свою интуицию и эрудицию - угадай что спрятано за стикером на плакате.</p>
+        <div class="intro-inner">
+            <button class="btn btn-success bt-start-game" ng-click="startGame()">Хорошо</button>
+        </div>
+
+    </div>
+
     <div ng-repeat="item in items" class="panel panel-default clearfix" ng-controller="AnswerCtrl" tween-born>
 
         <div class="poster-holder pull-left">

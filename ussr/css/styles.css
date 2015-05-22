@@ -17,6 +17,14 @@ body {
     text-align: center;
 }
 
+.intro-inner {
+    text-align: center;
+}
+
+.bt-start-game {
+
+}
+
 .progress {
     height: 10px;
     border-radius: 0;
