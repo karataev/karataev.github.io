@@ -1,0 +1,112 @@
+
+* {
+    box-sizing: border-box;
+}
+
+body {
+    background-color: #d8d8d8;
+    background-image: url(../img/bg.jpg);
+}
+
+.panel-default {
+    background-color: #eaeaea;
+    width: 1024px;
+    margin: 10px auto;
+    /*box-shadow:0 1px 1px rgba(0,0,0,.24),0 1px 5px rgba(0,0,0,.05);*/
+}
+
+.gameplay {
+    min-height: 640px;
+}
+
+.ads {
+    padding: 10px;
+    text-align: center;
+}
+
+.title {
+    text-align: center;
+    font-weight: bold;
+}
+
+.grid-table {
+    display: table;
+    /*border:1px solid red;*/
+    width: 100%;
+    border-spacing: 10px 10px;
+}
+
+.grid-row {
+    display:table-row;
+}
+
+.grid-cell {
+    /*width: 100%;*/
+    display:table-cell;
+    /*outline:1px solid black;*/
+    position: relative;
+}
+
+.flag-wrapper {
+    /*display: inline-block;*/
+    /*width: 320px;*/
+    border:10px solid #f3f3f3;
+    box-shadow:1px 1px 2px rgba(0,0,0,0.2);
+    cursor: pointer;
+}
+
+.flag-wrapper img {
+    vertical-align: top;
+}
+
+.flag-selected {
+    border-color:yellow;
+}
+
+.bt-center-wrapper {
+    text-align: center;
+}
+
+.bt-next {
+    width: 200px;
+    margin: 10px auto;
+}
+
+.intro {
+    text-align: center;
+    padding: 10px;
+}
+
+.game-complete {
+    text-align: center;
+    padding: 10px;
+}
+
+.font-big {
+    font-size: 50px;
+}
+
+
+.menu {
+    position: fixed;
+    top: 0;
+    right: 0;
+    background-color: #eaeaea;
+    padding: 10px;
+    box-shadow:-2px 2px 2px 2px rgba(0, 0, 0, 0.3);
+}
+
+.menu h4 {
+    text-align: center;
+    /*margin: 0;*/
+}
+
+.other-game {
+    margin-right: 20px;
+}
+
+.grade {
+    position: absolute;
+    left: 0;
+    top: 0;
+}

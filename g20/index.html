@@ -1,40 +1,116 @@
 <!DOCTYPE html>
 <html ng-app="app">
-<head>
-    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-    <meta name="viewport" content="initial-scale=1.0, maximum-scale=1.0" />
-    <link type="text/css" rel="stylesheet" href="styles.css" />
-
-    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/css/bootstrap.min.css">
-    <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js"></script>
-    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/js/bootstrap.min.js"></script>
-    <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.3.15/angular.min.js"></script>
-
+<head lang="en">
+    <meta charset="UTF-8">
     <title>Большая двадцатка</title>
 
-</head>
-<body onload="startup();">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/css/bootstrap.min.css">
+    <link rel="stylesheet" href="css/styles.css"/>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/underscore.js/1.8.3/underscore-min.js"></script>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/js/bootstrap.min.js"></script>
+    <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.3.15/angular.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/howler/1.1.26/howler.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/1.16.1/TweenMax.min.js"></script>
+    <link rel="stylesheet" href="libs/angular-toggle-switch.css"/>
+    <script src="libs/angular-toggle-switch.min.js"></script>
+    <link rel="stylesheet" href="libs/angular-social.css"/>
+    <script src="libs/angular-social.js"></script>
+    <script src="libs/alertify.min.js"></script>
+    <link rel="stylesheet" href="libs/alertify.core.css"/>
+    <link rel="stylesheet" href="libs/alertify.default.css"/>
 
-<script>
-    var app = angular.module("app", []);
-</script>
-<script src="../shared/directives.js"></script>
+</head>
+
+<body ng-controller="MainCtrl">
 
 <nav-menu></nav-menu>
 
-<div id="container">
-    <div id="gameArea"></div>
+<div class="panel panel-default intro" ng-if="model.gameState==='intro'">
+    <img src="img/g20.png" alt="Большая двадцатка"/>
+
+    <h1>Большая двадцатка</h1>
+
+    <p>G20 - международная организация. Она объединяет двадцать самых крутых стран, самых развитых экономик.
+        <br/>
+        Проверь себя - сможешь ли ты узнать флаг каждой страны.</p>
+    <button class="btn btn-success" ng-click="gameStart()">Я попробую</button>
+
+
 </div>
 
-<vk-group></vk-group>
-<google-ads></google-ads>
+<div class="panel panel-default gameplay" ng-if="model.gameState==='play'">
+    <h1 class="title">{{curItem.id + 1}}. {{curItem.title | uppercase}}</h1>
+
+    <div class="grid-table">
+        <div class="table-row">
+            <div class="grid-cell" flag-born="{{$index * 0.2}}" ng-repeat="flag in curItem.flags" ng-if="$index < 3">
+                <div class="flag-wrapper" ek-flag></div>
+            </div>
+        </div>
+        <div class="table-row">
+            <div class="grid-cell" flag-born="{{$index * 0.2}}" ng-repeat="flag in curItem.flags" ng-if="$index >= 3">
+                <div class="flag-wrapper" ek-flag></div>
+            </div>
+        </div>
+    </div>
+    <div class="bt-center-wrapper">
+        <bt-next ng-if="model.levelComplete" born-alpha>Далее</bt-next>
+    </div>
+
+</div>
+
+<div class="panel panel-default game-complete" ng-if="model.gameState==='complete'" born-alpha>
+    <h1>Ура! Игра пройдена!</h1>
+
+    <h3>Правильные ответы: <span class="font-big">{{getCorrectAnswers()}}</span> из <span class="font-big">{{items.length}}</span>
+    </h3>
+
+    <p>Понравилось? - Поделись с друзьями!</p>
+    <ul ng-social-buttons
+        data-url="'http://postepenno.com/g20'"
+        data-title="'Большая двадцатка'"
+        data-description="'Флаги стран большой двадцатки'"
+            >
+        <li class="ng-social-facebook">Facebook</li>
+        <li class="ng-social-twitter">Twitter</li>
+        <li class="ng-social-vk">Вконтакте</li>
+        <li class="ng-social-odnoklassniki">Одноклассники</li>
+    </ul>
+    <br/><br/>
+    <h4>Другие игры</h4>
+
+    <p>
+        <a href="http://postepenno.com/meloch" class="other-game" target="_blank"><img src="img/meloch.png"
+                                                                                       alt="Мелочь, а приятно"/></a>
+        <a href="http://postepenno.com/ussr" class="other-game" target="_blank"><img src="img/ussr.png"
+                                                                                     alt="Советские плакаты"/></a>
+    </p>
+
+    <p>
+        <button class="btn btn-primary btn-lg" ng-click="restartGame()">Еще раз?</button>
+    </p>
+
+</div>
+
+
+<div class="menu">
+    <h4>Звук</h4>
+    <toggle-switch
+            ng-model="model.sndEnabled"
+            on-label="Вкл"
+            off-label="Выкл">
+    </toggle-switch>
+</div>
+
+<div class="panel panel-default ads">
+    <google-ads></google-ads>
+</div>
 <google-analytics></google-analytics>
 
 
-<script>var App = {};</script>
-<script src="libs/phaser.min.js"></script>
-<script src="libs/Class.js"></script>
-<script src="release/game.min.js"></script>
+<script src="js/game.js"></script>
+<script src="../shared/directives.js"></script>
 
 </body>
 </html>
