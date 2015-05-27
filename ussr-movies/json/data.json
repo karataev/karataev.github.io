@@ -1,0 +1,782 @@
+[
+  {
+    "id": 0,
+    "sticker": {
+      "x": 153,
+      "y": 296,
+      "width": 261,
+      "height": 149,
+      "rotation": 0
+    },
+    "answers": [
+      {
+        "value": "Иван Васильевич меняет профессию",
+        "bingo": true
+      },
+      {
+        "value": "Джентльмены удачи"
+      },
+      {
+        "value": "Операция Ы"
+      },
+      {
+        "value": "Назад в будущее"
+      }
+    ],
+    "img": "ivan.jpg"
+  },
+  {
+    "id": 1,
+    "img": "zhuravli.jpg",
+    "sticker": {
+      "x": 82,
+      "y": 460,
+      "width": 293,
+      "height": 121,
+      "rotation": -3
+    },
+    "answers": [
+      {
+        "value": "Летят журавли",
+        "bingo": "true"
+      },
+      {
+        "value": "Жестокий романс"
+      },
+      {
+        "value": "Берегись журавлей"
+      },
+      {
+        "value": "Вверх"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "sticker": {
+      "x": 16,
+      "y": 440,
+      "width": 334,
+      "height": 122,
+      "rotation": 7
+    },
+    "answers": [
+      {
+        "value": "Джентльмены удачи",
+        "bingo": true
+      },
+      {
+        "value": "Золотой теленок"
+      },
+      {
+        "value": "Девчата"
+      },
+      {
+        "value": "12 друзей Доцента"
+      }
+    ],
+    "img": "udacha.jpg"
+  },
+  {
+    "id": 3,
+    "sticker": {
+      "x": 8,
+      "y": 422,
+      "width": 220,
+      "height": 86,
+      "rotation": 0
+    },
+    "answers": [
+      {
+        "value": "Офицеры",
+        "bingo": true
+      },
+      {
+        "value": "Спасти рядового Сухова"
+      },
+      {
+        "value": "17 мгновений весны"
+      },
+      {
+        "value": "Однажды в СССР"
+      }
+    ],
+    "img": "oficeri.jpg"
+  },
+  {
+    "id": 4,
+    "sticker": {
+      "x": 110,
+      "y": 161,
+      "width": 309,
+      "height": 125,
+      "rotation": 0
+    },
+    "answers": [
+      {
+        "value": "Операция Ы",
+        "bingo": true
+      },
+      {
+        "value": "Кавказская пленница"
+      },
+      {
+        "value": "Адвокат дъявола"
+      },
+      {
+        "value": "Как украсть миллион"
+      }
+    ],
+    "img": "operation.jpg"
+  },
+  {
+    "id": 5,
+    "sticker": {
+      "x": 124,
+      "y": 378,
+      "width": 253,
+      "height": 65,
+      "rotation": -12
+    },
+    "answers": [
+      {
+        "value": "Сережа",
+        "bingo": true
+      },
+      {
+        "value": "Андрюша"
+      },
+      {
+        "value": "Николаша"
+      },
+      {
+        "value": "Вовочка"
+      }
+    ],
+    "img": "serezha.jpg"
+  },
+  {
+    "id": 6,
+    "sticker": {
+      "x": 202,
+      "y": 294,
+      "width": 170,
+      "height": 115,
+      "rotation": 0
+    },
+    "answers": [
+      {
+        "value": "Шумный день",
+        "bingo": true
+      },
+      {
+        "value": "Шумный капиталист"
+      },
+      {
+        "value": "Шумный анархист"
+      },
+      {
+        "value": "Шумный коммунист"
+      }
+    ],
+    "img": "day.jpg"
+  },
+  {
+    "id": 7,
+    "sticker": {
+      "x": 60,
+      "y": 493,
+      "width": 348,
+      "height": 113,
+      "rotation": -29
+    },
+    "answers": [
+      {
+        "value": "Служебный роман",
+        "bingo": true
+      },
+      {
+        "value": "Жестокий романс"
+      },
+      {
+        "value": "Право на счастье"
+      },
+      {
+        "value": "Директор"
+      }
+    ],
+    "img": "roman.jpg"
+  },
+  {
+    "id": 8,
+    "sticker": {
+      "x": 13,
+      "y": 513,
+      "width": 191,
+      "height": 74,
+      "rotation": 0
+    },
+    "answers": [
+      {
+        "value": "Сталкер",
+        "bingo": true
+      },
+      {
+        "value": "Свидетель обвинения"
+      },
+      {
+        "value": "Андрей Рублев"
+      },
+      {
+        "value": "Один дома"
+      }
+    ],
+    "img": "stalker.jpg"
+  },
+  {
+    "id": 9,
+    "sticker": {
+      "x": 14,
+      "y": 7,
+      "width": 298,
+      "height": 83,
+      "rotation": 0
+    },
+    "answers": [
+      {
+        "value": "Судьба человека",
+        "bingo": true
+      },
+      {
+        "value": "Маленькое счастье"
+      },
+      {
+        "value": "Отец и сын"
+      },
+      {
+        "value": "Доживем до понедельника"
+      }
+    ],
+    "img": "sudba.jpg"
+  },
+  {
+    "id": 10,
+    "sticker": {
+      "x": 126,
+      "y": 10,
+      "width": 261,
+      "height": 102,
+      "rotation": 0
+    },
+    "answers": [
+      {
+        "value": "Девчата",
+        "bingo": true
+      },
+      {
+        "value": "Ребята"
+      },
+      {
+        "value": "Три плюс два"
+      },
+      {
+        "value": "Кавказская пленница"
+      }
+    ],
+    "img": "devchata.jpg"
+  },
+  {
+    "id": 11,
+    "sticker": {
+      "x": 189,
+      "y": 512,
+      "width": 184,
+      "height": 85,
+      "rotation": 0
+    },
+    "answers": [
+      {
+        "value": "12 стульев",
+        "bingo": true
+      },
+      {
+        "value": "12 табуреток"
+      },
+      {
+        "value": "12 кресел"
+      },
+      {
+        "value": "12 пуфиков"
+      }
+    ],
+    "img": "12.jpg"
+  },
+  {
+    "id": 12,
+    "sticker": {
+      "x": 27,
+      "y": 238,
+      "width": 364,
+      "height": 151,
+      "rotation": 0
+    },
+    "answers": [
+      {
+        "value": "Берегись автомобиля",
+        "bingo": true
+      },
+      {
+        "value": "Безумный Макс"
+      },
+      {
+        "value": "Форсаж"
+      },
+      {
+        "value": "Дядя Степа - милиционер"
+      }
+    ],
+    "img": "beregis.jpg"
+  },
+  {
+    "id": 13,
+    "sticker": {
+      "x": 165,
+      "y": 209,
+      "width": 239,
+      "height": 170,
+      "rotation": 0
+    },
+    "answers": [
+      {
+        "value": "Белый Бим Черное Ухо",
+        "bingo": true
+      },
+      {
+        "value": "Собачье сердце"
+      },
+      {
+        "value": "Старые клячи"
+      },
+      {
+        "value": "101 далматинец"
+      }
+    ],
+    "img": "bim.jpg"
+  },
+  {
+    "id": 14,
+    "sticker": {
+      "x": 177,
+      "y": 203,
+      "width": 204,
+      "height": 104,
+      "rotation": 0
+    },
+    "answers": [
+      {
+        "value": "Собачье сердце",
+        "bingo": true
+      },
+      {
+        "value": "Гамлет"
+      },
+      {
+        "value": "Доктор Хаус"
+      },
+      {
+        "value": "Потустороннее явление"
+      }
+    ],
+    "img": "dog.jpg"
+  },
+  {
+    "id": 15,
+    "sticker": {
+      "x": 10,
+      "y": 453,
+      "width": 207,
+      "height": 80,
+      "rotation": 0
+    },
+    "answers": [
+      {
+        "value": "Гамлет",
+        "bingo": true
+      },
+      {
+        "value": "Король говорит"
+      },
+      {
+        "value": "Жизнь других"
+      },
+      {
+        "value": "Генрих IV"
+      }
+    ],
+    "img": "hamlet.jpg"
+  },
+  {
+    "id": 16,
+    "sticker": {
+      "x": 11,
+      "y": 412,
+      "width": 385,
+      "height": 117,
+      "rotation": 0
+    },
+    "answers": [
+      {
+        "value": "Ирония судьбы",
+        "bingo": true
+      },
+      {
+        "value": "С Новым Годом"
+      },
+      {
+        "value": "Лицо без шрама"
+      },
+      {
+        "value": "Апокалипсис сегодня"
+      }
+    ],
+    "img": "ironia.jpg"
+  },
+  {
+    "id": 17,
+    "sticker": {
+      "x": 7,
+      "y": 454,
+      "width": 357,
+      "height": 141,
+      "rotation": 0
+    },
+    "answers": [
+      {
+        "value": "Человек с киноаппаратом",
+        "bingo": true
+      },
+      {
+        "value": "Прибытие поезда на вокзал города Ла-Сьота"
+      },
+      {
+        "value": "Андалузский пес"
+      },
+      {
+        "value": "К счастью две дороги"
+      }
+    ],
+    "img": "kinoapparat.jpg"
+  },
+  {
+    "id": 18,
+    "sticker": {
+      "x": 14,
+      "y": 39,
+      "width": 113,
+      "height": 101,
+      "rotation": 0
+    },
+    "answers": [
+      {
+        "value": "Курьер",
+        "bingo": true
+      },
+      {
+        "value": "Матрица"
+      },
+      {
+        "value": "Сережа"
+      },
+      {
+        "value": "Олигарх"
+      }
+    ],
+    "img": "kurer.jpg"
+  },
+  {
+    "id": 19,
+    "sticker": {
+      "x": 14,
+      "y": 254,
+      "width": 346,
+      "height": 122,
+      "rotation": 0
+    },
+    "answers": [
+      {
+        "value": "Любовь и голуби",
+        "bingo": true
+      },
+      {
+        "value": "Деревенская баллада"
+      },
+      {
+        "value": "1 + 1"
+      },
+      {
+        "value": "Техасская резня бензопилой"
+      }
+    ],
+    "img": "love.jpg"
+  },
+  {
+    "id": 20,
+    "sticker": {
+      "x": 3,
+      "y": 483,
+      "width": 272,
+      "height": 72,
+      "rotation": 0
+    },
+    "answers": [
+      {
+        "value": "Доживем до понедельника",
+        "bingo": true
+      },
+      {
+        "value": "Доживем и сдохнем"
+      },
+      {
+        "value": "Доживем до пятницы"
+      },
+      {
+        "value": "Доживем до социализма"
+      }
+    ],
+    "img": "monday.jpg"
+  },
+  {
+    "id": 21,
+    "sticker": {
+      "x": 43,
+      "y": 85,
+      "width": 312,
+      "height": 100,
+      "rotation": 0
+    },
+    "answers": [
+      {
+        "value": "Москва слезам не верит",
+        "bingo": true
+      },
+      {
+        "value": "Как долго я тебя искала"
+      },
+      {
+        "value": "На шашлыки"
+      },
+      {
+        "value": "Бандитский Петербург"
+      }
+    ],
+    "img": "moscow.jpg"
+  },
+  {
+    "id": 22,
+    "sticker": {
+      "x": 185,
+      "y": 3,
+      "width": 239,
+      "height": 58,
+      "rotation": 0
+    },
+    "answers": [
+      {
+        "value": "Наваждение",
+        "bingo": true
+      },
+      {
+        "value": "Девять с половиной недель"
+      },
+      {
+        "value": "Агент 007"
+      },
+      {
+        "value": "Вверх"
+      }
+    ],
+    "img": "navazhdenie.jpg"
+  },
+  {
+    "id": 23,
+    "sticker": {
+      "x": 2,
+      "y": -1,
+      "width": 328,
+      "height": 67,
+      "rotation": 0
+    },
+    "answers": [
+      {
+        "value": "Вам и не снилось...",
+        "bingo": true
+      },
+      {
+        "value": "Шуршала листва..."
+      },
+      {
+        "value": "Жизнь других..."
+      },
+      {
+        "value": "Вот так бывает..."
+      }
+    ],
+    "img": "no_dream.jpg"
+  },
+  {
+    "id": 24,
+    "sticker": {
+      "x": 62,
+      "y": 275,
+      "width": 317,
+      "height": 163,
+      "rotation": 0
+    },
+    "answers": [
+      {
+        "value": "Кавказская пленница",
+        "bingo": true
+      },
+      {
+        "value": "Нина: запутанная история"
+      },
+      {
+        "value": "Леди и бродяги"
+      },
+      {
+        "value": "Девочка, покорившая время"
+      }
+    ],
+    "img": "plennica.jpg"
+  },
+  {
+    "id": 25,
+    "sticker": {
+      "x": 28,
+      "y": 457,
+      "width": 367,
+      "height": 89,
+      "rotation": 0
+    },
+    "answers": [
+      {
+        "value": "Жестокий романс",
+        "bingo": true
+      },
+      {
+        "value": "Октябрьское небо"
+      },
+      {
+        "value": "Бесприданница"
+      },
+      {
+        "value": "Давай поженимся"
+      }
+    ],
+    "img": "romans.jpg"
+  },
+  {
+    "id": 26,
+    "sticker": {
+      "x": 244,
+      "y": 245,
+      "width": 150,
+      "height": 73,
+      "rotation": 0
+    },
+    "answers": [
+      {
+        "value": "Бриллиантовая рука",
+        "bingo": true
+      },
+      {
+        "value": "Агент под прикрытием"
+      },
+      {
+        "value": "Славный парень"
+      },
+      {
+        "value": "Судьба человека"
+      }
+    ],
+    "img": "ruka.jpg"
+  },
+  {
+    "id": 27,
+    "sticker": {
+      "x": 7,
+      "y": 548,
+      "width": 332,
+      "height": 56,
+      "rotation": 0
+    },
+    "answers": [
+      {
+        "value": "Баллада о солдате",
+        "bingo": true
+      },
+      {
+        "value": "Сталинград"
+      },
+      {
+        "value": "Брестская крепость"
+      },
+      {
+        "value": "А зори здесь тихие"
+      }
+    ],
+    "img": "soldier.jpg"
+  },
+  {
+    "id": 28,
+    "sticker": {
+      "x": 18,
+      "y": 398,
+      "width": 376,
+      "height": 170,
+      "rotation": 0
+    },
+    "answers": [
+      {
+        "value": "В бой идут одни старики",
+        "bingo": true
+      },
+      {
+        "value": "Дорогу молодым"
+      },
+      {
+        "value": "Старикам тут не место"
+      },
+      {
+        "value": "Старики-разбойники"
+      }
+    ],
+    "img": "stariki.jpg"
+  },
+  {
+    "id": 29,
+    "sticker": {
+      "x": 96,
+      "y": 218,
+      "width": 175,
+      "height": 100,
+      "rotation": 0
+    },
+    "answers": [
+      {
+        "value": "Золотой теленок",
+        "bingo": true
+      },
+      {
+        "value": "Афера Остапа Бендера"
+      },
+      {
+        "value": "12 стульев"
+      },
+      {
+        "value": "Зигзаг удачи"
+      }
+    ],
+    "img": "telenok.jpg"
+  }
+]

@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html ng-app="app">
+<head lang="en">
+    <meta charset="UTF-8">
+    <title></title>
+
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/css/bootstrap.min.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js"></script>
+    <!--<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/js/bootstrap.min.js"></script>-->
+    <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.3.15/angular.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/1.16.1/TweenMax.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/underscore.js/1.8.3/underscore-min.js"></script>
+
+    <link rel="stylesheet" href="css/styles.css"/>
+    <link rel="stylesheet" href="css/sticker.css"/>
+
+</head>
+<body ng-controller="MainCtrl">
+
+<div class="panel panel-default" ng-if="model.gameState==='intro'">
+    <h1>30 лучших советских фильмов</h1>
+    <p>Хорошо ли ты знаешь советские фильмы?</p>
+    <button class="btn btn-primary" ng-click="gameStart()">Знаю, знаю</button>
+</div>
+
+
+<div game-panel ng-repeat="item in items" ng-if="model.gameState==='play'" tween-born>
+    <div class="thumbnail col-left">
+        <div class="poster-wrapper">
+            <img disable-drag class="img-poster" ng-src="img/{{item.img}}" alt=""/>
+            <div class="item-id">{{item.id + 1}}</div>
+            <div sticker>
+                <p sticker-text>?</p>
+            </div>
+        </div>
+    </div>
+    <div class="col-right">
+        <!--<p ng-repeat="answer in item.answers">{{answer.value}}</p>-->
+        <ul class="list-unstyled" ng-controller="AnswerCtrl">
+            <li class="quiz-answer" ng-repeat="answer in item.answers" quiz-answer>
+                <span class="glyphicon" answer-icon></span>
+                <span class="quiz-answer-text">{{answer.value | uppercase}}</span>
+            </li>
+        </ul>
+        <next-button></next-button>
+    </div>
+</div>
+
+<div class="panel panel-default complete" ng-if="model.gameState==='complete'" tween-born>
+    <h1>Ура! Игра пройдена!</h1>
+    <h2>Правильные ответы: {{getCorrectAnswers()}} из {{getTotalQuestions()}}</h2>
+</div>
+
+<script src="js/game.js"></script>
+<script src="js/rect-sticker.js"></script>
+
+
+</body>
+</html>

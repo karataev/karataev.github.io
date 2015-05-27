@@ -2,168 +2,49 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="49936aeb-a0f4-4a42-8ee1-db97121b12c9" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/g20/img/afr1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/g20/img/afr2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/g20/img/afr3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/g20/img/afr4.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/g20/img/afr5.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/g20/img/afr6.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/g20/img/arg1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/g20/img/arg2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/g20/img/arg3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/g20/img/arg4.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/g20/img/arg5.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/g20/img/arg6.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/g20/img/aus1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/g20/img/aus2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/g20/img/aus3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/g20/img/aus4.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/g20/img/aus5.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/g20/img/bg.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/g20/img/br1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/g20/img/br2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/g20/img/br3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/g20/img/br4.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/g20/img/br5.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/g20/img/br6.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/g20/img/ca1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/g20/img/ca2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/g20/img/ca3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/g20/img/ca4.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/g20/img/ca5.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/g20/img/ca6.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/g20/img/ch1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/g20/img/ch2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/g20/img/ch3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/g20/img/ch5.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/g20/img/ch6.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/g20/img/eu1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/g20/img/eu2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/g20/img/eu3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/g20/img/eu4.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/g20/img/eu5.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/g20/img/eu6.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/g20/img/fr1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/g20/img/fr2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/g20/img/fr3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/g20/img/fr4.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/g20/img/fr5.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/g20/img/fr6.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/g20/img/g20.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/g20/img/ge1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/g20/img/ge2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/g20/img/ge3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/g20/img/ge4.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/g20/img/ge5.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/g20/img/ge6.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/g20/img/grade_correct.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/g20/img/grade_wrong.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/g20/img/in1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/g20/img/in2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/g20/img/in3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/g20/img/in4.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/g20/img/in5.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/g20/img/in6.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/g20/img/ind1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/g20/img/ind2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/g20/img/ind3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/g20/img/ind4.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/g20/img/ind5.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/g20/img/ind6.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/g20/img/it1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/g20/img/it2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/g20/img/it3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/g20/img/it4.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/g20/img/it5.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/g20/img/it6.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/g20/img/ja1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/g20/img/ja2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/g20/img/ja3.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/g20/img/ja4.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/g20/img/ja5.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/g20/img/ja6.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/g20/img/ko1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/g20/img/ko2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/g20/img/ko3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/g20/img/ko4.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/g20/img/ko5.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/g20/img/ko6.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/g20/img/me1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/g20/img/me2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/g20/img/me3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/g20/img/me4.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/g20/img/me5.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/g20/img/me6.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/g20/img/meloch.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/g20/img/ru1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/g20/img/ru2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/g20/img/ru3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/g20/img/ru4.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/g20/img/ru5.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/g20/img/ru6.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/g20/img/sa1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/g20/img/sa2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/g20/img/sa3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/g20/img/sa4.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/g20/img/sa5.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/g20/img/sa6.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/g20_canvas/assets/sounds/sndClick.mp3" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/g20/snd/sndRight.mp3" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/g20_canvas/assets/sounds/sndWrong.mp3" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/g20/img/tu1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/g20/img/tu2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/g20/img/tu3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/g20/img/tu4.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/g20/img/tu5.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/g20/img/tu6.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/g20/img/uk1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/g20/img/uk2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/g20/img/uk3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/g20/img/uk4.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/g20/img/uk5.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/g20/img/uk6.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/g20/img/us1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/g20/img/us2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/g20/img/us3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/g20/img/us4.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/g20/img/us5.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/g20/img/us6.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/g20/img/ussr.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/g20/libs/alertify.core.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/g20/libs/alertify.default.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/g20/libs/alertify.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/g20/libs/angular-social.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/g20/libs/angular-social.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/g20/libs/angular-toggle-switch.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/g20/libs/angular-toggle-switch.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/g20/json/data.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/g20/editor.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/g20/js/game.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/g20_canvas/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/g20/css/styles.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/g20/index.html" afterPath="$PROJECT_DIR$/g20/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ussr-movies/img/12.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ussr-movies/img/beregis.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ussr-movies/img/bim.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ussr-movies/img/day.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ussr-movies/img/devchata.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ussr-movies/img/dog.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ussr-movies/img/hamlet.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ussr-movies/img/ironia.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ussr-movies/img/ivan.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ussr-movies/img/kinoapparat.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ussr-movies/img/kurer.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ussr-movies/img/love.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ussr-movies/img/monday.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ussr-movies/img/moscow.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ussr-movies/img/navazhdenie.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ussr-movies/img/no_dream.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ussr-movies/img/oficeri.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ussr-movies/img/operation.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ussr-movies/img/plennica.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ussr-movies/img/roman.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ussr-movies/img/romans.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ussr-movies/img/ruka.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ussr-movies/img/serezha.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ussr-movies/img/soldier.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ussr-movies/img/stalker.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ussr-movies/img/stariki.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ussr-movies/img/sudba.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ussr-movies/img/telenok.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ussr-movies/img/udacha.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ussr-movies/img/zhuravli.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ussr-movies/json/data.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ussr-movies/editor.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ussr-movies/js/editor.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ussr-movies/js/game.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ussr-movies/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ussr-movies/js/modifiers.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ussr-movies/js/rect-sticker.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ussr-movies/css/sticker.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ussr-movies/js/sticker.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ussr-movies/css/styles.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MOVED" beforePath="D:\Github\postepenno.github.io\g20\assets\images\atlas.json" afterPath="$PROJECT_DIR$/g20_canvas/assets/images/atlas.json" />
-      <change type="MOVED" beforePath="D:\Github\postepenno.github.io\g20\assets\images\atlas.png" afterPath="$PROJECT_DIR$/g20_canvas/assets/images/atlas.png" />
-      <change type="MOVED" beforePath="D:\Github\postepenno.github.io\g20\assets\images\background.jpg" afterPath="$PROJECT_DIR$/g20_canvas/assets/images/background.jpg" />
-      <change type="MOVED" beforePath="D:\Github\postepenno.github.io\g20\assets\images\blackBack.png" afterPath="$PROJECT_DIR$/g20_canvas/assets/images/blackBack.png" />
-      <change type="MOVED" beforePath="D:\Github\postepenno.github.io\g20\assets\images\fader.png" afterPath="$PROJECT_DIR$/g20_canvas/assets/images/fader.png" />
-      <change type="MOVED" beforePath="D:\Github\postepenno.github.io\g20\assets\images\flags1.json" afterPath="$PROJECT_DIR$/g20_canvas/assets/images/flags1.json" />
-      <change type="MOVED" beforePath="D:\Github\postepenno.github.io\g20\assets\images\flags1.png" afterPath="$PROJECT_DIR$/g20_canvas/assets/images/flags1.png" />
-      <change type="MOVED" beforePath="D:\Github\postepenno.github.io\g20\assets\images\preloadBar.png" afterPath="$PROJECT_DIR$/g20_canvas/assets/images/preloadBar.png" />
-      <change type="MOVED" beforePath="D:\Github\postepenno.github.io\g20\assets\images\preloadBarHolder.png" afterPath="$PROJECT_DIR$/g20_canvas/assets/images/preloadBarHolder.png" />
-      <change type="MOVED" beforePath="D:\Github\postepenno.github.io\g20\assets\json\data.json" afterPath="$PROJECT_DIR$/g20_canvas/assets/json/data.json" />
-      <change type="MOVED" beforePath="D:\Github\postepenno.github.io\g20\assets\sounds\sndClick.mp3" afterPath="$PROJECT_DIR$/g20/snd/sndClick.mp3" />
-      <change type="MOVED" beforePath="D:\Github\postepenno.github.io\g20\assets\sounds\sndClick.ogg" afterPath="$PROJECT_DIR$/g20_canvas/assets/sounds/sndClick.ogg" />
-      <change type="MOVED" beforePath="D:\Github\postepenno.github.io\g20\assets\sounds\sndCorrect.mp3" afterPath="$PROJECT_DIR$/g20_canvas/assets/sounds/sndCorrect.mp3" />
-      <change type="MOVED" beforePath="D:\Github\postepenno.github.io\g20\assets\sounds\sndCorrect.ogg" afterPath="$PROJECT_DIR$/g20_canvas/assets/sounds/sndCorrect.ogg" />
-      <change type="MOVED" beforePath="D:\Github\postepenno.github.io\g20\assets\sounds\sndWrong.mp3" afterPath="$PROJECT_DIR$/g20/snd/sndWrong.mp3" />
-      <change type="MOVED" beforePath="D:\Github\postepenno.github.io\g20\assets\sounds\sndWrong.ogg" afterPath="$PROJECT_DIR$/g20_canvas/assets/sounds/sndWrong.ogg" />
-      <change type="MOVED" beforePath="D:\Github\postepenno.github.io\g20\libs\Class.js" afterPath="$PROJECT_DIR$/g20_canvas/libs/Class.js" />
-      <change type="MOVED" beforePath="D:\Github\postepenno.github.io\g20\libs\phaser.min.js" afterPath="$PROJECT_DIR$/g20_canvas/libs/phaser.min.js" />
-      <change type="MOVED" beforePath="D:\Github\postepenno.github.io\g20\release\game.min.js" afterPath="$PROJECT_DIR$/g20_canvas/release/game.min.js" />
-      <change type="MOVED" beforePath="D:\Github\postepenno.github.io\g20\slider.css" afterPath="$PROJECT_DIR$/g20_canvas/slider.css" />
-      <change type="MOVED" beforePath="D:\Github\postepenno.github.io\g20\styles.css" afterPath="$PROJECT_DIR$/g20_canvas/styles.css" />
     </list>
     <ignored path="postepenno.github.io.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -187,8 +68,8 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/g20/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.4573991">
-              <caret line="12" column="30" selection-start-line="12" selection-start-column="30" selection-end-line="12" selection-end-column="30" />
+            <state vertical-scroll-proportion="0.0">
+              <caret line="16" column="59" selection-start-line="16" selection-start-column="59" selection-end-line="16" selection-end-column="59" />
               <folding />
             </state>
           </provider>
@@ -285,8 +166,8 @@
     <order />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="217" />
-    <option name="y" value="46" />
+    <option name="x" value="92" />
+    <option name="y" value="26" />
     <option name="width" value="1211" />
     <option name="height" value="1035" />
   </component>
@@ -335,7 +216,6 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -357,6 +237,7 @@
         </subPane>
       </pane>
       <pane id="Scratches" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -465,12 +346,6 @@
       <created>1391591777661</created>
       <option name="number" value="Default" />
       <updated>1391591777661</updated>
-    </task>
-    <task id="LOCAL-00196" summary="Nu update">
-      <created>1426151021372</created>
-      <option name="number" value="00196" />
-      <option name="project" value="LOCAL" />
-      <updated>1426151021373</updated>
     </task>
     <task id="LOCAL-00197" summary="jquery buttons">
       <created>1426673989529</created>
@@ -760,18 +635,24 @@
       <option name="project" value="LOCAL" />
       <updated>1432296975771</updated>
     </task>
-    <option name="localTasksCounter" value="245" />
+    <task id="LOCAL-00245" summary="g20 GREAT UPDATE">
+      <created>1432556934541</created>
+      <option name="number" value="00245" />
+      <option name="project" value="LOCAL" />
+      <updated>1432556934638</updated>
+    </task>
+    <option name="localTasksCounter" value="246" />
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="217" y="46" width="1211" height="1035" extended-state="0" />
+    <frame x="92" y="26" width="1211" height="1035" extended-state="0" />
     <editor active="false" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.18075314" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.19246861" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.29925454" sideWeight="0.50027215" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.46103895" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.23268399" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32952183" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
@@ -803,7 +684,6 @@
     <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_NEW_TODO" value="false" />
     <option name="CHECK_COMMIT_MESSAGE_SPELLING" value="false" />
-    <MESSAGE value="medals initial commit" />
     <MESSAGE value="ordens" />
     <MESSAGE value="index.html update after validator's check" />
     <MESSAGE value="Don't Cross. Trying to fix double canvas bug on Android" />
@@ -828,7 +708,8 @@
     <MESSAGE value="Money Art" />
     <MESSAGE value="refactoring with directives" />
     <MESSAGE value="ussr posters GREAT UPDATE!" />
-    <option name="LAST_COMMIT_MESSAGE" value="ussr posters GREAT UPDATE!" />
+    <MESSAGE value="g20 GREAT UPDATE" />
+    <option name="LAST_COMMIT_MESSAGE" value="g20 GREAT UPDATE" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -1147,7 +1028,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="18" column="33" selection-start-line="18" selection-start-column="33" selection-end-line="18" selection-end-column="33" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1155,7 +1035,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="19" column="12" selection-start-line="19" selection-start-column="12" selection-end-line="19" selection-end-column="12" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1163,7 +1042,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="14" column="36" selection-start-line="14" selection-start-column="36" selection-end-line="14" selection-end-column="36" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1171,7 +1049,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.024745269">
           <caret line="50" column="35" selection-start-line="50" selection-start-column="35" selection-end-line="50" selection-end-column="35" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1193,8 +1070,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/g20/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.4573991">
-          <caret line="12" column="30" selection-start-line="12" selection-start-column="30" selection-end-line="12" selection-end-column="30" />
+        <state vertical-scroll-proportion="0.0">
+          <caret line="16" column="59" selection-start-line="16" selection-start-column="59" selection-end-line="16" selection-end-column="59" />
           <folding />
         </state>
       </provider>

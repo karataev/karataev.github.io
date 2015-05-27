@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html ng-app="app">
+<head lang="en">
+    <meta charset="UTF-8">
+    <title></title>
+
+
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/css/bootstrap.min.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js"></script>
+    <!--<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/js/bootstrap.min.js"></script>-->
+    <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.3.15/angular.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/1.16.1/TweenMax.min.js"></script>
+
+    <link rel="stylesheet" href="css/styles.css"/>
+    <link rel="stylesheet" href="css/sticker.css"/>
+
+</head>
+
+
+<body ng-controller="MainCtrl">
+
+<!--<div class="container">-->
+    <h1>Советские фильмы</h1>
+
+    <div ng-repeat="item in items" class="thumbnail">
+
+        <p><input type="text" ng-model="item.img" class="form-control"/></p>
+        <div class="poster-wrapper">
+            <img class="img-poster" ng-src="img/{{item.img}}" alt=""/>
+            <div class="item-id">{{item.id + 1}}</div>
+            <div sticker draggable>
+                <p sticker-text>?</p>
+                <div resizer></div>
+                <div rotator></div>
+            </div>
+
+        </div>
+
+        <p>
+            <input class="form-control" ng-model="answer.value" type="text" ng-repeat="answer in item.answers"/>
+        </p>
+    </div>
+
+    <div class="panel panel-default">
+        <button class="btn btn-primary" ng-click="addEmpty()">Добавить пустой</button>
+    </div>
+
+    <div class="panel panel-default">
+        <p>
+            Pretty JSON?
+            <input type="checkbox" ng-model="model.pretty"/>
+            <button class="btn btn-primary" ng-click="save()">Save</button>
+        </p>
+        <p><textarea class="form-control json-data" id="" cols="30" rows="20" ng-model="model.json"></textarea></p>
+    </div>
+
+
+<!--</div>-->
+
+<script src="js/editor.js"></script>
+<script src="js/rect-sticker.js"></script>
+<script src="js/modifiers.js"></script>
+
+</body>
+</html>
