@@ -2,48 +2,24 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="49936aeb-a0f4-4a42-8ee1-db97121b12c9" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ussr-movies/img/12.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ussr-movies/img/beregis.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ussr-movies/img/bim.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ussr-movies/img/day.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ussr-movies/img/devchata.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ussr-movies/img/dog.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ussr-movies/img/hamlet.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ussr-movies/img/ironia.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ussr-movies/img/ivan.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ussr-movies/img/kinoapparat.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ussr-movies/img/kurer.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ussr-movies/img/love.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ussr-movies/img/monday.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ussr-movies/img/moscow.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ussr-movies/img/navazhdenie.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ussr-movies/img/no_dream.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ussr-movies/img/oficeri.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ussr-movies/img/operation.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ussr-movies/img/plennica.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ussr-movies/img/roman.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ussr-movies/img/romans.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ussr-movies/img/ruka.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ussr-movies/img/serezha.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ussr-movies/img/soldier.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ussr-movies/img/stalker.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ussr-movies/img/stariki.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ussr-movies/img/sudba.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ussr-movies/img/telenok.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ussr-movies/img/udacha.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ussr-movies/img/zhuravli.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ussr-movies/json/data.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ussr-movies/editor.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ussr-movies/js/editor.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ussr-movies/js/game.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ussr-movies/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ussr-movies/js/modifiers.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ussr-movies/js/rect-sticker.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ussr-movies/css/sticker.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ussr-movies/js/sticker.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ussr-movies/css/styles.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ussr-movies/img2/complete.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ussr-movies/img2/pivo.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ussr-movies/snd/sndClick.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ussr-movies/snd/sndRight.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ussr-movies/snd/sndWrong.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ussr-movies/snd/utro.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ussr-movies/libs/angular-social.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ussr-movies/libs/angular-social.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ussr-movies/libs/angular-toggle-switch.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ussr-movies/libs/angular-toggle-switch.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ussr-movies/json/data.json" afterPath="$PROJECT_DIR$/ussr-movies/json/data.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ussr-movies/editor.html" afterPath="$PROJECT_DIR$/ussr-movies/editor.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ussr-movies/js/game.js" afterPath="$PROJECT_DIR$/ussr-movies/js/game.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ussr-movies/index.html" afterPath="$PROJECT_DIR$/ussr-movies/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/shared/nav-menu.html" afterPath="$PROJECT_DIR$/shared/nav-menu.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ussr-movies/js/rect-sticker.js" afterPath="$PROJECT_DIR$/ussr-movies/js/rect-sticker.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ussr-movies/css/sticker.css" afterPath="$PROJECT_DIR$/ussr-movies/css/sticker.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ussr-movies/css/styles.css" afterPath="$PROJECT_DIR$/ussr-movies/css/styles.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="postepenno.github.io.iws" />
@@ -65,21 +41,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/g20/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="16" column="59" selection-start-line="16" selection-start-column="59" selection-end-line="16" selection-end-column="59" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="game.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/g20/js/game.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="28" column="45" selection-start-line="28" selection-start-column="45" selection-end-line="28" selection-end-column="45" />
+            <state vertical-scroll-proportion="-6.5384617">
+              <caret line="10" column="95" selection-start-line="10" selection-start-column="95" selection-end-line="10" selection-end-column="95" />
               <folding />
             </state>
           </provider>
@@ -89,7 +55,37 @@
         <entry file="file://$PROJECT_DIR$/g20/css/styles.css">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="18" column="18" selection-start-line="18" selection-start-column="18" selection-end-line="18" selection-end-column="18" />
+              <caret line="20" column="0" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/ussr-movies/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-1.9923897">
+              <caret line="7" column="0" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="nav-menu.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/shared/nav-menu.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-3.9230769">
+              <caret line="6" column="62" selection-start-line="6" selection-start-column="62" selection-end-line="6" selection-end-column="62" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="styles.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ussr-movies/css/styles.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="135" column="1" selection-start-line="135" selection-start-column="1" selection-end-line="135" selection-end-column="1" />
               <folding />
             </state>
           </provider>
@@ -135,7 +131,6 @@
         <option value="$PROJECT_DIR$/js/main.js" />
         <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/yapometr/google-ads.html" />
-        <option value="$PROJECT_DIR$/shared/nav-menu.html" />
         <option value="$PROJECT_DIR$/yapometr/styles.css" />
         <option value="$PROJECT_DIR$/ussr/styles.css" />
         <option value="$PROJECT_DIR$/orden/js/data.json" />
@@ -154,7 +149,10 @@
         <option value="$PROJECT_DIR$/ussr/index.html" />
         <option value="$PROJECT_DIR$/g20/css/styles.css" />
         <option value="$PROJECT_DIR$/g20/js/game.js" />
+        <option value="$PROJECT_DIR$/ussr-movies/css/styles.css" />
         <option value="$PROJECT_DIR$/g20/index.html" />
+        <option value="$PROJECT_DIR$/shared/nav-menu.html" />
+        <option value="$PROJECT_DIR$/ussr-movies/index.html" />
       </list>
     </option>
   </component>
@@ -166,8 +164,8 @@
     <order />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="92" />
-    <option name="y" value="26" />
+    <option name="x" value="85" />
+    <option name="y" value="35" />
     <option name="width" value="1211" />
     <option name="height" value="1035" />
   </component>
@@ -216,6 +214,8 @@
       <sortByType />
     </navigator>
     <panes>
+      <pane id="Scope" />
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -234,10 +234,86 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="postepenno.github.io" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="postepenno.github.io" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ussr-movies" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="postepenno.github.io" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="postepenno.github.io" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ussr-movies" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="css" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="postepenno.github.io" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="postepenno.github.io" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="shared" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="postepenno.github.io" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="postepenno.github.io" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="g20" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="postepenno.github.io" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="postepenno.github.io" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="g20" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="css" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
-      <pane id="Scratches" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -346,12 +422,6 @@
       <created>1391591777661</created>
       <option name="number" value="Default" />
       <updated>1391591777661</updated>
-    </task>
-    <task id="LOCAL-00197" summary="jquery buttons">
-      <created>1426673989529</created>
-      <option name="number" value="00197" />
-      <option name="project" value="LOCAL" />
-      <updated>1426673989530</updated>
     </task>
     <task id="LOCAL-00198" summary="wutb walkthrough">
       <created>1427092821409</created>
@@ -641,11 +711,17 @@
       <option name="project" value="LOCAL" />
       <updated>1432556934638</updated>
     </task>
-    <option name="localTasksCounter" value="246" />
+    <task id="LOCAL-00246" summary="ussr movies">
+      <created>1432734573346</created>
+      <option name="number" value="00246" />
+      <option name="project" value="LOCAL" />
+      <updated>1432734573398</updated>
+    </task>
+    <option name="localTasksCounter" value="247" />
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="92" y="26" width="1211" height="1035" extended-state="0" />
+    <frame x="85" y="35" width="1211" height="1035" extended-state="0" />
     <editor active="false" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.19246861" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -684,7 +760,6 @@
     <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_NEW_TODO" value="false" />
     <option name="CHECK_COMMIT_MESSAGE_SPELLING" value="false" />
-    <MESSAGE value="ordens" />
     <MESSAGE value="index.html update after validator's check" />
     <MESSAGE value="Don't Cross. Trying to fix double canvas bug on Android" />
     <MESSAGE value="Ordens with Handlebars!" />
@@ -709,27 +784,14 @@
     <MESSAGE value="refactoring with directives" />
     <MESSAGE value="ussr posters GREAT UPDATE!" />
     <MESSAGE value="g20 GREAT UPDATE" />
-    <option name="LAST_COMMIT_MESSAGE" value="g20 GREAT UPDATE" />
+    <MESSAGE value="ussr movies" />
+    <option name="LAST_COMMIT_MESSAGE" value="ussr movies" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/dontcross/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.1364366">
-          <caret line="5" column="39" selection-start-line="5" selection-start-column="39" selection-end-line="5" selection-end-column="39" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/temp/connect/libs/Class.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.5767367">
-          <caret line="24" column="42" selection-start-line="24" selection-start-column="42" selection-end-line="24" selection-end-column="42" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/temp/connect/styles.css">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.13731825">
@@ -891,13 +953,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/shared/nav-menu.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.35789475">
-          <caret line="14" column="0" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/shared/google-ads.html">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-0.65384614">
@@ -1052,10 +1107,18 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/ussr-movies/css/styles.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="135" column="1" selection-start-line="135" selection-start-column="1" selection-end-line="135" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/g20/css/styles.css">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="18" column="18" selection-start-line="18" selection-start-column="18" selection-end-line="18" selection-end-column="18" />
+          <caret line="20" column="0" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
           <folding />
         </state>
       </provider>
@@ -1068,10 +1131,26 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/shared/nav-menu.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-3.9230769">
+          <caret line="6" column="62" selection-start-line="6" selection-start-column="62" selection-end-line="6" selection-end-column="62" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/g20/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="16" column="59" selection-start-line="16" selection-start-column="59" selection-end-line="16" selection-end-column="59" />
+        <state vertical-scroll-proportion="-6.5384617">
+          <caret line="10" column="95" selection-start-line="10" selection-start-column="95" selection-end-line="10" selection-end-column="95" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ussr-movies/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-1.9923897">
+          <caret line="7" column="0" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
           <folding />
         </state>
       </provider>

@@ -38,7 +38,7 @@
     "answers": [
       {
         "value": "Летят журавли",
-        "bingo": "true"
+        "bingo": true
       },
       {
         "value": "Жестокий романс"
@@ -82,8 +82,8 @@
     "sticker": {
       "x": 8,
       "y": 422,
-      "width": 220,
-      "height": 86,
+      "width": 279,
+      "height": 94,
       "rotation": 0
     },
     "answers": [
@@ -160,8 +160,8 @@
     "sticker": {
       "x": 202,
       "y": 294,
-      "width": 170,
-      "height": 115,
+      "width": 205,
+      "height": 112,
       "rotation": 0
     },
     "answers": [
@@ -212,8 +212,8 @@
     "sticker": {
       "x": 13,
       "y": 513,
-      "width": 191,
-      "height": 74,
+      "width": 259,
+      "height": 75,
       "rotation": 0
     },
     "answers": [
@@ -394,8 +394,8 @@
     "sticker": {
       "x": 10,
       "y": 453,
-      "width": 207,
-      "height": 80,
+      "width": 233,
+      "height": 82,
       "rotation": 0
     },
     "answers": [
@@ -574,10 +574,10 @@
   {
     "id": 22,
     "sticker": {
-      "x": 185,
+      "x": 154,
       "y": 3,
-      "width": 239,
-      "height": 58,
+      "width": 269,
+      "height": 71,
       "rotation": 0
     },
     "answers": [
@@ -678,10 +678,10 @@
   {
     "id": 26,
     "sticker": {
-      "x": 244,
+      "x": 225,
       "y": 245,
-      "width": 150,
-      "height": 73,
+      "width": 170,
+      "height": 80,
       "rotation": 0
     },
     "answers": [
@@ -738,7 +738,7 @@
     },
     "answers": [
       {
-        "value": "В бой идут одни старики",
+        "value": "В бой идут одни 'старики'",
         "bingo": true
       },
       {

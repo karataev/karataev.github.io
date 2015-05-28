@@ -13,6 +13,18 @@ app.directive("sticker", function () {
         link: function (scope, el, attrs) {
 
             el.addClass("shape shape-3");
+            var colors = [
+                {c1:"#D148F0", c2:"#C24BE3"},
+                {c1:"#0099E7", c2:"#055AB7"},
+                {c1:"#FFF601", c2:"#F9CF01"},
+                {c1:"#11D400", c2:"#2A981B"}
+            ];
+            var color = _.sample(colors);
+            var colorGradient = "linear-gradient(135deg, " + color.c1 + " 0%, " + color.c2 + " 100%)";
+            //console.log(colorGradient);
+            el.css({
+                background:colorGradient
+            });
 
             el.on("mousedown", function () {
                 //scope.selectItem(scope.data);

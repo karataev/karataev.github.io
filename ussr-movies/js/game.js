@@ -3,9 +3,11 @@
  */
 
 
-var app = angular.module("app", []);
+var app = angular.module("app", ["toggle-switch", "ngSocial"]);
 
-app.controller("MainCtrl", function ($scope, $http) {
+app.controller("MainCtrl", function ($scope, $http, sndService) {
+
+    $scope.sndService = sndService;
 
     $scope.model = {
         gameState:"intro",
@@ -18,7 +20,7 @@ app.controller("MainCtrl", function ($scope, $http) {
 
     $http.get("json/data.json")
         .success(function(data, status, headers, config) {
-            //allItems = data.splice(0, 2);
+            //allItems = data.splice(0, 1);
             allItems = data;
 
             _.each(allItems, function(item) {
@@ -63,6 +65,14 @@ app.controller("MainCtrl", function ($scope, $http) {
         return allItems.length;
     }
 
+    // ugly hack. should be in sndService
+    $scope.$watch("sndService.musicEnabled", function (newValue) {
+        if (newValue === true) {
+            sndService.startMusic();
+        } else if (newValue === false) {
+            sndService.stopMusic();
+        }
+    })
 })
 
 
@@ -96,7 +106,7 @@ app.directive("gamePanel", function () {
     }
 })
 
-app.controller("AnswerCtrl", function($scope) {
+app.controller("AnswerCtrl", function($scope, sndService) {
     $scope.disableButtons = function() {
         $scope.item.answers.forEach(function(x) {
             x.disabled = true;
@@ -108,7 +118,11 @@ app.controller("AnswerCtrl", function($scope) {
         $scope.item.sticker.hide = true;
         $scope.item.nextShow = true;
         //$scope.update();
-
+        if ($scope.item.playerCorrect) {
+            sndService.play("correct");
+        } else {
+            sndService.play("wrong");
+        }
     }
 
 });
@@ -118,7 +132,7 @@ app.directive("quizAnswer", function() {
         link:function(scope, el, attrs) {
             el.on("click", function() {
                 scope.answer.selected = true;
-                scope.item.playerCorrect = scope.answer.bingo === true;
+                if (scope.answer.bingo === true) scope.item.playerCorrect = true;
                 scope.playerAnswered();
                 scope.$apply();
             });
@@ -159,12 +173,13 @@ app.directive("answerIcon", function() {
     }
 })
 
-app.directive("nextButton", function () {
+app.directive("nextButton", function (sndService) {
     return {
         link: function (scope, el, attrs) {
             el.addClass("btn btn-primary btn-lg btn-block bt-next");
 
             el.on("click", function () {
+                sndService.play("click");
                 el.off();
                 el.remove();
                 //scope.nextLevel();
@@ -192,3 +207,52 @@ app.directive("tweenBorn", function() {
         }
     }
 });
+
+
+app.factory("sndService", function () {
+
+    var sndCorrect = new Howl({
+        urls: ['snd/sndRight.mp3']
+    });
+    var sndWrong = new Howl({
+        urls: ['snd/sndWrong.mp3']
+    });
+    var sndClick = new Howl({
+        urls: ['snd/sndClick.mp3']
+    });
+
+    var music = new Howl({
+        urls:['snd/utro.mp3'],
+        loop:true,
+        autoplay:false
+    })
+
+    var s = {
+        enabled:true,
+        musicEnabled:true,
+        correct:sndCorrect,
+        wrong:sndWrong,
+        click:sndClick
+    };
+
+    s.play = function (snd) {
+        if (s.enabled) {
+            s[snd].play();
+        }
+    }
+
+/*
+    $rootScope.$watch("sndService.musicEnabled", function (newValue) {
+        console.log("!", newValue);
+    })
+*/
+
+    s.stopMusic = function () {
+         music.stop();
+    }
+    s.startMusic = function () {
+        music.play();
+    }
+
+    return s;
+})

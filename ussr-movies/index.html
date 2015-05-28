@@ -2,14 +2,21 @@
 <html ng-app="app">
 <head lang="en">
     <meta charset="UTF-8">
-    <title></title>
+    <title>30 лучших советских фильмов</title>
 
-    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/css/bootstrap.min.css">
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js"></script>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/css/bootstrap.min.css">
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/js/bootstrap.min.js"></script>
+    <link href='http://fonts.googleapis.com/css?family=Russo+One' rel='stylesheet' type='text/css'>
     <!--<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/js/bootstrap.min.js"></script>-->
     <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.3.15/angular.min.js"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/1.16.1/TweenMax.min.js"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/underscore.js/1.8.3/underscore-min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/howler/1.1.26/howler.min.js"></script>
+    <link rel="stylesheet" href="libs/angular-toggle-switch.css"/>
+    <script src="libs/angular-toggle-switch.min.js"></script>
+    <link rel="stylesheet" href="libs/angular-social.css"/>
+    <script src="libs/angular-social.js"></script>
 
     <link rel="stylesheet" href="css/styles.css"/>
     <link rel="stylesheet" href="css/sticker.css"/>
@@ -17,10 +24,14 @@
 </head>
 <body ng-controller="MainCtrl">
 
-<div class="panel panel-default" ng-if="model.gameState==='intro'">
-    <h1>30 лучших советских фильмов</h1>
-    <p>Хорошо ли ты знаешь советские фильмы?</p>
-    <button class="btn btn-primary" ng-click="gameStart()">Знаю, знаю</button>
+<nav-menu></nav-menu>
+
+<div class="panel panel-default intro" ng-if="model.gameState==='intro'">
+    <h1><span class="big-font">30</span> лучших советских фильмов</h1>
+    <img class="thumbnail" src="img2/pivo.jpg" alt="30 лучших советских фильмов"/>
+    <p>На советских фильмах выросло не одно поколение зрителей. Мы до сих пор вспоминаем их добрый, интеллигентный юмор, талантливых актеров и фразы, ставшие крылатыми. Но хорошо ли мы помним лучшие фильмы тех лет?</p>
+    <p>Попробуй отгадать название фильма по его рекламной афише. Каким будет твой результат?</p>
+    <button class="btn btn-primary btn-lg" ng-click="gameStart()">Поехали</button>
 </div>
 
 
@@ -28,7 +39,7 @@
     <div class="thumbnail col-left">
         <div class="poster-wrapper">
             <img disable-drag class="img-poster" ng-src="img/{{item.img}}" alt=""/>
-            <div class="item-id">{{item.id + 1}}</div>
+            <div class="item-id">{{item.id + 1}}/{{getTotalQuestions()}}</div>
             <div sticker>
                 <p sticker-text>?</p>
             </div>
@@ -48,11 +59,59 @@
 
 <div class="panel panel-default complete" ng-if="model.gameState==='complete'" tween-born>
     <h1>Ура! Игра пройдена!</h1>
-    <h2>Правильные ответы: {{getCorrectAnswers()}} из {{getTotalQuestions()}}</h2>
+    <img class="thumbnail" src="img2/complete.jpg" alt="Игра пройдена!"/>
+    <h4>Правильные ответы: <span class="big-font">{{getCorrectAnswers()}}</span> из <span class="big-font">{{getTotalQuestions()}}</span></h4>
+
+    <ul ng-social-buttons
+        data-url="'http://postepenno.com/ussr-movies'"
+        data-title="'30 лучших советских фильмов'"
+        data-description="'Отгадай фильм по постеру'"
+            >
+        <li class="ng-social-facebook">Facebook</li>
+        <li class="ng-social-twitter">Twitter</li>
+        <li class="ng-social-vk">Вконтакте</li>
+        <li class="ng-social-odnoklassniki">Одноклассники</li>
+    </ul>
+    <hr/>
+    <h2>Другие игры</h2>
+    <div class="alert alert-success alert-game">
+        <a href="http://postepenno.com/ussr" target="_blank">Советские плакаты</a>
+    </div>
+    <div class="alert alert-success alert-game">
+        <a href="http://postepenno.com/orden" target="_blank">Ордена ВОВ</a>
+    </div>
+    <div class="alert alert-success alert-game">
+        <a href="http://postepenno.com/g20" target="_blank">Большая двадцатка</a>
+    </div>
+
 </div>
+
+<div class="menu">
+    <h5>Звук</h5>
+    <toggle-switch
+            ng-model="sndService.enabled"
+            on-label="Вкл"
+            off-label="Выкл">
+    </toggle-switch>
+    <h5>Музыка</h5>
+    <toggle-switch
+            ng-model="sndService.musicEnabled"
+            on-label="Вкл"
+            off-label="Выкл">
+    </toggle-switch>
+</div>
+
+<!--
+<div class="panel panel-default ads">
+    <google-ads></google-ads>
+</div>
+-->
+<google-analytics></google-analytics>
+
 
 <script src="js/game.js"></script>
 <script src="js/rect-sticker.js"></script>
+<script src="../shared/directives.js"></script>
 
 
 </body>
