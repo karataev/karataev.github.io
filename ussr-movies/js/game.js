@@ -66,13 +66,16 @@ app.controller("MainCtrl", function ($scope, $http, sndService) {
     }
 
     // ugly hack. should be in sndService
+/*
     $scope.$watch("sndService.musicEnabled", function (newValue) {
+        console.log("music", newValue);
         if (newValue === true) {
             sndService.startMusic();
         } else if (newValue === false) {
             sndService.stopMusic();
         }
     })
+*/
 })
 
 
@@ -221,15 +224,17 @@ app.factory("sndService", function () {
         urls: ['snd/sndClick.mp3']
     });
 
+/*
     var music = new Howl({
         urls:['snd/utro.mp3'],
         loop:true,
         autoplay:false
     })
+*/
 
     var s = {
         enabled:true,
-        musicEnabled:true,
+        musicEnabled:false,
         correct:sndCorrect,
         wrong:sndWrong,
         click:sndClick
