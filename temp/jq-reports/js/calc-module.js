@@ -68,7 +68,6 @@ $(document).ready(function () {
     if ($(this).val() > 12) {
       $(this).val(12);
     }
-    //console.log($(this).val());
     updateTotal();
   })
 
@@ -78,10 +77,6 @@ $(document).ready(function () {
 
   totalHoursCell = $('table.tg tr:last-child td:last-child');
   daysTotalCell = $('table.tg tr:last-child td:nth-child(2)');
-
-  //$('table.tg tr:last-child td:nth-child(3)').css({
-  //  border:'1px solid red'
-  //})
 
 
 
