@@ -1,0 +1,19 @@
+
+body {
+    font-family: 'Roboto', sans-serif;
+    font-weight: 100;
+}
+
+.container {
+    margin-top: 40px;
+}
+
+.section-row{
+    border-bottom: 2px;
+    border-bottom-color: rgb(201, 201, 201);
+    border-bottom-style: solid;
+}
+
+#profile-pic{
+    margin-bottom: 4px;
+}
