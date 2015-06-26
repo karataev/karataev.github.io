@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="49936aeb-a0f4-4a42-8ee1-db97121b12c9" name="Default" comment="google analytics">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/20quotes/img/20quotes-shot.jpg" />
+    <list default="true" id="49936aeb-a0f4-4a42-8ee1-db97121b12c9" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/20quotes/index.html" afterPath="$PROJECT_DIR$/20quotes/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/20quotes/css/styles.css" afterPath="$PROJECT_DIR$/20quotes/css/styles.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="postepenno.github.io.iws" />
@@ -28,18 +28,18 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/ussr/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-17.23077">
+            <state vertical-scroll-proportion="-0.0">
               <caret line="102" column="35" selection-start-line="102" selection-start-column="35" selection-end-line="102" selection-end-column="35" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/20quotes/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.18453188">
-              <caret line="8" column="95" selection-start-line="8" selection-start-column="95" selection-end-line="8" selection-end-column="95" />
+            <state vertical-scroll-proportion="-9.807693">
+              <caret line="27" column="0" selection-start-line="27" selection-start-column="0" selection-end-line="27" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -48,18 +48,18 @@
       <file leaf-file-name="quotes.json" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/20quotes/data/quotes.json">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="53.346153">
+            <state vertical-scroll-proportion="0.0">
               <caret line="22" column="2" selection-start-line="22" selection-start-column="2" selection-end-line="22" selection-end-column="2" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="styles.css" pinned="false" current-in-tab="false">
+      <file leaf-file-name="styles.css" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/20quotes/css/styles.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="114" column="14" selection-start-line="114" selection-start-column="14" selection-end-line="114" selection-end-column="14" />
+            <state vertical-scroll-proportion="0.28964612">
+              <caret line="20" column="29" selection-start-line="20" selection-start-column="29" selection-end-line="20" selection-end-column="29" />
               <folding />
             </state>
           </provider>
@@ -129,16 +129,17 @@
         <option value="$PROJECT_DIR$/temp/gradient/index.html" />
         <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/resume/css/styles.css" />
-        <option value="$PROJECT_DIR$/resume/index.html" />
         <option value="$PROJECT_DIR$/shared/slide-nav/nav.js" />
         <option value="$PROJECT_DIR$/ussr-movies/index.html" />
         <option value="$PROJECT_DIR$/ussr/index.html" />
         <option value="$PROJECT_DIR$/orden/index.html" />
         <option value="$PROJECT_DIR$/g20/index.html" />
         <option value="$PROJECT_DIR$/meloch/index.html" />
-        <option value="$PROJECT_DIR$/20quotes/css/styles.css" />
         <option value="$PROJECT_DIR$/20quotes/data/quotes.json" />
+        <option value="$PROJECT_DIR$/shared/slide-nav/nav-menu-view.html" />
+        <option value="$PROJECT_DIR$/resume/index.html" />
         <option value="$PROJECT_DIR$/20quotes/index.html" />
+        <option value="$PROJECT_DIR$/20quotes/css/styles.css" />
       </list>
     </option>
   </component>
@@ -228,7 +229,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="20quotes" />
+              <option name="myItemId" value="resume" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -242,18 +243,14 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="20quotes" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="data" />
+              <option name="myItemId" value="g20" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scratches" />
       <pane id="Scope" />
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -366,36 +363,6 @@
       <created>1391591777661</created>
       <option name="number" value="Default" />
       <updated>1391591777661</updated>
-    </task>
-    <task id="LOCAL-00222" summary="ussr posters dom bug fix">
-      <created>1428323150464</created>
-      <option name="number" value="00222" />
-      <option name="project" value="LOCAL" />
-      <updated>1428323150464</updated>
-    </task>
-    <task id="LOCAL-00223" summary="memory game!">
-      <created>1428577134660</created>
-      <option name="number" value="00223" />
-      <option name="project" value="LOCAL" />
-      <updated>1428577134687</updated>
-    </task>
-    <task id="LOCAL-00224" summary="memory game!">
-      <created>1428581984984</created>
-      <option name="number" value="00224" />
-      <option name="project" value="LOCAL" />
-      <updated>1428581984984</updated>
-    </task>
-    <task id="LOCAL-00225" summary="memory game!">
-      <created>1428582359236</created>
-      <option name="number" value="00225" />
-      <option name="project" value="LOCAL" />
-      <updated>1428582359236</updated>
-    </task>
-    <task id="LOCAL-00226" summary="memory game!">
-      <created>1428848461078</created>
-      <option name="number" value="00226" />
-      <option name="project" value="LOCAL" />
-      <updated>1428848461078</updated>
     </task>
     <task id="LOCAL-00227" summary="memory game!">
       <created>1428848554056</created>
@@ -661,7 +628,37 @@
       <option name="project" value="LOCAL" />
       <updated>1435316255415</updated>
     </task>
-    <option name="localTasksCounter" value="271" />
+    <task id="LOCAL-00271" summary="og-properties">
+      <created>1435317443899</created>
+      <option name="number" value="00271" />
+      <option name="project" value="LOCAL" />
+      <updated>1435317443901</updated>
+    </task>
+    <task id="LOCAL-00272" summary="og-properties">
+      <created>1435317600653</created>
+      <option name="number" value="00272" />
+      <option name="project" value="LOCAL" />
+      <updated>1435317600653</updated>
+    </task>
+    <task id="LOCAL-00273" summary="nav - 20 quotes">
+      <created>1435322807414</created>
+      <option name="number" value="00273" />
+      <option name="project" value="LOCAL" />
+      <updated>1435322807414</updated>
+    </task>
+    <task id="LOCAL-00274" summary="ng-cloak attribute. works finally!!!">
+      <created>1435330706178</created>
+      <option name="number" value="00274" />
+      <option name="project" value="LOCAL" />
+      <updated>1435330706178</updated>
+    </task>
+    <task id="LOCAL-00275" summary="20 quotes">
+      <created>1435330826514</created>
+      <option name="number" value="00275" />
+      <option name="project" value="LOCAL" />
+      <updated>1435330826516</updated>
+    </task>
+    <option name="localTasksCounter" value="276" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -670,7 +667,6 @@
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.096878365" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32952183" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.29925454" sideWeight="0.50027215" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.19898477" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -679,6 +675,7 @@
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.23492724" sideWeight="0.49972782" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32952183" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
@@ -704,9 +701,6 @@
     <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_NEW_TODO" value="false" />
     <option name="CHECK_COMMIT_MESSAGE_SPELLING" value="false" />
-    <MESSAGE value="Doodle Connect no ads" />
-    <MESSAGE value="Golden One Layout" />
-    <MESSAGE value="Elegantica Layout" />
     <MESSAGE value="Bootstrap 3 layout" />
     <MESSAGE value="Money Art" />
     <MESSAGE value="refactoring with directives" />
@@ -726,10 +720,13 @@
     <MESSAGE value="resume" />
     <MESSAGE value="resume update: photoshop, верстка" />
     <MESSAGE value="new menu!" />
-    <MESSAGE value="20 quotes" />
     <MESSAGE value="20 quotes ng-cloak" />
     <MESSAGE value="google analytics" />
-    <option name="LAST_COMMIT_MESSAGE" value="google analytics" />
+    <MESSAGE value="og-properties" />
+    <MESSAGE value="nav - 20 quotes" />
+    <MESSAGE value="ng-cloak attribute. works finally!!!" />
+    <MESSAGE value="20 quotes" />
+    <option name="LAST_COMMIT_MESSAGE" value="20 quotes" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -852,13 +849,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="14" column="36" selection-start-line="14" selection-start-column="36" selection-end-line="14" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/g20/css/styles.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="20" column="0" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
         </state>
       </provider>
     </entry>
@@ -1002,13 +992,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/resume/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.6035503">
-          <caret line="67" column="10" selection-start-line="67" selection-start-column="10" selection-end-line="67" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/ussr-movies/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-17.5">
@@ -1021,13 +1004,6 @@
         <state vertical-scroll-proportion="0.2905983">
           <caret line="12" column="3" selection-start-line="12" selection-start-column="3" selection-end-line="12" selection-end-column="3" />
           <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/shared/slide-nav/nav-menu-view.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
@@ -1046,32 +1022,16 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/g20/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-22.076923">
-          <caret line="117" column="0" selection-start-line="117" selection-start-column="0" selection-end-line="117" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/meloch/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.3628049">
           <caret line="14" column="0" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/20quotes/css/styles.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="114" column="14" selection-start-line="114" selection-start-column="14" selection-end-line="114" selection-end-column="14" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/20quotes/data/quotes.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="53.346153">
+        <state vertical-scroll-proportion="0.0">
           <caret line="22" column="2" selection-start-line="22" selection-start-column="2" selection-end-line="22" selection-end-column="2" />
           <folding />
         </state>
@@ -1081,22 +1041,60 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.11533243">
           <caret line="14" column="60" selection-start-line="14" selection-start-column="60" selection-end-line="14" selection-end-column="60" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/ussr/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-17.23077">
+        <state vertical-scroll-proportion="-0.0">
           <caret line="102" column="35" selection-start-line="102" selection-start-column="35" selection-end-line="102" selection-end-column="35" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/shared/slide-nav/nav-menu-view.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.09226594">
+          <caret line="4" column="83" selection-start-line="4" selection-start-column="83" selection-end-line="4" selection-end-column="83" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resume/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.39213026">
+          <caret line="119" column="64" selection-start-line="119" selection-start-column="63" selection-end-line="119" selection-end-column="64" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/g20/css/styles.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="14" column="32" selection-start-line="14" selection-start-column="32" selection-end-line="14" selection-end-column="32" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/g20/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.74626863">
+          <caret line="114" column="0" selection-start-line="114" selection-start-column="0" selection-end-line="114" selection-end-column="47" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/20quotes/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.18453188">
-          <caret line="8" column="95" selection-start-line="8" selection-start-column="95" selection-end-line="8" selection-end-column="95" />
+        <state vertical-scroll-proportion="-9.807693">
+          <caret line="27" column="0" selection-start-line="27" selection-start-column="0" selection-end-line="27" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/20quotes/css/styles.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.28964612">
+          <caret line="20" column="29" selection-start-line="20" selection-start-column="29" selection-end-line="20" selection-end-column="29" />
           <folding />
         </state>
       </provider>
