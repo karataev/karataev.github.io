@@ -2,10 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="49936aeb-a0f4-4a42-8ee1-db97121b12c9" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/shared/slide-nav/bigSlide.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/shared/slide-nav/nav-menu-view.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/shared/slide-nav/nav-styles.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/shared/slide-nav/nav.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ussr-movies/index.html" afterPath="$PROJECT_DIR$/ussr-movies/index.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
@@ -31,9 +27,11 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/ussr-movies/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.37130177">
-              <caret line="94" column="19" selection-start-line="94" selection-start-column="19" selection-end-line="94" selection-end-column="19" />
-              <folding />
+            <state vertical-scroll-proportion="0.5221894">
+              <caret line="99" column="27" selection-start-line="99" selection-start-column="27" selection-end-line="99" selection-end-column="27" />
+              <folding>
+                <marker date="1435303620758" expanded="true" signature="4464:4539" placeholder="..." />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -361,12 +359,6 @@
       <option name="number" value="Default" />
       <updated>1391591777661</updated>
     </task>
-    <task id="LOCAL-00214" summary="meloch update">
-      <created>1427791178287</created>
-      <option name="number" value="00214" />
-      <option name="project" value="LOCAL" />
-      <updated>1427791178287</updated>
-    </task>
     <task id="LOCAL-00215" summary="menu update">
       <created>1427791766383</created>
       <option name="number" value="00215" />
@@ -655,24 +647,30 @@
       <option name="project" value="LOCAL" />
       <updated>1435210604393</updated>
     </task>
-    <option name="localTasksCounter" value="263" />
+    <task id="LOCAL-00263" summary="new menu!">
+      <created>1435303562775</created>
+      <option name="number" value="00263" />
+      <option name="project" value="LOCAL" />
+      <updated>1435303562776</updated>
+    </task>
+    <option name="localTasksCounter" value="264" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="221" y="33" width="1266" height="1041" extended-state="0" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.168" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32952183" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.29925454" sideWeight="0.50027215" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2172043" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2172043" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32952183" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.23492724" sideWeight="0.49972782" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32952183" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
@@ -698,7 +696,6 @@
     <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_NEW_TODO" value="false" />
     <option name="CHECK_COMMIT_MESSAGE_SPELLING" value="false" />
-    <MESSAGE value="forgot ads" />
     <MESSAGE value="ussr posters dom" />
     <MESSAGE value="ussr posters dom bug fix" />
     <MESSAGE value="memory game!" />
@@ -723,7 +720,8 @@
     <MESSAGE value="update interval 10ms -&gt; 100ms" />
     <MESSAGE value="resume" />
     <MESSAGE value="resume update: photoshop, верстка" />
-    <option name="LAST_COMMIT_MESSAGE" value="resume update: photoshop, верстка" />
+    <MESSAGE value="new menu!" />
+    <option name="LAST_COMMIT_MESSAGE" value="new menu!" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -1087,9 +1085,11 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/ussr-movies/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.37130177">
-          <caret line="94" column="19" selection-start-line="94" selection-start-column="19" selection-end-line="94" selection-end-column="19" />
-          <folding />
+        <state vertical-scroll-proportion="0.5221894">
+          <caret line="99" column="27" selection-start-line="99" selection-start-column="27" selection-end-line="99" selection-end-column="27" />
+          <folding>
+            <marker date="1435303620758" expanded="true" signature="4464:4539" placeholder="..." />
+          </folding>
         </state>
       </provider>
     </entry>
