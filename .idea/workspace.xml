@@ -2,9 +2,86 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="49936aeb-a0f4-4a42-8ee1-db97121b12c9" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/g20/index.html" afterPath="$PROJECT_DIR$/g20/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/meloch/index.html" afterPath="$PROJECT_DIR$/meloch/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/orden/index.html" afterPath="$PROJECT_DIR$/orden/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/20quotes/img/150x200.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/20quotes/img/alex2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/20quotes/img/alex3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/20quotes/img/anna.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/20quotes/img/arnold.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/20quotes/img/berdyaev.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/20quotes/img/beriya.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/20quotes/img/bismark.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/20quotes/img/brezhnev.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/20quotes/img/brin.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/20quotes/img/buhari.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/20quotes/img/chingis.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/20quotes/img/chubais.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/20quotes/img/churchill.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/20quotes/img/dostoevskiy.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/20quotes/img/dovlatov.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/20quotes/img/ekaterina2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/20quotes/img/ermak.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/20quotes/img/gaydar.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/20quotes/img/gitler.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/20quotes/img/gogol.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/20quotes/img/gorbachev.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/20quotes/img/gorkiy.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/20quotes/css/grey.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/20quotes/img/grozny.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/20quotes/img/gumilev.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/20quotes/img/kalita.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/20quotes/img/kasparov.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/20quotes/img/kasyanov.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/20quotes/img/kirill.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/20quotes/img/koh.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/20quotes/img/kutuzov.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/20quotes/img/latinina.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/20quotes/img/lenin.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/20quotes/img/lermontov.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/20quotes/img/lomonosov.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/20quotes/img/makkein.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/20quotes/img/mayakovskiy.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/20quotes/img/mendeleev.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/20quotes/img/merkel.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/20quotes/img/miller.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/20quotes/img/minih.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/20quotes/img/napoleon.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/20quotes/img/navalny.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/20quotes/img/nikolay2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/20quotes/img/nixon.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/20quotes/img/novodvorskaya.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/20quotes/img/obama.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/20quotes/img/petr1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/20quotes/img/pushkin.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/20quotes/img/putin-approves.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/20quotes/img/putin.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/20quotes/img/rasputin.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/20quotes/img/rogozin.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/20quotes/img/ruzvelt.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/20quotes/img/shenderovich.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/20quotes/img/shoigu.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/20quotes/img/shreder.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/20quotes/img/si.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/20quotes/img/solovyev.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/20quotes/img/stalin.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/20quotes/img/stolipin.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/20quotes/img/suvorov.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/20quotes/img/tolstoy.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/20quotes/img/trotskiy.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/20quotes/img/turgenev.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/20quotes/img/visotskiy.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/20quotes/img/vladimir.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/20quotes/img/yeltsin.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/20quotes/libs/angular-social.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/20quotes/libs/angular-social.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/20quotes/editor.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/20quotes/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/20quotes/data/quotes.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/20quotes/data/quotes_old.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/20quotes/data/quotes_old2.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/20quotes/show-all.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/20quotes/slider.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/20quotes/css/styles.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/20quotes/transformer.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="postepenno.github.io.iws" />
@@ -29,18 +106,38 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/ussr/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-17.5">
-              <caret line="107" column="49" selection-start-line="107" selection-start-column="49" selection-end-line="107" selection-end-column="49" />
+            <state vertical-scroll-proportion="-5.8846154">
+              <caret line="9" column="23" selection-start-line="9" selection-start-column="23" selection-end-line="9" selection-end-column="23" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/meloch/index.html">
+        <entry file="file://$PROJECT_DIR$/20quotes/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.84911245">
-              <caret line="41" column="0" selection-start-line="41" selection-start-column="0" selection-end-line="41" selection-end-column="0" />
+            <state vertical-scroll-proportion="0.5169607">
+              <caret line="94" column="30" selection-start-line="94" selection-start-column="30" selection-end-line="94" selection-end-column="30" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="quotes.json" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/20quotes/data/quotes.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="53.346153">
+              <caret line="22" column="2" selection-start-line="22" selection-start-column="2" selection-end-line="22" selection-end-column="2" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="styles.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/20quotes/css/styles.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="114" column="14" selection-start-line="114" selection-start-column="14" selection-end-line="114" selection-end-column="14" />
               <folding />
             </state>
           </provider>
@@ -117,6 +214,9 @@
         <option value="$PROJECT_DIR$/orden/index.html" />
         <option value="$PROJECT_DIR$/g20/index.html" />
         <option value="$PROJECT_DIR$/meloch/index.html" />
+        <option value="$PROJECT_DIR$/20quotes/css/styles.css" />
+        <option value="$PROJECT_DIR$/20quotes/data/quotes.json" />
+        <option value="$PROJECT_DIR$/20quotes/index.html" />
       </list>
     </option>
   </component>
@@ -128,10 +228,10 @@
     <order />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="221" />
-    <option name="y" value="33" />
-    <option name="width" value="1266" />
-    <option name="height" value="1041" />
+    <option name="x" value="54" />
+    <option name="y" value="-8" />
+    <option name="width" value="1874" />
+    <option name="height" value="1096" />
   </component>
   <component name="ProjectInspectionProfilesVisibleTreeState">
     <entry key="Project Default">
@@ -206,7 +306,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="ussr" />
+              <option name="myItemId" value="20quotes" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -220,46 +320,18 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="shared" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="postepenno.github.io" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="postepenno.github.io" />
+              <option name="myItemId" value="20quotes" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="shared" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="slide-nav" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="postepenno.github.io" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="postepenno.github.io" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="meloch" />
+              <option name="myItemId" value="data" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
       <pane id="Scratches" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -372,12 +444,6 @@
       <created>1391591777661</created>
       <option name="number" value="Default" />
       <updated>1391591777661</updated>
-    </task>
-    <task id="LOCAL-00218" summary="postepenno front page update">
-      <created>1427860314849</created>
-      <option name="number" value="00218" />
-      <option name="project" value="LOCAL" />
-      <updated>1427860314850</updated>
     </task>
     <task id="LOCAL-00219" summary="postepenno.com with bootstrap!">
       <created>1427963487756</created>
@@ -667,24 +733,30 @@
       <option name="project" value="LOCAL" />
       <updated>1435304321187</updated>
     </task>
-    <option name="localTasksCounter" value="267" />
+    <task id="LOCAL-00267" summary="new menu!">
+      <created>1435304690110</created>
+      <option name="number" value="00267" />
+      <option name="project" value="LOCAL" />
+      <updated>1435304690110</updated>
+    </task>
+    <option name="localTasksCounter" value="268" />
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="221" y="33" width="1266" height="1041" extended-state="0" />
+    <frame x="54" y="-8" width="1874" height="1096" extended-state="6" />
     <editor active="false" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.168" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.096878365" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32952183" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.29925454" sideWeight="0.50027215" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2172043" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.19898477" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32952183" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.23492724" sideWeight="0.49972782" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32952183" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
@@ -742,34 +814,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/meloch/slider.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/nu/styles.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="37" column="24" selection-start-line="37" selection-start-column="24" selection-end-line="37" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/flash/wutb/walkthrough/styles.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.7183099">
-          <caret line="30" column="30" selection-start-line="30" selection-start-column="30" selection-end-line="30" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/stylesheet.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.10897436">
-          <caret line="30" column="0" selection-start-line="30" selection-start-column="0" selection-end-line="30" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/js/main.js">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
@@ -1019,7 +1063,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.78205127">
           <caret line="47" column="21" selection-start-line="47" selection-start-column="21" selection-end-line="47" selection-end-column="21" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1027,7 +1070,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1035,7 +1077,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.072649576">
           <caret line="3" column="21" selection-start-line="3" selection-start-column="21" selection-end-line="3" selection-end-column="21" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1043,7 +1084,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.6035503">
           <caret line="67" column="10" selection-start-line="67" selection-start-column="10" selection-end-line="67" selection-end-column="10" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1051,7 +1091,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-17.5">
           <caret line="107" column="59" selection-start-line="107" selection-start-column="59" selection-end-line="107" selection-end-column="59" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1067,7 +1106,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1083,7 +1121,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.12573965">
           <caret line="11" column="70" selection-start-line="11" selection-start-column="70" selection-end-line="11" selection-end-column="70" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1091,22 +1128,53 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-22.076923">
           <caret line="117" column="0" selection-start-line="117" selection-start-column="0" selection-end-line="117" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/meloch/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.3628049">
+          <caret line="14" column="0" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/ussr/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-17.5">
-          <caret line="107" column="49" selection-start-line="107" selection-start-column="49" selection-end-line="107" selection-end-column="49" />
+        <state vertical-scroll-proportion="-5.8846154">
+          <caret line="9" column="23" selection-start-line="9" selection-start-column="23" selection-end-line="9" selection-end-column="23" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/meloch/index.html">
+    <entry file="file://$PROJECT_DIR$/20quotes/css/styles.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.84911245">
-          <caret line="41" column="0" selection-start-line="41" selection-start-column="0" selection-end-line="41" selection-end-column="0" />
+        <state vertical-scroll-proportion="0.0">
+          <caret line="114" column="14" selection-start-line="114" selection-start-column="14" selection-end-line="114" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/20quotes/show-all.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-0.23066486">
+          <caret line="14" column="60" selection-start-line="14" selection-start-column="60" selection-end-line="14" selection-end-column="60" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/20quotes/data/quotes.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="53.346153">
+          <caret line="22" column="2" selection-start-line="22" selection-start-column="2" selection-end-line="22" selection-end-column="2" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/20quotes/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.5169607">
+          <caret line="94" column="30" selection-start-line="94" selection-start-column="30" selection-end-line="94" selection-end-column="30" />
           <folding />
         </state>
       </provider>
