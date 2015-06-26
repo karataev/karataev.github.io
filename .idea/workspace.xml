@@ -1,16 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="49936aeb-a0f4-4a42-8ee1-db97121b12c9" name="Default" comment="garadient animation">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resume/img/avatar.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resume/css/octicons-local.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resume/css/octicons.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resume/css/octicons.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resume/css/octicons.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resume/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resume/css/octicons.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resume/css/octicons.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resume/css/styles.css" />
+    <list default="true" id="49936aeb-a0f4-4a42-8ee1-db97121b12c9" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/shared/slide-nav/bigSlide.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/shared/slide-nav/nav-menu-view.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/shared/slide-nav/nav-styles.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/shared/slide-nav/nav.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ussr-movies/index.html" afterPath="$PROJECT_DIR$/ussr-movies/index.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="postepenno.github.io.iws" />
@@ -33,30 +29,20 @@
   <component name="FileEditorManager">
     <leaf>
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/resume/index.html">
+        <entry file="file://$PROJECT_DIR$/ussr-movies/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.8550296">
-              <caret line="196" column="104" selection-start-line="196" selection-start-column="104" selection-end-line="196" selection-end-column="104" />
+            <state vertical-scroll-proportion="0.37130177">
+              <caret line="94" column="19" selection-start-line="94" selection-start-column="19" selection-end-line="94" selection-end-column="19" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="octicons.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/resume/css/octicons.css">
+      <file leaf-file-name="nav.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/shared/slide-nav/nav.js">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="styles.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/resume/css/styles.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="3" column="21" selection-start-line="3" selection-start-column="21" selection-end-line="3" selection-end-column="21" />
+              <caret line="12" column="3" selection-start-line="12" selection-start-column="3" selection-end-line="12" selection-end-column="3" />
               <folding />
             </state>
           </provider>
@@ -122,7 +108,6 @@
         <option value="$PROJECT_DIR$/orden/index.html" />
         <option value="$PROJECT_DIR$/meloch/index.html" />
         <option value="$PROJECT_DIR$/g20/index.html" />
-        <option value="$PROJECT_DIR$/ussr-movies/index.html" />
         <option value="$PROJECT_DIR$/flash/wutb/walkthrough/index.html" />
         <option value="$PROJECT_DIR$/css/styles.css" />
         <option value="$PROJECT_DIR$/yapometr/index.html" />
@@ -132,6 +117,8 @@
         <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/resume/css/styles.css" />
         <option value="$PROJECT_DIR$/resume/index.html" />
+        <option value="$PROJECT_DIR$/shared/slide-nav/nav.js" />
+        <option value="$PROJECT_DIR$/ussr-movies/index.html" />
       </list>
     </option>
   </component>
@@ -143,8 +130,8 @@
     <order />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="157" />
-    <option name="y" value="30" />
+    <option name="x" value="221" />
+    <option name="y" value="33" />
     <option name="width" value="1266" />
     <option name="height" value="1041" />
   </component>
@@ -193,8 +180,6 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="Scratches" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -223,7 +208,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="resume" />
+              <option name="myItemId" value="ussr-movies" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -237,16 +222,32 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="resume" />
+              <option name="myItemId" value="shared" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="postepenno.github.io" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="postepenno.github.io" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="css" />
+              <option name="myItemId" value="shared" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="slide-nav" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scope" />
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -359,24 +360,6 @@
       <created>1391591777661</created>
       <option name="number" value="Default" />
       <updated>1391591777661</updated>
-    </task>
-    <task id="LOCAL-00211" summary="orden ga">
-      <created>1427708186853</created>
-      <option name="number" value="00211" />
-      <option name="project" value="LOCAL" />
-      <updated>1427708186853</updated>
-    </task>
-    <task id="LOCAL-00212" summary="index.html with handlebars">
-      <created>1427783281263</created>
-      <option name="number" value="00212" />
-      <option name="project" value="LOCAL" />
-      <updated>1427783281264</updated>
-    </task>
-    <task id="LOCAL-00213" summary="new menu!">
-      <created>1427790199723</created>
-      <option name="number" value="00213" />
-      <option name="project" value="LOCAL" />
-      <updated>1427790199723</updated>
     </task>
     <task id="LOCAL-00214" summary="meloch update">
       <created>1427791178287</created>
@@ -654,14 +637,32 @@
       <option name="project" value="LOCAL" />
       <updated>1434774072433</updated>
     </task>
-    <option name="localTasksCounter" value="260" />
+    <task id="LOCAL-00260" summary="resume">
+      <created>1435156094219</created>
+      <option name="number" value="00260" />
+      <option name="project" value="LOCAL" />
+      <updated>1435156094219</updated>
+    </task>
+    <task id="LOCAL-00261" summary="resume">
+      <created>1435156446529</created>
+      <option name="number" value="00261" />
+      <option name="project" value="LOCAL" />
+      <updated>1435156446533</updated>
+    </task>
+    <task id="LOCAL-00262" summary="resume update: photoshop, верстка">
+      <created>1435210604393</created>
+      <option name="number" value="00262" />
+      <option name="project" value="LOCAL" />
+      <updated>1435210604393</updated>
+    </task>
+    <option name="localTasksCounter" value="263" />
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="157" y="30" width="1266" height="1041" extended-state="0" />
+    <frame x="221" y="33" width="1266" height="1041" extended-state="0" />
     <editor active="false" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.14208633" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.168" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.29925454" sideWeight="0.50027215" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
@@ -697,8 +698,6 @@
     <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_NEW_TODO" value="false" />
     <option name="CHECK_COMMIT_MESSAGE_SPELLING" value="false" />
-    <MESSAGE value="postepenno front page update" />
-    <MESSAGE value="postepenno.com with bootstrap!" />
     <MESSAGE value="forgot ads" />
     <MESSAGE value="ussr posters dom" />
     <MESSAGE value="ussr posters dom bug fix" />
@@ -722,20 +721,15 @@
     <MESSAGE value="a very small cleanup" />
     <MESSAGE value="garadient animation" />
     <MESSAGE value="update interval 10ms -&gt; 100ms" />
-    <option name="LAST_COMMIT_MESSAGE" value="update interval 10ms -&gt; 100ms" />
+    <MESSAGE value="resume" />
+    <MESSAGE value="resume update: photoshop, верстка" />
+    <option name="LAST_COMMIT_MESSAGE" value="resume update: photoshop, верстка" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/ussrposters/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="8" column="0" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/nu/slider.css">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
@@ -946,13 +940,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/shared/directives.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="47" column="21" selection-start-line="47" selection-start-column="21" selection-end-line="47" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/js/ga.js">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.2737921">
@@ -995,13 +982,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ussr-movies/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.80974126">
-          <caret line="103" column="6" selection-start-line="103" selection-start-column="6" selection-end-line="103" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/ussr/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-14.807693">
@@ -1034,7 +1014,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="1" column="0" selection-start-line="1" selection-start-column="0" selection-end-line="3" selection-end-column="1" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1042,7 +1021,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="30" column="50" selection-start-line="30" selection-start-column="50" selection-end-line="30" selection-end-column="50" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1057,7 +1035,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-25.26923">
           <caret line="64" column="30" selection-start-line="64" selection-start-column="30" selection-end-line="64" selection-end-column="30" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1065,6 +1042,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.25170842">
           <caret line="12" column="51" selection-start-line="12" selection-start-column="51" selection-end-line="12" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/shared/directives.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.78205127">
+          <caret line="47" column="21" selection-start-line="47" selection-start-column="21" selection-end-line="47" selection-end-column="21" />
           <folding />
         </state>
       </provider>
@@ -1079,7 +1063,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/resume/css/styles.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
+        <state vertical-scroll-proportion="0.072649576">
           <caret line="3" column="21" selection-start-line="3" selection-start-column="21" selection-end-line="3" selection-end-column="21" />
           <folding />
         </state>
@@ -1087,8 +1071,24 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/resume/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.8550296">
-          <caret line="196" column="104" selection-start-line="196" selection-start-column="104" selection-end-line="196" selection-end-column="104" />
+        <state vertical-scroll-proportion="0.6035503">
+          <caret line="67" column="10" selection-start-line="67" selection-start-column="10" selection-end-line="67" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/shared/slide-nav/nav.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="12" column="3" selection-start-line="12" selection-start-column="3" selection-end-line="12" selection-end-column="3" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ussr-movies/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.37130177">
+          <caret line="94" column="19" selection-start-line="94" selection-start-column="19" selection-end-line="94" selection-end-column="19" />
           <folding />
         </state>
       </provider>

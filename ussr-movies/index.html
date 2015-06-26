@@ -20,11 +20,12 @@
 
     <link rel="stylesheet" href="css/styles.css"/>
     <link rel="stylesheet" href="css/sticker.css"/>
+    <link rel="stylesheet" href="../shared/slide-nav/nav-styles.css"/>
 
 </head>
 <body ng-controller="MainCtrl">
 
-<nav-menu></nav-menu>
+<slide-nav></slide-nav>
 
 <div class="panel panel-default intro" ng-if="model.gameState==='intro'">
     <h1><span class="big-font">30</span> лучших советских фильмов</h1>
@@ -93,25 +94,21 @@
             on-label="Вкл"
             off-label="Выкл">
     </toggle-switch>
-<!--
-    <h5>Музыка</h5>
-    <toggle-switch
-            ng-model="sndService.musicEnabled"
-            on-label="Вкл"
-            off-label="Выкл">
-    </toggle-switch>
--->
 </div>
 
+<!--
 <div class="panel panel-default ads">
     <google-ads></google-ads>
 </div>
+-->
 
 <script src="../js/ga.js"></script>
 
 <script src="js/game.js"></script>
 <script src="js/rect-sticker.js"></script>
 <script src="../shared/directives.js"></script>
+<script src="../shared/slide-nav/nav.js"></script>
+<script src="../shared/slide-nav/bigSlide.min.js"></script>
 
 
 </body>
