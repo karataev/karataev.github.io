@@ -14,7 +14,7 @@
 
 <slide-nav></slide-nav>
 
-<div class="wrapper">
+<div class="wrapper" ng-cloak>
     <h1 class="page-header">20 цитат о России</h1>
     <div class="content-box" ng-if="main.curItem" use-tweens>
         <div class="quote-id">{{main.curItem.id + 1}}</div>
@@ -36,7 +36,7 @@
     <!--<pre>{{main.items | json}}</pre>-->
 </div>
 
-<div class="wrapper" ng-if="main.gameComplete" use-tweens>
+<div class="wrapper" ng-if="main.gameComplete" use-tweens ng-cloak>
     <div class="content-box game-complete">
         <h1>Игра пройдена!</h1>
         <img class="putin-approves" src="img/putin-approves.jpg" alt="Путин одобряет"/>
