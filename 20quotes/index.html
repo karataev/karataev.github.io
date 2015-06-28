@@ -77,7 +77,7 @@
 <script src="../shared/slide-nav/bigSlide.min.js"></script>
 <script src="../shared/slide-nav/nav.js"></script>
 <script src="../shared/directives.js"></script>
-<script src="https://cdnjs.cloudflare.com/ajax/libs/fastclick/1.0.6/fastclick.min.js"></script>
+<!--<script src="https://cdnjs.cloudflare.com/ajax/libs/fastclick/1.0.6/fastclick.min.js"></script>-->
 
 <script>
     var app = angular.module("app", ["ngSocial"]);
@@ -86,9 +86,11 @@
         var main = this;
 
         // remove 300 ms delay on mobile devices
+/*
         $(function() {
             FastClick.attach(document.body);
         });
+*/
 
         main.curItem = undefined;
         main.items = undefined;
