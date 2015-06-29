@@ -22,11 +22,13 @@
 <div class="wrapper" ng-cloak>
     <h1 class="page-header">20 цитат о России</h1>
 
+<!--
     <div class="panel panel-default ads">
         <google-ads></google-ads>
     </div>
+-->
 
-    <div class="content-box" ng-if="main.curItem" use-tweens>
+    <div class="content-box tweens" ng-if="main.curItem">
         <div class="quote-id">{{main.curItem.id + 1}}</div>
         <div class="quote-symbol">”</div>
         <div class="quote-text">
@@ -41,16 +43,16 @@
                 <answer-box></answer-box>
             </div>
         </div>
-        <next-button></next-button>
+        <button class="btn btn-success btn-lg bt-next" ng-show="main.isLevelComplete()" ng-click="main.nextClick($event)">Далее</button>
     </div>
     <!--<pre>{{main.items | json}}</pre>-->
 </div>
 
-<div class="wrapper" ng-if="main.gameComplete" use-tweens ng-cloak>
+<div class="wrapper tweens" ng-if="main.gameComplete" ng-cloak>
     <div class="content-box game-complete">
         <h1>Игра пройдена!</h1>
         <img class="putin-approves" src="img/putin-approves.jpg" alt="Путин одобряет"/>
-        <h3>Твой результат: <span class="big-font">{{main.correctAnswers}}</span>/{{main.items.length}}</h3>
+        <h3>Твой результат: <span class="big-font">{{main.correctAnswers}}</span>/{{main.getTotalItems()}}</h3>
         <br/>
         <ul ng-social-buttons
             data-url="'http://postepenno.com/20quotes'"
@@ -70,7 +72,8 @@
 
 <script src="../js/ga.js"></script>
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js"></script>
-<script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.3.15/angular.min.js"></script>
+<script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.4.1/angular.min.js"></script>
+<script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.4.1/angular-animate.min.js"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/underscore.js/1.8.3/underscore-min.js"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/1.17.0/TweenMax.min.js"></script>
 <script src="libs/angular-social.js"></script>
@@ -80,10 +83,10 @@
 <!--<script src="https://cdnjs.cloudflare.com/ajax/libs/fastclick/1.0.6/fastclick.min.js"></script>-->
 
 <script>
-    var app = angular.module("app", ["ngSocial"]);
+    var app = angular.module("app", ["ngSocial", "ngAnimate"]);
 
-    app.controller("MainController", function ($http, $timeout) {
-        var main = this;
+    app.controller("MainController", function ($scope, DataService) {
+        var vm = this;
 
         // remove 300 ms delay on mobile devices
 /*
@@ -92,78 +95,93 @@
         });
 */
 
-        main.curItem = undefined;
-        main.items = undefined;
-        main.gameComplete = false;
-        main.correctAnswers = 0;
+        var nextLevelId = undefined;
+        vm.curItem = undefined;
+        vm.gameComplete = false;
+        vm.correctAnswers = 0;
 
-        //.filter(function (x) { return x.id < 1; })
-        $http.get("data/quotes.json")
-                .success(function (data) {
-                    main.items = data
-                            .map(function (x, i) {
-                                x.id = i;
-                                x.answers[0].correct = true;
-                                x.answers = x.answers.map(function (answer) {
-                                    if (answer.avatar === "") answer.avatar = "img/150x200.png";
-                                    else answer.avatar = "img/" + answer.avatar;
-                                    return answer;
-                                })
-                                x.answers = _.shuffle(x.answers);
-                                return x;
-                            })
-                            //.filter(function (x) { return x.id < 2; })
+        DataService.load(function (data) {
+            vm.curItem = DataService.getItem(0);
+        })
 
-                    showItem(0);
-                })
-
-        var showItem = function (id) {
-            main.curItem = undefined;
-            $timeout(function () {
-                main.curItem = main.items.filter(function (x) {
-                    return x.id === id;
-                })[0]
-
-            }, 10)
+        function nextClick($event) {
+            $($event.target).attr("disabled", true); // disable next button to avoid extra clicks
+            nextLevelId = vm.curItem.id + 1;
+            vm.curItem = undefined; // start 'leave' animation
+            //$scope.$apply();
         }
 
-        var showItemWithTween = function (id) {
-            main.curItem.hide = 500;
-            $timeout(function () {
-                showItem(id);
-            }, 510);
-        }
-
-        main.nextClick = function () {
-            var nextId = main.curItem.id + 1;
-            if (main.items[nextId]) {
-                showItemWithTween(nextId);
+        // callback from animation. egggh, ugly
+        function contentLeaveComplete() {
+            if (DataService.isItemExist(nextLevelId)) {
+                vm.curItem = DataService.getItem(nextLevelId);
+                $scope.$apply();
             } else {
-                main.curItem = undefined;
-                main.gameComplete = true;
+                vm.curItem = undefined;
+                vm.gameComplete = true;
             }
-
         }
 
 
-        main.playerAnswered = function (answer) {
+        function playerAnswered(answer) {
             answer.selected = true;
             if (answer.correct) {
-                main.correctAnswers++;
+                vm.correctAnswers++;
                 //console.log("RIIIGHT!");
             } else {
                 //console.log("wrong :(");
             }
-            main.curItem.answers.forEach(function (x) {
+            vm.curItem.answers.forEach(function (x) {
                 x.disable = true;
             })
         }
 
-        main.isLevelComplete = function () {
-            var selectedItems = main.curItem.answers.filter(function (x) {
+        function isLevelComplete() {
+            var selectedItems = vm.curItem.answers.filter(function (x) {
                 return x.selected === true;
             })
             return selectedItems.length === 0 ? false : true;
+        }
+
+        // exports
+        vm.isLevelComplete = isLevelComplete;
+        vm.playerAnswered = playerAnswered;
+        vm.contentLeaveComplete = contentLeaveComplete;
+        vm.nextClick = nextClick;
+        vm.getTotalItems = DataService.getTotalItems;
+    })
+
+    app.factory("DataService", function ($http) {
+        return {
+            items:undefined,
+            load: function (callback) {
+                $http.get("data/quotes.json")
+                        .success(function (data) {
+                            items = data
+                                    .map(function (x, i) {
+                                        x.id = i;
+                                        x.answers[0].correct = true;
+                                        x.answers = x.answers.map(function (answer) {
+                                            if (answer.avatar === "") answer.avatar = "img/150x200.png";
+                                            else answer.avatar = "img/" + answer.avatar;
+                                            return answer;
+                                        })
+                                        x.answers = _.shuffle(x.answers);
+                                        return x;
+                                    })
+                                    //.filter(function (x) { return x.id < 2; })
+                            callback(items);
+                        })
+            },
+            getTotalItems: function () {
+                return items.length;
+            },
+            isItemExist: function (id) {
+                return items[id] !== undefined;
+            },
+            getItem: function (id) {
+                return items[id];
+            }
         }
     })
 
@@ -210,32 +228,18 @@
         }
     })
 
-    app.directive("useTweens", function () {
+    app.animation(".tweens", function () {
         return {
-            link: function (scope, el, attrs) {
-                TweenMax.from(el, 0.5, {opacity:0, x:"+=40"});
-
-                scope.$watch("main.curItem.hide", function (newVal) {
-                    if (newVal != undefined) {
-                        TweenMax.to(el, newVal / 1000, {opacity:0, x:"-=40"});
-                        scope.main.curItem.hide = undefined;
-                    }
-                })
-            }
-        }
-    })
-
-    app.directive("nextButton", function () {
-        return {
-            link: function (scope, el, attrs) {
-                el.on('click', function () {
-                    el.off();
-                    scope.main.nextClick();
-                    scope.$apply();
-                })
+            enter: function (element, done) {
+                TweenMax.from(element, 0.5, {opacity:0, x:"+=40", onComplete:done});
             },
-            replace:true,
-            template:'<button class="btn btn-success btn-lg bt-next" ng-show="main.isLevelComplete()">Далее</button>'
+            leave: function (element, done) {
+                var scope = element.scope();
+                TweenMax.to(element, 0.5, {opacity:0, x:"-=40", onComplete: function () {
+                    done();
+                    scope.main.contentLeaveComplete();
+                }});
+            }
         }
     })
 
