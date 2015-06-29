@@ -22,11 +22,9 @@
 <div class="wrapper" ng-cloak>
     <h1 class="page-header">20 цитат о России</h1>
 
-<!--
     <div class="panel panel-default ads">
         <google-ads></google-ads>
     </div>
--->
 
     <div class="content-box tweens" ng-if="main.curItem">
         <div class="quote-id">{{main.curItem.id + 1}}</div>
@@ -115,7 +113,6 @@
         function contentLeaveComplete() {
             if (DataService.isItemExist(nextLevelId)) {
                 vm.curItem = DataService.getItem(nextLevelId);
-                $scope.$apply();
             } else {
                 vm.curItem = undefined;
                 vm.gameComplete = true;
