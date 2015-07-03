@@ -1,0 +1,181 @@
+<!DOCTYPE html>
+<html>
+<head lang="en">
+    <meta charset="UTF-8">
+    <title></title>
+
+    <style>
+        .colors {
+            list-style-type: none;
+            padding: 0;
+        }
+
+        .color-item {
+            display: inline-block;
+            width: 40px;
+            height: 40px;
+            background-color: #eeeeee;
+            /*border:5px solid rgba(0,0,0,0.8);*/
+            border-width: 5px;
+            border-style: solid;
+            border-color: #fff;
+            border-radius:25px;
+            box-shadow: inset 2px 2px 5px rgba(0,0,0,0.5);
+            margin-right: 5px;
+            cursor: pointer;
+        }
+
+        .item-selected {
+            /*border:5px solid #eee;*/
+            border-color:#eee;
+            box-shadow: inset 2px 2px 5px rgba(0,0,0,0.5), 0 3px 5px rgba(0,0,0,0.5);
+        }
+
+        .dummy-rect {
+            width: 400px;
+            height: 200px;
+            background-color: #eeeeee;
+        }
+
+        .ceil-wrapper {
+            position: relative;
+        }
+
+        .ceil-img {
+            position: absolute;
+        }
+
+        .ceil-shape {
+            position: absolute;
+            width: 660px;
+            height: 409px;
+        }
+
+    </style>
+
+</head>
+<body ng-app="app" ng-controller="MainController as main">
+
+<h1>Натяжной потолок</h1>
+
+<h3>Цвета</h3>
+<ul class="colors">
+    <li color-item ng-repeat="item in main.items"></li>
+</ul>
+
+<div class="ceil-wrapper">
+    <svg class="ceil-shape">
+        <polygon color-poly points="0,0 660,0 660,238 550,262 438,231 0,140" fill="#ffffff" />
+    </svg>
+
+    <img class="ceil-img" src="img/primerka.png" alt=""/>
+</div>
+
+
+
+<!--
+<svg width="500" height="300">
+    <rect x="10" y="10" width="200" height="200" lol fill="#ff0000" />
+</svg>
+-->
+
+
+<script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.4.1/angular.min.js"></script>
+
+<script>
+
+    var app = angular.module("app", []);
+
+    app.controller("MainController", function () {
+        var vm = this;
+        var selectedItem = undefined;
+
+        var items = [
+            {value:"#000000"},
+            {value:"#FFB4D5"},
+            {value:"#FED5B5"},
+            {value:"#ECD297"},
+            {value:"#EFD9DC"},
+            {value:"#DDC4A6"},
+            {value:"#F0E8D1"},
+            {value:"#FDF8DA"},
+            {value:"#FEFBD0"},
+            {value:"#A4E3F5"},
+            {value:"#C4DFFC"},
+            {value:"#FFFFFF"}
+        ]
+
+        function selectItem(item) {
+            if (selectedItem) {
+                selectedItem.selected = false;
+            }
+            selectedItem = item;
+            selectedItem.selected = true;
+
+            vm.color = selectedItem.value;
+        }
+
+        selectItem(items[0]);
+
+        // exports
+        vm.items = items;
+        vm.selectItem = selectItem;
+
+    })
+
+    app.directive("colorItem", function () {
+        return {
+            link: function (scope, el, attrs) {
+                el.addClass("color-item");
+                el.css({
+                    "background-color":scope.item.value
+                })
+                el.on("click", function () {
+                    scope.main.selectItem(scope.item);
+                    scope.$apply();
+                })
+
+                scope.$watch("item.selected", function (newVal) {
+                    if (newVal === true) {
+                        el.addClass("item-selected");
+                    }
+                    else if (newVal === false) {
+                        el.removeClass("item-selected");
+                    }
+                })
+            }
+        }
+    })
+
+    app.directive("colorPoly", function () {
+        return {
+            link: function (scope, el, attrs) {
+                console.log("LOL!");
+                el.css({width:300});
+
+                scope.$watch("main.color", function (newVal) {
+                    if (newVal) {
+                        el.css({
+                            "fill": newVal
+                        })
+                    }
+                })
+            }
+        }
+    })
+
+    app.directive("ceilWrapper", function () {
+        return {
+            link: function (scope, el, attrs) {
+                el.on("mousemove", function (e) {
+                    console.log(e.layerX, e.layerY);
+
+                })
+            }
+        }
+    })
+
+</script>
+
+</body>
+</html>
