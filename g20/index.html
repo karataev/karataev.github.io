@@ -19,13 +19,13 @@
     <script src="libs/alertify.min.js"></script>
     <link rel="stylesheet" href="libs/alertify.core.css"/>
     <link rel="stylesheet" href="libs/alertify.default.css"/>
-    <link rel="stylesheet" href="../shared/slide-nav/nav-styles.css"/>
+    <link rel="stylesheet" href="../shared/my-nav/my-nav-styles.css"/>
 
 </head>
 
-<body ng-controller="MainCtrl">
+<my-nav></my-nav>
 
-<slide-nav></slide-nav>
+<body ng-controller="MainCtrl">
 
 <div class="panel panel-default intro" ng-if="model.gameState==='intro'">
     <img src="img/g20.png" alt="Большая двадцатка"/>
@@ -104,17 +104,18 @@
     </toggle-switch>
 </div>
 
+<!--
 <div class="panel panel-default ads">
     <google-ads></google-ads>
 </div>
+-->
 
 <script src="../js/ga.js"></script>
 
 
+<script src="../shared/my-nav/my-nav.js"></script>
 <script src="js/game.js"></script>
 <script src="../shared/directives.js"></script>
-<script src="../shared/slide-nav/bigSlide.min.js"></script>
-<script src="../shared/slide-nav/nav.js"></script>
 
 </body>
 </html>

@@ -2,7 +2,7 @@
  * Created by postepenno on 25.05.2015.
  */
 
-var app = angular.module("app", ["toggle-switch", "ngSocial"]);
+var app = angular.module("app", ["toggle-switch", "ngSocial", "myNav"]);
 
 app.controller("MainCtrl", function($scope, $http, $timeout) {
 
