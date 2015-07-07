@@ -180,14 +180,11 @@ app.directive("ekFlag", function () {
         if (newValue === true) {
           el.css({cursor:"default"});
           el.off();
-          if (scope.flag.selected && scope.flag.bingo) {
+          if (scope.flag.bingo) {
             el.addClass("flag-correct");
           }
-          if (scope.flag.selected && !scope.flag.bingo) {
+          else if (scope.flag.selected) {
             el.addClass("flag-wrong");
-          }
-          if (!scope.flag.selected && scope.flag.bingo) {
-            el.addClass("flag-correct");
           }
         }
       })

@@ -25,21 +25,21 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/g20/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-19.884615">
-              <caret line="110" column="0" selection-start-line="110" selection-start-column="0" selection-end-line="110" selection-end-column="0" />
+            <state vertical-scroll-proportion="0.27219796">
+              <caret line="59" column="0" selection-start-line="59" selection-start-column="0" selection-end-line="59" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="game.js" pinned="false" current-in-tab="true">
+      <file leaf-file-name="game.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/g20/js/game.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.42917252">
-              <caret line="18" column="0" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
+            <state vertical-scroll-proportion="0.0">
+              <caret line="185" column="10" selection-start-line="185" selection-start-column="10" selection-end-line="185" selection-end-column="10" />
               <folding />
             </state>
           </provider>
@@ -408,12 +408,6 @@
       <option name="number" value="Default" />
       <updated>1391591777661</updated>
     </task>
-    <task id="LOCAL-00243" summary="ussr posters GREAT UPDATE!">
-      <created>1432296913203</created>
-      <option name="number" value="00243" />
-      <option name="project" value="LOCAL" />
-      <updated>1432296913203</updated>
-    </task>
     <task id="LOCAL-00244" summary="ussr posters GREAT UPDATE!">
       <created>1432296975771</created>
       <option name="number" value="00244" />
@@ -702,7 +696,13 @@
       <option name="project" value="LOCAL" />
       <updated>1436254603238</updated>
     </task>
-    <option name="localTasksCounter" value="292" />
+    <task id="LOCAL-00292" summary="no more alertify messages">
+      <created>1436254708597</created>
+      <option name="number" value="00292" />
+      <option name="project" value="LOCAL" />
+      <updated>1436254708597</updated>
+    </task>
+    <option name="localTasksCounter" value="293" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -745,7 +745,6 @@
     <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_NEW_TODO" value="false" />
     <option name="CHECK_COMMIT_MESSAGE_SPELLING" value="false" />
-    <MESSAGE value="a very small cleanup" />
     <MESSAGE value="garadient animation" />
     <MESSAGE value="update interval 10ms -&gt; 100ms" />
     <MESSAGE value="resume" />
@@ -770,7 +769,8 @@
     <MESSAGE value="Add game version" />
     <MESSAGE value="Sounds UI refactoring. No more toggle-switch. Simple buttons for now + font-awesome icons" />
     <MESSAGE value="Flags' borders. Instead of &quot;yellow&quot; border of selected element, we have read and green borders for wrong/correct answers" />
-    <option name="LAST_COMMIT_MESSAGE" value="Flags' borders. Instead of &quot;yellow&quot; border of selected element, we have read and green borders for wrong/correct answers" />
+    <MESSAGE value="no more alertify messages" />
+    <option name="LAST_COMMIT_MESSAGE" value="no more alertify messages" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -1130,18 +1130,18 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/g20/index.html">
+    <entry file="file://$PROJECT_DIR$/g20/js/game.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-19.884615">
-          <caret line="110" column="0" selection-start-line="110" selection-start-column="0" selection-end-line="110" selection-end-column="0" />
+        <state vertical-scroll-proportion="0.0">
+          <caret line="185" column="10" selection-start-line="185" selection-start-column="10" selection-end-line="185" selection-end-column="10" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/g20/js/game.js">
+    <entry file="file://$PROJECT_DIR$/g20/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.42917252">
-          <caret line="18" column="0" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
+        <state vertical-scroll-proportion="0.27219796">
+          <caret line="59" column="0" selection-start-line="59" selection-start-column="0" selection-end-line="59" selection-end-column="0" />
           <folding />
         </state>
       </provider>
