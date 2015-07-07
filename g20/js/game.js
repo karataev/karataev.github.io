@@ -2,14 +2,22 @@
  * Created by postepenno on 25.05.2015.
  */
 
+// **************** HELPERS FOR CONSOLE! ********************
+function gameComplete() {
+  var scope = $("body").scope();
+  scope.main.gameState = 'complete';
+  scope.$apply();
+}
+
+// ********************************************************
+
 var app = angular.module("app", ["ngSocial", "myNav"]);
 
 app.controller("MainCtrl", function($scope, $http, $timeout, Snd) {
+  var vm = this;
 
-  $scope.model = {
-    levelComplete:undefined,
-    gameState:undefined
-  }
+  vm.gameState = undefined;
+  vm.levelComplete = undefined;
 
 
   $http.get("json/data.json")
@@ -21,7 +29,7 @@ app.controller("MainCtrl", function($scope, $http, $timeout, Snd) {
         item.flags = _.shuffle(item.flags);
       });
 
-      $scope.model.gameState = 'intro';
+      vm.gameState = 'intro';
       //$scope.gameStart();
     });
 
@@ -29,7 +37,7 @@ app.controller("MainCtrl", function($scope, $http, $timeout, Snd) {
 
   $scope.playerAnswered = function (flag) {
     flag.selected = true;
-    $scope.model.levelComplete = true;
+    vm.levelComplete = true;
     disableButtons();
 
     if(flag.bingo === true) {
@@ -47,12 +55,12 @@ app.controller("MainCtrl", function($scope, $http, $timeout, Snd) {
   }
 
   $scope.gameStart = function() {
-    $scope.model.gameState = "play";
+    vm.gameState = "play";
     $scope.levelStart(0);
   }
 
   $scope.levelStart = function (id) {
-    $scope.model.levelComplete = false;
+    vm.levelComplete = false;
     $scope.curItem = $scope.items[id];
   }
 
@@ -73,7 +81,7 @@ app.controller("MainCtrl", function($scope, $http, $timeout, Snd) {
       $scope.levelStart(nextId);
     } else {
       $scope.curItem = null;
-      $scope.model.gameState = "complete";
+      vm.gameState = "complete";
     }
   }
 
@@ -92,6 +100,8 @@ app.controller("MainCtrl", function($scope, $http, $timeout, Snd) {
   $scope.restartGame = function () {
     window.location.reload();
   }
+
+  // exports
 
 });
 

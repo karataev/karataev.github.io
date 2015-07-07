@@ -12,11 +12,11 @@
 
 </head>
 
-<body ng-controller="MainCtrl" ng-cloak>
+<body ng-controller="MainCtrl as main" ng-cloak>
 
 <my-nav></my-nav>
 
-<div class="panel panel-default intro" ng-if="model.gameState==='intro'">
+<div class="panel panel-default intro" ng-if="main.gameState==='intro'">
     <img src="img/g20.png" alt="Большая двадцатка"/>
 
     <h1>Большая двадцатка</h1>
@@ -30,7 +30,7 @@
 
 </div>
 
-<div class="panel panel-default gameplay" ng-if="model.gameState==='play'">
+<div class="panel panel-default gameplay" ng-if="main.gameState==='play'">
     <h1 class="title">{{curItem.id + 1}}. {{curItem.title | uppercase}}</h1>
 
     <div class="grid-table">
@@ -46,18 +46,17 @@
         </div>
     </div>
     <div class="bt-center-wrapper">
-        <bt-next ng-if="model.levelComplete" born-alpha>Далее</bt-next>
+        <bt-next ng-if="main.levelComplete" born-alpha>Далее</bt-next>
     </div>
 
 </div>
 
-<div class="panel panel-default game-complete" ng-if="model.gameState==='complete'" born-alpha>
+<div class="panel panel-default game-complete" ng-if="main.gameState==='complete'" born-alpha>
     <h1>Ура! Игра пройдена!</h1>
 
     <h3>Правильные ответы: <span class="font-big">{{getCorrectAnswers()}}</span> из <span class="font-big">{{items.length}}</span>
     </h3>
 
-    <p>Понравилось? - Поделись с друзьями!</p>
     <ul ng-social-buttons
         data-url="'http://postepenno.com/g20'"
         data-title="'Большая двадцатка'"
