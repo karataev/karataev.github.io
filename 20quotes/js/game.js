@@ -28,8 +28,7 @@ app.controller("MainController", function ($scope, DataService) {
     if (DataService.isItemExist(nextLevelId)) {
       vm.curItem = DataService.getItem(nextLevelId);
     } else {
-      vm.curItem = undefined;
-      vm.gameComplete = true;
+      doGameComplete();
     }
   }
 
@@ -54,12 +53,18 @@ app.controller("MainController", function ($scope, DataService) {
     return selectedItems.length === 0 ? false : true;
   }
 
+  function doGameComplete() {
+    vm.curItem = undefined;
+    vm.gameComplete = true;
+  }
+
   // exports
   vm.isLevelComplete = isLevelComplete;
   vm.playerAnswered = playerAnswered;
   vm.contentLeaveComplete = contentLeaveComplete;
   vm.nextClick = nextClick;
   vm.getTotalItems = DataService.getTotalItems;
+  vm.doGameComplete = doGameComplete;
 })
 
 app.factory("DataService", function ($http) {
@@ -155,3 +160,9 @@ app.animation(".tweens", function () {
 })
 
 
+// ************** CONSOLE HELPERS ***********************
+function gameComplete() {
+  var scope = $("body").scope();
+  scope.main.gameComplete = true;
+  scope.$apply();
+}
