@@ -67,21 +67,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/ussr/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-8.807693">
-              <caret line="71" column="41" selection-start-line="71" selection-start-column="41" selection-end-line="71" selection-end-column="41" />
+            <state vertical-scroll-proportion="0.5443959">
+              <caret line="22" column="30" selection-start-line="22" selection-start-column="30" selection-end-line="22" selection-end-column="30" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="styles.css" pinned="false" current-in-tab="true">
+      <file leaf-file-name="styles.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/ussr/css/styles.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.8092567">
-              <caret line="180" column="1" selection-start-line="180" selection-start-column="1" selection-end-line="180" selection-end-column="1" />
+            <state vertical-scroll-proportion="0.0">
+              <caret line="26" column="14" selection-start-line="26" selection-start-column="14" selection-end-line="26" selection-end-column="14" />
               <folding />
             </state>
           </provider>
@@ -387,12 +387,6 @@
       <option name="number" value="Default" />
       <updated>1391591777661</updated>
     </task>
-    <task id="LOCAL-00252" summary="walkthough page ads up">
-      <created>1433154378154</created>
-      <option name="number" value="00252" />
-      <option name="project" value="LOCAL" />
-      <updated>1433154378184</updated>
-    </task>
     <task id="LOCAL-00253" summary="main page responsive ads">
       <created>1433156241937</created>
       <option name="number" value="00253" />
@@ -681,7 +675,13 @@
       <option name="project" value="LOCAL" />
       <updated>1436264103391</updated>
     </task>
-    <option name="localTasksCounter" value="301" />
+    <task id="LOCAL-00301" summary="Beautify ads">
+      <created>1436264254209</created>
+      <option name="number" value="00301" />
+      <option name="project" value="LOCAL" />
+      <updated>1436264254209</updated>
+    </task>
+    <option name="localTasksCounter" value="302" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -724,7 +724,6 @@
     <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_NEW_TODO" value="false" />
     <option name="CHECK_COMMIT_MESSAGE_SPELLING" value="false" />
-    <MESSAGE value="google analytics" />
     <MESSAGE value="og-properties" />
     <MESSAGE value="nav - 20 quotes" />
     <MESSAGE value="ng-cloak attribute. works finally!!!" />
@@ -749,7 +748,8 @@
     <MESSAGE value="small update" />
     <MESSAGE value="Scripts from head to body" />
     <MESSAGE value="New nav" />
-    <option name="LAST_COMMIT_MESSAGE" value="New nav" />
+    <MESSAGE value="Beautify ads" />
+    <option name="LAST_COMMIT_MESSAGE" value="Beautify ads" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -1116,18 +1116,18 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ussr/index.html">
+    <entry file="file://$PROJECT_DIR$/ussr/css/styles.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-8.807693">
-          <caret line="71" column="41" selection-start-line="71" selection-start-column="41" selection-end-line="71" selection-end-column="41" />
+        <state vertical-scroll-proportion="0.0">
+          <caret line="26" column="14" selection-start-line="26" selection-start-column="14" selection-end-line="26" selection-end-column="14" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ussr/css/styles.css">
+    <entry file="file://$PROJECT_DIR$/ussr/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.8092567">
-          <caret line="180" column="1" selection-start-line="180" selection-start-column="1" selection-end-line="180" selection-end-column="1" />
+        <state vertical-scroll-proportion="0.5443959">
+          <caret line="22" column="30" selection-start-line="22" selection-start-column="30" selection-end-line="22" selection-end-column="30" />
           <folding />
         </state>
       </provider>

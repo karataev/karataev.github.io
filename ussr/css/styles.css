@@ -13,8 +13,18 @@ body {
     margin: 0 auto;
 }
 
+.game-title-holder {
+    position: relative;
+}
+
 .game-title {
     text-align: center;
+}
+
+.game-version {
+    position: absolute;
+    bottom: 0;
+    left: 60%;
 }
 
 .intro-inner {
