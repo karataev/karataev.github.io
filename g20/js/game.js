@@ -12,11 +12,6 @@ app.controller("MainCtrl", function($scope, $http, $timeout, Snd) {
   }
 
 
-  $scope.goodMsg = ["Да!", "Правильно!", "Верно!", "Молодцом!"];
-  $scope.badMsg = ["Увы :(", "Ошибочка", "Очень жаль"];
-
-  alertify.set({ delay: 3000 });
-
   $http.get("json/data.json")
     .success(function(data, status, headers, config) {
       $scope.items = data;
@@ -40,13 +35,9 @@ app.controller("MainCtrl", function($scope, $http, $timeout, Snd) {
     var index;
     if(flag.bingo === true) {
       Snd.correct();
-      index = Math.floor(Math.random() * $scope.goodMsg.length);
-      alertify.success($scope.goodMsg[index]);
     }
     else {
       Snd.wrong();
-      index = Math.floor(Math.random() * $scope.badMsg.length);
-      alertify.error($scope.badMsg[index]);
     }
   }
 
