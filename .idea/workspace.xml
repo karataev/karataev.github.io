@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="49936aeb-a0f4-4a42-8ee1-db97121b12c9" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/shared/my-nav/my-nav-view.html" afterPath="$PROJECT_DIR$/shared/my-nav/my-nav-view.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ussr/index.html" afterPath="$PROJECT_DIR$/ussr/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ussr/css/styles.css" afterPath="$PROJECT_DIR$/ussr/css/styles.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="postepenno.github.io.iws" />
@@ -69,17 +70,27 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/ussr/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-11.115385">
-              <caret line="17" column="0" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
+            <state vertical-scroll-proportion="-9.153846">
+              <caret line="14" column="47" selection-start-line="14" selection-start-column="47" selection-end-line="14" selection-end-column="47" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="my-nav-view.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="styles.css" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/ussr/css/styles.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.45301542">
+              <caret line="19" column="20" selection-start-line="19" selection-start-column="20" selection-end-line="19" selection-end-column="20" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="my-nav-view.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/shared/my-nav/my-nav-view.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.3216885">
+            <state vertical-scroll-proportion="-8.5">
               <caret line="13" column="76" selection-start-line="13" selection-start-column="76" selection-end-line="13" selection-end-column="76" />
               <folding />
             </state>
@@ -158,12 +169,12 @@
         <option value="$PROJECT_DIR$/ussr-movies/js/game.js" />
         <option value="$PROJECT_DIR$/ussr-movies/index.html" />
         <option value="$PROJECT_DIR$/ussr/js/game.js" />
-        <option value="$PROJECT_DIR$/ussr/index.html" />
-        <option value="$PROJECT_DIR$/ussr/css/styles.css" />
         <option value="$PROJECT_DIR$/20quotes/js/game.js" />
         <option value="$PROJECT_DIR$/20quotes/css/styles.css" />
         <option value="$PROJECT_DIR$/20quotes/index.html" />
         <option value="$PROJECT_DIR$/shared/my-nav/my-nav-view.html" />
+        <option value="$PROJECT_DIR$/ussr/index.html" />
+        <option value="$PROJECT_DIR$/ussr/css/styles.css" />
       </list>
     </option>
   </component>
@@ -476,12 +487,6 @@
       <option name="number" value="Default" />
       <updated>1391591777661</updated>
     </task>
-    <task id="LOCAL-00261" summary="resume">
-      <created>1435156446529</created>
-      <option name="number" value="00261" />
-      <option name="project" value="LOCAL" />
-      <updated>1435156446533</updated>
-    </task>
     <task id="LOCAL-00262" summary="resume update: photoshop, верстка">
       <created>1435210604393</created>
       <option name="number" value="00262" />
@@ -770,7 +775,13 @@
       <option name="project" value="LOCAL" />
       <updated>1436267066618</updated>
     </task>
-    <option name="localTasksCounter" value="310" />
+    <task id="LOCAL-00310" summary="Add 20 quotes link in nav">
+      <created>1436275953355</created>
+      <option name="number" value="00310" />
+      <option name="project" value="LOCAL" />
+      <updated>1436275953356</updated>
+    </task>
+    <option name="localTasksCounter" value="311" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -813,7 +824,6 @@
     <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_NEW_TODO" value="false" />
     <option name="CHECK_COMMIT_MESSAGE_SPELLING" value="false" />
-    <MESSAGE value="undo fastClick because of navigation bug  :(" />
     <MESSAGE value="big refactoring: animations, DataService" />
     <MESSAGE value="potolok" />
     <MESSAGE value="Remove old nav, add my-nav (no bigSlide.js dependency anymore)" />
@@ -838,7 +848,8 @@
     <MESSAGE value="TODO" />
     <MESSAGE value="Dancing banana!" />
     <MESSAGE value="Add game version" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add game version" />
+    <MESSAGE value="Add 20 quotes link in nav" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add 20 quotes link in nav" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -1121,14 +1132,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ussr/css/styles.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.61991584">
-          <caret line="26" column="14" selection-start-line="26" selection-start-column="14" selection-end-line="26" selection-end-column="14" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/ussr/js/game.js">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.11921459">
@@ -1173,7 +1176,7 @@
         <state vertical-scroll-proportion="0.6437588">
           <caret line="27" column="36" selection-start-line="27" selection-start-column="36" selection-end-line="27" selection-end-column="36" />
           <folding>
-            <element signature="n#!!doc" expanded="true" />
+            <element signature="n#!!doc" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -1210,18 +1213,26 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ussr/index.html">
+    <entry file="file://$PROJECT_DIR$/shared/my-nav/my-nav-view.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-11.115385">
-          <caret line="17" column="0" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
+        <state vertical-scroll-proportion="-8.5">
+          <caret line="13" column="76" selection-start-line="13" selection-start-column="76" selection-end-line="13" selection-end-column="76" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/shared/my-nav/my-nav-view.html">
+    <entry file="file://$PROJECT_DIR$/ussr/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.3216885">
-          <caret line="13" column="76" selection-start-line="13" selection-start-column="76" selection-end-line="13" selection-end-column="76" />
+        <state vertical-scroll-proportion="-9.153846">
+          <caret line="14" column="47" selection-start-line="14" selection-start-column="47" selection-end-line="14" selection-end-column="47" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ussr/css/styles.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.45301542">
+          <caret line="19" column="20" selection-start-line="19" selection-start-column="20" selection-end-line="19" selection-end-column="20" />
           <folding />
         </state>
       </provider>

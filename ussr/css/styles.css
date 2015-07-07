@@ -1,6 +1,10 @@
 
 /*=============== GAME =============*/
 
+[ng-cloak] {
+    display: none;
+}
+
 body {
     margin-bottom: 400px;
     background: #e2d4af;
