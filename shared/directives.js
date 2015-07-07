@@ -10,7 +10,7 @@ app.directive("googleAds", function($location) {
     templateUrl:"../shared/google-ads.html",
     controller: function($scope) {
 
-      console.log("Host from ads", $location.host(), $scope);
+      //console.log("Ads. Your host:", $location.host());
       $scope.isLocalhost = $location.host() === "localhost";
       if (!$scope.isLocalhost) {
         (adsbygoogle = window.adsbygoogle || []).push({});
