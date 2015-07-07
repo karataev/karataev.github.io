@@ -8,8 +8,7 @@ app.controller("MainCtrl", function($scope, $http, $timeout, Snd) {
 
   $scope.model = {
     levelComplete:undefined,
-    gameState:undefined,
-    sndEnabled:true
+    gameState:undefined
   }
 
 
@@ -190,12 +189,15 @@ app.directive("ekFlag", function () {
         if (newValue === true) {
           el.css({cursor:"default"});
           el.off();
-        }
-      })
-
-      scope.$watch("flag.selected", function (newValue) {
-        if (newValue === true) {
-          el.addClass("flag-selected");
+          if (scope.flag.selected && scope.flag.bingo) {
+            el.addClass("flag-correct");
+          }
+          if (scope.flag.selected && !scope.flag.bingo) {
+            el.addClass("flag-wrong");
+          }
+          if (!scope.flag.selected && scope.flag.bingo) {
+            el.addClass("flag-correct");
+          }
         }
       })
 
