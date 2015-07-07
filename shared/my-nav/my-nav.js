@@ -14,7 +14,7 @@
     }
 
     function close() {
-      $menu.css({left:"-300px"});
+      $menu.css({left:"-320px"});
     }
 
     // exports

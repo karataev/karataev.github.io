@@ -28,10 +28,10 @@
 
 .nav-menu {
     position: absolute;
-    width: 300px;
+    width: 320px;
     height: 100%;
     top: 0;
-    left: -300px;
+    left: -320px;
     color: #ffffff;
     padding: 10px;
     background: #2C3E50;
@@ -49,19 +49,43 @@
     border-top: 2px solid #34495D;
 }
 
-.nav-menu li>a {
+.nav-menu li {
+    border-bottom: 2px solid #34495D;
     transition: 0.2s ease;
     display: block;
-    border-bottom: 2px solid #34495D;
     padding: 1em;
+}
+
+.nav-menu li:hover {
+    background: #25B89A;
+}
+
+.nav-menu li>a {
     color: #fff;
     text-decoration: none;
 }
 
 .nav-menu li>a:hover,
 .nav-menu li>a:active {
-    background: #25B89A;
+    /*background: #25B89A;*/
 }
+
+.nav-thumb {
+    /*border:2px solid #fff;*/
+    width: 260px;
+    height: 80px;
+    border-radius: 5px;
+    background-size: 100% auto;
+    background-repeat: no-repeat;
+    background-position: center;
+    /*background-image: url(icons/ussr-posters.jpg);*/
+    transition: all 0.2s;
+}
+
+.nav-thumb:hover {
+    background-size: 110%;
+}
+
 
 .icon-close {
     display: block;

@@ -2,8 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="49936aeb-a0f4-4a42-8ee1-db97121b12c9" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ussr/index.html" afterPath="$PROJECT_DIR$/ussr/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ussr/css/styles.css" afterPath="$PROJECT_DIR$/ussr/css/styles.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/shared/my-nav/icons/20-quotes.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/shared/my-nav/icons/g20.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/shared/my-nav/icons/meloch.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/shared/my-nav/icons/orden.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/shared/my-nav/icons/ussr-movies.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/shared/my-nav/icons/ussr-posters.jpg" />
+      <change type="DELETED" beforePath="D:\Github\postepenno.github.io\shared\my-nav\icons\icon-empty.jpg" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/shared/my-nav/my-nav-styles.css" afterPath="$PROJECT_DIR$/shared/my-nav/my-nav-styles.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/shared/my-nav/my-nav-view.html" afterPath="$PROJECT_DIR$/shared/my-nav/my-nav-view.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/shared/my-nav/my-nav.js" afterPath="$PROJECT_DIR$/shared/my-nav/my-nav.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="postepenno.github.io.iws" />
@@ -77,21 +85,38 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="styles.css" pinned="false" current-in-tab="true">
+      <file leaf-file-name="styles.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/ussr/css/styles.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.45301542">
-              <caret line="19" column="20" selection-start-line="19" selection-start-column="20" selection-end-line="19" selection-end-column="20" />
+            <state vertical-scroll-proportion="0.0">
+              <caret line="6" column="0" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="my-nav-view.html" pinned="false" current-in-tab="false">
+      <file leaf-file-name="my-nav-view.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/shared/my-nav/my-nav-view.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-8.5">
-              <caret line="13" column="76" selection-start-line="13" selection-start-column="76" selection-end-line="13" selection-end-column="76" />
+            <state vertical-scroll-proportion="0.5443959">
+              <caret line="22" column="17" selection-start-line="22" selection-start-column="17" selection-end-line="22" selection-end-column="17" />
+              <folding>
+                <element signature="n#style#0;n#div#0;n#a#0;n#li#0;n#ul#0;n#nav#0;n#div#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#a#0;n#li#1;n#ul#0;n#nav#0;n#div#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#a#0;n#li#2;n#ul#0;n#nav#0;n#div#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#a#0;n#li#3;n#ul#0;n#nav#0;n#div#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#a#0;n#li#4;n#ul#0;n#nav#0;n#div#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#a#0;n#li#5;n#ul#0;n#nav#0;n#div#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="my-nav-styles.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/shared/my-nav/my-nav-styles.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="33" column="13" selection-start-line="33" selection-start-column="13" selection-end-line="33" selection-end-column="13" />
               <folding />
             </state>
           </provider>
@@ -124,7 +149,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/ussrposters/styles.css" />
         <option value="$PROJECT_DIR$/nu/slider.css" />
         <option value="$PROJECT_DIR$/ussrposters/index.html" />
         <option value="$PROJECT_DIR$/css/menu.css" />
@@ -159,7 +183,6 @@
         <option value="$PROJECT_DIR$/20quotes/data/quotes.json" />
         <option value="$PROJECT_DIR$/shared/slide-nav/nav-menu-view.html" />
         <option value="$PROJECT_DIR$/resume/index.html" />
-        <option value="$PROJECT_DIR$/shared/my-nav/my-nav.js" />
         <option value="$PROJECT_DIR$/shared/google-ads.html" />
         <option value="$PROJECT_DIR$/shared/directives.js" />
         <option value="$PROJECT_DIR$/g20/js/game.js" />
@@ -172,9 +195,11 @@
         <option value="$PROJECT_DIR$/20quotes/js/game.js" />
         <option value="$PROJECT_DIR$/20quotes/css/styles.css" />
         <option value="$PROJECT_DIR$/20quotes/index.html" />
-        <option value="$PROJECT_DIR$/shared/my-nav/my-nav-view.html" />
         <option value="$PROJECT_DIR$/ussr/index.html" />
         <option value="$PROJECT_DIR$/ussr/css/styles.css" />
+        <option value="$PROJECT_DIR$/shared/my-nav/my-nav-styles.css" />
+        <option value="$PROJECT_DIR$/shared/my-nav/my-nav.js" />
+        <option value="$PROJECT_DIR$/shared/my-nav/my-nav-view.html" />
       </list>
     </option>
   </component>
@@ -487,12 +512,6 @@
       <option name="number" value="Default" />
       <updated>1391591777661</updated>
     </task>
-    <task id="LOCAL-00262" summary="resume update: photoshop, верстка">
-      <created>1435210604393</created>
-      <option name="number" value="00262" />
-      <option name="project" value="LOCAL" />
-      <updated>1435210604393</updated>
-    </task>
     <task id="LOCAL-00263" summary="new menu!">
       <created>1435303562775</created>
       <option name="number" value="00263" />
@@ -781,19 +800,25 @@
       <option name="project" value="LOCAL" />
       <updated>1436275953356</updated>
     </task>
-    <option name="localTasksCounter" value="311" />
+    <task id="LOCAL-00311" summary="ng-cloak">
+      <created>1436276002053</created>
+      <option name="number" value="00311" />
+      <option name="project" value="LOCAL" />
+      <updated>1436276002053</updated>
+    </task>
+    <option name="localTasksCounter" value="312" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="54" y="-8" width="1874" height="1096" extended-state="6" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.14101183" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32952183" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.29925454" sideWeight="0.50027215" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24974619" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24974619" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32952183" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -829,7 +854,6 @@
     <MESSAGE value="Remove old nav, add my-nav (no bigSlide.js dependency anymore)" />
     <MESSAGE value="Move scripts from head to body" />
     <MESSAGE value="Add fastclick library to remove 300 ms delay" />
-    <MESSAGE value="ng-cloak" />
     <MESSAGE value="don't show ads on localhost" />
     <MESSAGE value="Sounds UI refactoring. No more toggle-switch. Simple buttons for now + font-awesome icons" />
     <MESSAGE value="Flags' borders. Instead of &quot;yellow&quot; border of selected element, we have read and green borders for wrong/correct answers" />
@@ -849,20 +873,14 @@
     <MESSAGE value="Dancing banana!" />
     <MESSAGE value="Add game version" />
     <MESSAGE value="Add 20 quotes link in nav" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add 20 quotes link in nav" />
+    <MESSAGE value="ng-cloak" />
+    <option name="LAST_COMMIT_MESSAGE" value="ng-cloak" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/g20_canvas/styles.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.4674385">
-          <caret line="19" column="11" selection-start-line="19" selection-start-column="11" selection-end-line="19" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/ussr_canvas/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-6.5384617">
@@ -1145,16 +1163,6 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/20quotes/js/game.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="162" column="57" selection-start-line="162" selection-start-column="57" selection-end-line="162" selection-end-column="57" />
-          <folding>
-            <element signature="e#0#47#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/20quotes/css/styles.css">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
@@ -1168,16 +1176,6 @@
         <state vertical-scroll-proportion="-3.9230769">
           <caret line="6" column="24" selection-start-line="6" selection-start-column="24" selection-end-line="6" selection-end-column="24" />
           <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/shared/my-nav/my-nav.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.6437588">
-          <caret line="27" column="36" selection-start-line="27" selection-start-column="36" selection-end-line="27" selection-end-column="36" />
-          <folding>
-            <element signature="n#!!doc" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1213,14 +1211,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/shared/my-nav/my-nav-view.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-8.5">
-          <caret line="13" column="76" selection-start-line="13" selection-start-column="76" selection-end-line="13" selection-end-column="76" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/ussr/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-9.153846">
@@ -1231,9 +1221,50 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/ussr/css/styles.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.45301542">
-          <caret line="19" column="20" selection-start-line="19" selection-start-column="20" selection-end-line="19" selection-end-column="20" />
+        <state vertical-scroll-proportion="0.0">
+          <caret line="6" column="0" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/shared/my-nav/my-nav.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.33380085">
+          <caret line="16" column="26" selection-start-line="16" selection-start-column="26" selection-end-line="16" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/20quotes/js/game.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="162" column="57" selection-start-line="162" selection-start-column="57" selection-end-line="162" selection-end-column="57" />
+          <folding>
+            <element signature="e#0#47#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/shared/my-nav/my-nav-styles.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="33" column="13" selection-start-line="33" selection-start-column="13" selection-end-line="33" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/shared/my-nav/my-nav-view.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.5443959">
+          <caret line="22" column="17" selection-start-line="22" selection-start-column="17" selection-end-line="22" selection-end-column="17" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#a#0;n#li#0;n#ul#0;n#nav#0;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#a#0;n#li#1;n#ul#0;n#nav#0;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#a#0;n#li#2;n#ul#0;n#nav#0;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#a#0;n#li#3;n#ul#0;n#nav#0;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#a#0;n#li#4;n#ul#0;n#nav#0;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#a#0;n#li#5;n#ul#0;n#nav#0;n#div#0;n#!!top" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
