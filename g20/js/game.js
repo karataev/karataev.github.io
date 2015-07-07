@@ -13,7 +13,7 @@ app.controller("MainCtrl", function($scope, $http, $timeout, Snd) {
 
 
   $http.get("json/data.json")
-    .success(function(data, status, headers, config) {
+    .success(function(data) {
       $scope.items = data;
       //$scope.items = data.splice(0, 1);
 
@@ -32,7 +32,6 @@ app.controller("MainCtrl", function($scope, $http, $timeout, Snd) {
     $scope.model.levelComplete = true;
     disableButtons();
 
-    var index;
     if(flag.bingo === true) {
       Snd.correct();
     }
