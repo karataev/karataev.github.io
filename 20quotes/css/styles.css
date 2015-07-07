@@ -98,7 +98,8 @@ div {
     border:4px solid #ddd;
     padding: 5px;
     background-color: #ffffff;
-
+    transition: all 0.3s;
+    transition-property: border, background-color;
 }
 
 .clickable {
