@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="49936aeb-a0f4-4a42-8ee1-db97121b12c9" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/20quotes/js/game.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/20quotes/js/game.js" afterPath="$PROJECT_DIR$/20quotes/js/game.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/20quotes/index.html" afterPath="$PROJECT_DIR$/20quotes/index.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
@@ -60,28 +60,28 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/ussr-movies/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-31.653847">
+            <state vertical-scroll-proportion="-19.884615">
               <caret line="107" column="47" selection-start-line="107" selection-start-column="47" selection-end-line="107" selection-end-column="47" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/20quotes/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="1.1382824">
-              <caret line="82" column="23" selection-start-line="82" selection-start-column="23" selection-end-line="82" selection-end-column="23" />
+            <state vertical-scroll-proportion="-19.23077">
+              <caret line="81" column="0" selection-start-line="81" selection-start-column="0" selection-end-line="81" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="game.js" pinned="false" current-in-tab="false">
+      <file leaf-file-name="game.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/20quotes/js/game.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="157" column="0" selection-start-line="157" selection-start-column="0" selection-end-line="157" selection-end-column="0" />
+            <state vertical-scroll-proportion="0.047685836">
+              <caret line="4" column="64" selection-start-line="4" selection-start-column="64" selection-end-line="4" selection-end-column="64" />
               <folding>
                 <element signature="e#0#47#0" expanded="false" />
               </folding>
@@ -165,8 +165,8 @@
         <option value="$PROJECT_DIR$/ussr/js/game.js" />
         <option value="$PROJECT_DIR$/ussr/index.html" />
         <option value="$PROJECT_DIR$/ussr/css/styles.css" />
-        <option value="$PROJECT_DIR$/20quotes/js/game.js" />
         <option value="$PROJECT_DIR$/20quotes/index.html" />
+        <option value="$PROJECT_DIR$/20quotes/js/game.js" />
       </list>
     </option>
   </component>
@@ -396,12 +396,6 @@
       <created>1391591777661</created>
       <option name="number" value="Default" />
       <updated>1391591777661</updated>
-    </task>
-    <task id="LOCAL-00254" summary="ads up">
-      <created>1434722644436</created>
-      <option name="number" value="00254" />
-      <option name="project" value="LOCAL" />
-      <updated>1434722644437</updated>
     </task>
     <task id="LOCAL-00255" summary="jquery reports (freelansim project)">
       <created>1434731680865</created>
@@ -691,7 +685,13 @@
       <option name="project" value="LOCAL" />
       <updated>1436264477725</updated>
     </task>
-    <option name="localTasksCounter" value="303" />
+    <task id="LOCAL-00303" summary="Refactor: move code from index.html to game.js">
+      <created>1436264886847</created>
+      <option name="number" value="00303" />
+      <option name="project" value="LOCAL" />
+      <updated>1436264886847</updated>
+    </task>
+    <option name="localTasksCounter" value="304" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -734,7 +734,6 @@
     <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_NEW_TODO" value="false" />
     <option name="CHECK_COMMIT_MESSAGE_SPELLING" value="false" />
-    <MESSAGE value="nav - 20 quotes" />
     <MESSAGE value="ng-cloak attribute. works finally!!!" />
     <MESSAGE value="20 quotes" />
     <MESSAGE value="aaaaaadz" />
@@ -759,7 +758,8 @@
     <MESSAGE value="New nav" />
     <MESSAGE value="Beautify ads" />
     <MESSAGE value="Add game version (1.01)" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add game version (1.01)" />
+    <MESSAGE value="Refactor: move code from index.html to game.js" />
+    <option name="LAST_COMMIT_MESSAGE" value="Refactor: move code from index.html to game.js" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -1122,27 +1122,27 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/ussr-movies/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-31.653847">
+        <state vertical-scroll-proportion="-19.884615">
           <caret line="107" column="47" selection-start-line="107" selection-start-column="47" selection-end-line="107" selection-end-column="47" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/20quotes/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-19.23077">
+          <caret line="81" column="0" selection-start-line="81" selection-start-column="0" selection-end-line="81" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/20quotes/js/game.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="157" column="0" selection-start-line="157" selection-start-column="0" selection-end-line="157" selection-end-column="0" />
+        <state vertical-scroll-proportion="0.047685836">
+          <caret line="4" column="64" selection-start-line="4" selection-start-column="64" selection-end-line="4" selection-end-column="64" />
           <folding>
             <element signature="e#0#47#0" expanded="false" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/20quotes/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="1.1382824">
-          <caret line="82" column="23" selection-start-line="82" selection-start-column="23" selection-end-line="82" selection-end-column="23" />
-          <folding />
         </state>
       </provider>
     </entry>

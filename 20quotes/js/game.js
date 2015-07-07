@@ -2,7 +2,7 @@
  * Created by postepenno on 07.07.2015.
  */
 
-var app = angular.module("app", ["ngSocial", "ngAnimate"]);
+var app = angular.module("app", ["ngSocial", "ngAnimate", "myNav"]);
 
 app.controller("MainController", function ($scope, DataService) {
   var vm = this;
