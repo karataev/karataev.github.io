@@ -2,9 +2,9 @@
  * Created by postepenno on 25.05.2015.
  */
 
-var app = angular.module("app", ["toggle-switch", "ngSocial", "myNav"]);
+var app = angular.module("app", ["ngSocial", "myNav"]);
 
-app.controller("MainCtrl", function($scope, $http, $timeout) {
+app.controller("MainCtrl", function($scope, $http, $timeout, Snd) {
 
   $scope.model = {
     levelComplete:undefined,
@@ -31,21 +31,7 @@ app.controller("MainCtrl", function($scope, $http, $timeout) {
       //$scope.gameStart();
     });
 
-  $scope.sndCorrect = new Howl({
-    urls: ['snd/sndRight.mp3']
-  });
-  $scope.sndWrong = new Howl({
-    urls: ['snd/sndWrong.mp3']
-  });
-  $scope.sndClick = new Howl({
-    urls: ['snd/sndClick.mp3']
-  });
-
-  $scope.playSnd = function (snd) {
-    if ($scope.model.sndEnabled) {
-      snd.play();
-    }
-  }
+  Snd.init();
 
   $scope.playerAnswered = function (flag) {
     flag.selected = true;
@@ -54,12 +40,12 @@ app.controller("MainCtrl", function($scope, $http, $timeout) {
 
     var index;
     if(flag.bingo === true) {
-      $scope.playSnd($scope.sndCorrect);
+      Snd.correct();
       index = Math.floor(Math.random() * $scope.goodMsg.length);
       alertify.success($scope.goodMsg[index]);
     }
     else {
-      $scope.playSnd($scope.sndWrong);
+      Snd.wrong();
       index = Math.floor(Math.random() * $scope.badMsg.length);
       alertify.error($scope.badMsg[index]);
     }
@@ -120,6 +106,76 @@ app.controller("MainCtrl", function($scope, $http, $timeout) {
 
 });
 
+app.controller("SndController", function (Snd) {
+  var vm = this;
+
+  function turnOn() {
+    Snd.toggleEnabled();
+  }
+
+  function turnOff() {
+    Snd.toggleEnabled();
+  }
+
+  function isEnabled() {
+    return Snd.isEnabled();
+  }
+
+  // exports
+  vm.turnOn = turnOn;
+  vm.turnOff = turnOff;
+  vm.isEnabled = isEnabled;
+})
+
+app.factory("Snd", function () {
+
+  var sndEnabled = true;
+  var sndCorrect;
+  var sndWrong;
+  var sndClick;
+
+  function play(snd) {
+    if (sndEnabled) {
+      snd.play();
+    }
+  }
+
+  return {
+    init: function () {
+      sndCorrect = new Howl({
+        urls: ['snd/sndRight.mp3']
+      });
+      sndWrong = new Howl({
+        urls: ['snd/sndWrong.mp3']
+      });
+      sndClick = new Howl({
+        urls: ['snd/sndClick.mp3']
+      });
+    },
+
+    toggleEnabled: function () {
+      sndEnabled = !sndEnabled;
+    },
+
+    isEnabled: function () {
+      return sndEnabled;
+    },
+
+    correct: function () {
+      play(sndCorrect);
+    },
+
+    wrong: function () {
+      play(sndWrong);
+    },
+
+    click: function () {
+      play(sndClick);
+    }
+
+  }
+})
+
 app.directive("ekFlag", function () {
   return {
     link: function (scope, el, attrs) {
@@ -154,14 +210,14 @@ app.directive("ekFlag", function () {
   }
 })
 
-app.directive("btNext", function () {
+app.directive("btNext", function (Snd) {
   return {
     link: function (scope, el, attrs) {
       el.addClass("btn btn-success btn-lg bt-next");
       el.on("click", function () {
 
         el.hide();
-        scope.playSnd(scope.sndClick);
+        Snd.click();
         scope.nextLevel();
         scope.$apply();
       })
