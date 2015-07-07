@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="49936aeb-a0f4-4a42-8ee1-db97121b12c9" name="Default" comment="">
+    <list default="true" id="49936aeb-a0f4-4a42-8ee1-db97121b12c9" name="Default" comment="TODO">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/20quotes/pics/banana.gif" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/20quotes/index.html" afterPath="$PROJECT_DIR$/20quotes/index.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
@@ -69,8 +70,8 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/20quotes/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.9257642">
-              <caret line="66" column="8" selection-start-line="66" selection-start-column="8" selection-end-line="66" selection-end-column="8" />
+            <state vertical-scroll-proportion="0.5691412">
+              <caret line="59" column="76" selection-start-line="59" selection-start-column="76" selection-end-line="59" selection-end-column="76" />
               <folding />
             </state>
           </provider>
@@ -424,12 +425,6 @@
       <option name="number" value="Default" />
       <updated>1391591777661</updated>
     </task>
-    <task id="LOCAL-00258" summary="garadient animation">
-      <created>1434770559127</created>
-      <option name="number" value="00258" />
-      <option name="project" value="LOCAL" />
-      <updated>1434770559127</updated>
-    </task>
     <task id="LOCAL-00259" summary="update interval 10ms -&gt; 100ms">
       <created>1434774072433</created>
       <option name="number" value="00259" />
@@ -718,7 +713,13 @@
       <option name="project" value="LOCAL" />
       <updated>1436265931371</updated>
     </task>
-    <option name="localTasksCounter" value="307" />
+    <task id="LOCAL-00307" summary="TODO">
+      <created>1436266007950</created>
+      <option name="number" value="00307" />
+      <option name="project" value="LOCAL" />
+      <updated>1436266007950</updated>
+    </task>
+    <option name="localTasksCounter" value="308" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -761,7 +762,6 @@
     <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_NEW_TODO" value="false" />
     <option name="CHECK_COMMIT_MESSAGE_SPELLING" value="false" />
-    <MESSAGE value="aaaaaadz" />
     <MESSAGE value="remove 300ms delay on mobile devices" />
     <MESSAGE value="undo fastClick because of navigation bug  :(" />
     <MESSAGE value="big refactoring: animations, DataService" />
@@ -786,7 +786,8 @@
     <MESSAGE value="New nav" />
     <MESSAGE value="Add css transitions" />
     <MESSAGE value="Add gameComplete() console helper" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add gameComplete() console helper" />
+    <MESSAGE value="TODO" />
+    <option name="LAST_COMMIT_MESSAGE" value="TODO" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -1166,8 +1167,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/20quotes/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.9257642">
-          <caret line="66" column="8" selection-start-line="66" selection-start-column="8" selection-end-line="66" selection-end-column="8" />
+        <state vertical-scroll-proportion="0.5691412">
+          <caret line="59" column="76" selection-start-line="59" selection-start-column="76" selection-end-line="59" selection-end-column="76" />
           <folding />
         </state>
       </provider>
