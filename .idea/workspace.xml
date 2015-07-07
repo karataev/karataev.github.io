@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="49936aeb-a0f4-4a42-8ee1-db97121b12c9" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ussr-movies/index.html" afterPath="$PROJECT_DIR$/ussr-movies/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ussr/index.html" afterPath="$PROJECT_DIR$/ussr/index.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="postepenno.github.io.iws" />
@@ -56,21 +56,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/ussr-movies/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.80203784">
+            <state vertical-scroll-proportion="-67.34615">
               <caret line="103" column="0" selection-start-line="103" selection-start-column="0" selection-end-line="103" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="game.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ussr-movies/js/game.js">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/ussr/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="16" column="22" selection-start-line="16" selection-start-column="22" selection-end-line="16" selection-end-column="22" />
+            <state vertical-scroll-proportion="0.62882096">
+              <caret line="104" column="0" selection-start-line="104" selection-start-column="0" selection-end-line="104" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -137,7 +137,6 @@
         <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/resume/css/styles.css" />
         <option value="$PROJECT_DIR$/shared/slide-nav/nav.js" />
-        <option value="$PROJECT_DIR$/ussr/index.html" />
         <option value="$PROJECT_DIR$/orden/index.html" />
         <option value="$PROJECT_DIR$/meloch/index.html" />
         <option value="$PROJECT_DIR$/20quotes/data/quotes.json" />
@@ -154,6 +153,7 @@
         <option value="$PROJECT_DIR$/g20/index.html" />
         <option value="$PROJECT_DIR$/ussr-movies/js/game.js" />
         <option value="$PROJECT_DIR$/ussr-movies/index.html" />
+        <option value="$PROJECT_DIR$/ussr/index.html" />
       </list>
     </option>
   </component>
@@ -243,7 +243,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="ussr-movies" />
+              <option name="myItemId" value="ussr" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -365,12 +365,6 @@
       <created>1391591777661</created>
       <option name="number" value="Default" />
       <updated>1391591777661</updated>
-    </task>
-    <task id="LOCAL-00249" summary="ussr movies">
-      <created>1432808411711</created>
-      <option name="number" value="00249" />
-      <option name="project" value="LOCAL" />
-      <updated>1432808411711</updated>
     </task>
     <task id="LOCAL-00250" summary="&lt;google-analytics&gt; -&gt; .js file">
       <created>1432808589558</created>
@@ -660,7 +654,13 @@
       <option name="project" value="LOCAL" />
       <updated>1436263603597</updated>
     </task>
-    <option name="localTasksCounter" value="298" />
+    <task id="LOCAL-00298" summary="Scripts from head to body">
+      <created>1436263692162</created>
+      <option name="number" value="00298" />
+      <option name="project" value="LOCAL" />
+      <updated>1436263692162</updated>
+    </task>
+    <option name="localTasksCounter" value="299" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -703,7 +703,6 @@
     <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_NEW_TODO" value="false" />
     <option name="CHECK_COMMIT_MESSAGE_SPELLING" value="false" />
-    <MESSAGE value="20 quotes ng-cloak" />
     <MESSAGE value="google analytics" />
     <MESSAGE value="og-properties" />
     <MESSAGE value="nav - 20 quotes" />
@@ -728,7 +727,8 @@
     <MESSAGE value="Add gameComplete() function to complete the game from console" />
     <MESSAGE value="small update" />
     <MESSAGE value="New nav" />
-    <option name="LAST_COMMIT_MESSAGE" value="New nav" />
+    <MESSAGE value="Scripts from head to body" />
+    <option name="LAST_COMMIT_MESSAGE" value="Scripts from head to body" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -995,13 +995,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ussr/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="1.0131004">
-          <caret line="102" column="35" selection-start-line="102" selection-start-column="35" selection-end-line="102" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/20quotes/data/quotes.json">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
@@ -1084,14 +1077,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ussr-movies/js/game.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="16" column="22" selection-start-line="16" selection-start-column="22" selection-end-line="16" selection-end-column="22" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/g20/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-16.615385">
@@ -1100,10 +1085,26 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/ussr-movies/js/game.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.38148668">
+          <caret line="16" column="22" selection-start-line="16" selection-start-column="22" selection-end-line="16" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/ussr-movies/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.80203784">
+        <state vertical-scroll-proportion="-67.34615">
           <caret line="103" column="0" selection-start-line="103" selection-start-column="0" selection-end-line="103" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ussr/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.62882096">
+          <caret line="104" column="0" selection-start-line="104" selection-start-column="0" selection-end-line="104" selection-end-column="0" />
           <folding />
         </state>
       </provider>
