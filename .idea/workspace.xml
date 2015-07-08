@@ -1,11 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="49936aeb-a0f4-4a42-8ee1-db97121b12c9" name="Default" comment="(ref) Generator to service">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fast-math/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fast-math/levels.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/encodings.xml" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/fast-math/js/services.js" afterPath="$PROJECT_DIR$/fast-math/js/services.js" />
+    <list default="true" id="49936aeb-a0f4-4a42-8ee1-db97121b12c9" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resume/index.html" afterPath="$PROJECT_DIR$/resume/index.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="postepenno.github.io.iws" />
@@ -27,54 +24,12 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/20quotes/index.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-12.038462">
-              <caret line="76" column="84" selection-start-line="76" selection-start-column="84" selection-end-line="76" selection-end-column="84" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="questions.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/fast-math/questions.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-2.8846154">
-              <caret line="48" column="33" selection-start-line="48" selection-start-column="33" selection-end-line="48" selection-end-column="33" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="levels.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/fast-math/levels.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-20.538462">
-              <caret line="49" column="0" selection-start-line="26" selection-start-column="0" selection-end-line="49" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/fast-math/index.html">
+        <entry file="file://$PROJECT_DIR$/resume/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.4279476">
-              <caret line="116" column="13" selection-start-line="116" selection-start-column="13" selection-end-line="116" selection-end-column="13" />
+            <state vertical-scroll-proportion="0.34643376">
+              <caret line="101" column="16" selection-start-line="101" selection-start-column="16" selection-end-line="101" selection-end-column="16" />
               <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="services.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/fast-math/js/services.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="374" column="43" selection-start-line="374" selection-start-column="43" selection-end-line="374" selection-end-column="43" />
-              <folding>
-                <element signature="e#0#47#0" expanded="false" />
-              </folding>
             </state>
           </provider>
         </entry>
@@ -134,7 +89,6 @@
         <option value="$PROJECT_DIR$/orden/index.html" />
         <option value="$PROJECT_DIR$/20quotes/data/quotes.json" />
         <option value="$PROJECT_DIR$/shared/slide-nav/nav-menu-view.html" />
-        <option value="$PROJECT_DIR$/resume/index.html" />
         <option value="$PROJECT_DIR$/shared/google-ads.html" />
         <option value="$PROJECT_DIR$/shared/directives.js" />
         <option value="$PROJECT_DIR$/g20/js/game.js" />
@@ -157,6 +111,7 @@
         <option value="$PROJECT_DIR$/fast-math/levels.html" />
         <option value="$PROJECT_DIR$/fast-math/js/services.js" />
         <option value="$PROJECT_DIR$/fast-math/index.html" />
+        <option value="$PROJECT_DIR$/resume/index.html" />
       </list>
     </option>
   </component>
@@ -247,25 +202,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="fast-math" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="postepenno.github.io" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="postepenno.github.io" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="fast-math" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="js" />
+              <option name="myItemId" value="resume" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -386,12 +323,6 @@
       <created>1391591777661</created>
       <option name="number" value="Default" />
       <updated>1391591777661</updated>
-    </task>
-    <task id="LOCAL-00267" summary="new menu!">
-      <created>1435304690110</created>
-      <option name="number" value="00267" />
-      <option name="project" value="LOCAL" />
-      <updated>1435304690110</updated>
     </task>
     <task id="LOCAL-00268" summary="20 quotes">
       <created>1435314759118</created>
@@ -681,7 +612,13 @@
       <option name="project" value="LOCAL" />
       <updated>1436325476971</updated>
     </task>
-    <option name="localTasksCounter" value="316" />
+    <task id="LOCAL-00316" summary="Fast math initial commit">
+      <created>1436349189311</created>
+      <option name="number" value="00316" />
+      <option name="project" value="LOCAL" />
+      <updated>1436349189311</updated>
+    </task>
+    <option name="localTasksCounter" value="317" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -724,7 +661,6 @@
     <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_NEW_TODO" value="false" />
     <option name="CHECK_COMMIT_MESSAGE_SPELLING" value="false" />
-    <MESSAGE value="Move scripts from head to body" />
     <MESSAGE value="Add fastclick library to remove 300 ms delay" />
     <MESSAGE value="don't show ads on localhost" />
     <MESSAGE value="Sounds UI refactoring. No more toggle-switch. Simple buttons for now + font-awesome icons" />
@@ -749,7 +685,8 @@
     <MESSAGE value="New nav" />
     <MESSAGE value="Add questions" />
     <MESSAGE value="(ref) Generator to service" />
-    <option name="LAST_COMMIT_MESSAGE" value="(ref) Generator to service" />
+    <MESSAGE value="Fast math initial commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Fast math initial commit" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -907,13 +844,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.11533243">
           <caret line="14" column="60" selection-start-line="14" selection-start-column="60" selection-end-line="14" selection-end-column="60" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/resume/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.39213026">
-          <caret line="119" column="64" selection-start-line="119" selection-start-column="63" selection-end-line="119" selection-end-column="64" />
         </state>
       </provider>
     </entry>
@@ -1119,8 +1049,16 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/fast-math/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.4279476">
-          <caret line="116" column="13" selection-start-line="116" selection-start-column="13" selection-end-line="116" selection-end-column="13" />
+        <state vertical-scroll-proportion="-12.615385">
+          <caret line="118" column="0" selection-start-line="118" selection-start-column="0" selection-end-line="118" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resume/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.34643376">
+          <caret line="101" column="16" selection-start-line="101" selection-start-column="16" selection-end-line="101" selection-end-column="16" />
           <folding />
         </state>
       </provider>
