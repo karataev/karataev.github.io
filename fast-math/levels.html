@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html>
+<head lang="en">
+    <meta charset="UTF-8">
+    <title></title>
+
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/css/bootstrap.min.css">
+
+    <style>
+        .panel-default {
+            padding: 10px;
+        }
+    </style>
+
+</head>
+<body ng-app="app" ng-controller="MainController as main">
+
+<div class="container">
+    <div class="panel panel-default" ng-repeat="level in main.levels">
+        <h3>Уровень {{level.id}}</h3>
+        <ul class="list-group">
+            <li class="list-group-item" ng-repeat="task in level.tasks">{{task.q}} <span class="label label-success">{{task.y}}</span> <span class="label label-danger">{{task.n}}</span></li>
+        </ul>
+    </div>
+</div>
+
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js"></script>
+<script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.4.1/angular.min.js"></script>
+
+<script>
+
+    var app = angular.module("app", []);
+
+    app.controller("MainController", function (Levels) {
+        var vm = this;
+
+        var levels = [];
+        for (var i = 1; i <= 10; i++) {
+            var tasks = Levels.generate(i);
+            levels.push({id:i, tasks:tasks});
+        }
+
+        // exports
+        vm.levels = levels;
+    })
+
+</script>
+
+<script src="js/services.js"></script>
+
+
+</body>
+</html>

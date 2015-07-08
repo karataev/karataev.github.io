@@ -252,3 +252,131 @@ app.factory("Generator", function () {
     }
   }
 })
+
+
+app.factory("Levels", function (Generator) {
+
+  function rnd(a,b) {
+    // Generate a random integer between a and b INCLUSIVE
+    var x = Math.floor(Math.random() * (b - (a-1))) + a;
+    return x;
+  }
+
+  function getTask(levelId) {
+    var type;
+
+    switch(levelId) {
+      case 1:
+        return Generator.add(2,6,4,12,false);
+        break;
+
+      case 2:
+        type = rnd(1,2);
+        switch(type) {
+          case 1: return Generator.add(2,10,4,20,false);
+          case 2: return Generator.subtract(2,10,4,20,false);
+        }
+        break;
+
+      case 3:
+        type = rnd(1,3);
+        switch(type) {
+          case 1: return Generator.add(2,19,7,21,true);
+          case 2: return Generator.subtract(2,19,7,21,true);
+          case 3: return Generator.multiply(3,12,true);
+        }
+        break;
+
+      case 4:
+        type = rnd(1,4);
+        switch(type) {
+          case 1: return Generator.add(2,24,7,30,true);
+          case 2: return Generator.subtract(2,24,7,30,true);
+          case 3: return Generator.multiply(4,12,true);
+          case 4: return Generator.divide(3,6,true);
+        }
+        break;
+
+      case 5:
+        type = rnd(1,5);
+        switch(type) {
+          case 1: return Generator.add(5,50,20,60,false);
+          case 2: return Generator.subtract(3,34,9,26,false);
+          case 3: return Generator.multiply(6,12,false);
+          case 4: return Generator.divide(4,9,false);
+          case 5: return Generator.time_add(5,0);
+        }
+        break;
+
+      case 6:
+        type = rnd(1,5);
+        switch(type) {
+          case 1: return Generator.subtract(10,44,21,70,false);
+          case 2: return Generator.multiply(7,12,false);
+          case 3: return Generator.divide(8,12,false);
+          case 4: return Generator.time_add(5,1);
+          case 5: return Generator.parentheses(5,5);
+        }
+        break;
+
+      case 7:
+        type = rnd(1,5);
+        switch(type) {
+          case 1: return Generator.multiply(7,12,false);
+          case 2: return Generator.divide(8,12,false);
+          case 3: return Generator.time_add(5,1);
+          case 4: return Generator.time_subtract(5,1);
+          case 5: return Generator.parentheses(6,6);
+        }
+        break;
+
+      case 8:
+        type = rnd(1,5);
+        switch(type) {
+          case 1: return Generator.multiply(7,12,false);
+          case 2: return Generator.divide(8,12,false);
+          case 3: return Generator.time_subtract(5,1);
+          case 4: return Generator.parentheses(7,7);
+          case 5: return Generator.solve_for_x(2,4,3);
+        }
+        break;
+
+      case 9:
+        type = rnd(1,6);
+        switch(type) {
+          case 1: return Generator.multiply(7,12,false);
+          case 2: return Generator.divide(8,12,false);
+          case 3: return Generator.time_subtract(5,1);
+          case 4: return Generator.parentheses(7,7);
+          case 5: return Generator.solve_for_x(2,6,9);
+          case 6: return Generator.is_x_prime(8,24,false);
+        }
+        break;
+
+      case 10:
+      default:
+        type = rnd(1,6);
+        switch(type) {
+          case 1: return Generator.multiply(9,13,false);
+          case 2: return Generator.divide(8,13,false);
+          case 3: return Generator.time_subtract(4,1);
+          case 4: return Generator.parentheses(8,8);
+          case 5: return Generator.solve_for_x(6,12,20);
+          case 6: return Generator.is_x_prime(15,30,true);
+        }
+        break;
+    }
+  }
+
+  return {
+    generate: function (levelId, questionsPerLevel) {
+      var qPerLevel = questionsPerLevel || 6;
+      var tasks = [];
+      for (var i = 0; i < qPerLevel; i++) {
+        var task = getTask(levelId);
+        tasks.push(task);
+      }
+      return tasks;
+    }
+  }
+})

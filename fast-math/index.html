@@ -1,0 +1,159 @@
+<!DOCTYPE html>
+<html>
+<head lang="en">
+    <meta charset="UTF-8">
+    <title></title>
+
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/css/bootstrap.min.css">
+
+    <style>
+        .panel-default {
+            text-align: center;
+            padding: 10px;
+        }
+
+        .task-title {
+            font-size: 120px;
+        }
+
+        .task-answer {
+            font-size: 30px;
+            width: 100px;
+            /*height: 60px;*/
+        }
+        .task-answer:first-of-type {
+            margin-right: 50px;
+        }
+
+        .level-timer {
+            height: 30px;
+            background-color: yellow;
+        }
+
+    </style>
+
+</head>
+<body ng-app="app" ng-controller="MainController as main">
+
+<div class="container">
+    <div ng-if="main.state === 'levelPlay'" class="panel panel-default">
+        <h2>Уровень {{main.curLevel.id}}</h2>
+        <p>Задание №{{main.getCurTaskIndex() + 1}}</p>
+        <h2 class="task-title">{{main.curTask.q}}</h2>
+        <button class="btn btn-default task-answer" ng-click="main.handleAnswer(true)">{{main.curTask.y}}</button>
+        <button class="btn btn-default task-answer" ng-click="main.handleAnswer(false)">{{main.curTask.n}}</button>
+        <div level-timer></div>
+    </div>
+    <div ng-if="main.state === 'levelComplete'" class="panel panel-default">
+        <h1>Уровень пройден!</h1>
+        <button class="btn btn-success" ng-click="main.nextLevel()">Следующий уровень</button>
+    </div>
+    <div ng-if="main.state === 'levelFail'" class="panel panel-default">
+        <h1>Увы, уровень {{main.curLevel.id}} завален :(</h1>
+        <h3>Вы можете попробовать пройти уровень еще раз</h3>
+        <button class="btn btn-default" ng-click="main.restartLevel()">Ок, попробую</button>
+    </div>
+    <div ng-if="main.state === 'gameComplete'" class="panel panel-default">
+        <h1>Ты прошел игру, крутышка!</h1>
+        <p>Поделись резалтами с друганами</p>
+    </div>
+</div>
+
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js"></script>
+<script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.4.1/angular.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/1.16.1/TweenMax.min.js"></script>
+
+<script>
+
+    var app = angular.module("app", []);
+
+    app.controller("MainController", function (Levels) {
+        var vm = this;
+
+        // config!
+        var totalLevels = 2;
+        var tasksPerLevel = 3;
+
+        function gameStart() {
+            levelStart(1);
+        }
+
+        function levelStart(id) {
+            vm.curLevel = {id:id, tasks:Levels.generate(id, tasksPerLevel)};
+            vm.state = 'levelPlay';
+
+            nextTask();
+        }
+
+        function nextTask() {
+            var index = 0;
+            if (vm.curTask) {
+                index = vm.getCurTaskIndex() + 1;
+            }
+
+            vm.curTask = vm.curLevel.tasks[index];
+        }
+
+        vm.getCurTaskIndex = function() {
+            return vm.curLevel.tasks.indexOf(vm.curTask);
+        }
+
+        vm.handleAnswer = function (isCorrect) {
+            if (isCorrect) {
+                if (vm.getCurTaskIndex() == vm.curLevel.tasks.length - 1) {
+                    if (vm.curLevel.id === totalLevels) {
+                        vm.state = 'gameComplete';
+                    }
+                    else {
+                        vm.state = 'levelComplete';
+                    }
+                }
+                else {
+                    nextTask();
+                }
+            }
+            else {
+                vm.state = 'levelFail';
+            }
+        }
+
+        vm.nextLevel = function () {
+            levelStart(vm.curLevel.id + 1);
+        }
+
+        vm.restartLevel = function () {
+            levelStart(vm.curLevel.id);
+        }
+
+        vm.timeOut = function () {
+            console.log("NO TIME!");
+        }
+
+        gameStart();
+    })
+
+    app.directive("levelTimer", function () {
+        return {
+            link: function (scope, el, attrs) {
+                el.addClass("level-timer");
+
+                function complete() {
+                    scope.main.timeOut();
+                }
+
+                var myTween = TweenMax.to(el, 5, {width:0, ease:Power0.easeNone, onComplete:complete});
+
+                setTimeout(function () {
+                    myTween.kill();
+                }, 2000)
+            }
+        }
+    })
+
+</script>
+
+<script src="js/services.js"></script>
+
+
+</body>
+</html>
