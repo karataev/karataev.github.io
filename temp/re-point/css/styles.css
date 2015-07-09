@@ -1,0 +1,236 @@
+
+
+* {
+    box-sizing: border-box;
+}
+
+@font-face {
+    font-family: RopaSoftPro-Regular;
+    src: url("../fonts/lettersoup%20-%20RopaSoftPro-Regular.otf") format("opentype");
+}
+
+@font-face {
+    font-family: RopaSoftPro-Light;
+    src: url("../fonts/lettersoup%20-%20RopaSoftPro-Light.otf") format("opentype");
+}
+
+@font-face {
+    font-family: RopaSoftPro-ExtraLight;
+    src: url("../fonts/lettersoup%20-%20RopaSoftPro-ExtraLight.otf") format("opentype");
+}
+
+body {
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    width: 1000px;
+    margin: 0 auto;
+}
+
+.container, section, header, form {
+    /*border:1px solid red;*/
+}
+
+header {
+    margin-top: 10px;
+    position: relative;
+    text-align: center;
+}
+
+.repoint-logo {
+    opacity: 0;
+}
+
+.header-contact {
+    opacity: 0;
+    position: absolute;
+    top: 22px;
+    right: 47px;
+}
+
+.btn-contact {
+    display: inline-block;
+    background-color: #FA850D;
+    padding: 6px 20px;
+    border-radius:8px;
+    /*TODO font-family*/
+    font-family: RopaSoftPro-Light;
+}
+
+.btn-contact,
+.btn-contact:hover{
+    font-size: 24px;
+    color: #ffffff;
+    text-decoration: none;
+}
+
+.header-contact-circle {
+    display: inline-block;
+    background-color: #FA850D;
+    border-radius:50%;
+    margin-right: 10px;
+    /*TODO prefices*/
+    animation-name: opacity-pulse;
+    animation-duration: 1000ms;
+    animation-iteration-count: infinite;
+    animation-timing-function: linear;
+}
+
+.circle-1 {
+    width: 10px;
+    height: 10px;
+    animation-delay: 0.4s;
+}
+
+.circle-2 {
+    width: 8px;
+    height: 8px;
+    margin-bottom:1px;
+    animation-delay: 0.2s;
+}
+
+.circle-3 {
+    width: 6px;
+    height: 6px;
+    margin-bottom:2px;
+}
+
+@-webkit-keyframes opacity-pulse {
+    0% { opacity: 0 }
+    50% { opacity: 1 }
+    100% { opacity: 0 }
+ }
+
+/*HELLO PAGE*/
+
+.hello-page {
+    /*display: none;*/
+}
+
+.words {
+    margin-top: 50px;
+    position: relative;
+    min-height: 350px;
+}
+
+.img-effect {
+    position: absolute;
+    top: 0;
+    left: 0;
+}
+.img-creative {
+    position: absolute;
+    top: 23px;
+    left: 565px;
+}
+
+.img-iweb {
+    position: absolute;
+    top: 110px;
+    left: 0;
+}
+
+.img-technology {
+    position: absolute;
+    top: 110px;
+    left: 311px;
+}
+
+.img-dlya {
+    position: absolute;
+    top: 205px;
+    left: 0;
+}
+
+.img-resheniya {
+    position: absolute;
+    top: 213px;
+    left: 200px;
+}
+
+.img-bussines {
+    position: absolute;
+    top: 190px;
+    left: 435px;
+}
+
+.img-zadach {
+    position: absolute;
+    top: 113px;
+    left: 761px;
+}
+
+.portfolio {
+    opacity: 0;
+    text-align: center;
+}
+
+/*CONTACTS PAGE*/
+
+.contacts-page {
+    display: none;
+}
+
+.contacts-title {
+    text-align: center;
+    font-family: RopaSoftPro-Regular;
+    font-size: 30px;
+    text-transform: uppercase;
+}
+
+.contact-form {
+
+}
+
+.contact-form input {
+    display: block;
+    width: 320px;
+    padding: 13px;
+    font-size: 24px;
+    font-family: RopaSoftPro-ExtraLight;
+}
+
+.contact-name,
+.contact-phone {
+    margin: 16px auto;
+    border: 1px solid #96989C;
+    color: #EA5802;
+}
+
+.contact-submit {
+    margin: 32px auto;
+    border: 0;
+    background-color: #FA850D;
+    color: #ffffff;
+}
+
+.contact-submit:active,
+.contact-submit:hover {
+    background-color: #EA5802;
+}
+
+/*GOODBYE PAGE*/
+.goodbye-page {
+    display: none;
+    width: 510px;
+    margin: 0 auto;
+    font-family: RopaSoftPro-ExtraLight;
+    font-size: 21px;
+}
+
+.goodbye-title {
+    text-align: center;
+    font-family: RopaSoftPro-Regular;
+    font-size: 30px;
+    text-transform: uppercase;
+}
+
+.goodbye-page p {
+    text-align: justify;
+}
+
+.goodbye-close-holder {
+    text-align: center;
+}
