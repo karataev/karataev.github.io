@@ -2,22 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="49936aeb-a0f4-4a42-8ee1-db97121b12c9" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/re-point/img/close.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/re-point/fonts/lettersoup - RopaSoftPro-ExtraLight.otf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/re-point/fonts/lettersoup - RopaSoftPro-Light.otf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/re-point/fonts/lettersoup - RopaSoftPro-Regular.otf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/re-point/svg/bussines.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/re-point/svg/creative.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/re-point/svg/dlya.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/re-point/svg/effect.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/re-point/svg/folio.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/re-point/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/re-point/svg/iweb.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/re-point/svg/re-logo.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/re-point/svg/resheniya.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/re-point/css/styles.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/re-point/svg/technology.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/re-point/svg/zadach.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/re-point/my-slider.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/re-point/validation.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="postepenno.github.io.iws" />
@@ -42,8 +28,8 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/resume/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="101" column="16" selection-start-line="101" selection-start-column="16" selection-end-line="101" selection-end-column="16" />
+            <state vertical-scroll-proportion="0.46084338">
+              <caret line="19" column="6" selection-start-line="19" selection-start-column="6" selection-end-line="19" selection-end-column="6" />
               <folding />
             </state>
           </provider>
@@ -188,6 +174,8 @@
       <sortByType />
     </navigator>
     <panes>
+      <pane id="Scope" />
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -216,14 +204,30 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="resume" />
+              <option name="myItemId" value="temp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="postepenno.github.io" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="postepenno.github.io" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="temp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="re-point" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
-      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -338,12 +342,6 @@
       <created>1391591777661</created>
       <option name="number" value="Default" />
       <updated>1391591777661</updated>
-    </task>
-    <task id="LOCAL-00269" summary="20 quotes ng-cloak">
-      <created>1435315879527</created>
-      <option name="number" value="00269" />
-      <option name="project" value="LOCAL" />
-      <updated>1435315879527</updated>
     </task>
     <task id="LOCAL-00270" summary="google analytics">
       <created>1435316255415</created>
@@ -633,7 +631,13 @@
       <option name="project" value="LOCAL" />
       <updated>1436349417977</updated>
     </task>
-    <option name="localTasksCounter" value="318" />
+    <task id="LOCAL-00318" summary="Re-store test task">
+      <created>1436440688769</created>
+      <option name="number" value="00318" />
+      <option name="project" value="LOCAL" />
+      <updated>1436440688785</updated>
+    </task>
+    <option name="localTasksCounter" value="319" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -676,7 +680,6 @@
     <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_NEW_TODO" value="false" />
     <option name="CHECK_COMMIT_MESSAGE_SPELLING" value="false" />
-    <MESSAGE value="don't show ads on localhost" />
     <MESSAGE value="Sounds UI refactoring. No more toggle-switch. Simple buttons for now + font-awesome icons" />
     <MESSAGE value="Flags' borders. Instead of &quot;yellow&quot; border of selected element, we have read and green borders for wrong/correct answers" />
     <MESSAGE value="no more alertify messages" />
@@ -701,7 +704,8 @@
     <MESSAGE value="(ref) Generator to service" />
     <MESSAGE value="Fast math initial commit" />
     <MESSAGE value="Resume. Add Plus One link" />
-    <option name="LAST_COMMIT_MESSAGE" value="Resume. Add Plus One link" />
+    <MESSAGE value="Re-store test task" />
+    <option name="LAST_COMMIT_MESSAGE" value="Re-store test task" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -1058,8 +1062,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/resume/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="101" column="16" selection-start-line="101" selection-start-column="16" selection-end-line="101" selection-end-column="16" />
+        <state vertical-scroll-proportion="0.46084338">
+          <caret line="19" column="6" selection-start-line="19" selection-start-column="6" selection-end-line="19" selection-end-column="6" />
           <folding />
         </state>
       </provider>
