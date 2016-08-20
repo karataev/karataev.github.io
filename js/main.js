@@ -144,3 +144,11 @@ postepennoApp
     ];
 
   }])
+
+  .component('googleAds', {
+    templateUrl: 'partials/googleAds.html'
+  })
+  
+  .component('googleAdsTop', {
+    templateUrl: 'partials/googleAdsTop.html'
+  })

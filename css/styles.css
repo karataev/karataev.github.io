@@ -4,11 +4,6 @@ body {
     background-attachment: fixed;
 }
 
-.ads-top {
-    padding: 10px;
-    /*min-height: 50px;*/
-}
-
 .logo-container {
     text-align: center;
 }
@@ -55,6 +50,11 @@ h2 img {
     font-size: 25px;
     margin-top: 0;
     font-weight: bold;
+}
+
+.ads-top {
+  padding: 10px;
+  /*min-height: 50px;*/
 }
 
 .ads {
