@@ -1,0 +1,23 @@
+{
+  "name": "karataev.github.io",
+  "version": "1.0.0",
+  "description": "karataev.github.io",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/karataev/karataev.github.io.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/karataev/karataev.github.io/issues"
+  },
+  "homepage": "https://github.com/karataev/karataev.github.io#readme",
+  "dependencies": {
+    "angular": "^1.5.8"
+  }
+}

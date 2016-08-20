@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html>
+<html ng-app="postepennoApp">
 <head lang="en">
   <meta charset="UTF-8">
   <title>postepenno</title>
@@ -10,7 +10,7 @@
   <link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap.min.css">
   <link rel="stylesheet" href="css/styles.css">
 </head>
-<body>
+<body ng-controller="AppCtrl as $ctrl" ng-cloak>
 
 <div class="container">
   <div class="row">
@@ -43,6 +43,18 @@
       <hr class="between-sections">
       <div class="html5-games">
         <h2><img src="assets/html5_logo.png" /> HTML5 games</h2>
+        <div ng-repeat="item in $ctrl.html5Games">
+          <hr>
+          <div class="game">
+            <div class="game-image">
+              <a ng-href="{{item.url}}" target="_blank"><img class="thumb" ng-src="{{item.thumb}}"></a>
+            </div>
+            <div class="game-desc">
+              <a ng-href="{{item.url}}" target="_self"><p class="game-title">{{item.title}}</p></a>
+              <p>{{item.desc}}</p>
+            </div>
+          </div>
+        </div>
       </div>
 
       <hr class="between-sections">
@@ -61,6 +73,18 @@
 
       <div class="flash-games">
         <h2><img src="assets/flash_logo.png" /> Flash games</h2>
+        <div ng-repeat="item in $ctrl.flashGames">
+          <hr>
+          <div class="game">
+            <div class="game-image">
+              <a ng-href="{{item.url}}" target="_blank"><img class="thumb" ng-src="{{item.thumb}}"></a>
+            </div>
+            <div class="game-desc">
+              <a ng-href="{{item.url}}" target="_self"><p class="game-title">{{item.title}}</p></a>
+              <p>{{item.desc}}</p>
+            </div>
+          </div>
+        </div>
       </div>
       <hr class="between-sections">
 
@@ -79,28 +103,11 @@
   </div> <!-- row -->
 
 
-  <!-- template -->
-  <script id="game-template" type="text/x-handlebars-template">
-    {{#each this}}
-    <hr>
-    <div class="game">
-      <div class="game-image">
-        <a href="{{url}}" target="_blank"><img class="thumb" src="{{thumb}}"></a>
-      </div>
-      <div class="game-desc">
-        <a href="{{url}}" target="_self"><p class="game-title">{{title}}</p></a>
-        <p>{{desc}}</p>
-      </div>
-    </div>
-    {{/each}}
-  </script>
-  <!-- template end -->
-
 
 </div>
 
 <script src="js/jquery-2.1.0.min.js"></script>
-<script src="js/handlebars-v3.0.0.js"></script>
+<script src="node_modules/angular/angular.min.js"></script>
 <script src="js/ga.js"></script>
 <script src="js/main.js"></script>
 

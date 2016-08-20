@@ -61,17 +61,14 @@ h2 img {
     text-align: center;
 }
 
-/*
-section hr {
-    width:90%;
-    border: 1px dashed #6AC5AC;
-}
-*/
-
 .clients img {
     margin: 0 auto;
 }
 
 .footer {
     text-align: center;
+}
+
+[ng-cloak] {
+  display: none !important;
 }
