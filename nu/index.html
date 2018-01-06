@@ -1,51 +1,53 @@
 <html>
 <head>
 
-	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-	<link type="text/css" rel="stylesheet" href="styles.css" />
-	<link type="text/css" rel="stylesheet" href="slider.css" />
-	<meta name="description" content="Ню или не ню. Игра и искусство">
-	<meta name="keywords" content="ню,искусство,картины,женщина">
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <link type="text/css" rel="stylesheet" href="styles.css" />
+    <link type="text/css" rel="stylesheet" href="slider.css" />
+    <meta name="description" content="Ню или не ню. Игра и искусство">
+    <meta name="keywords" content="ню,искусство,картины,женщина">
     <link rel="stylesheet" href="../css/menu.css">
     <script src="../js/jquery-2.1.0.min.js"></script>
     <script src="../js/handlebars-v3.0.0.js"></script>
-    <script src="../js/menu.js"></script>
 
-<title>Ню или не ню?</title>
+    <title>Ню или не ню?</title>
 
-
-<script type="text/javascript" src="swfobject.js"></script>
+    <script type="text/javascript" src="swfobject.js"></script>
 
 </head>
 <body>
 
-<div class="menu-container"></div>
-
 <div id="gameArea">
-<p id="flash">К сожалению, ваше устройство не поддерживает Flash-плеер.</p>
-<script type="text/javascript">
-	var so = new SWFObject("Nu.swf","flashID","800","600","9");
-	so.addParam("allowScriptAccess", "always");
-	so.write("flash");
-</script>
-</div>
-
-<div id="vk_group">
-	<p>Больше игр в нашей <a href="http://vk.com/postepennogames" target="_blank">группе</a>!</p>
+    <p id="flash">К сожалению, ваше устройство не поддерживает Flash-плеер.</p>
+    <script type="text/javascript">
+      var so = new SWFObject("Nu.swf","flashID","800","600","9");
+      so.addParam("allowScriptAccess", "always");
+      so.write("flash");
+    </script>
 </div>
 
 <div id="ads">
-	<script async src="http://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-	<ins class="adsbygoogle"
-		 style="display:inline-block;width:728px;height:90px"
-		 data-ad-client="ca-pub-1435819777621907"
-		 data-ad-slot="9979789634"></ins>
-	<script>
-		(adsbygoogle = window.adsbygoogle || []).push({});
-	</script>
+    <script async src="http://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+    <ins class="adsbygoogle"
+         style="display:inline-block;width:728px;height:90px"
+         data-ad-client="ca-pub-1435819777621907"
+         data-ad-slot="9979789634"></ins>
+    <script>
+      (adsbygoogle = window.adsbygoogle || []).push({});
+    </script>
 </div>
 
-<script src="../js/ga.js"></script>
+<script>
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-47794384-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+</script>
 
 </body>
 </html>
