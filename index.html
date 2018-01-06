@@ -14,12 +14,6 @@
 
 <div class="container">
   <div class="row">
-    <google-ads-top></google-ads-top>
-  </div>
-</div>
-
-<div class="container">
-  <div class="row">
     <div class="col-xs-12">
       <div>
         <h1><img class="logo" src="assets/Logo.png" /></h1>
@@ -46,8 +40,6 @@
         </div>
       </div>
 
-      <hr class="between-sections">
-      <google-ads></google-ads>
       <hr class="between-sections">
 
       <div class="flash-games">
@@ -85,9 +77,19 @@
 
 </div>
 
-<script src="js/jquery-2.1.0.min.js"></script>
+<script>
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-47794384-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+</script>
+
 <script src="node_modules/angular/angular.min.js"></script>
-<script src="js/ga.js"></script>
 <script src="js/main.js"></script>
 
 </body>
